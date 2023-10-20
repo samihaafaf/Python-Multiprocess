@@ -1,0 +1,4188 @@
+<Header>
+<FileStats>
+    <FileName>20061114_10-K_edgar_data_84290_0000950152-06-009352_1.txt</FileName>
+    <GrossFileSize>790068</GrossFileSize>
+    <NetFileSize>181734</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>376493</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>54</N_Tables>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950152-06-009352.hdr.sgml : 20061114
+<ACCEPTANCE-DATETIME>20061114112055
+ACCESSION NUMBER:		0000950152-06-009352
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		9
+CONFORMED PERIOD OF REPORT:	20060831
+FILED AS OF DATE:		20061114
+DATE AS OF CHANGE:		20061114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ROBBINS & MYERS INC
+		CENTRAL INDEX KEY:			0000084290
+		STANDARD INDUSTRIAL CLASSIFICATION:	PUMPS & PUMPING EQUIPMENT [3561]
+		IRS NUMBER:				310424220
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13651
+		FILM NUMBER:		061212296
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1400 KETTERING TWR
+		CITY:			DAYTON
+		STATE:			OH
+		ZIP:			45423
+		BUSINESS PHONE:		9372222610
+
+	MAIL ADDRESS:	
+		STREET 1:		1400 KETTERING TOWER
+		CITY:			DAYTON
+		STATE:			OH
+		ZIP:			45423
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JjDpBHv2de5JIGuvei3Z2Fp7W8ZnMeEY2vnpoFrtoq8UIY8+WuinVczhsdSHFbFE
+ aJCcSuVMiJRDpzgOzZfLDw==
+
+ 0000950152-06-009352.txt : 20061114
+
+10-K
+ 1
+ l23212ae10vk.htm
+ ROBBINS & MYERS, INC.     10-K
+
+ROBBINS & MYERS, INC.     10-K 
+
+Table of Contents   
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20459 
+
+FORM 10-K 
+
+For the fiscal year ended August 31, 2006
+
+OR 
+
+For the transition period from                        to                       
+
+Commission File Number 0-288 
+
+ROBBINS   MYERS, INC.  
+
+(Exact name of Registrant as specified in its charter)
+
+(937) 222-2610
+
+Registrant s telephone number, including area code 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Name of each exchange on 
+which registered 
+
+Common Shares, without par value
+
+New York 
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of
+the Securities Act.  
+Yes     No    
+
+Indicate by check mark if registrant is not required to file reports pursuant to Section 13 or
+15(d) of the Act. Yes     No    
+
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for
+such shorter period that the Registrant was required to file such reports), and (2) has been
+subject to such filing requirement for at least the past 90 days. Yes     No    
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is
+not contained herein, and will not be contained, to the best of registrant s knowledge, in
+definitive proxy or information statements incorporated by reference in Part III of this Form 10-K
+or any amendment to this Form 10-K. Yes     No    
+
+Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer or
+a non-accelerated filer. See definition of accelerated filer and large accelerated filer in Rule
+12b-2 of the Act (check one).
+
+Large Accelerated Filer     Accelerated Filer     Non-accelerated Filer    
+
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act). Yes     No    
+
+DOCUMENT INCORPORATED BY REFERENCE 
+
+Robbins   Myers, Inc., Proxy Statement for its Annual Meeting of Shareholders on January 11, 2007;
+definitive copies of the foregoing will be filed with the Commission within 120 days of the
+Company s most recently completed fiscal year. Only such portions of the Proxy Statement as are
+specifically incorporated by reference under Part III of this Report shall be deemed filed as part
+of this Report.
+
+Table of Contents 
+
+Page  
+
+Part 1 
+
+Item 1 
+
+Business  
+
+Item 1A 
+
+Risk Factors  
+
+Item 1B 
+
+Unresolved Staff comments  
+
+Item 2 
+
+Properties  
+
+Item 3 
+
+Legal Proceedings  
+
+Item 4 
+
+Submission of Matters to a Vote of Security Holders  
+
+Part II  
+
+Item 5 
+
+Market for the Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities  
+
+Item 6 
+
+Selected Financial Data  
+
+Item 7 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations  
+
+Item 7A 
+
+Quantitative and Qualitative Disclosures about Market Risk  
+
+Item 8 
+
+Financial Statements and Supplementary Data  
+
+Item 9 
+
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure  
+
+Item 9A 
+
+Controls and Procedures  
+
+Item 9B 
+
+Other Information  
+
+Part III  
+
+Item 10 
+
+Directors and Executive Officers of the Registrant  
+
+Item 11 
+
+Executive Compensation  
+
+Item 12 
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters  
+
+Item 13 
+
+Certain Relationships and Related Transactions  
+
+Item 14 
+
+Principal Accountant Fees and Services  
+
+Part IV  
+
+Item 15 
+
+Exhibits and Financial Statement Schedules  
+
+EX-14.1 Code of Conduct    
+     EX-21.1 Subsidiaries of Robbins & Myers, Inc.    
+     EX-23.1 Consent of Independent Registered Public Acct. Firm    
+     EX-24.1 Robbins & Myers, Inc. Limited Power of Attorney    
+     EX-31.1 CEO Certification    
+     EX-31.2 CFO Certification    
+     EX-32.1 CEO Certification    
+     EX-32.2 CFO Certification    
+
+Table of Contents   
+
+ITEM 1.   BUSINESS 
+
+Important Information Regarding Forward-Looking Statements 
+
+Portions of this Form 10-K include  forward-looking statements  within the meaning of the Private
+Securities Litigation Reform Act of 1995, as amended. This includes, in particular,  Item
+7-Management s Discussion and Analysis of Financial Condition and Results of Operations  of this
+Form 10-K as well as other portions of this Form 10-K. The words  believe,   expect,   anticipate, 
+ project,  and similar expressions, among others, generally identify  forward-looking statements, 
+which speak only as of the date the statements were made. Forward-looking statements are subject to
+risks, uncertainties and other factors that could cause actual results to differ materially from
+those projected, anticipated or implied in the forward-looking statements. The most significant of
+these risks, uncertainties and other factors are described in this
+Form 10-K (included in  Item
+1A-Risk Factors ). Except to the limited extent required by applicable law, the Company undertakes
+no obligation to update or revise any forward-looking statements, whether as a result of new
+information, future events, or otherwise.
+
+OVERVIEW
+
+Robbins   Myers, Inc. is an Ohio corporation. As used in this report, the terms  Company,   we, 
+ our,  or  us  mean Robbins   Myers, Inc. and its subsidiaries unless the context indicates another
+meaning. We are a leading designer, manufacturer and marketer of highly-engineered,
+application-critical equipment and systems for the energy, industrial, chemical and pharmaceutical
+markets worldwide. We attribute our success to our close and continuing interaction with customers,
+our manufacturing, sourcing and application engineering expertise and our ability to serve
+customers globally. Our fiscal 2006 sales were approximately $625 million, and no one customer
+accounted for more than 5% of these sales.
+
+Beginning with the first quarter of fiscal 2006, we realigned our reportable business segments. The
+new structure consists of three market-focused segments: Fluid Management, Process Solutions and
+Romaco. The Hapa and Laetus product lines of the Romaco segment were sold on March 31, 2006. These
+product lines had annual revenues of approximately $42 million.
+
+Information concerning our sales, income before interest and income taxes ( EBIT ), identifiable
+assets by segment and sales and identifiable assets by geographic area for the years ended August
+31, 2006, 2005 and 2004 is set forth in Note 12 to the Consolidated Financial Statements included
+at Item 8 and is incorporated herein by reference.
+
+Fluid Management Segment 
+
+Our Fluid Management business segment designs, manufactures and markets equipment and systems used
+in oil and gas exploration and recovery, specialty chemical, wastewater treatment and a variety of
+other industrial applications. Primary brands include Moyno , Yale , New Era , Tarby  and
+Hercules . Our products and systems include hydraulic drilling power sections; down-hole and
+industrial progressing cavity pumps and related products such as grinders for applications
+involving the flow of viscous, abrasive and solid-laden slurries and sludge; and a broad line of
+ancillary equipment, such as rod guides, rod and tubing rotators, wellhead systems, pipeline
+closure products and valves. These products and systems are used at the wellhead and in subsurface
+drilling and production.
+
+Sales, Marketing and Distribution.  We sell our rotors and stators for hydraulic drilling power
+sections through a direct sales force. We sell our tubing wear prevention products and certain
+wellhead equipment through major distributors as well as our service centers in key oilfield
+locations worldwide. We sell our wellhead, closure products and industrial pumps through
+distributors and manufacturer representatives. Backlog at August 31, 2006 was $33.3 million,
+compared with $21.7 million at August 31, 2005.
+
+Aftermarket Sales . Aftermarket sales consist principally of selling replacement components for our
+pumps, as well as the relining of stators and the refurbishment of rotors for the energy market.
+Aftermarket sales represented approximately 22% of the sales in this segment in fiscal 2006.
+However, replacement items, such as power section rotors and stators, down-hole pump rotors and rod
+guides are components of larger systems that wear out after regular usage. These are often sold as
+complete products and are not identifiable by us as aftermarket sales.
+
+Markets and Competition.  We believe we are the leading independent manufacturer of rotors and
+stators for hydraulic drilling power sections worldwide. We are also the leading manufacturer of
+rod guides, wellhead
+
+1 
+
+Table of Contents   
+
+components and pipeline closure products and the second leading manufacturer of down-hole
+progressing cavity pumps worldwide. While the oil and gas exploration and recovery equipment
+marketplace is highly fragmented, we believe that with our leading brands and products we are
+effectively positioned as a full-line supplier with the capability to provide customers with
+complete system sourcing. We also have a large installed base and a dominant market share in
+progressing cavity pumps for general industrial applications in the U.S. and Canada, but a smaller
+presence in Europe and Asia. While we believe Moyno  is the North American leader in the
+manufacture and sale of progressing cavity pumps for the general industrial market, the worldwide
+market is highly competitive and includes several competitors, none of which is dominant. In
+addition, there are several other types of positive displacement pumps, including gear, lobe and
+air-operated diaphragm pumps that compete with progressing cavity pumps in certain applications.
+
+Process Solutions Business Segment 
+
+Our Process Solutions business segment designs, manufactures and services glass-lined reactors and
+storage vessels, standard and customized fluid-agitation equipment and systems and customized
+fluoropolymer-lined fittings, vessels and accessories, primarily for the pharmaceutical and fine
+chemical markets. Primary brands are Pfaudler , Tycon-Technoglass , Chemineer  and Edlon .
+
+Sales, Marketing and Distribution.  We primarily market and sell glass-lined reactors and storage
+vessels through our direct sales force, as well as manufacturers  representatives in certain world
+markets. Industrial mixers, agitation equipment and corrosion resistant products are primarily
+sold through manufacturers  representatives. Backlog at August 31, 2006 was $88.4 million compared
+with $57.9 million at August 31, 2005.
+
+Aftermarket Sales.  Aftermarket products and services, which include field service, replacement
+parts, accessories and reconditioning of glass-lined vessels, are an important part of our Reactor
+Systems product line. Our aftermarket capabilities and presence allow us to service our large
+installed base of Pfaudler glass-lined vessels and to meet the needs of our customers, who are
+increasingly inclined to outsource various maintenance and service functions. We also service
+competitors  equipment in the U.S. and in Europe. We also refurbish and sell used, glass-lined
+vessels. Our aftermarket business for the Chemineer  and Edlon  lines primarily consists of
+selling replacement parts. Aftermarket sales represented approximately 36% of this segment s sales
+in fiscal 2006.
+
+Markets and Competition.  We believe we have the number one worldwide market position for quality
+glass-lined reactors and storage vessels, competing principally with DeDeitrich, a French company.
+The mixing equipment industry in which our Chemineer  brand participates is highly competitive and
+fragmented. We believe we are one of the market leaders worldwide. Our primary competitors are
+Lightnin , a unit of SPX Corporation and Ekato. Our Edlon  brand primarily competes by offering
+highly engineered products and products made for special needs, which are not readily supplied by
+competitors.
+
+Romaco Business Segment 
+
+Our Romaco business segment designs, manufactures and markets packaging and secondary processing
+equipment for the pharmaceutical, healthcare, nutriceutical and cosmetic industries. Packaging applications
+include dosing, filling and sealing of vials, capsules, tubes, bottles and blisters, as well as
+customized packaging. Primary brands are Noack , Siebler  and FrymaKoruma .
+
+Sales, Marketing and Distribution.  We sell Romaco products through our direct sales and service
+centers in certain world markets. We supplement our direct sales force with an extensive network of
+manufacturers  representatives and third party distributors. Backlog at August 31, 2006 was $52.7
+million compared with $37.0 million at August 31, 2005.
+
+Aftermarket Sales . Aftermarket sales of our Romaco business were approximately 30% of this
+segment s fiscal 2006 sales, consisting largely of replacement parts for the installed base of
+equipment.
+
+Markets and Competition.  We believe Romaco is one of the top five worldwide manufacturers of the
+type of pharmaceutical equipment it provides; however, the market is fragmented with many
+competitors, none of which is dominant. Given the fragmented nature of the industry, we believe
+there are strategic opportunities to expand our market share through technological innovation and
+flexible response to new market requirements and product applications.
+
+2 
+
+Table of Contents   
+
+Other Consolidated Information 
+
+BACKLOG
+
+Our total order backlog was $174.4 million at August 31, 2006 compared with $116.5 million at
+August 31, 2005. We expect to ship over 90% of our backlog during the next 12 months.
+
+CUSTOMERS
+
+Sales are not concentrated with any customer, as no customer represented more than 5% of sales in
+fiscal 2006, 2005 or 2004.
+
+RAW MATERIALS
+
+Raw materials are purchased from various vendors that generally are located in the same country as
+our facility using the raw materials. Because of high global demand for steel, costs increased
+significantly in 2006. However, our supply of steel and other raw materials and components has been
+adequate and available without significant delivery delays. No events are known or anticipated that
+would change the availability of raw materials. No one supplier provides more than 5% of our raw
+materials.
+
+GENERAL
+
+We own a number of patents relating to the design and manufacture of our products. While we
+consider these patents important to our operations, we believe that the successful manufacture and
+sale of our products depend more upon operating and application expertise and manufacturing skills.
+We are committed to maintaining high quality manufacturing standards and have completed ISO
+certification at several facilities.
+
+During fiscal 2006, we spent approximately $7.8 million on research and development activities
+compared with $8.7 million in fiscal 2005 and $6.7 million in fiscal 2004. We have also incurred
+significant engineering costs incurred in conjunction with fulfilling customer orders and executing
+customer projects.
+
+Compliance with federal, state and local laws regulating the discharge of materials into the
+environment is not anticipated to have any material effect upon the Company s capital expenditures,
+earnings or competitive position.
+
+At August 31, 2006, we had 3,271 employees, which included approximately 560 at majority-owned
+joint ventures. Approximately 580 of our total employees were covered by collective bargaining
+agreements at various locations. Agreements at our Springfield, Ohio, Dayton, Ohio and Rochester,
+New York manufacturing facilities, covering approximately 320 employees, expire throughout calendar
+2007. The Company considers labor relations at each of its locations to be good.
+
+CERTIFICATIONS
+
+Peter C. Wallace, our President and Chief Executive Officer, certified to the New York Stock
+Exchange on November 10, 2006 that, as of that date, he was not aware of any violation by the
+Company of the NYSE s Corporate Governance Listing Standards. We have filed with the SEC the
+certifications of Mr. Wallace and Christopher M. Hix, our Chief Financial Officer, that are
+required by Section 302 of the Sarbanes-Oxley Act of 2002 relating to the financial statements and
+disclosures contained in our Annual Report on Form 10-K for the year ended August 31, 2006.
+
+AVAILABLE INFORMATION
+
+We make available free of charge on or through our web site, at www.robn.com, our annual reports on
+Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments to those
+reports as soon as reasonably practicable after such materials are electronically filed with the
+Securities and Exchange Commission ( SEC ). Additionally, the public may read and copy any
+materials we file with the SEC at the SEC s Public Reference Room at 450 Fifth Street, N.W.,
+Washington, D.C., 20549. Information regarding operation of the Public Reference Room is available
+by calling the SEC at 1-800-SEC-0300. Information that we file with the SEC is also available at
+the SEC s web site at www.sec.gov.
+
+We also post on our web site the following corporate governance documents: Corporate Governance
+Guidelines, Code of Business Conduct and the Charters of our Audit, Compensation, and Nominating
+and Governance
+
+3 
+
+Table of Contents   
+
+Committees. Copies of the foregoing documents are also available in print to any shareholder who
+requests it by writing our Corporate Secretary, Robbins   Myers, Inc., 1400 Kettering Tower,
+Dayton, Ohio 45423.
+
+ITEM 1A.   RISK FACTORS 
+
+If any of the events contemplated by the following risks actually occurs, then our business,
+financial condition or results of operations could be materially adversely affected. We caution
+the reader that these risk factors may not be exhaustive. We operate in a continually changing
+business environment, and new risk factors emerge from time to time. We can neither predict these
+new risk factors, nor can we assess the impact, if any, of these new risk factors on our businesses
+or the extent to which any factor, or combination of factors, may cause actual results to differ
+materially from those projected in any forward-looking statements.
+
+Some of our end-markets are cyclical, which may cause fluctuations in our sales and operating
+results. 
+
+We have experienced, and expect to continue to experience, fluctuations in operating results due to
+business cycles. We sell our products principally to energy, industrial, and pharmaceutical
+markets. While we serve a variety of markets to avoid a dependency on any one, a significant
+downturn in any of these markets could cause a material adverse impact on our sales and operating
+results.
+
+The energy market, in particular, has historically been cyclical in nature as the worldwide demand
+for oil and gas fluctuates. When worldwide demand for these commodities is depressed, the demand
+for our products used in drilling and recovery applications is reduced. We have historically
+generated lower sales and profits in periods of declining demand for oil and gas. Accordingly,
+results of operations for any particular period are not necessarily indicative of the results of
+operations for any future period. Future downturns in demand for oil and gas could have a material
+adverse effect on our sales and operating results. Similarly, the industrial market has
+historically experienced cyclical fluctuations in demand that also could have a material adverse
+effect on our sales and operating results.
+
+Our businesses are adversely affected by economic downturns. 
+
+As a supplier of capital equipment to a variety of industries, we are adversely affected by general
+economic downturns. Many of our customers, particularly in the industrial markets, will delay
+capital projects, including non-critical maintenance and upgrades, during economic downturns.
+
+Approximately 60% of our sales are to customers outside the United States, and we are subject to
+special economic and political risks associated with international operations. 
+
+Approximately 60% of our fiscal 2006 sales were to customers outside the U.S., and we maintain
+manufacturing facilities in 14 non-U.S. countries. Conducting business outside the U.S. is subject
+to risks, including currency exchange rate fluctuations; changes in regional, political or economic
+conditions; trade protection measures, such as tariffs or import or export restrictions; subsidies
+or increased access to capital for firms who are currently, or may emerge, as competitors in
+countries in which we have operations; partial or total expropriation; unexpected changes in
+regulatory requirements; and international sentiment towards the U.S. One or more of these factors
+could have a material adverse effect on our international operations.
+
+We must comply with a variety of import and export laws and regulations, and the cost of compliance
+as well as the consequences to properly comply with such laws could adversely affect our business. 
+
+We are subject to a variety of laws regarding our international operations, including regulations
+issued by the U.S. Customs Service, the Bureau of Export Administration and various foreign
+governmental agencies. We cannot predict the nature, scope or effect of future regulatory
+requirements to which our international manufacturing operations and trading practices might be
+subject or the manner in which existing laws might be administered or interpreted. Future
+regulations could limit the countries in which certain of our products may be manufactured or sold
+or could restrict our access to, and increase the cost of obtaining, products from foreign sources.
+In addition, actual or alleged violations of import-export laws could result in enforcement
+actions and financial penalties that could result in substantial costs.
+
+4 
+
+Table of Contents   
+
+Competition in our markets could cause our sales to decrease. 
+
+We face significant competition from a variety of competitors in our markets. In some markets, our
+competitors have substantially greater financial, marketing, personnel and other resources than we
+do. In addition, new competitors could enter our markets. Competitive pressures, including
+product quality, performance, price and service capabilities, and new technologies could adversely
+affect our competitive position, involving a loss of market share or decrease in prices, either of
+which could have a material adverse effect on our sales.
+
+The nature of our products creates the possibility of product liability lawsuits, which could harm
+our business. 
+
+As a manufacturer of equipment and systems for use in various markets, we face an inherent risk of
+exposure to product liability claims. Although we maintain strict quality controls and procedures,
+we cannot be certain that our products will be completely free from defect. In addition, in
+certain cases, we rely on third-party manufacturers for components of our products. Although we
+have liability insurance coverage, we cannot be certain that this insurance coverage will continue
+to be available to us at a reasonable cost or will be adequate to cover any such liabilities. We
+generally seek to obtain contractual indemnification from our third-party suppliers, which is
+typically limited by its terms. In the event we do not have adequate insurance or contractual
+indemnification, product liabilities could have a material adverse effect on our business,
+financial condition or results of operations. Even if a product liability claim is without merit,
+it could harm our business.
+
+The results of operations could vary based on the availability and cost of our raw materials. 
+
+The prices of our raw materials may increase. The costs of raw materials used by us are affected by
+fluctuations in the price of metals such as steel.
+
+Our ability to obtain parts and raw materials from our suppliers is uncertain. We are engaged in a
+continuous, company-wide effort to concentrate our purchases of parts and raw materials on fewer
+suppliers, and to obtain parts from low-cost countries where possible. As this effort progresses,
+we are exposed to an increased risk of disruptions to our supply chain, which could have a
+significant effect on our operating results.
+
+Our results of operations could vary as a result of the methods, estimates and judgments we use in
+applying our accounting policies. 
+
+The methods, estimates and judgments we use in applying our accounting policies have a significant
+impact on our results of operations (see  Critical Accounting Estimates  in Part II, Item 7 of this
+Form 10-K). Such methods, estimates and judgments are, by their nature, subject to substantial
+risks, uncertainties and assumptions, and factors may arise over time that lead us to change our
+methods, estimates and judgments. Changes in those methods, estimates and judgments could
+significantly affect our results of operations. In particular, beginning in our first quarter of
+fiscal 2006, the calculation of share-based compensation expense under SFAS No. 123(R) required us
+to use valuation methodologies (which were not developed for use in valuing employee stock options)
+and a number of assumptions, estimates and conclusions regarding matters such as expected
+forfeitures, expected volatility of our share price, the expected dividend rate with respect to our
+common shares and the exercise behavior of our employees. Furthermore, there are no means, under
+applicable accounting principles, to compare and adjust our expense if and when we learn of
+additional information that may affect the estimates that we previously made, with the exception of
+changes in expected forfeitures of share-based awards. Factors may arise over time that lead us to
+change our estimates and assumptions with respect to future share-based compensation arrangements,
+resulting in variability in our share-based compensation expense over time. Changes in forecasted
+share-based compensation expense could impact our financial results.
+
+Any impairment in the value of our intangible assets, including goodwill, would negatively affect
+our operating results and total capitalization. 
+
+Our total assets reflect substantial intangible assets, primarily goodwill. The goodwill results
+from our acquisitions, representing the excess of cost over the fair value of the net assets we
+have acquired. We assess at least annually whether there has been an impairment in the value of our
+intangible assets. If future operating performance at one or more of our business units were to
+fall significantly below current levels, if competing or alternative technologies emerge or if
+business valuations become more conservative, we could incur, under current applicable accounting
+rules, a non-cash charge to operating earnings for goodwill impairment. Any
+
+5 
+
+Table of Contents   
+
+determination requiring the write-off of a significant portion of unamortized intangible assets
+would negatively affect our results of operations and total capitalization, the effect of which
+could be material.
+
+Other risks that may effect our business. 
+
+Failure to realize the benefits of our restructuring program in our Process Solutions
+and Romaco segments, including the receipt of cash proceeds from the sale of excess
+facilities. 
+
+Work stoppages related to union negotiations. 
+
+Customer order cancellations. 
+
+The impact of Sarbanes-Oxley Section 404 procedures. 
+
+ITEM 1B   UNRESOLVED STAFF COMMENTS 
+
+None.
+
+6 
+
+Table of Contents   
+
+ITEM 2 .  PROPERTIES 
+
+Facilities
+
+Our executive offices are located in Dayton, Ohio. The executive offices are leased and occupy
+approximately 10,000 square feet. Set forth below is certain information relating to our principal
+operating facilities.
+
+7 
+
+Table of Contents   
+
+(1) 
+       
+     Leased facility. 
+
+(2) 
+       
+     The Fluid Management segment also operates an additional 13 (8 U.S., 5 Canada) Service
+Centers, primarily in leased facilities between 5,000 and 10,000 square feet each. These
+locations are in the oil producing regions of the U.S. and Canada and manufacture rod guides
+and distribute other of the Company s Energy Systems products. Locations are: Bakersfield,
+California (2); Oklahoma City, Oklahoma; Odessa, Texas; Casper, Wyoming; Williston, North
+Dakota; Wooster, Ohio; Trinidad, Colorado and in Alberta, Canada   Brooks, Elk Point, Provost,
+Hardisty and Lloydminster. 
+
+(3) 
+       
+     Facility of a 51% owned subsidiary. 
+
+(4) 
+       
+     Facility of a 76% owned subsidiary. 
+
+(5) 
+       
+     Facility of a 60% owned subsidiary. 
+
+8 
+
+Table of Contents   
+
+ITEM 3.   LEGAL PROCEEDINGS 
+
+There are claims, suits and complaints arising in the ordinary course of business filed or pending
+against us. Although we cannot predict the outcome of such claims, suits and complaints with
+certainty, we do not believe that the disposition of these matters will have a material adverse
+effect on our financial position, results of operations or cash flows.
+
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS 
+
+None.
+
+9 
+
+Table of Contents   
+
+Executive Officers of the Registrant 
+
+Peter C. Wallace, age 52, has been President and Chief Executive Officer of the Company since July
+12, 2004. From October 2001 to July 2004, Mr. Wallace was President and CEO of IMI Norgren Group
+(sophisticated motion and fluid control systems for original equipment manufacturers). He was
+employed by Rexnord Corporation (power transmission and conveying components) for 25 years serving
+as President and Group Chief Executive from 1998 until October 2001 and holding a variety of senior
+sales, marketing, and international positions prior thereto.
+
+Christopher M. Hix, age 44, has been our Vice President and Chief Financial Officer since August
+2006. He held various corporate finance and business development positions with Roper Industries
+(diversified industrial products) from 2001 to July 2006, the most recent being Vice President,
+Business Development and Assistant Secretary. He was Chief Financial Officer and Vice President of
+Customer Support for Somero Enterprises, Inc. from 1999 to 2001. From 1991 to 1999 he was with
+Roper Industries serving in various senior business unit financial and operational leadership
+positions.
+
+Saeid Rahimian, age 48, has been a Corporate Vice President and President, Fluid Management, since
+September 2005. He was Group Vice President and President of our R M Energy Systems and Reactor
+Systems businesses from May 2004 to September 2005. He has also been President of our R M Energy
+Systems business from 1998 to May 2004.
+
+Gary L. Brewer, age 48, has been a Corporate Vice President and President, Process Solutions Group,
+since February 2006. He held various senior executive positions with Eaton Corporation
+(diversified industrial products) from 1995 to February 2006, the most recent being Americas
+Manufacturing Manager, Controls and also including Business Unit Manager for Hydraulic Cylinders,
+Plant Manager for Motion Control Products and Director of Sales and Marketing in Europe for the
+Motion Control Business.
+
+John R. Beatty, age 54, has been our Vice President, Administration since January 2006. He was our
+Vice President, Human Resources from March 2004 to January 2006. From 1996 to 2004, he was Vice
+President, Human Resources for DT Industries, Inc. (packaging equipment) and prior to 1996 he was
+Director of Human Resources for Rockwell Software Inc., a subsidiary of Rockwell Inc.
+
+Kevin J. Brown, age 48, has been our Corporate Controller and Chief Accounting Officer since
+October 2006. He was our Vice President of Corporate Services, Investor Relations   Compliance
+from August 2006 to October 2006 and he was our Vice President and Chief Financial Officer from
+January 2000 to August 2006. Previously, he was our Controller and Chief Accounting Officer since
+December 1995. Prior to joining us, he was employed by the accounting firm of Ernst   Young LLP for
+15 years.
+
+Joseph M. Rigot, age 63, has been our Secretary and General Counsel since 1990. He has been a
+partner with the law firm of Thompson Hine LLP, Dayton, Ohio for over 15 years.
+
+The term of office of our executive officers is until the next Annual Meeting of Directors (January
+10, 2007) or until their respective successors are elected.
+
+10 
+
+Table of Contents   
+
+PART II 
+
+ITEM 5.   MARKET FOR THE REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND
+ISSUER PURCHASES OF EQUITY SECURITIES 
+
+(A) Our common shares trade on the New York Stock Exchange under the symbol RBN. The prices
+presented in the following table are the high and low closing prices for the common shares for the
+periods presented.
+
+(B) As of October 16, 2006, we had 393 shareholders of record.
+
+(C) Dividends paid on common shares are presented in the table in Item 5(A). Our credit agreement
+includes certain covenants which restrict our payment of dividends plus stock repurchases in each
+fiscal year to the greater of $3,500,000 or 50% of our net income for the immediately preceding
+fiscal year, plus a portion of any unused amounts from the preceding fiscal year. For purposes of
+this test, stock repurchases related to stock option exercises or in connection with withholding
+taxes due under any stock plan in which employees or directors participate are not included. Under
+this formula, such cash dividends and treasury stock purchases in fiscal 2007 are limited to
+$3,500,000. We expect to enter into an amended credit agreement in early fiscal 2007 which may
+increase this amount.
+
+(D) The Company made no repurchases of its common shares during the quarter ended August 31, 2006.
+
+11 
+
+Table of Contents   
+
+ITEM 6.   SELECTED FINANCIAL DATA 
+
+Selected Financial Data (1)  
+Robbins   Myers, Inc. and Subsidiaries 
+(In thousands, except per share and employee data)
+
+The following slected finanical data should be read in conjunction with Item 7  Management s Discussion and Analysis of
+Financial Condition and Results of Operations  and our Consolidated Financial Statements included in Item 8
+ Financial Statements and Supplementary Data. 
+
+12 
+
+Table of Contents   
+
+Notes to Selected Financial Data
+
+1. 
+       
+     Fiscal 2006 reflected the sale of our Hapa and Laetus product lines on March 31, 2006.
+Fiscal 2005 reflected the sale of the lined-pipe and fitting product line that occurred on
+August 31, 2005. Fiscal 2003 reflected the acquisition of Tarby on November 15, 2002. 
+
+2. 
+       
+     Fiscal 2006 includes costs of $7,296,000 related to the restructuring of our Process
+Solutions and Romaco segments, which included inventory write-downs of $1,127,000 that are
+included in gross profit. Fiscal 2006 also included a gain of $7,955,000 on the disposition
+of product lines and facilities. Lastly, fiscal 2006 included a $39,174,000 goodwill
+impairment charge. Fiscal 2005 included costs of $7,963,000 related to the restructuring of
+our Process Solutions and Romaco segments, including inventory write-downs of $1,130,000
+that are included in gross profit. Fiscal 2005 also included a loss of $2,053,000 related
+to asset dispositions in our Process Solutions segment. Fiscal 2004 included charges of
+$1,378,000 related to the retirement of our former President   CEO and severance costs of
+$761,000 related to the consolidation of our Process Solutions business in Italy. These
+special items increased fiscal 2006 net loss by $36,941,000 ($2.46 per diluted share),
+decreased fiscal 2005 net income by $6,310,000 ($0.52 per diluted share) and decreased
+fiscal 2004 net income by $1,390,000 ($.10 per diluted share). See Note 3 of Notes to
+Consolidated Financial Statements. 
+
+3. 
+       
+     EBIT represents income before interest and income taxes and is reconciled to net income
+on our Consolidated Statement of Operations. EBIT is not a measure of performance
+calculated in accordance with accounting principles generally accepted in the United States
+and should not be considered as an alternative to net income as a measure of our operating
+results. EBIT is not a measure of cash available for use by management. We evaluate
+performance of our business segments and allocate resources based on EBIT. 
+
+4. 
+       
+     Free Cash Flow represents net cash and cash equivalents provided by operating
+activities, less capital expenditures. Free Cash Flow is used as a measure of cash
+generated for acquisitions and financing activities. Free Cash Flow is not a measure of
+performance calculated in accordance with accounting principles generally accepted in the
+United States, and should not be considered an alternative to cash flow as a measure of our
+liquidity. 
+
+13 
+
+Table of Contents   
+
+ITEM 7.  
+       
+      MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS  
+
+Overview 
+
+We are a leading designer, manufacturer and marketer of highly-engineered, application-critical
+equipment and systems for the energy, industrial, chemical and pharmaceutical markets worldwide. We
+attribute our success to our close and continuing interaction with customers, our manufacturing,
+sourcing and application engineering expertise and our ability to serve customers globally. Our
+business consists of three market-focused segments: Fluid Management, Process Solutions and Romaco.
+
+Beginning with the first quarter of fiscal 2006, we reported realigned segments. The new segment
+structure is a result of a significant reorganization of management, operations and reporting that
+occurred during the first quarter of fiscal 2006. The Fluid Management segment is comprised of the
+R M Energy Systems, Moyno and Tarby product lines. The Process Solutions segment is comprised of
+the Pfaudler, Tycon Technoglass, Chemineer and Edlon product lines. The Romaco segment includes
+the Hapa and Laetus (prior to their sale) and FrymaKoruma, Noack, Siebler, Macofar, Promatic,
+Unipac, IPM, Zanchetta and Bosspak product lines.
+
+As a result of the segment realignment, the goodwill recorded as of August 31, 2005 was allocated
+to the aforementioned product lines based on their relative fair value in accordance with Statement
+of Financial Accounting Standard No. 142  Goodwill and Other Intangible Assets  ( SFAS 142 ). The
+aggregate goodwill for each new segment is the sum of the reallocated goodwill for the product
+lines comprising the segment. In addition, during the first quarter and subsequent to the end of
+the first quarter, discussions about the sale of Romaco progressed and provided additional
+information regarding the fair value of Romaco. After considering the fair value of the Romaco
+segment, management determined there was an indicator of goodwill impairment under the rules of
+SFAS 142. Management estimated the fair value of the Romaco segment using current prices that the
+Company may receive in the potential disposition of all or parts of Romaco. Based on these
+estimates, management estimated that goodwill in the Romaco segment should be written down by $30.0
+million. This charge was included in our first quarter results. A formal appraisal was completed
+in the third quarter to determine the final goodwill write-down. The results of the appraisal
+determined that goodwill should be written down by an additional $9.2 million. This charge was
+included in our third quarter fiscal 2006 results.
+
+Unless otherwise noted, the costs mentioned below in this note were included on the  other  expense
+line of our Consolidated Statement of Operations in the period indicated.
+
+During fiscal 2006 and 2005, we incurred costs related to a restructuring program of our Process
+Solutions and Romaco segments. The restructuring plan was initiated to improve the profitability
+of these segments and included the following:
+
+Plant closures (one of two Process Solutions facilities in Italy, a Process Solutions
+facility in Mexico and a Romaco facility in Italy). 
+
+Headcount reductions within the Process Solutions and Romaco segments. 
+
+Reorganization of Romaco s distribution network. 
+
+Disposition of two Romaco (Hapa and Laetus) and one Process Solutions (Edlon lined-pipe
+and fittings) product lines. 
+
+Sales of excess facilities. 
+
+In fiscal 2005, we sold the aforementioned closed Italian facilities, sold the inventory and
+equipment related to our Edlon lined-pipe and fittings product line, and reduced total headcount by
+approximately 250 employees. We recorded restructuring costs in fiscal 2005 totaling $3.7 million
+in the Process Solutions segment and $4.3 million in the Romaco segment. The costs in fiscal 2005
+included $1.1 million to write-down inventory and $0.4 million to write-off intangibles related to
+discontinued product lines. The inventory charge is included in cost of sales. Cash proceeds from
+the sale of facilities and product lines were $9.7 million. The loss recognized in 2005 as a
+result of these asset sales was $2.1 million.
+
+In fiscal
+2006, we sold the Hapa and Laetus product lines. In addition, we reorganized Romaco s sales distribution
+network, sold and/or exited five Romaco and Process Solutions
+facilities, that reduced headcount by
+85 employees. We
+
+14 
+
+Table of Contents   
+
+recorded restructuring costs in fiscal 2006 totaling $2.5 million in the Process Solutions segment
+and $4.8 million in the Romaco segment. The costs in fiscal 2006 included $1.1 million to
+write-down inventory related to discontinued product lines. This charge is included in cost of
+sales. Offsetting the restructuring costs was a gain on the disposition of the Hapa and Laetus
+product lines of Romaco of $8.1 million. Also during the year, we sold the Edlon lined-pipe and
+fittings product line facility for $1.0 million. The loss on the disposition and other related
+costs were $2.0 million.
+
+In the second quarter of fiscal 2006 we reached an agreement to sell certain Chinese land and
+buildings, resulting in a $1.8 million gain (before minority interest). The cash proceeds of $3.3
+million from the sale are expected to be received in fiscal 2007. We have moved our production
+operations to a newly constructed facility.
+
+We have reached an agreement to sell the aforementioned closed Mexico facility. We expect to close
+this sale, receive $6.0 million cash proceeds, and record a $5.5 million pre-tax gain in fiscal
+2007.
+
+We expect to incur additional personnel termination and facility closure costs of approximately
+$2.0 million to $3.0 million in fiscal 2007 related to the Romaco distribution network
+restructuring.
+
+Results of Operations 
+
+The following tables present components of our Consolidated Statement of Operations and segment
+information.
+
+15 
+
+Table of Contents   
+
+Fiscal Year Ended August 31, 2006 Compared with Fiscal Year Ended August 31, 2005  
+
+Net Sales  
+
+Sales for fiscal 2006 were $625.4 million compared to $604.8 million in fiscal 2005, an increase of
+$20.6 million or 3.4%. The impact of exchange rates was minimal for the year. We disposed of
+several product lines impacting the comparability of our sales. As of August 31, 2005 the Edlon
+lined-pipe and fitting product line of the Process Solutions segment was sold and as of March 31,
+2006 the Hapa and Laetus product lines of the Romaco segment were sold. These dispositions reduced
+sales $29.2 million in fiscal 2006 as compared to fiscal 2005. Continuing business sales increased
+$49.8 million or 8.7%.
+
+The Fluid Management segment had sales of $245.2 million in fiscal 2006 compared to $198.7 million
+in fiscal 2005, an increase of $46.5 million, or 23.4%. The increase was driven primarily by
+strong demand for drilling and exploration equipment, likely resulting from high oil and natural
+gas prices. The segment also enjoyed increases in sales for general industrial and chemical
+processing applications as a result of healthy end market conditions.
+
+The Process Solutions segment had sales of $231.0 million in fiscal 2006 compared to $238.7 million
+in fiscal 2005. Continuing business sales increased $2.3 million, or 1.0%. Chemical processing and
+pharmaceutical market conditions remained flat for much of the year; however, the Company
+experienced a significant increase in orders during the second half of the year.
+
+The Romaco segment had sales of $149.2 million in fiscal 2006 compared to $167.4 million in fiscal
+2005. Continuing business sales increased $1.0 million, or 0.8%. Sales in this segment have
+stabilized at or near historically low levels. Consolidation within the pharmaceutical industry as
+well as the introduction of fewer new drug compounds has led to a decline in the investment in new
+packaging capacity in this sector, which has negatively impacted our sales.
+
+Earnings Before Interest and Income Taxes (EBIT)  
+
+The Company s operating performance is evaluated using several measures including EBIT. EBIT is
+income before interest and income taxes and is reconciled to net income on our Consolidated
+Statement of Operations. We evaluate performance of our business segments and allocate resources
+based on EBIT. EBIT is not, however, a measure of performance calculated in accordance with
+accounting principles generally accepted in the United States and should not be considered as an
+alternative to net income as a measure of our operating results. EBIT is not a measure of cash
+available for use by management.
+
+Consolidated EBIT for fiscal 2006 was $7.5 million compared to $21.5 million in fiscal 2005, a
+decline of $14.0 million. The decline in EBIT was primarily due to the goodwill impairment charge
+of $39.2 million, EBIT associated with disposed product lines during the year estimated at
+approximately $2.5 million and higher costs related to variable pay, Sarbanes Oxley compliance and
+the expensing of stock options under SFAS 123(R). Offsetting these EBIT declines were lower other
+costs related to restructuring and facility dispositions of $10.7 million, the estimated
+incremental profit from the sales increase of continuing businesses estimated at approximately
+$17.0 million and estimated cost savings from restructuring activities of approximately $5.0
+million.
+
+The Fluid Management segment EBIT for fiscal 2006 was $56.5 million compared to $39.7 million in
+fiscal 2005. The increase of $16.8 million resulted from the sales increase of $46.5 million.
+
+The Process Solutions segment EBIT was $8.9 million for fiscal 2006 compared to $4.7 million for
+fiscal 2005, an increase of $4.2 million. Other costs related to restructuring and facility
+dispositions, discussed above, were $3.0 million lower in fiscal 2006. The remaining improvement
+in profitability was primarily due to estimated cost savings realized from our restructuring
+programs and the impact of product mix.
+
+The Romaco segment EBIT was negative $38.2 million for fiscal 2006 compared to negative $7.9
+million in fiscal 2005, a decrease of $30.3 million. The decline in EBIT was primarily due to the
+goodwill impairment charge of $39.2 million in fiscal 2006 and the EBIT associated with disposed
+product lines during the year estimated at approximately $2.5 million. Offsetting these EBIT
+declines were lower other costs related to restructuring and facility dispositions in fiscal 2006
+of $7.7 million. The remaining improvement is primarily from estimated cost savings from
+restructuring programs.
+
+16 
+
+Table of Contents   
+
+Interest expense  
+
+Interest expense was $12.9 million in fiscal 2006 and $14.4 million in fiscal 2005. Cash generated
+from operations, asset/product line sales and the conversion of $38.9 million of our convertible
+notes into common stock late in the fiscal year all contributed to lower debt levels in fiscal
+2006.
+
+Income taxes  
+
+We had $12.6 million of income tax expense in spite of a $5.4 million pretax loss because of two
+significant transactions with minimal tax impact, the goodwill impairment charge of $39.2 million
+and the gain on the sale of Hapa and Laetus of $8.1 million. After considering the impact of these
+transactions, our effective tax rate in fiscal 2006 was 46.0% compared with 83.2% in fiscal 2005.
+These high effective tax rates are the result of our inability to record tax benefits on losses
+incurred in certain non-U.S. tax jurisdictions, primarily Germany and Italy, due to uncertainty
+over our ability to generate sufficient future taxable income in these jurisdictions to utilize
+these benefits. If our operations in these countries become profitable, our effective tax rate
+will decrease as we recognize the benefits of loss carryforwards. The fiscal 2006 adjusted rate of
+46.0% is lower than the fiscal 2005 rate because of lower losses in Germany and Italy in fiscal
+2006.
+
+Net loss  
+
+Our net loss in fiscal 2006 was $19.6 million compared with a net loss in fiscal 2005 of $0.3
+million. The overall reduction in net income is a result of the higher goodwill impairment and
+other expenses of $28.5 million, as discussed above, and higher tax expense.
+
+17 
+
+Table of Contents   
+
+Fiscal Year Ended August 31, 2005 Compared with Fiscal Year Ended August 31, 2004  
+
+Net Sales  
+
+Sales for the fiscal year ended August 31, 2005 were $604.8 million compared to $585.8 million in
+fiscal 2004. The impact of exchange rates, the translation of sales from non-U.S. operations into
+U.S. dollars, caused an increase in sales of $16.6 million, resulting in a sales increase of $2.4
+million on a constant dollar basis.
+
+The Fluid Management segment had sales of $198.7 million in fiscal 2005 compared to $179.0 million
+in fiscal 2004. The impact of exchange rates increased sales by $3.1 million resulting in an
+increase of $16.6 million, or 9.3%, on a constant dollar basis. The increase in sales in this
+segment was driven by the energy market where high prices for oil and natural gas have caused
+increased investment demand for drilling and exploration equipment.
+
+The Process Solutions segment had sales of $238.7 million in fiscal 2005 compared to $231.6 million
+in fiscal 2004. The impact of exchange rates increased sales by $5.8 million resulting in an
+increase of $1.3 million on a constant dollar basis. Sales are relatively flat at low historical
+levels. The chemical processing market has shown some signs of improvement as capacity utilization
+in that market is improving; however, consolidation within the pharmaceutical industry and weak
+economic conditions in Europe have caused excess production capacity and limited new capital
+investment by our customers. The purchase of capital equipment by these pharmaceutical companies
+has declined and new projects are being delayed, which has negatively impacted sales of our
+products.
+
+The Romaco segment had sales of $167.4 million in fiscal 2005 compared to $175.1 million in fiscal
+2004. The impact of exchange rates increased sales by $7.7 million resulting in a decrease of
+$15.4 million, or 8.8% on a constant dollar basis. Consolidation within the pharmaceutical
+industry as well as the introduction of fewer new drug compounds has led to a decline in the
+investment in new packaging capacity in this sector, which has negatively impacted our sales in
+this segment.
+
+Earnings Before Interest and Income Taxes (EBIT)  
+
+Consolidated EBIT for fiscal 2005 was $21.5 million compared to $30.3 million in fiscal 2004.
+Included in the fiscal 2005 EBIT are costs in the Process Solutions segment for restructuring of
+$3.7 million and asset dispositions of $2.1 million, as well as restructuring costs of $4.3 million
+in the Romaco segment. EBIT was further impacted by additional costs of approximately $4.0 million
+related to the initial documentation and testing requirements of Sarbanes Oxley section 404
+compliance. These costs are included in selling, general and administrative expenses.
+
+The Fluid Management segment had EBIT of $39.7 million in fiscal 2005 compared to $35.1 million in
+fiscal 2004, an increase of $4.6 million, or 13.1%. EBIT increased approximately $6.0 million due
+to the sales volume increase mentioned above. Offsetting this improvement was higher pension and
+medical costs in fiscal 2005 as compared to fiscal 2004.
+
+The Process Solutions segment had EBIT of $4.7 million in fiscal 2005 compared to $9.3 million in
+fiscal 2004, a decline of $4.6 million on consistent constant currency sales. EBIT decreased in
+this segment in 2005 due to restructuring and business disposition costs of $5.8 million in fiscal
+2005 that were not in fiscal 2004 and costs from underutilization of our production facilities of
+$2.8 million. Offsetting these declines were realized cost savings from restructuring programs of
+$4.0 million.
+
+The Romaco segment had negative EBIT of $7.9 in fiscal 2005 compared to positive EBIT of $1.8
+million in fiscal 2004, a decline of $9.7 million. EBIT declined by $4.3 million due to
+restructuring costs incurred in fiscal 2005, $5.5 million from the aforementioned constant dollar
+decline in sales volume and $6.0 million from lower selling prices for our products. Offsetting
+these declines were the realized cost savings from our restructuring programs of $6.0 million.
+
+Interest expense  
+
+Interest expense was $14.4 million in fiscal 2005 and fiscal 2004. We had lower average debt
+levels in fiscal 2005, but this was offset by slightly higher interest rates during fiscal 2005.
+
+18 
+
+Table of Contents   
+
+Income taxes  
+
+Our effective tax rate in fiscal 2005 was 83.2% compared with 23.2% in fiscal 2004. The
+substantial increase in our effective tax rate is a result of our inability to record tax benefits
+on losses incurred in certain non-U.S. tax jurisdictions, primarily Germany and Italy, due to
+uncertainty about whether or not we will be able to generate sufficient future taxable income in
+these jurisdictions to utilize these benefits. If our operations in these countries become
+profitable, our effective tax rate will decrease as we recognize the benefits of loss
+carryforwards.
+
+Net loss  
+
+Our net loss in fiscal 2005 was $0.3 million compared with net income in fiscal 2004 of $11.6
+million. The overall reduction in net income is a result of the $10.0 million of restructuring and
+other charges related to asset dispositions, reduction in selling prices within our Romaco segment,
+and the higher effective tax rate caused by our inability to record tax benefits on losses incurred
+in certain non-U.S. tax jurisdictions.
+
+19 
+
+Table of Contents   
+
+Liquidity and Capital Resources  
+
+Operating Activities  
+
+In fiscal 2006, our cash flow from operating activities was $40.5 million compared with $26.8
+million in fiscal 2005, an increase of $13.7 million. This increase resulted primarily from better
+operating asset efficiency of $8.6 million and cash generated from other operating activities.
+
+We expect our fiscal 2007 operating cash flow to be adequate to fund fiscal year 2007 operating
+needs, scheduled debt service, shareholder dividend requirements and planned capital expenditures.
+Our planned capital expenditures are related to additional production capacity, new products and
+services, cost reductions and replacement items.
+
+Investing Activities  
+
+Our capital expenditures were $13.7 million in fiscal 2006, down from $20.3 million in fiscal 2005.
+The capital expenditures increased our capacity and supported new product development activities
+of our Fluid Management segment, and replaced equipment at our other business units.
+
+During 2006, we sold the Hapa and Laetus product lines and two facilities to generate $27.8 million
+of cash. In fiscal 2005 we sold three facilities and we sold inventory and equipment related to our
+Edlon lined-pipe and fittings product line, which generated total cash proceeds of $15.8 million.
+
+Financing Activities  
+
+We paid $0.5 million to amend and extend our credit agreement in fiscal 2006. Dividends paid
+during fiscal 2006 were $3.3 million. Proceeds from the sale of common stock were $5.7 million in
+fiscal 2006 and related mostly to the exercise of stock options by current and former employees.
+
+Credit Agreement  
+
+Our Bank Credit Agreement ( Agreement ) provides that we may borrow on a revolving credit basis up
+to a maximum of $50.0 million. All outstanding amounts under the Agreement are due and payable on
+November 30, 2007. Interest is variable based upon formulas tied to LIBOR or prime, at our option,
+and is payable at least quarterly. At August 31, 2006, there were no amounts borrowed under the
+Agreement. Indebtedness under the Agreement is secured by accounts receivable, inventory,
+equipment and fixtures of our U.S. subsidiaries, the pledge of the stock of our U.S. subsidiaries
+and the pledge of the stock of certain non-U.S. subsidiaries. Under this Agreement and other lines
+of credit, we had $50.0 million of unused borrowing capacity. However, due to our financial
+covenants and outstanding standby letters of credit, we could only incur additional indebtedness of
+$28.9 million at August 31, 2006. We had $21.1 million of standby letters of credit outstanding at
+August 31, 2006. These standby letters of credit are used as security for advance payments received
+from customers and future payments to our vendors. The agreement expires on November 30, 2007 and
+we are actively negotiating an amendment or replacement of the current facility to expand capacity,
+reduce costs and increase strategic flexibility.
+
+20 
+
+Table of Contents   
+
+Critical Accounting Policies and Estimates  
+
+This  Management s Discussion and Analysis  is based on our Consolidated Financial Statements and
+the related notes. The more critical accounting policies used in the preparation of our
+Consolidated Financial Statements are discussed below.
+
+Revenue Recognition  
+
+We recognize revenue at the time of title passage to our customer. In instances where we have
+equipment installation obligations, the revenue related to the installation service is deferred
+until installation is complete. We recognize revenue for certain longer-term contracts based on the
+percentage of completion method. The percentage of completion method requires estimates of total
+expected contract revenue and costs. We follow this method since we can make reasonably dependable
+estimates of the revenue and cost applicable to various stages of the contract. Revisions in profit
+estimates are reflected in the period in which the facts that gave rise to the revision become
+known.
+
+Use of Estimates  
+
+The preparation of financial statements in conformity with accounting principles generally accepted
+in the United States requires us to make estimates and assumptions that affect the amounts reported
+in the consolidated financial statements and the related notes. Significant estimates made by us
+include the allowance for doubtful accounts, inventory valuation, deferred tax asset valuation
+allowance, warranty accruals, litigation, product liability, environmental accruals, goodwill
+valuation and retirement benefit obligations.
+
+Our estimate for uncollectible accounts receivable is based upon an analysis of our prior
+collection experience, specific customer creditworthiness and current economic trends within the
+industries we serve. In circumstances where we are aware of a specific customer s inability to meet
+its financial obligation to us (e.g., bankruptcy filings or substantial downgrading of credit
+ratings), we record a specific reserve to reduce the receivable to the amount we reasonably believe
+will be collected. For all other customers, we recognize reserves for bad debts based on the length
+of time that the receivables are past due.
+
+Inventory valuation reserves are determined based on our assessment of the market conditions for
+our products and the on hand quantities of inventory in relation to historical usage. As of August
+31, 2006 we have inventory valuation reserves of $17.5 million. The inventory upon which this
+reserve relates is still on hand and will be sold or disposed of in the future. The expected
+selling price of this inventory approximates its net book value, therefore there is no significant
+impact on gross margin when it is sold.
+
+We have recorded valuation allowances to reflect the estimated amount of deferred tax assets that
+may not be realized based upon our analysis of estimated future taxable income and establishment of
+tax strategies. Future taxable income, reversals of temporary differences, available carryback
+periods, the results of tax strategies and changes in tax laws could impact these estimates.
+
+Warranty obligations are contingent upon product failure rates, material required for the repairs
+and service delivery costs. We estimate the warranty accrual based on specific product failures
+that are known to us plus an additional amount based on the historical relationship of warranty
+claims to sales. We record litigation, product liability and environmental reserves based upon a
+case-by-case analysis of the facts, circumstances and estimated costs.
+
+These estimates form the basis for making judgments about the carrying value of our assets and
+liabilities and are based on the best available information at the time we prepare our consolidated
+financial statements. These estimates are subject to change as conditions within and beyond our
+control change, including but not limited to economic conditions, the availability of additional
+information and actual experience rates different from those used in our estimates. Accordingly,
+actual results may differ from these estimates.
+
+Goodwill  
+
+Goodwill is tested on an annual basis, or more frequently as impairment indicators arise.
+Impairment tests, which involve the use of estimates related to the fair market values of the
+business operations with which goodwill is associated, were performed during fiscal 2006 to
+determine goodwill impairment and at year-end (our annual impairment test date). The process of
+evaluating the potential impairment of goodwill is subjective and requires significant judgment at
+many points during the analysis. In estimating the fair value of the businesses for the
+
+21 
+
+Table of Contents   
+
+purposes of our annual or periodic analyses, we make estimates and judgments about the future cash
+flows of these businesses. Although our cash flow forecasts are based on assumptions that are
+consistent with the plans and estimates we are using to manage the underlying businesses, there is
+significant judgment in determining the cash flows attributable to these businesses over their
+estimated remaining useful lives. Losses, if any, resulting from impairment tests are reflected in
+operating income in our Consolidated Statement of Operations.
+
+Foreign Currency Accounting  
+
+Gains and losses resulting from the settlement of a transaction in a currency different from that
+used to record the transaction are charged or credited to net income or loss when incurred.
+Adjustments resulting from the translation of non-U.S. financial statements into U.S. dollars are
+recognized in accumulated other comprehensive income or loss for all non-U.S. units.
+
+We use permanently invested intercompany loans as a source of capital to reduce the exposure to
+foreign currency fluctuations in our foreign subsidiaries. These loans are treated as analogous to
+equity for accounting purposes. Therefore, we record foreign exchange gains or losses on these
+intercompany loans in accumulated other comprehensive income or loss.
+
+Pensions  
+
+We maintain defined benefit and defined contribution pension plans that provide retirement benefits
+to substantially all U.S. employees and certain non-U.S. employees. Pension expense for fiscal 2006
+and beyond is dependent on a number of factors including returns on plan assets and changes in the
+plan s discount rate and therefore, cannot be predicted with certainty at this time. The following
+paragraphs discuss the significant factors that affect the amount of recorded pension expense.
+
+A significant factor in determining the amount of expense recorded for a funded pension plan is the
+expected long-term rate of return on plan assets. We develop the long-term rate of return
+assumption based on the current mix of equity and debt securities included in the plan s assets and
+on the historical returns on those types of investments, judgmentally adjusted to reflect current
+expectations of future returns.
+
+In addition to the expected rate of return on plan assets, recorded pension expense includes the
+effects of service cost   the actuarial cost of benefits earned during a period   and interest on
+the plan s liabilities to participants. These amounts are determined actuarially based on current
+discount rates and assumptions regarding matters such as future salary increases and mortality.
+Differences in actual experience in relation to these assumptions are generally not recognized
+immediately but rather are deferred together with asset-related gains or losses. When cumulative
+asset-related and liability-related gains or losses exceed the greater of 10% of total liabilities
+or the calculated value of plan assets, the excess is amortized and included in pension income or
+expense. At August 31, 2006, the discount rate used to value the liabilities of the principal U.S.
+plan was 6.00%. We determine our discount rate based on an actuarial yield curve applied to the
+payments we expect to make out of our retirement plans.
+
+Additional changes in the key assumptions discussed above would affect the amount of pension
+expense currently expected to be recorded for years subsequent to 2006. Specifically, a one-half
+percent decrease in the rate of return on assets assumption would have the effect of increasing
+pension expense by approximately $0.4 million. A comparable increase in this assumption would have
+the opposite effect. In addition, a one-half percent increase or decrease in the discount rate
+would decrease or increase expense by approximately $0.5 million.
+
+New Accounting Pronouncement 
+
+In July 2006 the Financial Accounting Standards Board issued FASB Interpretation No. 48,
+ Accounting for Uncertainty in Income Taxes   An Interpretation of FASB Statement 109  (FIN 48).
+FIN 48 prescribes a comprehensive model for how a company should recognize, measure, present and
+disclose in its financial statements uncertain tax positions that the company has taken or expects
+to take on a tax return. FIN 48 is effective as of the beginning of fiscal years that start after
+December 15, 2006. We have not yet determined the effect on the Company s financial
+position or results of operations of complying with the provisions of FIN 48.
+
+22 
+
+Table of Contents   
+
+In September 2006 the Financial Accounting Standards Board issued FASB Statement No. 158,
+ Employers  Accounting for Defined Benefit Pension and Other Postretirement Plans   an amendment of
+FASB Statements No. 87, 88, 106, and 132(R)  (SFAS No. 158). SFAS No. 158 requires an employer to
+recognize the overfunded or underfunded status of defined benefit postretirement plans as an asset
+or liability in its Balance Sheet, and to recognize changes in that funded status in the year in
+which the changes occur through comprehensive income. An employer is required to initially
+recognize the funded status of a defined benefit postretirement plan and to provide the required
+disclosures of SFAS No. 158 as of the end of the fiscal year ending after December 15, 2006. We
+have not yet determined the effect on the Company s financial position from complying with the
+provisions of SFAS No. 158.
+
+23 
+
+Table of Contents   
+
+ITEM 7A.   QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+We maintain operations in the U.S. and foreign countries. We have market risk exposure to foreign
+exchange rates in the normal course of our business operations. Our significant non-U.S. operations
+have their local currencies as their functional currency and primarily buy and sell using that same
+currency. We manage our exposure to net assets and cash flows in currencies other than U.S. dollars
+by minimizing our non-U.S. dollar net asset positions. We also enter into hedging transactions,
+primarily currency swaps, under established policies and guidelines that enable us to mitigate the
+potential adverse impact of foreign exchange rate risk. We do not engage in trading or other
+speculative activities with these transactions as established policies require that these hedging
+transactions relate to specific currency exposures.
+
+Our main foreign exchange rate exposures relate to assets, liabilities and cash flows denominated
+in British pounds, euros, Swiss francs and Canadian dollars and the general economic exposure that
+fluctuations in these currencies could have on the U.S. dollar value of future non-U.S. cash flows.
+To illustrate the potential impact of changes in foreign currency exchange rates on us for fiscal
+2006, the net unhedged exposures in each currency were remeasured assuming a 10% decrease in
+foreign exchange rates compared with the U.S. dollar. Using this method, our EBIT for fiscal 2006
+would have increased by $0.8 million and our cash flow from operations for fiscal 2006 would have
+decreased by $1.7 million. This calculation assumed that each exchange rate would change in the
+same direction relative to the U.S. dollar. In addition to the direct effects of changes in
+exchange rates, these changes may also affect the volume of sales or the foreign currency sales
+prices as competitors  products become more or less attractive. Our sensitivity analysis of the
+effects of changes in foreign currency exchange rates does not include any effects of potential
+changes in sales levels or local currency prices.
+
+We also have market risk exposure to interest rates. At August 31, 2006, we had $105.5 million in
+interest-bearing debt obligations subject to market risk exposure due to changes in interest rates.
+To manage our exposure to changes in interest rates, we attempt to maintain a balance between fixed
+and variable rate debt. We expect this balance in the debt profile to moderate our financing cost
+over time. We are limited in our ability to refinance our fixed rate debt. However, we have the
+ability to change the characteristics of our fixed rate debt to variable rate debt through interest
+rate swaps to achieve our objective of balance. We have an interest rate swap agreement that
+effectively modifies a portion of our fixed rate debt to floating rate debt. This agreement
+involves the receipt of fixed rate amounts in exchange for floating rate interest payments over the
+life of the agreement without an exchange of underlying principal amounts. The mark-to-market
+values of both the fair value hedging instrument and the underlying debt obligation were equal and
+recorded as offsetting gains and losses in current period earnings. The fair value hedge qualifies
+for treatment under the short-cut method of measuring effectiveness. As a result, there was no
+impact on earnings due to hedge ineffectiveness. The interest rate swap agreement totals $30.0
+million, expires in 2008 and allows us to receive an effective interest rate of 6.76% and pay an
+interest rate based on LIBOR.
+
+At August 31, 2006, $71.0 million of our outstanding debt was at fixed rates with a weighted
+average interest rate of 6.8% and $34.5 million was at variable rates with a weighted average
+interest rate of 6.2%. The estimated fair value of our debt at August 31, 2006 was approximately
+$109.0 million. The following table presents the aggregate maturities and related weighted average
+interest rates of our debt obligations at August 31, 2006 by maturity dates:
+
+24 
+
+Table of Contents   
+
+Following is information regarding our long-term contractual obligations and other commitments
+outstanding as of August 31, 2006:
+
+(1) 
+       
+     Operating leases consist primarily of building and equipment leases. 
+
+25 
+
+Table of Contents   
+
+ITEM 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+Report of Independent Registered Public Accounting Firm 
+
+The Board of Directors and Shareholders of 
+Robbins   Myers, Inc. and Subsidiaries
+
+We have audited management s assessment, included in the accompanying Management s Report on
+Internal Control over Financial Reporting, that Robbins   Myers, Inc. and Subsidiaries (the
+Company) maintained effective internal control over financial reporting as of August 31, 2006,
+based on criteria established in Internal Control Integrated Framework issued by the Committee of
+Sponsoring Organizations of the Treadway Commission (the COSO criteria). The Company s management
+is responsible for maintaining effective internal control over financial reporting and for its
+assessment of the effectiveness of internal control over financial reporting. Our responsibility is
+to express an opinion on management s assessment and an opinion on the effectiveness of the
+company s internal control over financial reporting based on our audit.
+
+We conducted our audit in accordance with the standards of the Public Company Accounting Oversight
+Board (United States). Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether effective internal control over financial reporting was
+maintained in all material respects. Our audit included obtaining an understanding of internal
+control over financial reporting, evaluating management s assessment, testing and evaluating the
+design and operating effectiveness of internal control, and performing such other procedures as we
+considered necessary in the circumstances. We believe that our audit provides a reasonable basis
+for our opinion.
+
+A company s internal control over financial reporting is a process designed to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles. A
+company s internal control over financial reporting includes those policies and procedures that (1)
+pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the
+transactions and dispositions of the assets of the company; (2) provide reasonable assurance that
+transactions are recorded as necessary to permit preparation of financial statements in accordance
+with generally accepted accounting principles, and that receipts and expenditures of the company
+are being made only in accordance with authorizations of management and directors of the company;
+and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized
+acquisition, use, or disposition of the company s assets that could have a material effect on the
+financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or
+detect misstatements. Also, projections of any evaluation of effectiveness to future periods are
+subject to the risk that controls may become inadequate because of changes in conditions, or that
+the degree of compliance with the policies or procedures may deteriorate.
+
+In our opinion, management s assessment that the Company maintained effective internal control over
+financial reporting as of August 31, 2006, is fairly stated, in all material respects, based on the
+COSO criteria. Also, in our opinion, the Company maintained, in all material respects, effective
+internal control over financial reporting as of August 31, 2006, based on the COSO criteria.
+
+We also have audited, in accordance with the standards of Public Company Accounting Oversight Board
+(United States), the consolidated balance sheets of Robbins   Myers, Inc. and Subsidiaries as of
+August 31, 2006 and 2005 and the related consolidated statements of operations, shareholders 
+equity and cash flows for each of the three years in the period ended August 31, 2006 and our
+report dated November 10, 2006 expressed an unqualified opinion thereon.
+
+/s/ Ernst   Young LLP 
+Dayton, Ohio 
+November 10, 2006
+
+26 
+
+Table of Contents   
+
+Report of Independent Registered Public Accounting Firm 
+
+The Board of Directors and Shareholders 
+Robbins   Myers, Inc. and Subsidiaries
+
+We have audited the accompanying consolidated balance sheets of Robbins   Myers, Inc. and
+Subsidiaries as of August 31, 2006 and 2005, and the related consolidated statements of operations,
+shareholders  equity and cash flows for each of the three years in the period ended August 31,
+2006. These financial statements are the responsibility of the Company s management. Our
+responsibility is to express an opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight
+Board (United States). Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement. An
+audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the
+financial statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in all material
+respects, the consolidated financial position of Robbins   Myers, Inc. and Subsidiaries at August
+31, 2006 and 2005 and the consolidated results of their operations and their cash flows for each of
+the three years in the period ended August 31, 2006, in conformity with U.S. generally accepted
+accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight
+Board (United States), the effectiveness of Robbins   Myers, Inc. and Subsidiaries  internal
+control over financial reporting as of August, 31, 2006, based on criteria established in Internal
+Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway
+Commission and our report dated November 10, 2006 expressed an unqualified opinion thereon.
+
+/s/ Ernst   Young LLP 
+Dayton, Ohio 
+November 10, 2006
+
+27 
+
+Table of Contents   
+
+CONSOLIDATED BALANCE SHEET  
+Robbins   Myers, Inc. and Subsidiaries 
+(In thousands, except share data)
+
+See Notes to Consolidated Financial Statements
+
+28 
+
+Table of Contents   
+
+CONSOLIDATED SHAREHOLDERS  EQUITY STATEMENT  
+Robbins   Myers Inc. and Subsidiaries 
+(In thousands, except share and per share data)
+
+See Notes to Consolidated Financial Statements
+
+29 
+
+Table of Contents   
+
+CONSOLIDATED STATEMENT OF OPERATIONS  
+Robbins   Myers, Inc. and Subsidiaries 
+(In thousands, except per share data)
+
+See Notes to Consolidated Financial Statements
+
+30 
+
+Table of Contents   
+
+CONSOLIDATED CASH FLOW STATEMENT  
+Robbins   Myers, Inc. and Subsidiaries 
+(In thousands)
+
+See Notes to Consolidated Financial Statements
+
+31 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+Robbins   Myers, Inc. and Subsidiaries
+
+NOTE 1   SUMMARY OF ACCOUNTING POLICIES 
+
+Consolidation 
+
+The consolidated financial statements include the accounts of Robbins   Myers, Inc. ( we,   us, 
+ our ) and all of its subsidiaries in which a controlling interest is maintained. Controlling
+interest is determined by majority ownership interest and the absence of substantive third-party
+participation rights. For these consolidated subsidiaries where our ownership is less than 100%,
+the other shareholders  interests are shown as Minority Interest. All significant intercompany
+accounts and transactions have been eliminated upon consolidation. We produce and sell original and
+used equipment and aftermarket parts for a variety of markets including energy, industrial,
+chemical and pharmaceutical.
+
+Use of Estimates 
+
+The preparation of financial statements in conformity with accounting principles generally accepted
+in the United States requires us to make estimates and assumptions that affect the amounts reported
+in the consolidated financial statements and accompanying notes. Actual results could differ from
+those estimates.
+
+Accounts Receivable 
+
+Accounts receivable relate primarily to customers located in North America and Western Europe and
+are concentrated in the pharmaceutical, specialty chemical and oil and gas markets. To reduce
+credit risk, we perform credit investigations prior to accepting an order and, when necessary,
+require letters of credit to insure payment.
+
+Our estimate for uncollectible accounts receivable is based upon an analysis of our prior
+collection experience, specific customer creditworthiness and current economic trends within the
+industries we serve. In circumstances where we are aware of a specific customer s inability to meet
+its financial obligation to us (e.g., bankruptcy filings or substantial downgrading of credit
+ratings), we record a specific reserve to reduce the receivable to the amount we reasonably believe
+will be collected. For all other customers, we recognize reserves for bad debts based on the length
+of time that the receivables are past due.
+
+Inventories 
+
+Inventories are stated at the lower of cost or market determined by the last-in, first-out ( LIFO )
+method in the U.S. and the first-in, first-out ( FIFO ) method outside the U.S. Inventory valuation
+reserves are determined based on our assessment of the market conditions for our products and the
+on hand quantities of inventory in relation to historical usage.
+
+Goodwill and Other Intangible Assets 
+
+Goodwill is the excess of the purchase price paid over the value of net assets of businesses
+acquired. Goodwill is not amortized, but is tested for impairment on an annual basis, or more
+frequently as impairment indicators arise, using a fair market value approach, at the reporting
+unit level. We recognize an impairment charge for any amount by which the carrying amount of an
+operating segment s goodwill exceeds its fair value. Impairment tests are performed in the first
+quarter of each year based on August 31 financial information. Losses, if any, resulting from
+impairment tests will be reflected in operating income in our Consolidated Statement of Operations.
+
+Amortization of other intangible assets is calculated on the straight-line basis using the
+following lives:
+
+Patents and trademarks
+
+14 to 17 years 
+
+Non-compete agreements
+
+3 to 5 years 
+
+Financing costs
+
+3 to 5 years 
+
+Property, Plant and Equipment 
+
+Property, plant and equipment are stated at cost. Depreciation expense is recorded over the
+estimated useful life of the asset on the straight-line method using the following lives:
+
+32 
+
+Table of Contents   
+
+Our normal policy is to expense repairs and improvements made to capital assets as incurred. In
+limited circumstances, betterments are capitalized and amortized over the estimated life of the new
+asset and any remaining value of the old asset is written off. Repairs to machinery and equipment
+must result in an addition to the useful life of the asset before the costs are capitalized.
+
+Foreign Currency Accounting 
+
+Gains and losses resulting from the settlement of a transaction in a currency different from that
+used to record the transaction are charged or credited to net income or loss when incurred.
+Adjustments resulting from the translation of non-U.S. financial statements into U.S. dollars are
+recognized in accumulated other comprehensive income or loss for all non-U.S. units.
+
+Product Warranties 
+
+Warranty obligations are contingent upon product failure rates, material required for the repairs
+and service delivery costs. We estimate the warranty accrual based on specific product failures
+that are known to us plus an additional amount based on the historical relationship of warranty
+claims to sales.
+
+Changes in our product warranty liability during the year are as follows:
+
+Consolidated Statement of Operations 
+
+Research and development costs are expensed as incurred. Research and development costs in fiscal
+2006, 2005 and 2004 were $7,799,000, $8,667,000 and $6,688,000, respectively. Shipping and handling
+costs are included in cost of sales. Advertising costs are expensed as incurred.
+
+Revenue Recognition 
+
+We recognize revenue at the time of title passage to our customer. In instances where we have
+equipment installation obligations, the revenue related to the installation service is deferred
+until installation is complete. We recognize revenue for certain longer-term contracts based on the
+percentage of completion method. The percentage of completion method requires estimates of total
+expected contract revenue and costs. We follow this method since we can make reasonably dependable
+estimates of the revenue and cost applicable to various stages of the contract. Revisions in profit
+estimates are reflected in the period in which the facts that gave rise to the revision become
+known.
+
+Income Taxes 
+
+Income taxes are provided for all items included in the Consolidated Statement of Operations
+regardless of the period when such items are reported for income tax purposes. Deferred income
+taxes reflect the net effects of temporary differences between the carrying amounts of assets and
+liabilities for financial reporting purposes and the amounts used for income tax purposes. We have
+recorded valuation allowances to reflect the estimated amount of deferred tax assets that may not
+be realized based upon our analysis of estimated future taxable income and establishment of tax
+strategies. Future taxable income, reversals of temporary differences, available carryback periods,
+the results of tax strategies and changes in tax laws could impact these estimates.
+
+Our policy is to provide U.S. income taxes on non-U.S. income when remitted to the U.S. We have not
+provided deferred taxes on the undistributed earnings of international subsidiaries because the
+earnings are deemed permanently reinvested. It is anticipated that the Company will continue to
+annually remit a portion of prospective earnings of certain international subsidiaries in the form
+of taxable dividends. The U.S. tax consequences of those dividends will be recorded when such
+dividends are paid. Since the Company intends to remit earnings from certain of its international
+subsidiaries only on a prospective basis, the Accounting Principles Board Opinion No. 23,
+ Accounting for Income Taxes , exception will continue to apply to the international subsidiaries
+accumulated earnings and profits, which aggregated $84,209,000 and $70,549,000 at August 31, 2006
+and 2005, respectively, and for earnings that the Company does not expect to remit as dividends. 
+
+Consolidated Cash Flow Statement 
+
+Cash and cash equivalents consist of cash balances and temporary investments having an original
+maturity of 90 days or less.
+
+33 
+
+Table of Contents   
+
+Fair Value of Financial Instruments 
+
+The following methods and assumptions were used by us in estimating the fair value of financial
+instruments:
+
+Cash and cash equivalents   The amounts reported approximate market value.
+
+Long-term debt   The market value of our debt is $109,031,000 at August 31, 2006 and
+$173,202,000 at August 31, 2005. These amounts are based on the terms, interest rates
+and maturities currently available to us for similar debt instruments.
+
+Foreign exchange contracts   The amounts reported are estimated using quoted market prices for
+similar instruments.
+
+Common Stock Plans 
+
+We sponsor a long-term incentive stock plan to provide for the granting of stock-based compensation
+to certain officers and other key employees. In addition, we sponsor stock option and stock
+compensation plans for non-employee directors. Under the plans, the stock option price per share
+may not be less than the fair market value per share as of the date of grant. For officers and
+other key employees, outstanding grants become exercisable over a three-year period, while options
+for non-employee directors are immediately exercisable. Prior to September 1, 2005, we accounted
+for those plans under the recognition and measurement provisions of Accounting Principles Bulletin
+Opinion No. 25,  Accounting for Stock Issued to Employees , and related Interpretations, as permitted
+by Statement of Financial Accounting Standards ( SFAS ) Statement No. 123,  Accounting for
+Stock-Based Compensation . No stock-based employee compensation cost was recognized in the
+Consolidated Statement of Operations for years ended August 31, 2005 and 2004 as all options
+granted under those plans had an exercise price equal to the market value of the underlying common
+stock on the date of grant. Effective September 1, 2005, we adopted the fair value recognition
+provisions of SFAS Statement No. 123(R),  Share-Based Payments , using the
+modified-prospective-transition method. Under that transition method, compensation cost recognized
+in fiscal 2006 included: (a) compensation cost for all share-based payments granted prior to, but
+not yet vested as of September 1, 2005, based on the grant date fair value estimated in accordance
+with the original provisions of Statement 123, and (b) compensation cost for all share-based
+payments granted subsequent to September 1, 2005, based on the grant-date fair value estimated in
+accordance with the provisions of SFAS No. 123(R). Results for the prior period have not been
+restated.
+
+As a result of adopting SFAS No. 123(R) on September 1, 2005, our loss before income taxes for the
+year ended August 31, 2006 was impacted by additional expenses of $837,000 ($519,000 after tax, or
+$0.03 per diluted share).
+
+The fair value of each stock option grant in fiscal year 2006 was estimated on the date of grant
+using a Black-Scholes-Merton option pricing model with the following weighted average assumptions:
+
+34 
+
+Table of Contents   
+
+The following table illustrates the effect on net income and net income per share if we had applied
+the fair value recognition provisions of SFAS No. 123 to options granted under our stock option
+plans in all periods presented. For purposes of this pro-forma disclosure, the value of the options
+is estimated using a Black-Scholes-Merton option-pricing formula and amortized to expense over the
+options  vesting periods.
+
+Pro-forma information regarding net (loss) income and net (loss) income per share has been
+determined as if we had accounted for stock options granted subsequent to August 31, 1995 under the
+fair value method of SFAS Statement No. 123. The fair value for these options was estimated at the
+date of grant using a Black-Scholes-Merton model with the following weighted-average assumptions
+(there were no stock options issued in fiscal 2005):
+
+Derivatives and Hedging Activities 
+
+We account for derivative instruments in accordance with Statement of Financial Accounting
+Standards ( SFAS ) No. 133,  Accounting for Derivatives and Hedging Activities,  as amended. This
+standard requires the recognition of all derivatives on the balance sheet at fair value and
+recognition of the resulting gains or losses as adjustments to earnings or other comprehensive
+income. We formally document all relationships between hedging instruments and hedged items, as
+well as our risk management objective and strategy for undertaking various hedge transactions. Our
+hedging activities are transacted only with a highly-rated institution, reducing the exposure to
+credit risk in the event of nonperformance. We use derivatives for fair value hedging purposes. For
+derivative instruments that hedge the exposure to changes in the fair value of certain fixed rate
+debt, designated as fair value hedges, the effective portion of the net gain or loss on the
+derivative instrument, as well as the offsetting gain or loss on the fixed rate debt attributable
+to the hedged risk, are recorded in current period earnings. We use swap agreements to convert a
+portion of fixed rate debt to a floating rate basis, thus hedging for changes in the fair value of
+the fixed rate debt being hedged. We have determined that this interest rate swap, designated as a
+fair value hedge, qualifies for treatment under the short-cut method of measuring effectiveness.
+Under the provisions of SFAS No. 133, this hedge is determined to be perfectly effective and there
+is no requirement to periodically evaluate effectiveness.
+
+New Accounting Pronouncement 
+
+In July 2006 the Financial Accounting Standards Board issued FASB Interpretation No. 48,
+ Accounting for Uncertainty in Income Taxes   An Interpretation of FASB Statement 109  (FIN 48).
+FIN 48 prescribes a comprehensive model for how a company should recognize, measure, present and
+disclose in its financial statements uncertain tax positions that the company has taken or expects
+to take on a tax return. FIN 48 is effective as of the beginning of fiscal years that start after
+December 15, 2006. We have not yet determined the effect on the Company s financial position or
+results of operations of complying with the provisions of FIN 48.
+
+35 
+
+Table of Contents   
+
+In September 2006 the Financial Accounting Standards Board issued FASB Statement No. 158,
+ Employers  Accounting for Defined Benefit Pension and Other Postretirement Plans   an amendment of
+FASB Statements No. 87, 88, 106, and 132(R)  (SFAS No. 158). SFAS No. 158 requires an employer to
+recognize the overfunded or underfunded status of defined benefit postretirement plans as an asset
+or liability in its Balance Sheet, and to recognize changes in that funded status in the year in
+which the changes occur through comprehensive income. An employer is required to initially
+recognize the funded status of a defined benefit postretirement plan and to provide the required
+disclosures of SFAS No. 158 as of the end of the fiscal year ending after December 15, 2006. We
+have has not yet determined the effect on the Company s financial position from complying with the
+provisions of SFAS No. 158.
+
+Reclassifications 
+
+Certain prior year amounts are reclassified to conform with the current year presentation.
+
+NOTE 2   BALANCE SHEET INFORMATION 
+
+36 
+
+Table of Contents   
+
+NOTE 3   STATEMENT OF OPERATIONS INFORMATION 
+
+Beginning with the first quarter of fiscal 2006, we reported realigned segments. The new segment
+structure is a result of a significant reorganization of management, operations and reporting that
+occurred during the first quarter of fiscal 2006. The Fluid Management segment is comprised of the
+R M Energy Systems, Moyno and Tarby product lines. The Process Solutions segment is comprised of
+the Pfaudler, Tycon Technoglass, Chemineer and Edlon product lines. The Romaco segment includes
+the Hapa and Laetus (prior to their sale) and FrymaKoruma, Noack, Siebler, Macofar, Promatic,
+Unipac, IPM, Zanchetta and Bosspak product lines.
+
+As a result of the segment realignment, the goodwill recorded as of August 31, 2005 was allocated
+to the aforementioned product lines based on their relative fair value in accordance with Statement
+of Financial Accounting Standard No. 142  Goodwill and Other Intangible Assets  ( FAS 142 ). The
+aggregate goodwill for each new segment is the sum of the reallocated goodwill for the product
+lines comprising the segment. In addition, during the first quarter and subsequent to the end of
+the first quarter, discussions about the sale of Romaco progressed and provided additional
+information regarding the fair value of Romaco. After considering the fair value of the Romaco
+segment, management determined there was an indicator of goodwill impairment under the rules of FAS
+142. Management estimated the fair value of the Romaco segment using current prices that the
+Company may receive in the potential disposition of all or parts of Romaco. Based on these
+estimates, management estimated that goodwill in the Romaco segment should be written down by
+$30,000,000. This charge was included in our first quarter earnings. A formal third-party
+appraisal was completed in the third quarter to determine the final goodwill write-down. The
+results of the appraisal determined that goodwill should be written down by an additional
+$9,174,000. This charge was included in our third quarter fiscal 2006 results.
+
+Unless
+otherwise noted, the costs mentioned below in this note were included
+on the  other (income) expense 
+ line of our Consolidated Statement of Operations in the period indicated.
+
+During fiscal 2006 and 2005, we incurred costs related to a restructuring program of our Process
+Solutions and Romaco segments. The restructuring plan was initiated to improve the profitability
+of these segments and included the following:
+
+Plant closures (one of two Process Solutions facilities in Italy, a Process Solutions
+facility in Mexico and the Unipac facility of Romaco in Italy). 
+
+Headcount reductions within the Process Solutions and Romaco segments. 
+
+Reorganization of Romaco s distribution network. 
+
+Disposition of two of Romaco (Hapa and Laetus) and one Process Solutions (Edlon
+lined-pipe and fittings) product lines. 
+
+Sale of excess facilities. 
+
+37 
+
+Table of Contents   
+
+In fiscal 2005, we sold the aforementioned closed Italian facilities, sold the inventory and
+equipment related to our Edlon lined-pipe and fittings product line, and reduced total headcount by
+approximately 250 employees. We recorded restructuring costs in fiscal 2005 totaling $3,684,000 in
+the Process Solutions segment and $4,279,000 in the Romaco segment. The costs in fiscal 2005
+included $1,130,000 to write-down inventory and $408,000 to write-off intangibles related to
+discontinued product lines. The inventory charge is included in cost of sales. Cash proceeds from
+the sale of facilities and product lines were $9,732,000. The loss recognized in 2005 as a result
+of these asset sales was $2,053,000.
+
+In fiscal
+2006, we sold the Hapa and Laetus product lines. In addition, we reorganized Romaco s sales distribution
+network, sold and/or exited five Romaco and Process Solutions
+facilities, that reduced headcount by
+85 employees. We recorded restructuring costs in fiscal 2006 totaling $2,541,000 in the Process
+Solutions segment and $4,755,000 in the Romaco segment. The costs in fiscal 2006 included
+$1,127,000 to write-down inventory related to discontinued product lines. This charge is included
+in cost of sales. Offsetting the restructuring costs was a gain on the disposition of the Hapa and
+Laetus product lines of Romaco of $8,144,000. Also during the year, we sold the Edlon lined-pipe
+and fittings product line facility for $1,000,000. The loss on the disposition and other related
+costs were $1,989,000.
+
+In the second quarter of fiscal 2006 we reached an agreement to sell certain Chinese land and
+buildings, resulting in a $1,800,000 gain (before minority interest). The cash proceeds of
+$3,300,000 from the sale are expected to be received in fiscal 2007. We have moved our production
+operations to a newly constructed facility.
+
+We have reached an agreement to sell the aforementioned closed Mexico facility. We expect to close
+this sale, receive $6,000,000 cash proceeds, and record a $5,500,000 pre-tax gain in fiscal 2007.
+
+We expect to incur additional personnel termination and facility closure costs of approximately
+$2,000,000 to $3,000,000 in fiscal 2007 related to the Romaco distribution network restructuring.
+
+Following is a progression of the liability for termination benefits:
+
+In fiscal 2004, we recorded $1,378,000 of costs associated with the retirement of our former
+President and CEO and we recorded $761,000 of severance cost for approximately 20 people related to
+the closure of one of the Process Solutions facilities in Italy.
+
+Minimum lease payments 
+
+Future minimum payments, by year and in the aggregate, under non-cancellable operating leases with
+initial or remaining terms of one year or more consisted of the following at August 31, 2006:
+
+Rental expense for all operating leases in 2006, 2005 and 2004 was approximately $4,971,000,
+$5,799,000 and $4,721,000, respectively.
+
+38 
+
+Table of Contents   
+
+NOTE 4   PRODUCT LINE DISPOSITIONS 
+
+On March 31, 2006, we completed the sale of two of our Romaco product lines   Hapa and Laetus   for
+total consideration of approximately $31,000,000. We received cash proceeds of $26,900,000 with
+the remaining purchase price paid into an escrow account. The amount paid into escrow serves as
+collateral for claims by the purchaser under the terms of the Asset and Share Purchase Agreement.
+We have not recognized the cash in escrow as an asset as of August 31, 2006. This will be
+recognized as an asset and additional gain, if any, when the final payment from escrow is
+determinable. Hapa and Laetus had combined sales of approximately $42,000,000 for our fiscal year
+ended August 31, 2005. The sale generated a pre-tax gain of $8,144,000 ($7,017,000 after-tax gain,
+or $0.47 per diluted share). The cash proceeds were used to pay off the $12,332,000 balance of our
+10.00% Subordinated Notes and reduce our revolving credit loan.
+
+On August 31, 2005, we sold the inventory and equipment related to our Edlon lined-pipe and
+fittings product line for $8,000,000. The sale generated a loss of $131,000 ($81,000 after tax, or
+$0.01 per diluted share).
+
+NOTE 5   CASH FLOW STATEMENT INFORMATION 
+
+In fiscal 2006, we recorded the following non-cash investing and financing transactions: exchange
+of $38,914,000 of existing 8.00% convertible subordinated notes for common stock; $2,599,000
+decrease in deferred tax assets, $8,605,000 decrease in long-term liabilities, $787,000 decrease in
+pension intangible asset and $5,219,000 decrease in the minimum pension liability related to our
+pension plans; and $203,000 increase in common stock and decrease in income tax payable related to
+the tax benefits of stock options exercised.
+
+In fiscal 2005, we recorded the following non-cash investing and financing transactions:
+$3,948,000 increase in deferred tax assets, $8,691,000 increase in long-term liabilities, $505,000
+increase in pension intangible asset and $4,743,000 increase in the minimum pension liability
+related to our pension plans; and $112,000 increase in common stock and decrease in income tax
+payable related to the tax benefits of stock options exercised.
+
+In fiscal 2004, we recorded the following non-cash investing and financing transactions:
+$2,450,000 increase in deferred tax assets, $7,842,000 increase in long-term liabilities, $838,000
+increase in pension intangible asset and $4,554,000 increase in the minimum pension liability
+related to our pension plans; and $176,000 increase in common stock and decrease in income tax
+payable related to the tax benefits of stock options exercised.
+
+Supplemental cash flow information consisted of the following:
+
+39 
+
+Table of Contents   
+
+NOTE 6 GOODWILL AND OTHER INTANGIBLE ASSETS 
+
+Changes in the carrying amount of goodwill by operating segment are as follows:
+
+In fiscal 2006, we were able to utilize certain net operating loss (NOL) carryforwards and deferred
+tax assets that existed at the purchase date of Romaco. No value was allocated to these items in
+the opening balance sheet of Romaco; therefore the utilization of these items is recorded as a
+reduction to goodwill. The reduction of goodwill was $1,859,000 in fiscal 2006. In fiscal 2006 we
+also reduced a tax accrual that was provided in the opening balance of Romaco. The reduction was
+$3,632,000 and was recorded as a reduction to goodwill.
+
+Information regarding our other intangible assets is as follows:
+
+We estimate that amortization expense will be approximately $2,300,000 for each of the next five
+years.
+
+40 
+
+Table of Contents   
+
+NOTE 7   LONG-TERM DEBT 
+
+Our Bank Credit Agreement ( Agreement ) provides that we may borrow on a revolving credit basis up
+to a maximum of $50,000,000. All outstanding amounts under the Agreement are due and payable on
+November 30, 2007. Interest is variable based upon formulas tied to LIBOR or prime, at our option,
+and is payable at least quarterly. Indebtedness under the Agreement is secured by accounts
+receivable, inventory, equipment and fixtures of our U.S. subsidiaries, the pledge of the stock of
+our U.S. subsidiaries and the pledge of the stock of certain non-U.S. subsidiaries. Under this
+Agreement and other lines of credit, we had $50,000,000 of unused borrowing capacity. However, due
+to our financial covenants and outstanding standby letters of credit, we could only incur
+additional indebtedness of $28,920,000 at August 31, 2006. We had $21,080,000 of standby letters of
+credit outstanding at August 31, 2006. These standby letters of credit are used as security for
+advance payments received from customers and future payments to our vendors.
+
+We had $100,000,000 of Senior Notes ( Senior Notes ) issued in two series. Series A in the
+principal amount of $70,000,000 has an interest rate of 6.76% and is due May 1, 2008, and Series B
+in the principal amount of $30,000,000 has an interest rate of 6.84% and is due May 1, 2010.
+Interest is payable semi-annually on May 1 and November 1.
+
+The above agreements have certain restrictive covenants including limitations on cash dividends,
+treasury stock purchases, acquisitions, capital expenditures and thresholds for interest coverage
+and leverage ratios. The amount of cash dividends and treasury stock purchases, other than in
+relation to stock option exercises, we may incur in each fiscal year is restricted to the greater
+of $3,500,000 or 50% of our consolidated net income for the immediately preceding fiscal year, plus
+a portion of any unused amounts from the preceding fiscal year.
+
+Our other debt consisted primarily of unsecured non-U.S. bank lines of credit and secured mortgages
+with interest rates ranging from 4.00% to 8.00%.
+
+We have an interest rate swap agreement. The interest rate swap agreement utilized by us
+effectively modifies our exposure to interest rate risk by converting our fixed rate debt to
+floating rate debt. This agreement involves the receipt of fixed rate amounts in exchange for
+floating rate interest payments over the life of the agreement without an exchange of underlying
+principal amounts. The mark-to-market values of both the fair value hedging instrument and the
+underlying debt obligation were equal and recorded as offsetting gains and losses in current period
+earnings. The fair value hedge qualifies for treatment under the short-cut method of measuring
+effectiveness. As a result, there is no impact on earnings due to hedge ineffectiveness. The
+interest rate swap agreement totals $30,000,000, expires in 2008 and allows us to receive an
+interest rate of 6.76% and pay an interest rate based on LIBOR.
+
+41 
+
+Table of Contents   
+
+Aggregate principal payments of long-term debt, for the five years subsequent to August 31, 2006,
+are as follows:
+
+NOTE 8   RETIREMENT BENEFITS 
+
+We sponsor two defined contribution plans covering most U.S. salaried employees and certain U.S.
+hourly employees. Contributions are made to the plans based on a percentage of eligible amounts
+contributed by participating employees. We also sponsor several defined benefit plans covering
+certain employees. Benefits are based on years of service and employees  compensation or stated
+amounts for each year of service. Our funding policy is consistent with the funding requirements of
+applicable regulations. At August 31, 2006 and 2005, pension assets included 171,700 and 207,400
+shares respectively, of our common stock.
+
+In addition to pension benefits, we provide health care and life insurance benefits for certain of
+our retired U.S. employees. Our policy is to fund the cost of these benefits as claims are paid.
+
+Retirement and other post-retirement plan costs are as follows:
+
+42 
+
+Table of Contents   
+
+The benefit obligation, funded status and amounts recorded in the balance sheet at August 31, are
+as follows:
+
+Pension plans with accumulated ( ABO ) and projected ( PBO ) benefit obligations in excess of plan
+assets:
+
+43 
+
+Table of Contents   
+
+In 2006 and 2005, $40,913,000 and $39,975,000, respectively, of the unfunded ABO and $43,399,000
+and $42,366,000, respectively, of the unfunded PBO related to our pension plan for our German
+operation. Funding of pension obligations is not required in Germany.
+
+The weighted allocations of pension plan assets at August 31, 2006 and 2005 are shown in the
+following table.
+
+At August 31, 2006, our target allocation percentages for plan assets were approximately 65% equity
+securities and 35% debt securities. The targets may be adjusted periodically to reflect current
+market conditions and trends as well as inflation levels, interest rates and the trend thereof, and
+economic and monetary policy. The objective underlying this allocation is to achieve a long-term
+rate of return of 5.75% above inflation.
+
+The expected long-term rates of return on plan assets for purposes of determining pension expense
+were 8.00% in 2006, 8.25% in 2005 and 8.50% in 2004. We will use an 8.00% rate in 2007. Expected
+rates of return are developed based on the target allocation of debt and equity securities and on
+the historical returns on these types of investments judgmentally adjusted to reflect current
+expectations based on historical experience of the plan s investment managers. In evaluating future
+returns on equity securities, the existing portfolio is stratified to separately consider large and
+small capitalization investments as well as international and other types of securities.
+
+We expect to make future benefits payments from our benefit plans as follows:
+
+44 
+
+Table of Contents   
+
+The actuarial weighted average assumptions used to determine plan liabilities at August 31, are as
+follows:
+
+The actuarial weighted average assumptions used to determine plan costs are as follows (measurement
+date September 1):
+
+The assumed health care trend rate has a significant effect on the amounts reported for health care
+benefits. A one-percentage point change in assumed health care rate would have the following
+effects:
+
+45 
+
+Table of Contents   
+
+NOTE 9   INCOME TAXES 
+
+Deferred income taxes reflect the net effects of temporary differences between the carrying amounts
+of assets and liabilities for financial reporting purposes and the amounts used for income tax
+purposes.
+
+The tax credit carryforwards, which primarily relate to foreign tax credits, begin to expire in
+fiscal 2012. The primary components of the net operating loss carryforwards exist in Germany, Italy
+and the Netherlands. There are no expiration dates on the net operating loss carryforwards in
+Germany and the Netherlands. The net operating loss carryforwards in Italy begin to expire in
+fiscal 2007.
+
+46 
+
+Table of Contents   
+
+Expense (in thousands) 
+
+A summary of the differences between the effective income tax rate attributable to operations and
+the statutory rate is as follows:
+
+NOTE 10   COMMON STOCK 
+
+We sponsor a long-term incentive stock plan to provide for the granting of stock-based compensation
+to officers and other key employees. In addition, we sponsor stock option and stock compensation
+plans for non-employee directors. Under the plans, the stock option price per share may not be less
+than the fair
+market value per share as of the date of grant. For officers and other key employees, outstanding
+grants become exercisable over a three-year period, while options for non-employee directors are
+immediately exercisable. Proceeds from the sale of stock issued under option arrangements are
+credited to common stock.
+
+47 
+
+Table of Contents   
+
+Summaries of amounts issued under the stock option plans are presented in the following tables.
+
+Stock option activity 
+
+Components of outstanding stock options at August 31, 2006 
+
+Components of exercisable stock options at August 31, 2006 
+
+We also sponsor a long-term incentive stock plan. Under this plan, selected participants receive
+performance units which convert into a variable number of restricted shares based on (i) a three
+year measurement of how favorably the total return on our shares compares to the total shareholder
+return of selected peer companies ( Group ) or (ii) absolute measures based on earnings per share
+and return on assets. The restricted shares earned range from 50% to 200% of the performance units
+awarded. The threshold is earned (i) when our return is at the 50th percentile of total shareholder
+return of the Group
+
+48 
+
+Table of Contents   
+
+and 200% is earned when our return is at the 80th percentile or greater or (ii)
+based on the earnings and return on assets compared to targets. Restricted shares earned under the
+program are issued to the participants at the end of the three-year measurement period and are
+subject to forfeit if the participant leaves our employment within the following two years. For the
+performance period ended August 31, 2006, $1,207,000 of performance units were earned ($0 earned in
+fiscal 2005).
+
+As of August 31, 2006 we had $1,798,000 of compensation expense not yet recognized related to
+nonvested stock awards. The weighted-average period that this compensation cost will be recognized
+is eighteen months.
+
+Total after tax compensation expense included in net income for all stock based awards was
+$1,096,000, $452,000 and $216,000 for fiscal years 2006, 2005 and 2004, respectively.
+
+NOTE 11   NET INCOME PER SHARE 
+
+The following table sets forth the computation of basic and diluted net (loss) income per share:
+
+NOTE 12   BUSINESS SEGMENTS AND GEOGRAPHIC INFORMATION 
+
+In fiscal 2006, we realigned our reportable business segments. The new structure consists of three
+market-focused segments: Fluid Management, Process Solutions and Romaco. The amounts presented for
+fiscal 2005 and 2004 reflect this realignment.
+
+Fluid Management . Our Fluid Management business segment designs, manufactures and markets equipment
+and systems used in oil and gas exploration and recovery, specialty chemical, wastewater treatment
+and a variety of other industrial applications. Primary brands are Moyno   , Tarby    and Hercules   .
+Our products and systems include hydraulic drilling power sections; down-hole and industrial pumps
+for applications involving the flow of viscous, abrasive and solid-laden slurries and sludge; and a
+broad line of ancillary equipment, such as rod guides, rod and tubing rotators, wellhead systems,
+pipeline
+closure products and valves. These products and systems are used at the wellhead and in subsurface
+drilling and production.
+
+Process Solutions . Our Process Solutions business segment designs, manufactures and services
+glass-lined reactors and storage vessels, standard and customized fluid-agitation equipment and
+systems and customized fluoropolymer-lined fittings, vessels and accessories, primarily for the
+pharmaceutical and fine chemical markets. Primary brands are Pfaudler   , Tycon-Technoglass   ,
+Chemineer    and Edlon   .
+
+49 
+
+Table of Contents   
+
+Romaco . Romaco designs, manufacturers and markets packaging and secondary processing equipment for
+the pharmaceutical, healthcare, nutriceutical and cosmetics industries. Packaging applications
+include dosing, filling and sealing of vials, capsules, tubes, bottles and blisters, as well as
+customized packaging. Primary brands are Noack   , Siebler    and FrymaKoruma   .
+
+We evaluate performance and allocate resources based on Income before Interest and Taxes ( EBIT ).
+Identifiable assets by business segment include all assets directly identified with those
+operations. Corporate assets consist mostly of cash and intangible assets. The accounting policies
+of the reportable segments are the same as those described in the summary of significant accounting
+policies except that we account for U.S. inventory on a FIFO basis at the segment level compared to
+a LIFO basis at the consolidated level.
+
+The following tables provide information about our reportable business segments.
+
+50 
+
+Table of Contents   
+
+Information about our operations in different geographical regions is presented below. Our primary
+operations are in the U.S. and Europe. Sales are attributed to countries based on the location of
+the customer.
+
+51 
+
+Table of Contents   
+
+NOTE 13   QUARTERLY DATA (UNAUDITED) 
+
+52 
+
+Table of Contents   
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None.
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+
+Evaluation of Disclosure Controls and Procedures 
+
+Management, including our Chief Executive Officer (CEO) and Chief Financial Officer (CFO),
+conducted an evaluation of the effectiveness of the design and operation of our  disclosure
+controls and procedures  (Disclosure Controls) as of August 31, 2006. Based upon this evaluation,
+our CEO and CFO have concluded that the design and operation of our disclosure controls and
+procedures were effective as of August 31, 2006.
+
+Disclosure Controls are controls and procedures designed to reasonably assure that information
+required to be disclosed in our reports filed under the Exchange Act, such as this Form 10-K, is
+recorded, processed, summarized and reported within the time periods specified in the U.S.
+Securities and Exchange Commission s (SEC) rules and forms. Disclosure Controls are also designed
+to reasonably assure that such information is accumulated and communicated to our management,
+including our CEO and CFO, as appropriate to allow timely decisions regarding required disclosure.
+Our quarterly evaluation of Disclosure Controls includes an evaluation of some components of our
+internal control over financial reporting, and internal control over financial reporting is also
+separately evaluated on an annual basis for purposes of providing the management report which is
+set forth below.
+
+Management Report on Internal Control Over Financial Reporting 
+
+Our management is responsible for establishing and maintaining adequate internal control over
+financial reporting to provide reasonable assurance regarding the reliability of our financial
+reporting and the preparation of financial statements for external purposes in accordance with
+generally accepted accounting principles. Internal control over financial reporting includes those
+policies and procedures that:
+
+Pertain to the maintenance of records that in reasonable detail accurately and fairly
+reflect the transactions and dispositions of the assets of the Company; 
+
+Provide reasonable assurance that transactions are recorded as necessary to permit
+preparation of financial statements in accordance with generally accepted accounting
+principles, and that receipts and expenditures of the Company are being made only in
+accordance with authorizations of management and directors of the Company; and 
+
+Provide reasonable assurance regarding prevention or timely detection of unauthorized
+acquisition, use or disposition of the Company s assets that could have a material effect
+on the financial statements. 
+
+Management assessed our internal control over financial reporting as of August 31, 2006, the end of
+our fiscal year. Management based its assessment on criteria established in Internal
+Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway
+Commission (COSO). Management s assessment included evaluation of such elements as the design and
+operating effectiveness of key financial reporting controls, process documentation, accounting
+policies, and our overall control environment. Based on our evaluation, our management concluded
+that our internal control over financial reporting was effective as of August 31, 2006. Our
+independent registered public accounting firm, Ernst   Young LLP, audited management s assessment
+and independently assessed the effectiveness of the Company s internal control over financial
+reporting. Ernst   Young LLP has issued an attestation report concurring with management s
+assessment, which is included at Part II, Item 8 of this Form 10-K.
+
+53 
+
+Table of Contents   
+
+Changes in Internal Control over Financial Reporting 
+
+There have been no changes in our internal control over financial reporting during the fiscal
+quarter ended August 31, 2006 that have materially affected, or are reasonably likely to materially
+affect, our internal control over financial reporting.
+
+ITEM 9B .  OTHER INFORMATION 
+
+None.
+
+54 
+
+Table of Contents   
+
+PART III 
+
+ITEM
+10 .  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT 
+
+Information Concerning Directors and Executive Officers 
+
+The information required by this item relating to directors and executive officers of the Company,
+the Company s Audit Committee and Section 16(a) Compliance is incorporated herein by reference to
+that part of the information under  Election of Directors,   Security Ownership  and  Section 16
+Beneficial Ownership Reporting Compliance  in the Company s Proxy Statement for its Annual Meeting
+of Shareholders scheduled to be held on January 10, 2007. Certain information concerning executive
+officers of the Company appears under  Executive Officers of the
+Registrant  at Part I of this
+Report.
+
+Code of Ethics 
+
+The Company has a Code of Business Conduct (the  Code ) that applies to all employees, executive
+officers and directors of the Company. A copy of the Code is posted on the Company s website. The
+Code also serves as a code of ethics for the Company s chief executive officer, principal financial
+officer, principal accounting officer, controller, or any person performing similar functions (the
+ Senior Officers ). Any waiver of any provision of the Code granted to a Senior Officer may only be
+granted by the full Board of Directors or its Audit Committee. If a waiver is granted, information
+concerning the waiver will be posted on the Company s website
+ www.robn.com  for a period of 12
+months.
+
+Audit Committee Financial Expert 
+
+The Company s Board of Directors has determined that at least one person serving on its audit
+committee is an  audit committee financial expert  as defined under Item 401(h) of Regulation S-K.
+Mr. Dale L. Medford, a member of the audit committee, is an audit committee financial expert and is
+independent as that term is used in the Item 7(d) (3) (iv) of the Schedule 14A under the Exchange
+Act.
+
+ITEM 11 .  EXECUTIVE COMPENSATION 
+
+The information required by this Item 11 is incorporated herein by reference to the Proxy Statement
+for our Annual Meeting of Shareholders on January 10, 2007.
+
+55 
+
+Table of Contents   
+
+ITEM 12 . 
+       
+      SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS  
+
+The following table shows certain information as of August 31, 2006 with respect to compensation
+plans under which common shares of the Company are authorized for issuance:
+
+Equity Compensation Plan Information 
+
+(c) 
+
+Number of Common 
+
+(a) 
+
+Shares remaining 
+
+Number of Common 
+       
+     (b) 
+       
+     available for future 
+
+Shares to be issued 
+       
+     Weighted-average 
+       
+     issuance under equity 
+
+upon exercise of 
+       
+     exercise price of 
+       
+     compensation plans 
+
+outstanding options, 
+       
+     outstanding options, 
+       
+     (excluding securities 
+
+warrants and rights 
+       
+     warrants and rights 
+       
+     reflected in column (a)) 
+
+Equity compensation
+plans approved by
+security holders
+
+714,934 
+
+$ 
+     24.44 
+
+1,120,000 
+
+Equity compensation
+plans not approved
+by security holders
+
+0 
+
+0 
+
+0 
+
+Total
+
+714,934 
+
+$ 
+     24.44 
+
+1,120,000 
+
+The other information required by this Item 12 is incorporated herein by reference to the Proxy
+Statement for our Annual Meeting of Shareholders on January 10, 2007.
+
+ITEM 13 .  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS 
+
+The information required by this Item 13 is incorporated herein by reference to the Proxy Statement
+for our Annual Meeting of Shareholders on January 10, 2007.
+
+ITEM 14.   PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+
+The information required by this Item 14 is incorporated herein by reference to the Proxy Statement
+for our Annual Meeting of Shareholders on January 10, 2007.
+
+56 
+
+Table of Contents   
+
+PART IV 
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+
+(a)(1) FINANCIAL STATEMENTS
+
+The following consolidated financial statements of Robbins   Myers, Inc. and its subsidiaries are at Item 8 hereof.
+
+Consolidated Balance Sheet   August 31, 2006 and 2005. 
+
+Consolidated Statement of Operations   Years ended August 31, 2006, 2005, and 2004. 
+
+Consolidated Shareholders  Equity Statement   Years ended August 31, 2006, 2005, and 2004. 
+
+Consolidated Cash Flow Statement   Years ended August 31, 2006, 2005, and 2004. 
+
+Notes to Consolidated Financial Statements. 
+
+(a)(2) FINANCIAL STATEMENT SCHEDULE
+
+Schedule II     Valuation and Qualifying Accounts 
+
+All other schedules are omitted because they are not applicable, or not required, or because the
+required information is included in the consolidated financial statements or notes thereto.
+
+(a) (3) EXHIBITS. See INDEX to EXHIBITS.
+
+57 
+
+Table of Contents   
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, Robbins
+  Myers, Inc. has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized, on this 14th day of November, 2006.
+
+ROBBINS   MYERS, INC. 
+
+BY   
+
+      /s/ Peter C. Wallace
+
+Peter C. Wallace  
+
+President and Chief Executive Officer  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this Report has been signed
+below by the following persons on behalf of Robbins   Myers, Inc. and in the capacities and on the
+date indicated:
+
+*The undersigned, by signing his name hereto, executes this Report on Form 10-K for the year ended
+August 31, 2006 pursuant to powers of attorney executed by the above-named persons and filed with
+the Securities and Exchange Commission.
+
+/s/ Peter C. Wallace
+
+Peter C. Wallace  
+
+Their Attorney-in-fact  
+
+58 
+
+Table of Contents   
+
+SCHEDULE II   VALUATION AND QUALIFYING ACCOUNTS
+
+Note (1) Represents accounts receivable
+written off against the reserve, and impact from dispositions of
+$200,000 in fiscal 2006. 
+
+Note (2) Inventory items scrapped and
+written off against the reserve, and impact from dispositions of $2,800,000 in fiscal 2006. 
+
+Note (3) Warranty cost incurred applied against the reserve, and impact from dispositions of $970,000 in fiscal 2006. 
+
+Note (4) Spending against casualty reserve. 
+
+Note (5) Spending against restructure reserve. 
+
+59 
+
+Table of Contents   
+
+INDEX TO EXHIBITS
+
+(3) 
+       
+     ARTICLES OF INCORPORATION AND BY-LAWS: 
+
+3.1 
+
+Amended Articles of Incorporation of Robbins   Myers, Inc.
+were filed as Exhibit 3.1 to our Report on Form 10-Q
+for the quarter ended February 28, 1998
+
+* 
+
+3.2 
+
+Code of Regulations of Robbins   Myers, Inc. was filed
+as Exhibit 3.2 to our Annual Report on Form 10-K
+for the year ended August 31, 2001
+
+* 
+
+(4) 
+       
+     INSTRUMENTS DEFINING THE RIGHTS OF SECURITY HOLDERS, INCLUDING INDENTURES: 
+
+4.1 
+
+Third Amended and Restated Credit Agreement dated
+October 7, 2003 among Robbins   Myers, Inc., the
+Lenders named therein, Bank One, N.A. as Administrative
+Agent and Issuing Bank, Harris Trust and Savings Bank,
+as Co-Syndication Agent, National City Bank, as
+Co-Syndication Agent, Wachovia Bank, N.A., as
+Co-Documentation Agent and The Bank of Nova Scotia, as
+Co-Documentation Agent and Issuing Bank, was filed as
+Exhibit 4.1 to our Annual Report on Form 10-K for the year
+ended August 31, 2003
+
+* 
+
+4.2 
+
+Amendment No.1 dated April 21, 2004 to the Third Amended and
+Restated Credit Agreement dated as of October 7, 2003,
+by and among Robbins   Myers Inc., Robbins   Myers
+Finance B.V., and Bank One, N.A., individually and as
+administrative agent, and the other financial institutions
+named therein was filed as exhibit 10.1 to our Report on
+Form 10-Q for the quarter ended May 31, 2004
+
+* 
+
+4.3 
+
+Amended and Restated Pledge and Security Agreement between
+Robbins   Myers, Inc. and Bank One, Dayton, N.A.,
+dated May 15, 1998, was filed as Exhibit 4.2 to our Report
+on Form 10-K for the year ended August 31, 2003
+
+* 
+
+4.4 
+
+Fourth Amended and Restated Credit Agreement, dated
+December 23, 2005, among Robbins   Myers, Inc.,
+Robbins   Myers Finance Europe B.V., the Lenders
+named in the Amended Agreement and JPMorgan
+Chase Bank, N.A., as Administrative Agent and an
+Issuing Bank was filed as an Exhibit to our Current
+Report on Form 8-K filed on December 28, 2005
+
+* 
+
+4.4 
+
+Form of $100 million senior note agreement dated May 1, 1998
+was filed as Exhibit 4.1 to our Report on Form 10-Q for
+the quarter ended May 31, 1998
+
+* 
+
+60 
+
+Table of Contents   
+
+61 
+
+Table of Contents   
+
+10.12 
+
+Letter Agreement between Robbins   Myers, Inc. and
+Christopher M. Hix, dated July 17, 2006 was filed as an
+Exhibit to our Current Report on Form 8-K filed on
+July 17, 2006
+
+*/M 
+
+10.13 
+
+Employment Agreement between Robbins   Myers, Inc. and
+Peter C. Wallace, dated June 28, 2006 was filed as an
+Exhibit to our Current Report on Form 8-K filed on
+June 29, 2006
+
+*/M 
+
+10.14 
+
+Form of Executive Officer Change of Control Agreement
+approved June 28, 2006 entered into with each of
+John R. Beatty, Gary S. Brewer, Kevin J. Brown,
+Christopher M Hix, and Saeid Rahimian was filed as
+an Exhibit to our Current Report on Form 8-K filed on
+June 29, 2006
+
+*/M 
+
+10.15 
+
+Executive Supplemental Retirement Plan, effective August 31, 2006,
+was filed as an Exhibit to our Current Report on Form 8-K filed on
+June 29, 2006
+
+*/M 
+
+10.16 
+
+Asset and Share Purchase Agreement, dated February 28, 2006,
+among Robbins   Myers, Inc., Romaco International B.V.,
+and Romaco Pharmatechnik GmbH and Coesia, S.p.A. was
+filed as an Exhibit to our Current Report on Form 8-K filed on
+March 3, 2006
+
+* 
+
+10.17 
+
+Form of Option Award Agreement under Robbins   Myers, Inc.
+2004 Stock Incentive Plan approved by the Compensation
+Committee of Board of Directors of Robbins   Myers, Inc. on
+October 6, 2005 was filed as an Exhibit to our Current Report
+on Form 8-K filed on October 11, 2005
+
+*/M 
+
+10.18 
+
+Form of Award Agreement for Restricted Share Award under
+Robbins   Myers, Inc. 2004 Stock Incentive Plan approved
+by the Compensation Committee of Board of Directors of
+Robbins   Myers, Inc. on October 6, 2005 was filed as an
+Exhibit to our Current Report on Form 8-K filed on
+October 11, 2005
+
+*/M 
+
+10.19 
+
+Award Agreement for Special Restricted Share Award to
+Peter C. Wallace under Robbins   Myers, Inc. 2004
+Stock Incentive Plan approved by the Compensation
+Committee of Board of Directors of Robbins   Myers, Inc.
+on October 6, 2005 was filed as an Exhibit to our Current
+Report on Form 8-K filed on October 11, 2005
+
+*/M 
+
+10.20 
+
+Award Agreement for Special Restricted Share Award to Saeid
+Rahimian under Robbins   Myers, Inc. 2004 Stock Incentive
+Plan approved by the Compensation Committee of Board of
+Directors of Robbins   Myers, Inc. on October 6, 2005 was
+filed as an Exhibit to our Current Report on Form 8-K filed
+on October 11, 2005
+
+*/M 
+
+62 
+
+Table of Contents   
+
+10.21 
+
+Award Agreement for Performance Share Award to Peter C.
+Wallace under Robbins   Myers, Inc. 2004 Stock Incentive
+Plan approved by the Compensation Committee of Board of
+Directors of Robbins   Myers, Inc. on October 6, 2005 was
+filed as an Exhibit to our Current Report on Form 8-K filed on
+October 11, 2005
+
+*/M 
+
+(14) 
+       
+     CODE OF CONDUCT 
+
+14.1 
+
+Robbins   Myers, Inc. Code of Business Conduct
+
+F 
+
+(21) 
+       
+     SUBSIDIARIES OF THE REGISTRANT 
+
+21.1 
+
+Subsidiaries of Robbins   Myers, Inc.
+
+F 
+
+(23) 
+
+CONSENTS OF EXPERTS AND COUNSEL 
+
+23.1 
+
+Consent of Ernst   Young LLP 
+     F 
+
+(24) 
+       
+     POWER OF ATTORNEY 
+
+24.1 
+
+Powers of Attorney of any person who signed this Report on
+Form 10-K on behalf of another pursuant to a Power
+of attorney
+
+F 
+
+(31) 
+       
+     RULE 13A 14(A) CERTIFICATIONS 
+
+31.1 
+
+Rule 13a-14(a) CEO Certification
+
+F 
+
+31.2 
+
+Rule 13a-14(a) CFO Certification
+
+F 
+
+(32) 
+       
+     SECTION 1350 CERTIFICATIONS 
+
+32.1
+
+Section 1350 CEO Certification
+
+F 
+
+32.2
+
+Section 1350 CFO Certification
+
+F 
+
+F 
+
+Indicates Exhibit is being filed with this Report. 
+
+* 
+
+Indicates that Exhibit is incorporated by reference in this Report from a
+previous filing with the Commission. Unless otherwise indicated, all
+incorporated items are
+incorporated from SEC File No. 000-288. 
+
+R  
+       
+      Instrument with respect to indebtedness that does not exceed 10% of the
+company s total assets which is not being filed, but will be furnished to the
+Commission upon its request. 
+
+M   
+
+Indicates management contract or compensatory arrangement. 
+
+C 
+
+Confidential treatment granted as to certain portions, which have been
+filed separately with the Securities and Exchange Commission. 
+
+63 
+
+<EX-14.1>
+ 2
+ l23212aexv14w1.htm
+ EX-14.1 CODE OF CONDUCT
+
+EX-14.1 
+
+Exhibit 14.1 
+
+ROBBINS   MYERS, INC. 
+
+CODE OF BUSINESS CONDUCT  
+
+I.    GENERAL POLICY STATEMENT.  
+
+It has been, and continues to be, the policy of Robbins   Myers, Inc. and its subsidiaries to
+comply with all laws governing its United States and International operations, to adhere to the
+highest standards of business ethics and to maintain a reputation for honest and fair dealings.
+
+This Code of Business Conduct sets forth basic principles and guidelines for directors,
+officers and employees which are intended to assist them in conducting the Company s affairs and
+business in accordance with law and the highest standards of business ethics. It is impossible,
+however, to anticipate all the situations in which legal and business ethical questions might
+arise. The best overall guidelines are individual conscience, common sense and a careful, knowing
+compliance with law. All employees, and especially supervisors, should be familiar with the
+principles and guidelines contained in this Code and should conduct their activities on behalf of
+the Company in accordance with this Code.
+
+The Company has designated several persons to assist employees in resolving questions they may
+have regarding the interpretation and application of the Code. The Company has also specified a
+procedure for employees to report any concerns they may have in regard to the Code on an anonymous
+basis. Employees should not hesitate to take advantage of this help and assistance. At Section
+XIV of the Code is a list of the persons to contact and the procedure for anonymous inquiries and
+reporting.
+
+II.    DEFINITIONS.  
+
+Code  means this Code of Business Conduct.
+
+Committee  means the Corporate Compliance Committee. The Committee shall be comprised of
+four persons who shall, from time-to-time, be appointed by, and serve at the pleasure of, the
+President of the Company. Unless the President determines otherwise, the members of the Committee
+shall be the Vice President, Finance; the Vice President, Human Resources; the Company s legal
+counsel; and an executive designated by the President.
+
+The Committee shall have and exercise all of the authority granted to it under the Code, shall
+administer, implement and interpret the Code, and shall be authorized to issue to employees written
+opinions as to the application and interpretation of the Code. In addition, the Committee shall be
+authorized to grant exceptions to the application of Section IV of this Code in particular
+instances provided that the employee requesting the exception discloses to the Committee all
+material facts as to the subject matter of the exception and his or her relationship to, or
+interest in, the subject matter of the exception and, provided further, that the Committee
+determines that
+
+the granting of an exception is justified by the facts and is in the best interests
+of the Company.
+The Committee shall maintain a written record of its proceedings and opinions, shall advise
+the President of the Company as to all its actions, and shall annually report to the Nominating and
+Governance Committee of the Board of Directors concerning its proceedings, including any
+exceptions, during the preceding 12 months.
+
+Company  means Robbins   Myers, Inc. and its United States and International subsidiaries.
+
+Employee  means any director, officer or employee of the Company unless the context indicates
+otherwise.
+
+Immediate family  means and includes a person s spouse, parents, grandparents, children,
+grandchildren, siblings, mother and father-in-law, sons and daughters-in-law, and brothers and
+sisters-in-law.
+
+III.    ACCURATE BOOKS AND RECORDS.  
+
+All Company payments and other transactions must be properly authorized by management and be
+accurately and completely recorded on the Company s books and records in accordance with generally
+accepted accounting principles and established Company accounting policies. Employees may not make
+any false, incomplete or misleading entries. No undisclosed or unrecorded Company funds shall be
+established for any purpose, nor should Company funds be placed in any personal or noncorporate
+account. All Company assets must be properly protected and asset records should regularly be
+compared with actual assets, with proper action taken to reconcile any variances.
+
+IV.    CONFLICTS OF INTEREST.  
+
+It is very important for all of us to avoid any actual or even any apparent conflict of
+interest. Any time any such conflict appears, or an employee believes any such conflict might
+develop, the employee should discuss the matter with his or her immediate supervisor or seek advice
+as set forth at Section XIV.
+
+Some clear conflict of interest situations which should always be avoided include the
+following:
+
+(1) any ownership interest (other than a nominal amount of stock in publicly
+traded companies) in any supplier, customer or competitor;
+
+(2) any consulting or employment relationship with any customer, supplier or
+competitor;
+
+(3) any outside business activity which is competitive with any of the
+Company s businesses;
+
+-2- 
+
+(4) any outside activity of any type which is so substantial as to call into
+question your ability to devote appropriate time and attention to your job
+responsibilities with the Company;
+
+(5) the service on any board of directors of any customer, supplier or
+competitor unless such board service has been disclosed to the Company and approved
+by the Committee;
+
+(6) being in the position of supervising, reviewing or having any influence on
+the job evaluation, pay or benefits of any member of your immediate family;
+
+(7) taking advantage of an opportunity which you learned of in the course of
+your employment with the company, such as acquiring property or leases the Company
+may be interested in;
+
+(8) selling anything to the Company or buying anything from the Company (except
+pursuant to any normal program of disposal of surplus corporate property which is
+offered to employees generally); and
+
+(9) obtaining any loan from a customer or supplier of the Company other than a
+bank; and if you are an officer of the Company, from any bank with which the Company
+does business unless a loan upon similar terms is generally available to customers
+of the bank and is disclosed to the Vice President-Finance of the Company.
+
+Anything which presents a conflict for the employee would probably also present a conflict if
+it involved a member of the employee s immediate family. For example, ownership of stock in
+competitors or suppliers, or receipt of gifts or entertainment by members of the employee s
+immediate family would create the same conflict of interest as if the stock were owned or the gifts
+received by the employee. In marginal situations, employees should discuss the situation with
+their supervisors to prevent possible misunderstandings and embarrassment at a later date.
+
+V.    ENTERTAINMENT, GIFTS AND PAYMENTS.  
+
+The Company will treat fairly and impartially all persons and firms with whom it has business
+relationships. The acceptance of gifts, entertainment, favors, personal discounts, and similar
+gratuities might influence or raise doubts as to the impartiality of the recipient, damage the
+reputation of the Company for fair dealing, and violate federal statutes where government contracts
+are involved. Misunderstandings usually can be avoided by conduct which makes clear that the
+Company and its representatives transact business on an ethical basis and will not seek or grant
+special consideration.
+
+A.  Relations with Non-Governmental Customers .
+
+-3- 
+
+Certain business courtesies, such as payment for a lunch or dinner in connection with a
+business meeting, normally would not be a gift within the context of this Code. Employees should
+endeavor to keep such courtesies on a reciprocal basis, to the extent practicable, in order to
+demonstrate that no gift is sought or granted.
+
+Advertising novelties would not be inappropriate to give or receive provided the item is of no
+appreciable value and is widely distributed to others under essentially the same business
+relationship with the donor.
+
+Our relationships with commercial customers may occasionally present circumstances where gifts
+or favors are exchanged as an accepted business practice without inference of unethical conduct.
+In certain countries local custom may dictate the exchange of gifts as a matter of courtesy.
+
+Attendance at golf outings or athletic, cultural, or community events as the guest of a
+customer or supplier or such entertaining of customers or suppliers by Company personnel if done as
+business courtesies and not in an extravagant or lavish manner is not prohibited. The acceptance
+of hunting, fishing, or week-end trips is prohibited.
+
+B.  Relations with Governmental Employees .
+
+Each agency of the federal government and many state agencies have regulations prohibiting
+agency personnel from accepting entertainment, gifts, gratuities, payments or other business
+courtesies that may be acceptable in the commercial sector. The letter and intent of such
+regulations must be complied with by all Company employees.
+
+C.  Relations with Representatives of Foreign Governments .
+
+Foreign Corrupt Practices Act . The Company will scrupulously adhere to the letter and
+spirit of the Foreign Corrupt Practices Act, which prohibits giving money or items of value to a
+foreign official, directly or through any third party, in order to (1) influence any act or
+decision of the foreign official in his or her official capacity, (2) influence the official to do
+or omit to do something in violation of his or her lawful duty, or (3) obtain, retain, or direct
+business. The Act further prohibits giving money or items of value to any person or firm when
+there is reason to believe that it will be passed on to a government official for these purposes.
+Facilitating payments, as described in the following paragraph, are not prohibited by the Foreign
+Corrupt Practices Act. All matters pertaining to this statute must be coordinated with the
+Company s legal counsel.
+
+Facilitating Payments . In some cases, where it becomes necessary to expedite or
+secure the performance of routine governmental action, employees may make small payments outside
+the United States to government employees. However, such payments may be made only (i) in nominal
+amounts (with no individual payment in excess of $250), (ii) upon the initiation of such government
+employees and (iii) where such government employees will not otherwise perform such routine action.
+The term  routine governmental action  includes actions ordinarily performed, among other things,
+in processing governmental papers (e.g. visas and shipping documents), providing mail or phone
+services, loading or unloading cargo, scheduling
+
+-4- 
+
+inspections, or obtaining permits, licenses or
+other official documents to qualify a subsidiary or affiliate to do business. The term does not
+include any action by a foreign government employee that involves a decision to award or continue
+business with the Company.
+
+VI.    POLITICAL ACTIVITY.  
+
+The Company encourages all employees to vote and be active in the political process. However,
+federal laws prohibit any use of Company funds in connection with federal elections, and there are
+similar laws in many states. Accordingly, it is against Company policy, and may also be illegal,
+for any employee to:
+
+(1) Include, directly or indirectly, any political contribution that the
+employee may desire to make on the employee s expense account or in any other way
+which causes the Company to reimburse the employee for that expense. In general,
+the cost of fund-raising tickets for political functions are considered political
+contributions. Therefore, including the cost of any such fund-raising dinner on an
+expense account, even if business is, in fact, discussed, is against Company policy
+and possibly illegal.
+
+(2) No employee may use any Company property or facilities, or the time of any
+of the Company s employees for any political activity. Examples of prohibited
+conduct would be using Company secretarial time to send invitations for political
+fund-raising events, using the Company telephone to make politically motivated
+solicitations, allowing any candidate to use any Company facilities, such as meeting
+rooms, for political purposes or to loan any Company property to anyone for use in
+connection with a political campaign.
+
+The political process has become highly regulated, and any employee who has any question about
+what is or is not proper should consult with his or her immediate supervisor or a member of the
+Committee before agreeing to do anything that could be construed as involving the Company in any
+political activity at either the federal, state or local levels, or in any foreign country.
+
+Company employees may volunteer their services for political purposes, but such services must
+be rendered on their own time. It is against Company policy and possibly illegal for the Company s
+employees to use normal working time for any political purpose.
+
+VII.    SECURITIES LAWS AND INSIDER TRADING.  
+
+It is both illegal and against Company policy for any individual (i) to profit from
+undisclosed material information relating to the Company or any company we do business with or (ii)
+to selectively disclose any confidential, material information relating to the Company. Anyone who
+is in possession of any material inside information that the Company has not yet disclosed to the
+public may not purchase or sell any of the Company s securities or selectively disclose that
+information unless such disclosure is made pursuant to a confidentiality agreement or is made to
+persons who have an obligation of confidentiality towards the Company (such as, our attorneys and
+accountants). It is also against Company policy for any individual in our
+
+-5- 
+
+Company who may have
+inside or unpublished, material information about any of our suppliers, customers, or any company
+we do business with to purchase or sell the securities of those companies. Further, it is against
+Company policy and illegal for employees to provide such information to others for the purpose of
+trading in securities.
+
+If you are uncertain about the legal rules involving your purchase or sale of any Company
+securities or any securities in companies that you are familiar with by virtue of your work for the
+Company, you should consult with a member of the Business Practice Committee or the Company s legal
+counsel before making any such purchase or sale.
+
+The Company, and all supervisory employees within the Company, also have an obligation to be
+alert to situations where others within the Company   particularly those over whom they have some
+supervisory authority   may not be observing the rules against insider trading. The securities
+laws provide for penalties not only for those who engage in insider trading, but also for those
+ controlling persons  who fail to take appropriate actions when they either knew or should have
+known that people within their control were violating those rules.
+
+VIII.    ANTITRUST LAWS.  
+
+In general, the antitrust laws of the United States prohibit agreements or actions  in
+restraint of trade    restrictive practices that may reduce competition without providing
+beneficial effects to consumers. Among those agreements and activities found to be clear
+violations are agreements or understandings among competitors to fix or control prices; to boycott
+specified suppliers or customers; to allocate products, territories, or markets; or to limit the
+production or sale of products or product lines. Such agreements are against public policy and
+against the policy of the Company. Employees should never engage in discussions of such matters
+with representatives of other companies. Employees should report to the Company s legal counsel
+any instance in which such discussions are initiated by other companies.
+
+U.S. antitrust laws also apply to international operations and transactions related to imports
+to, or exports from, the United States. Moreover, the international activities of the Company
+could be subject to antitrust laws of foreign nations or organizations such as the European
+Economic Community.
+
+Because of the complexity of antitrust laws, it is imperative that legal advice be sought on
+any questions regarding this subject.
+
+IX.    ENVIRONMENTAL LAWS.  
+
+The Company will conduct its operations with the highest regard for the quality of the
+environment, which shall include, but not be limited to, water, air and general land usage. At
+every operating location where emissions into water sources or the atmosphere or solid waste
+disposal are present, the objective is to comply with standards established by appropriate local,
+state, or federal agencies and which are consistent with available technology. It is the
+responsibility of the Company and its employees to provide truthful and accurate information to the
+government permitting authorities in connection with any application for any environmental permit
+or any periodic reports that may be called for under such permit.
+
+-6- 
+
+X.    EXPORT LAWS.  
+
+Company employees shall comply with United States laws regulating the  export  of products and
+technology ( U.S. Export Laws ). For purposes of the U.S. Export Laws, there is an  export  in
+each of the following situations: (i) goods are shipped, or technology is made
+available, from the United States to a foreign country; (ii) goods are shipped, or technology
+is made available, from a non-U. S. country to another country if the goods or technology
+originated in the United States; or (iii) goods are shipped, or technology is made available, to
+a person in one non-U.S. country with a Company employee or agent having knowledge, or intending,
+that the goods or technology will later be transferred to another country. In addition, an
+ export  occurs when technology is made available to a foreign national, including foreign national
+employees in, or outside, the United States. Technology is  made available  through a variety of
+means, including visual inspection of technical specifications, plans, or blueprints, oral
+discussions of technology, or practice or application of the technology under the guidance of
+persons with knowledge of the technology. Company employees should be aware that plant visits by
+foreign nationals may result in an  export  of technology.
+
+As a result of the necessity of the Company complying with U.S. Export Laws, you should
+observe the following guidelines:
+
+(1)  Embargoed Countries: Shipments Prohibited Except for Specified Products
+in Accordance with Written Audit Procedures . Shipments to or export by any
+Business Unit (whether U.S. based or not) of goods, technology or services to Iran,
+Syria, Sudan or any other country identified as an Embargoed County are prohibited
+except for sales of products, components or services for application in the energy
+recovery or healthcare markets that are permitted under applicable U.S. and foreign
+laws and made in accordance with written audit procedures approved by the Company s
+General Counsel.
+
+(2)  Exports Licenses Required for Export of Certain Products . The
+export to certain countries of certain products (such as, vessels, tanks, agitators
+and associated parts made or lined with glass, high nickel alloys, fluoropolymers,
+tantalum, titanium and zirconium) ( Restricted Products ) is restricted and cannot
+be made without an export license. For shipments originating from the United States
+an export license is required for Restricted Products, unless the shipment is to any
+of the following countries:
+
+Argentina, Australia, Austria, Belgium, Bulgaria, Canada, Cyprus,
+Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece,
+Hungary, Iceland, Ireland, Italy, Japan, Latvia, Lithuania,
+Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland,
+Portugal, Romania, Slovakia, Slovenia, South Korea, Spain, Sweden,
+Switzerland, Turkey, the United Kingdom, and the Ukraine.
+
+-7- 
+
+For shipments originating from non United States locations the export of Restricted
+Products to countries  not listed above will likely require an export license
+from the country of origin . You must either obtain a license or indicate in our
+order documentation how it was determined that a license is not required.
+
+The Company is committed to full compliance with U.S. antiboycott laws, which prohibit the
+Company and its employees from agreeing to contractual provisions or engaging in conduct
+that supports the boycott efforts of foreign governments. These efforts include the Arab
+League s boycott of Israel. Any Company employee receiving a request to undertake any activities
+or agree to any contractual provisions that support boycott efforts should immediately report that
+request to the Company s legal counsel.
+
+XI.    TRADE SECRETS AND CONFIDENTIAL INFORMATION.  
+
+All employees should appropriately safeguard the Company s trade secrets and confidential
+information and refuse any improper access to trade secret and confidential information of any
+other company, including our competitors.
+
+In terms of our own trade secret and confidential information, our basic guidelines are:
+
+(1) Any Company proprietary information to which you may have access should be
+discussed with others within the Company only on a need-to-know basis.
+
+(2) If we wish to disclose our own trade secrets or confidential information to
+any people outside of our Company, it should be done only in conjunction with
+appropriate trade secret or confidential information disclosure agreements which can
+be provided by the Company s legal counsel.
+
+(3) We should always be alert to inadvertent disclosures which may arise in
+either social conversations or in normal business relations with our suppliers and
+customers.
+
+In terms of confidential and proprietary information of other companies, our guidelines should
+be:
+
+(1) We should not receive any such information except pursuant to written
+confidentiality agreements which can be supplied by our legal counsel. Since we may
+incur some liability, or at least embarrassment, if we improperly disclose
+information which has been provided to us in confidence, we should receive such
+information only when there is a clear commercial reason for doing so and then only
+under the terms and conditions of a properly drawn agreement which protects both
+parties  interests.
+
+(2) While we should always be alert to our competitive surroundings and obtain
+as much information as possible about the marketplaces in which we operate, we must
+do that only in accordance with sound and ethical commercial
+
+-8- 
+
+practices. We must
+never be a party to any situation in which such proprietary or confidential
+information has been improperly obtained from any other company such as by a former
+employee. If any employee is approached with any offer of confidential information
+which the employee has reason to believe may have been obtained improperly, the
+employee must immediately discuss this matter with his or her immediate supervisor
+or the Company s legal counsel.
+
+Confidential or proprietary information of our Company, and of other companies, includes any
+information which is not generally disclosed and which is useful or helpful to the company and/or
+which would be useful or helpful to competitors of the company. Common examples include such
+things as financial data, scientific and engineering studies, data, and drawings, planned new
+products, lists of suppliers, lists of customers, wage and salary data, projected earnings, changes
+in management or policies of the company, testing data, manufacturing methods, suppliers  prices to
+us, or any plans we may have for improving any of our products.
+
+XII.    GOVERNMENTAL INVESTIGATIONS AND LITIGATION.  
+
+It is Company policy to cooperate with every reasonable and valid request by federal, state
+and local government investigators. At the same time, the Company is entitled to all the
+safeguards provided in the law for persons under investigation, including representation by
+counsel. Accordingly, if a government investigator requests an interview with any Company
+personnel, seeks information or access to files, or poses written questions, he should be told that
+the Company will cooperate, but that you must first discuss the matter with the Company s legal
+counsel. You should immediately telephone the Company s legal counsel, who will then provide
+advice as to further action. The Company s legal counsel must also be consulted before the Company
+threatens to sue or institutes any litigation of any kind, and before the Company complains to a
+government agency about the actions of anyone else. In the event any litigation is begun or
+threatened against the Company, notify the Company s legal counsel immediately, even if the action
+or the threats appear to be without merit or insignificant.
+
+XIII.    IMPLEMENTATION OF THE CODE.  
+
+(1) All officers and managers of the Company shall be responsible for the
+enforcement of the Code within their specific areas of supervisory responsibility.
+They shall periodically distribute and review the Code with appropriate employees
+under their supervision.
+
+(2) Appropriate employees of the Company will be required annually to certify
+their compliance with the requirements of the Code.
+
+(3) Violations of the Code will result in disciplinary action, including
+reassignment, demotion or dismissal and may, depending on the nature of the
+violation involved, result in civil or criminal action against the employee.
+
+(4) The Nominating and Governance Committee of the Board of Directors of the
+Company shall annually review with management the
+
+-9- 
+
+implementation of this Code and
+shall assure that the Board of Directors receives an objective and adequate flow of
+information as to the matters that lie within the scope of the Code.
+
+XIV.    FURTHER INFORMATION AND ASSISTANCE.  
+
+The Company has designated a number of personnel to assist employees in resolving any
+questions concerning the interpretation and application of the Code. Please do not hesitate to
+avail yourself of this help. The following is the list of persons in the order you might
+consider contacting them:
+
+(1)  Manager/Supervisor . An employee should first contact his or her
+immediate manager/supervisor. If for some reason that is not appropriate, the
+employee may contact any member of the Corporate Compliance Committee or the
+Company s legal counsel.
+
+(2)  Anonymous Reporting or Inquiry . If an employee (other than a
+European-based employee) would feel more comfortable submitting his or her inquiry
+or reporting a concern on an anonymous basis, the employee may do so at the
+Company s website www.robbinsmyers.com by selecting the  Corporate Governance  tab
+and then clicking on the heading  Employee Hotline,  which is the fifth heading from
+the bottom in the left hand column. Employees based in Europe may (i) seek advice
+anonymously and (ii) report financial concerns anonymously (that is, matters
+relating to financial matters or internal control over financial reporting), but
+should not report any other matters on an anonymous basis since such anonymous
+reporting raises questions under European laws.
+
+(3)  Directors of the Company . Directors of the Company should address
+any questions they may have concerning the Code to the Company s legal counsel.
+
+(4)  Contact Names, Addresses and Numbers .
+
+A. Members of the Corporate Compliance Committee include: John
+R. Beatty, Gary L. Brewer, Kevin J. Brown (Program Facilitator),
+Christopher M. Hix, Mark Manovich, Saeid Rahimian, and Joseph M.
+Rigot (Chair). Communications to members of the Corporate
+Compliance Committee may be directed to Robbins   Myers, Inc., 1400
+Kettering Tower, Dayton, Ohio 45423; by telephone to 937-222-2610;
+or by facsimile to 937-225-3355.
+
+B. Communications to the Company s General Counsel may be
+directed to Joseph M. Rigot, Esq., Thompson Hine LLP, 2000
+Courthouse Plaza, Dayton, Ohio 45402; by telephone to 937-443-6586;
+by facsimile to 937-443-6635; or by email to
+joe.rigot@thompsonhine.com.
+
+-10- 
+
+XV.    FULL, FAIR, TIMELY AND UNDERSTANDABLE FINANCIAL DISCLOSURE   
+
+(Section XV applies only to the Chief Executive Officer, Chief Financial Officer,
+Treasurer and Controller of the Company (the  Senior Officers ).  
+
+The Senior Officers shall be responsible for full, fair, accurate, timely and understandable
+disclosure of information in reports and documents that the Company files with, or submits to, the
+SEC and in other public communications.
+
+As one of the Senior Officers, you agree to:
+
+(1) Produce full, fair, accurate, timely and understandable disclosure in reports
+and documents that the Company or its subsidiaries files with, or submits to, the
+Securities and Exchange Commission and other regulators and in other public
+communications made by the Company or its subsidiaries; and
+
+(2) Promptly report to the Chairman of the Nominating and Governance Committee any
+information that you may have concerning (i) significant deficiencies in the design
+or operation of internal controls that could adversely affect the Company s ability
+to process, summarize and report financial data or (ii) any fraud, whether or not
+material, that involves management or other employees who have a significant role in
+the Company s financial reporting, disclosure or internal controls.
+
+As a Senior Officer you are prohibited from directly or indirectly taking any action to
+fraudulently influence, coerce, manipulate or mislead the Company s independent auditors for the
+purpose of rendering the financial statements of the Company misleading.
+
+The Board of Directors of the Company has delegated to its Audit Committee the sole authority
+to approve any deviation or waiver from this Code granted to a Senior Officer. Waivers of this
+Code, as required by applicable law, will be promptly disclosed by the Company.
+
+-11- 
+
+FORM OF COMPLIANCE CERTIFICATION 
+
+ROBBINS   MYERS, INC. 
+
+CERTIFICATION OF COMPLIANCE   
+  WITH CODE OF BUSINESS CONDUCT  
+
+I hereby certify to the Corporate Compliance Committee of Robbins   Myers, Inc. that:
+
+1. I have read the Code of Business Conduct of Robbins   Myers, Inc. at least once during the
+past 12 months and understand my responsibility to comply with the principles and policies
+contained in the Code. I recognize that my failure to comply with such principles and policies
+will be cause for severe disciplinary action or termination of my employment.
+
+2. Except as stated at paragraph 3, immediately below:
+
+(a) I and, to the best of my knowledge, members of my immediate family, do not
+have any interest which might be deemed to be a conflict of interest under Section
+IV of the Code;
+
+(b) To my knowledge, I have not violated any federal, state, local or foreign
+law in connection with the Company s business; and
+
+(c) I am not aware of any Company activities which violate the Code of Business
+Conduct.
+
+3. Exceptions to the above should be noted below:
+
+I hereby certify that the above statements are, to the best of my knowledge and belief, true
+and accurate.
+
+(Signature of Employee) 
+
+Date                       , 2006 
+
+(Please print your full name above) 
+
+(List your Location/Division) 
+
+(This Certificate of Compliance should be signed by the employee and returned to Joseph M. Rigot,
+Corporate Secretary and Legal Counsel, Thompson Hine LLP, P.O. Box 8801, Dayton, Ohio 45401.) 
+
+Employees who need assistance or consultation prior to completing this Certificate of Compliance
+should contact the persons listed at Section XIV of the Code or Joseph M. Rigot at Thompson Hine
+LLP   (937) 443-6586 (or joe.rigot@thompsonhine.com). 
+
+-2- 
+
+</EX-14.1>
+
+<EX-21.1>
+ 3
+ l23212aexv21w1.htm
+ EX-21.1 SUBSIDIARIES OF ROBBINS & MYERS, INC.
+
+EX-21.1 
+
+Exhibit 21.1
+
+Subsidiaries of Robbins   Myers, Inc.
+
+Robbins   Myers, Inc. has the following subsidiaries all of which (i) do business under the name
+under which they are organized and (ii) are included in our consolidated financial statements. The
+names of such subsidiaries are set forth below.
+
+Jurisdiction 
+
+in which 
+       
+     Percentage of 
+
+Incorporated 
+       
+     Ownership 
+
+Bosspak Pty Limited
+
+Australia 
+
+100 
+
+Chemineer, Asia, Ptd. Ltd.
+
+Singapore 
+
+100 
+
+Chemineer, Inc.
+
+Delaware 
+
+100 
+
+Dalian Moyno Pump Co., Ltd.
+
+China 
+
+60 
+
+Dioptec Scan Limited
+
+United Kingdom 
+
+100 
+
+Edlon, Inc.
+
+Delaware 
+
+100 
+
+FrymaKoruma GmbH
+
+Germany 
+
+100 
+
+FrymaKoruma AG
+
+Switzerland 
+
+100 
+
+Fryma S.a.r.l.
+
+France 
+
+100 
+
+Glasteel Parts and Services, Inc.
+
+Delaware 
+
+100 
+
+GMM Pfaudler Limited
+
+India 
+
+51 
+
+Ingeniere Pharmaceutique Modulaire S.A.
+
+France 
+
+100 
+
+Moyno de Mexico, S.A. de C.V.
+
+Mexico 
+
+51 
+
+Moyno, Inc.
+
+Delaware 
+
+100 
+
+Pfaudler Equipamentos Industriais Ltda.
+
+Brazil 
+
+100 
+
+Pfaudler S.A. de C.V.
+
+Mexico 
+
+100 
+
+Pfaudler Speiss A.G.
+
+Switzerland 
+
+100 
+
+Pfaudler France Sarl
+
+France 
+
+100 
+
+Pfaudler, Inc.
+
+Delaware 
+
+100 
+
+Pfaudler-Werke GmbH
+
+Germany 
+
+100 
+
+Prochem, Inc.
+
+Canada 
+
+100 
+
+R M Energy Systems de Venezuela, C.A.
+
+Venezuela 
+
+100 
+
+Robannic Overseas Finance A.V.V.
+
+Netherlands Antilles 
+
+100 
+
+Robbins   Myers Belgium S.A.
+
+Belgium 
+
+100 
+
+Robbins   Myers Canada, Ltd.
+
+Canada 
+
+100 
+
+Robbins   Myers de Mexico, S.A. de C.V.
+
+Mexico 
+
+100 
+
+Robbins   Myers (Suzhou) Process Equipment Co., Ltd.
+
+China 
+
+100 
+
+Robbins   Myers Energy Systems Australia Pty. Ltd
+
+Australia 
+
+100 
+
+64 
+
+Jurisdiction 
+
+in which 
+       
+     Percentage of 
+
+Incorporated 
+        
+     Ownership 
+
+Robbins   Myers Energy Systems de Argentina S.A.
+
+Argentina 
+
+100 
+
+Robbins   Myers Energy Systems Indonesia Ltd
+
+Indonesia 
+
+100 
+
+Robbins   Myers Energy Systems LLP
+
+Kazakhstan 
+
+100 
+
+Robbins   Myers Energy Systems L.P.
+
+Texas 
+
+100 
+
+Robbins   Myers Energy Systems, Inc.
+
+Delaware 
+
+100 
+
+Robbins   Myers Finance Europe B.V.
+
+Netherlands 
+
+100 
+
+Robbins   Myers Holdings, Inc.
+
+Delaware 
+
+100 
+
+Robbins   Myers Holdings SA de CV
+
+Mexico 
+
+100 
+
+Robbins   Myers Italia S.r.l.
+
+Italy 
+
+100 
+
+Robbins   Myers International B.V.
+
+Netherlands 
+
+100 
+
+Robbins   Myers International Sales Co., Inc.
+
+U.S. Virgin Islands 
+
+100 
+
+Robbins   Myers Singapore Private Limited
+
+Singapore 
+
+100 
+
+Robbins   Myers U.K. Limited
+
+England 
+
+100 
+
+Rodic S.A. de C.V.
+
+Mexico 
+
+100 
+
+Romaco A.G.
+
+Switzerland 
+
+100 
+
+Romaco Australia Pty Ltd.
+
+Australia 
+
+100 
+
+Romaco Bosspak
+
+Australia 
+
+100 
+
+Romaco do Brazil
+
+Brazil 
+
+100 
+
+Romaco Holdings U.K. Limited
+
+United Kingdom 
+
+100 
+
+Romaco Immobilienverwaltungs GmbH
+
+Germany 
+
+100 
+
+Romaco Inc.
+
+Delaware 
+
+100 
+
+Romaco International B.V.
+
+Netherlands 
+
+100 
+
+Romaco Limited
+
+Hong Kong 
+
+100 
+
+Romaco Machinery Limited
+
+Ireland 
+
+100 
+
+Romaco Machinery, S.A.
+
+Spain 
+
+100 
+
+Robbins   Myers N.V.
+
+Netherland Antilles 
+
+100 
+
+Romaco Pharmatechnik GmbH
+
+Germany 
+
+100 
+
+Romaco S.A.
+
+Colombia 
+
+100 
+
+Romaco S.a.r.l.
+
+France 
+
+100 
+
+Romaco S.r.l.
+
+Italy 
+
+100 
+
+Romaco UK Limited
+
+United Kingdom 
+
+100 
+
+Suzhou Pfaudler Glass-Lined Equipment Co., Limited
+
+China 
+
+76 
+
+Tarby, Inc.
+
+Delaware 
+
+100 
+
+Tycon Technoglass S.r.l.
+
+Italy 
+
+100 
+
+Universal Glasteel Equipment
+
+Delaware 
+
+50 
+
+65 
+
+</EX-21.1>
+
+<EX-23.1>
+ 4
+ l23212aexv23w1.htm
+ EX-23.1 CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCT. FIRM
+
+EX-23.1 
+
+Exhibit 23.1
+
+Consent of Independent Registered Public Accounting Firm
+
+We consent to the incorporation by reference in the Registration Statements (Form S-8 s) pertaining
+to Stock Option Plan for Non-Employee Directors (No. 33-43625, dated November 1, 1991), 1994
+Directors  Stock Compensation Plan (No. 33-84032, dated September 13, 1994), Robbins   Myers, Inc.
+Employee Savings Plan (No. 33-61893, dated August 17, 1995), Robbins   Myers, Inc. 1994 Long-term
+Incentive Plan (No. 333-00291, dated January 19, 1996), Robbins   Myers, Inc. 1995 Stock Option
+Plan for Non-employee Directors (No. 333-00293, dated January 19, 1996), Robbins   Myers, Inc.
+Savings Plan for Union Employees (No. 333-00289, dated February 7, 1996), Robbins   Myers, Inc.
+1999 Long-term Incentive Plan (No. 333-35856, dated April 28, 2000), the Robbins   Myers, Inc. 2004
+Stock Incentive Plan as Amended (No. 333-121899), the Registration Statement (Form S-3, No.
+333-31235, dated July 14, 1997) pertaining to Investor Stock Purchase Plan and Post Effective
+Amendment No. 1 (dated August 20, 2003), and the Registration Statement (Form S-3, No. 333-106780,
+dated August 20, 2003) pertaining to an offering of securities to be designated by the Company, of
+our reports dated November 10, 2006, with respect to the consolidated financial statements of
+Robbins   Myers, Inc. and Subsidiaries, Robbins   Myers, Inc. and Subsidiaries management s
+assessment of the effectiveness of internal control over financial reporting and the effectiveness
+of internal control over financial reporting of Robbins   Myers, Inc. and Subsidiaries, included
+herein, and our report on the financial statement schedule of Robbins   Myers, Inc. included in
+this Annual Report (Form 10-K) of Robbins   Myers, Inc. and Subsidiaries for the year ended August
+31, 2006.
+
+Our audits included the financial statement schedule of Robbins   Myers, Inc. and Subsidiaries
+listed in Item 15(a). This schedule is the responsibility of Robbins   Myers, Inc. and
+Subsidiaries  management. Our responsibility is to express an opinion based on our audits. In our
+opinion, the financial statement schedule referred to above, when considered in relation to the
+basic financial statements taken as a whole, presents fairly in all material respects the
+information set forth therein.
+
+/s/ Ernst   Young LLP 
+Dayton, Ohio 
+November 14, 2006
+
+66 
+
+</EX-23.1>
+
+<EX-24.1>
+ 5
+ l23212aexv24w1.htm
+ EX-24.1 ROBBINS & MYERS, INC. LIMITED POWER OF ATTORNEY
+
+EX-24.1 
+
+Exhibit 24.1
+
+ROBBINS   MYERS, INC. 
+
+LIMITED POWER OF ATTORNEY 
+
+WHEREAS, Robbins   Myers, Inc. (the  Company ) intends to file with the Securities and
+Exchange Commission its Annual Report on Form 10-K for the year ended August 31, 2006:
+
+NOW, THEREFORE, each of the undersigned in his capacity as a director of the Company hereby
+appoints Peter C. Wallace his true and lawful attorney-in-fact and agent, with full power of
+substitution and resubstitution, to execute in his name, place and stead, the Company s Annual
+Report on Form 10-K for the year ended August 31, 2006, (including any amendment to such report)
+and any and all other instruments necessary or incidental in connection therewith, and to file the
+same with the Securities and Exchange Commission. Said attorney shall have full power and authority
+to do and perform in the name and on behalf of the undersigned, in the aforesaid capacity, every
+act whatsoever necessary or desirable to be done, as fully to all intents and purposes as the
+undersigned might or could do in person. The undersigned hereby ratifies and approves the act of
+said attorney.
+
+IN WITNESS WHEREOF, the undersigned has executed this instrument this 14th day of November,
+2006.
+
+/s/ Thomas P. Loftis
+
+Thomas P. Loftis  
+
+/s/Daniel W. Duval
+
+Daniel W. Duval  
+
+/s/ David T. Gibbons
+
+David T. Gibbons  
+
+/s/ Stephen F. Kirk
+
+Stephen F. Kirk  
+
+/s/ William D. Manning
+
+William D. Manning  
+
+/s/ Dale L. Medford
+
+Dale L. Medford  
+
+/s/ Jerome F. Tatar
+
+Jerome F. Tatar  
+
+67 
+
+</EX-24.1>
+
+<EX-31.1>
+ 6
+ l23212aexv31w1.htm
+ EX-31.1 CEO CERTIFICATION
+
+EX-31.1 
+
+Exhibit 31.1
+
+CERTIFICATION 
+PURSUANT TO RULE 13a   14(a) 
+
+I, Peter C. Wallace, certify that:
+
+1. 
+       
+     I have reviewed this Annual Report on Form 10-K of Robbins   Myers, Inc. (the
+ Registrant  
+
+2. 
+       
+     Based on my knowledge, this report does not contain any untrue statement of a material
+fact or omit to state a material fact necessary to make the statements made, in light of
+the circumstance under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3. 
+       
+     Based on my knowledge, the financial statements, and other financial information
+included in this report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the Registrant as of, and for, the periods
+presented in this report; 
+
+4. 
+       
+     The Registrant s other certifying officer(s) and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f) for the Registrant and have: 
+
+a. 
+       
+     Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to ensure
+that material information relating to the Registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; 
+
+b. 
+       
+     Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision, to
+provide reasonable assurance regarding the reliability of financial reporting and
+the preparation of financial statements for external purposes in accordance with
+generally accepted accounting principles; 
+
+c. 
+       
+     Evaluated the effectiveness of the Registrant s disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness of
+the disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; and 
+
+d. 
+       
+     Disclosed in this report any change in the Registrant s internal
+controls over financial reporting that occurred during the Registrant s most recent
+fiscal quarter (the Registrant s fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to materially affect,
+the Registrant s internal controls over financial reporting; and 
+
+5. 
+       
+     The Registrant s other certifying officer(s) and I have disclosed, based on our most
+recent evaluation of internal controls over financial reporting, to the Registrant s
+auditors and the audit committee of the Registrant s board of directors (or persons
+performing the equivalent functions): 
+
+a. 
+       
+     All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably likely
+to adversely affect the Registrant s ability to record, process, summarize and
+report financial information; and 
+
+69 
+
+b. 
+       
+     Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the Registrant s internal control over
+financial reporting. 
+
+Date: November 14, 2006
+
+/s/ Peter C. Wallace
+
+Peter C. Wallace  
+
+President and Chief Executive Officer  
+
+70 
+
+</EX-31.1>
+
+<EX-31.2>
+ 7
+ l23212aexv31w2.htm
+ EX-31.2 CFO CERTIFICATION
+
+EX-31.2 
+
+Exhibit 31.2
+
+CERTIFICATION 
+PURSUANT TO RULE 13a   14(a) 
+
+I, Christopher M. Hix, certify that:
+
+1. 
+       
+     I have reviewed this Annual Report on Form 10-K of Robbins   Myers, Inc. (the
+ Registrant  
+
+2. 
+       
+     Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements made, in
+light of the circumstance under which such statements were made, not misleading with
+respect to the period covered by this report; 
+
+3. 
+       
+     Based on my knowledge, the financial statements, and other financial information
+included in this report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the Registrant as of, and for, the periods
+presented in this report; 
+
+4. 
+       
+     The Registrant s other certifying officer(s) and I are responsible for establishing
+and maintaining disclosure controls and procedures (as defined in Exchange Act Rules
+13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in
+Exchange Act Rules 13a-15(f) and 15d-15(f) for the Registrant and have: 
+
+a. 
+       
+     Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to ensure
+that material information relating to the Registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; 
+
+b. 
+       
+     Designed such internal control over financial reporting, or caused
+such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of
+financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles; 
+
+c. 
+       
+     Evaluated the effectiveness of the Registrant s disclosure controls
+and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and 
+
+d. 
+       
+     Disclosed in this report any change in the Registrant s internal
+controls over financial reporting that occurred during the Registrant s most
+recent fiscal quarter (the Registrant s fourth fiscal quarter in the case of an
+annual report) that has materially affected, or is reasonably likely to materially
+affect, the Registrant s internal controls over financial reporting; and 
+
+5. 
+       
+     The Registrant s other certifying officer(s) and I have disclosed, based on our most
+recent evaluation of internal controls over financial reporting, to the Registrant s
+auditors and the audit committee of the Registrant s board of directors (or persons
+performing the equivalent functions): 
+
+a. 
+       
+     All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably likely
+to adversely affect the Registrant s ability to record, process, summarize and
+report financial information; and 
+
+71 
+
+b. 
+       
+     Any fraud, whether or not material, that involves management or other employees who
+have a significant role in the Registrant s internal control over financial
+reporting. 
+
+Date: November 14, 2006
+
+/s/ Christopher M. Hix
+
+Christopher M. Hix  
+
+Vice President and Chief Financial Officer  
+
+72 
+
+</EX-31.2>
+
+<EX-32.1>
+ 8
+ l23212aexv32w1.htm
+ EX-32.1 CEO CERTIFICATION
+
+EX-32.1 
+
+Exhibit 32.1
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Peter C. Wallace, President and Chief Executive Officer of Robbins   Myers, Inc. ( the
+Company ), do hereby certify in accordance with 18 U.S.C. 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that:
+
+1. 
+       
+     The Annual Report on Form 10-K of the Company for the period ended August 31, 2006 (the
+ Annual Report ) fully complies with the requirements of section 13(a) or 15(d) of the
+Securities Exchange Act of 1934 (15 U.S.C. 78m or 78c(d)) and 
+
+2. 
+       
+     The information contained in the Annual Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company. 
+
+Dated: November 14, 2006
+
+/s/ Peter C. Wallace
+
+Peter C. Wallace  
+
+President and Chief Executive Officer  
+
+73 
+
+</EX-32.1>
+
+<EX-32.2>
+ 9
+ l23212aexv32w2.htm
+ EX-32.2 CFO CERTIFICATION
+
+EX-32.2 
+
+Exhibit 32.2
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Christopher M. Hix, Vice President and Chief Financial Officer of Robbins   Myers, Inc. ( the
+Company ), do hereby certify in accordance with 18 U.S.C. 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that:
+
+1. 
+       
+     The Annual Report on Form 10-K of the Company for the period ended August 31, 2006 (the
+ Annual Report ) fully complies with the requirements of section 33(a) or 15(d) of the
+Securities Exchange Act of 1934 (15 U.S.C. 78m or 78c(d)) and 
+
+2. 
+       
+     The information contained in the Annual Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company. 
+
+Dated: November 14, 2006
+
+/s/ Christopher M. Hix
+
+Christopher M. Hix  
+
+Vice President and Chief Financial Officer  
+
+74 
+
+</EX-32.2>
+

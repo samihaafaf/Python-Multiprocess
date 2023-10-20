@@ -1,0 +1,2763 @@
+<Header>
+<FileStats>
+    <FileName>20061213_10-K_edgar_data_315131_0000950134-06-023047_1.txt</FileName>
+    <GrossFileSize>505733</GrossFileSize>
+    <NetFileSize>134227</NetFileSize>
+    <NonText_DocumentType_Chars>7501</NonText_DocumentType_Chars>
+    <HTML_Chars>220026</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>44</N_Tables>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950134-06-023047.hdr.sgml : 20061213
+<ACCEPTANCE-DATETIME>20061213145327
+ACCESSION NUMBER:		0000950134-06-023047
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20060930
+FILED AS OF DATE:		20061213
+DATE AS OF CHANGE:		20061213
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PANHANDLE ROYALTY CO
+		CENTRAL INDEX KEY:			0000315131
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				731055775
+		STATE OF INCORPORATION:			OK
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31759
+		FILM NUMBER:		061273992
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5400 NW GRAND BLVD
+		STREET 2:		GRAND CENTRE STE 210
+		CITY:			OKLAHOMA CITY
+		STATE:			OK
+		ZIP:			73112
+		BUSINESS PHONE:		4059481560
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ORNl+S3qoYnSQGH/hhIU9Q/O+fek12HVqjc4O/oMVbOsIiF4z/nioDExupGm/YBL
+ GDQYh8aYzG+EFITH9NyrjA==
+
+ 0000950134-06-023047.txt : 20061213
+
+10-K
+ 1
+ d42006e10vk.htm
+ FORM 10-K
+
+e10vk 
+
+Table of Contents   
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 10-K 
+
+Annual Report Pursuant To Section 13 or 15(d) of 
+the Securities Exchange Act of 1934 
+
+For the fiscal year ended September 30, 2006 
+
+Commission File Number: 0-9116 
+
+PANHANDLE ROYALTY COMPANY  
+
+(Exact name of registrant as specified in its charter)
+
+Registrant s telephone number:  (405) 948-1560 
+
+Securities registered under Section 12(b) of the Act:
+
+CLASS A COMMON STOCK (VOTING)
+
+AMERICAN STOCK EXCHANGE 
+
+(Title of Class)
+
+(Name of each exchange on which registered) 
+
+Securities registered under Section 12(g) of the Act:
+
+(Title of Class)
+
+CLASS B COMMON STOCK (NON-VOTING) $1.00 par value 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of
+the Securities Act.          Yes     No
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or
+Section 15(d) of the Act.           Yes     No
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for
+such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past
+90 days.          Yes     No
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K
+( 229.405 of this chapter) is not contained herein, and will not be contained, to the best of the
+registrant s knowledge, in definitive proxy or information statements incorporated by reference in
+Part III of this Form 10-K or any amendment to this Form 10-K.    
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer,
+or a non-accelerated filer. See definition of  accelerated filer and large accelerated filer  in
+Rule 12b-2 of the Exchange Act. (Check one):
+
+Large accelerated filer          Accelerated filer          Non-accelerated filer    
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Act).         Yes     No
+
+The aggregate market value of the voting stock held by non-affiliates of the registrant, computed
+by using the closing price of registrant s common stock, at March 31, 2006, was $141,933,276. As
+of December 4, 2006, 8,422,529 shares of Class A Common stock were outstanding.
+
+Documents Incorporated By Reference 
+
+The information required by Part III of this Report, to the extent not set forth herein, is
+incorporated by reference from the registrant s Definitive Proxy Statement relating to the annual
+meeting of stockholders to be held on March 8, 2007, which definitive proxy statement will be filed
+with the Securities and Exchange Commission within 120 days after the end of the fiscal year to
+which this Report relates.
+
+T A B L E O F C O N T E N T S  
+
+Page  
+
+PART I  
+
+Item 1 Business
+
+1-8 
+
+Item 2 Properties
+
+8-15 
+
+Item 3 Legal Proceedings
+
+15 
+
+Item 4 Submission of Matters to a Vote of
+Security Holders
+
+15 
+
+PART II  
+
+Item 5 Market for Registrants Common Equity and
+Related Stockholder Matters
+
+16 
+
+Item 6 Selected Financial Data
+
+17-18 
+
+Item 7 Management s Discussion and Analysis of Financial
+Condition and Results of Operations
+
+18-25 
+
+Item 7A Quantitative and Qualitative Disclosures about Market
+Risk
+
+25-26 
+
+Item 8 Financial Statements and Supplementary Data
+
+26-50 
+
+Item 9 Changes in and Disagreements with
+Accountants on Accounting and
+Financial Disclosure
+
+51 
+
+Item 9A Controls and Procedures
+
+51 
+
+PART III  
+
+Item 10-14 Incorporated by Reference to Proxy Statement
+
+PART IV  
+
+Item 15 Exhibits, Financial Statement Schedules and Reports on Form 8- K
+
+52 
+
+Signature Page
+
+53 
+
+Exhibit 21
+
+54 
+
+Exhibit 31.1-31.2
+
+55-56 
+
+Exhibit 32.1-32.2
+
+57-58 
+
+Subsidiaries of the Registrant    
+     Certification of Chief Executive Officer    
+     Certification of Chief Financial Officer    
+     Certification of Chief Executive Officer    
+     Certification of Chief Financial Officer    
+
+Certain defined terms as used in this report:   SEC   means the United States Securities and Exchange
+Commission,   Bbl   means barrel,   Bcf   means billion cubic feet,   Mcf   means thousand cubic feet,
+  Mcfd   means thousand cubic feet per day,   Mcfe   means natural gas stated on an Mcf basis and crude
+oil converted to a thousand cubic feet of natural gas equivalent by using the ratio of one Bbl of
+crude oil to six Mcf of natural gas,   PV-10   means estimated pretax present value of future net
+revenues discounted at 10% using SEC rules,   gross   wells or acres are the wells or acres in which
+the Company has a working interest, and   net   wells or acres are determined by multiplying gross
+wells or acres by the Company s net revenue interest in such wells or acres. References to years
+2002-2006 refer to the Company s fiscal years ended September 30 each year.   Minerals  ,   mineral
+acres   or  mineral interests  refers to fee mineral acreage owned in perpetuity by the
+Company.
+
+Table of Contents   
+
+PART I  
+
+ITEM 1 BUSINESS 
+
+GENERAL 
+
+Panhandle Royalty Company ( Panhandle  or the  Company ) is an Oklahoma corporation organized
+in 1926 as Panhandle Cooperative Royalty Company. In 1979, Panhandle Cooperative Royalty Company
+was merged into Panhandle. Panhandle s authorized and registered stock consisted of 100,000 shares
+of $1.00 par value Class A Common Stock. In 1982, the Company split the stock on a 10-for-1 basis
+resulting in 1,000,000 shares of authorized Class A Common Stock. In May 1999, the Company s
+shareholders voted to increase the authorized Class A Common Stock to 6,000,000 shares and to split
+the shares on a three-for-one basis. In addition, voting rights for the shares were changed from
+one vote per shareholder to one vote per share. In February 2004, the Company s shareholders voted
+to increase the authorized Class A Common Stock to 12,000,000 shares and to split the shares on a
+two-for-one basis. In January 2006, the Class A Common Stock was again split on a two-for-one
+basis.
+
+Since its formation, the Company has been involved in the acquisition, management and
+development of oil and gas properties, including wells located on the Company s mineral acreage.
+Panhandle s mineral properties and other oil and gas interests are located primarily in Oklahoma,
+New Mexico and Texas. Properties are also located in nine other states. The majority of the
+Company s oil and gas production is from wells located in Oklahoma. In 1988, the Company merged
+with New Mexico Osage Royalty Company acquiring most of its New Mexico mineral acreage.
+
+On October 1, 2001, Panhandle acquired privately held Wood Oil Company ( Wood ) of Tulsa,
+Oklahoma. Prior to the acquisition, Wood was a privately held company engaged in oil and gas
+exploration and production and fee mineral ownership and owned interests in certain oil and gas and
+real estate partnerships and an office building in Tulsa. Wood is operating as a wholly-owned
+subsidiary of Panhandle. Wood and its shareholders were unrelated parties to Panhandle.
+
+The Company s office is located at Grand Centre, Suite 305, 5400 North Grand Blvd., Oklahoma
+City, OK 73112 (405)948-1560, fax (405)948-2038. Its website is located at www.panra.com.
+
+The Company makes periodic SEC reports on Forms 10-Q and Forms 10-K, the Company s annual
+report to shareholders and current press releases available free of charge through its website as
+soon as reasonably practicable after they are filed electronically with the SEC. In addition,
+posted on the website are copies of the various corporate governance documents. From time to time,
+other important disclosures to investors are provided by posting them in the press release or
+upcoming events section of the website, as allowed by SEC rules.
+
+Materials filed with the SEC may be read and copied at the SEC s Public Reference Room at 450
+Fifth Street, N.W., Washington, D.C. 20549. Information on the operation of the Public Reference
+Room may be obtained by calling the SEC at 1-800-SEC-0330. The SEC also maintains an Internet
+website at www.sec.gov that contains reports, proxy and information statements, and other
+information regarding the Company that have been filed electronically with the SEC.
+
+BUSINESS STRATEGY 
+
+The majority of Panhandle s revenues are derived from the production and sale of oil and
+natural gas. See  Item 8   Financial Statements . The Company s oil and gas holdings, including
+its mineral acreage and its working and royalty interests in producing wells are centered in
+Oklahoma with some activity in New Mexico, Texas, Arkansas and Kansas. See  Item 2   Description
+of Properties .
+
+(1) 
+
+Table of Contents   
+
+Exploration and development of the Company s oil and gas properties are conducted in association
+with operating oil and gas companies, primarily larger independent companies. The Company does not
+operate any of its oil and gas properties, but has been an active working interest participant for
+many years in wells drilled on the Company s mineral properties and in third party drilling
+prospects. A large percentage of the Company s recent drilling participations have been on
+properties in which the Company has mineral acreage and, in many cases, already owns an interest in
+a producing well in the unit.
+
+PRINCIPAL PRODUCTS AND MARKETS 
+
+The Company s principal products are crude oil and natural gas. These products are sold to
+various purchasers, including pipeline and marketing companies, which service the areas where the
+Company s producing wells are located. Since the Company does not operate any of the properties in
+which it owns an interest, it relies on the operating expertise of numerous companies that operate
+in the areas where the Company owns interests. This expertise includes the drilling and completion
+of new wells, producing well operations and, in most cases, the marketing or purchasing of the
+well s production. Natural gas sales are principally handled by the well operator and are normally
+contracted on a monthly basis with third party gas marketers and pipeline companies. Payment for
+gas sold is received either from the contracted purchasers or the well operator. Crude oil sales
+are generally handled by the well operator and payment for oil sold is received from the well
+operator or from the crude oil purchaser.
+
+In general, prices of oil and gas are dependent on numerous factors beyond the control of the
+Company, such as competition, international events and circumstances, supply and demand, actions
+taken by the Organization of Petroleum Exporting Countries ( OPEC ), and economic, political and
+regulatory developments. Since demand for natural gas is generally highest during winter months,
+prices received for the Company s natural gas are subject to seasonal variations. The Company had
+not, through fiscal 2006, engaged in price hedging on its oil or gas production.
+
+Beginning in calendar 2007 the Company has entered in hedging arrangements to reduce the
+Company s exposure to short-term fluctuations in the price of natural gas. The hedging
+arrangements apply to only a portion of the Company s production and provide only partial price
+protection against declines in natural gas prices. These hedging arrangements may expose the
+Company to risk of financial loss and limit the benefit of future increases in prices. A more
+thorough discussion of the hedging arrangements is contained in the Management s Discussion and
+Analysis of Financial Condition and Results of Operation section of this report contained in Item
+7.
+
+COMPETITIVE BUSINESS CONDITIONS 
+
+The oil and gas industry is highly competitive, particularly in the search for new oil and gas
+reserves. There are many factors affecting Panhandle s competitive position and the market for its
+products which are beyond its control. Some of these factors include the quantity and price of
+foreign oil imports, changes in prices received for its oil and gas production, business and
+consumer demand for refined oil products and natural gas, and the effects of federal and state
+regulation of the exploration for, production of and sales of oil and natural gas. Changes in
+existing economic conditions, weather patterns and actions taken by OPEC and other oil-producing
+countries have dramatic influence on the price Panhandle receives for its oil and gas production.
+The Company relies heavily on companies with greater resources, staff, equipment, research, and
+experience for operation of wells and the development and drilling of subsurface prospects. The
+Company uses its strong financial base and its mineral acreage ownership, coupled with its own
+geologic and economic evaluation, to participate in drilling operations with these larger
+companies. This method allows the Company to effectively compete in drilling operations it could
+not undertake on its own due to financial and personnel limits and allows it to maintain low
+overhead costs.
+
+(2) 
+
+Table of Contents   
+
+SOURCES AND AVAILABILITY OF RAW MATERIALS 
+
+The existence of commercial oil and gas reserves is essential to the ultimate realization of
+value from the Company s mineral acreage. These mineral properties and leasehold acreage may be
+considered a raw material to its business. The production and sale of oil and natural gas from the
+Company s properties is essential to provide the cash flow necessary to sustain the ongoing
+viability of the Company. The Company continues to reinvest a portion of its cash flow, after debt
+service, to the purchase of oil and gas leasehold acreage and, to a lesser extent, additional
+mineral acreage, to assure the continued availability of acreage with which to participate in
+exploration, drilling, and development operations and subsequently the production and sale of oil
+and gas. This participation in exploration and production activities and the purchasing of
+additional acreage is necessary to continue to supply the Company with the raw materials with which
+to generate additional cash flow. Mineral and leasehold purchases are made from many owners, and
+the Company does not rely on any particular companies or individuals for these acquisitions.
+
+MAJOR CUSTOMERS 
+
+The Company s oil and gas production is sold, in most cases, by the well operators to many
+different purchasers on a well-by-well basis. During fiscal 2006, sales through two separate
+operators accounted for approximately 14% and 11%, respectively, of the Company s total revenues.
+Generally, if one purchaser declines to continue purchasing the Company s oil and natural gas,
+several other purchasers can be located. Pricing is usually reasonably consistent from purchaser
+to purchaser.
+
+PATENTS, TRADEMARKS, LICENSES, FRANCHISES AND ROYALTY AGREEMENTS 
+
+The Company does not own any patents, trademarks, licenses or franchises. Royalty agreements
+on producing oil and gas wells stemming from the Company s ownership of mineral acreage generate a
+portion of the Company s revenues. These royalties are tied to the ownership of the mineral
+acreage and this ownership is perpetual, unless sold by the Company. Royalties are due and payable
+to the Company whenever oil and/or gas is produced from wells located on the Company s mineral
+acreage.
+
+GOVERNMENTAL REGULATION 
+
+Oil and gas production is subject to various taxes, such as gross production taxes and, in
+some cases, ad valorem taxes.
+
+The State of Oklahoma and other states require permits for drilling operations, drilling bonds
+and reports concerning operations and impose other regulations relating to the exploration and
+production of oil and gas. These states also have regulations addressing conservation matters,
+including provisions for the unitization or pooling of oil and gas properties and the regulation of
+spacing, plugging and abandonment of wells. As previously discussed, the well operators are relied
+upon by Panhandle to comply with governmental regulations.
+
+Various aspects of the Company s oil and gas operations are regulated by agencies of the
+federal government. The transportation of natural gas in interstate commerce is generally
+regulated by the Federal Energy Regulatory Commission ( FERC ) pursuant to the Natural Gas Act of
+1938 and the Natural Gas Policy Act of 1978 ( NGPA ). The intrastate transportation and gathering
+of natural gas (and operational and safety matters related thereto) may be subject to regulation by
+state and local governments.
+
+FERC s jurisdiction over interstate natural gas sales was substantially modified by the NGPA
+under which FERC continued to regulate the maximum selling prices of certain categories of gas sold
+in  first sales  in interstate and intrastate commerce. Effective January 1, 1993, however, the
+Natural Gas
+
+(3) 
+
+Table of Contents   
+
+Wellhead Decontrol Act (the  Decontrol Act ) deregulated natural gas prices for all  first sales 
+of natural gas. Because  first sales  include typical wellhead sales by producers, all natural gas
+produced from the Company s natural gas properties is sold at market prices, subject to the terms
+of any private contracts in effect. FERC s jurisdiction over natural gas transportation was not
+affected by the Decontrol Act.
+
+Sales of natural gas are affected by intrastate and interstate gas transportation regulation.
+Beginning in 1985, FERC adopted regulatory changes that have significantly altered the
+transportation and marketing of natural gas. These changes were intended by FERC to foster
+competition by transforming the role of interstate pipeline companies from wholesale marketers of
+natural gas to the primary role of gas transporters. As a result of the various omnibus rulemaking
+proceedings in the late 1980 s and the individual pipeline restructuring proceedings of the early
+to mid-1990 s, interstate pipelines must provide open and nondiscriminatory transportation and
+transportation-related services to all producers, natural gas marketing companies, local
+distribution companies, industrial end users and other customers seeking service. Through similar
+orders affecting intrastate pipelines that provide similar interstate services, FERC expanded the
+impact of open access regulations to intrastate commerce.
+
+More recently, FERC has pursued other policy initiatives that have affected natural gas
+marketing. Most notable are: (1) the large-scale divestiture of interstate pipeline-owned gas
+gathering facilities to affiliated or non-affiliated companies; (2) further development of rules
+governing the relationship of the pipelines with their marketing affiliates; (3) the publication of
+standards relating to the use of electronic bulletin boards and electronic data exchange by the
+pipelines to make available transportation information on a timely basis and to enable transactions
+to occur on a purely electronic basis; (4) further review of the role of the secondary market for
+released pipeline capacity and its relationship to open access service in the primary market; and
+(5) development of policy and promulgation of orders pertaining to its authorization of
+market-based rates (rather than traditional cost-of-service based rates) for transportation or
+transportation-related services upon the pipeline s demonstration of lack of market control in the
+relevant service market.
+
+As a result of these changes, sellers and buyers of natural gas have gained direct access to
+the particular pipeline services they need and are able to conduct business with a larger number of
+counter parties. These changes generally have improved the access to markets for natural gas while
+substantially increasing competition in the natural gas marketplace. What new or different
+regulations FERC and other regulatory agencies may adopt or what effect subsequent regulations may
+have on production and marketing of natural gas from the Company s properties cannot be predicted.
+
+Sales of oil are not regulated and are made at market prices. The price received from the
+sale of oil is affected by the cost of transporting it to market. Much of that transportation is
+through interstate common carrier pipelines. Effective January 1, 1995, FERC implemented
+regulations generally grandfathering all previously approved interstate transportation rates and
+establishing an indexing system for those rates by which adjustments are made annually based on the
+rate of inflation, subject to certain conditions and limitations. These regulations may tend to
+increase the cost of transporting oil by interstate pipeline, although the annual adjustments may
+result in decreased rates in a given year. These regulations have generally been approved on
+judicial review. Every five years, FERC will examine the relationship between the annual change in
+the applicable index and the actual cost changes experienced by the oil pipeline industry.
+
+ENVIRONMENTAL MATTERS 
+
+As the Company is directly involved in the extraction and use of natural resources, it is
+subject to various federal, state and local provisions regarding environmental and ecological
+matters. Compliance with these laws may necessitate significant capital outlays; however, to date
+the Company s cost of
+
+(4) 
+
+Table of Contents   
+
+compliance has been insignificant. The Company does not believe the existence of these
+environmental laws will materially hinder or adversely affect the Company s business operations;
+however, there can be no assurances of future events. Since the Company does not operate any wells
+where it owns an interest, actual compliance with environmental laws is controlled by the well
+operators, with Panhandle being responsible for its proportionate share of the costs involved.
+Panhandle carries liability insurance and, to the extent available at reasonable cost, pollution
+control coverage. However, all risks are not insured due to the availability and cost of
+insurance.
+
+EMPLOYEES 
+
+At September 30, 2006, Panhandle employed sixteen persons on a full-time basis. Four of the
+employees are executive officers and the co-presidents are also directors of the Company.
+
+RISK FACTORS 
+
+In addition to the other information included in this Form 10-K, the following risk factors
+should be considered in evaluating the Company s business and future prospects. The risk factors
+described below are not necessarily exhaustive and investors are encouraged to perform their own
+investigation with respect to the Company and its business. Investors should also read the other
+information in this Form 10-K, including the financial statements and related notes.
+
+Oil and natural gas prices are volatile. Volatility in oil and natural gas prices can adversely
+affect results and the price of the Company s common stock. This volatility also makes valuation
+of oil and natural gas producing properties difficult and can disrupt markets. 
+
+Oil and natural gas prices have historically been, and will likely continue to be, volatile.
+The prices for oil and natural gas are subject to wide fluctuation in response to a number of
+factors, including:
+
+relatively minor changes in the supply of and demand for oil and natural gas; 
+
+market uncertainty; 
+
+worldwide economic conditions; 
+
+weather conditions; 
+
+import prices; 
+
+political conditions in major oil producing regions, especially the Middle East; 
+
+actions taken by OPEC; 
+
+competition from alternative sources of energy; and 
+
+economic, political and regulatory developments. 
+
+Price volatility makes it difficult to budget and project the return on exploration and
+development projects and to estimate with precision the value of producing properties that are
+owned or acquired. In addition, unusually volatile prices often disrupt the market for oil and
+natural gas properties, as buyers and sellers have more difficulty agreeing on the purchase price
+of properties. Quarterly results of operations may fluctuate significantly as a result of, among
+other things, variations in oil and natural gas prices and production performance. In recent
+years, oil and natural gas price volatility has become increasingly severe.
+
+A substantial or extended decline in oil and natural gas prices would have a material adverse
+effect on the Company. 
+
+A substantial or extended decline in oil and natural gas prices would have a material adverse
+effect on the Company s financial position, results of operations, access to capital and the
+quantities of oil and natural gas that may be economically produced. A significant decrease in
+price levels for an
+
+(5) 
+
+Table of Contents   
+
+extended period would have a negative effect in several ways, including:
+
+cash flow would be reduced, decreasing funds available for capital expenditures
+employed to replace reserves or increase production; 
+
+certain reserves may no longer be economic to produce, leading to both lower proved
+reserves and cash flow; and 
+
+access to sources of capital, such as equity or long-term debt markets, could be
+severely limited or unavailable. 
+
+Lower oil and natural gas prices may cause impairment charges. 
+
+The Company has elected to utilize the successful efforts method of accounting for its oil and
+gas exploration and development activities. Exploration expenses, including geological and
+geophysical costs, rentals and exploratory dry holes, are charged against income as incurred.
+Costs of successful wells and related production equipment and development dry holes are
+capitalized and amortized by property using the unit-of-production method as oil and gas is
+produced.
+
+All long-lived assets, principally the Company s oil and gas properties, are monitored for
+potential impairment when circumstances indicate that the carrying value of the asset may be
+greater than its future net cash flows. The need to test a property for impairment may result from
+significant declines in sales prices or unfavorable adjustments to oil and gas reserves. Any
+assets held for sale are reviewed for impairment when the Company approves the plan to sell.
+Because of the uncertainty inherent in these factors, the Company can not predict when or if future
+impairment charges will be recorded. If an impairment charge is recognized, cash flow from
+operating activities is not impacted but net income and, consequently, shareholders equity are
+reduced.
+
+Although the Company s estimated oil and natural gas reserve data is prepared by a consulting
+engineering firm, estimates may still prove to be inaccurate. 
+
+The Company s reserve data represents the estimates of Campbell and Associates, a consulting
+petroleum engineering firm. Reserve estimates are prepared for all of the Company s properties
+annually by the reservoir engineer with a limited review mid-year report also prepared.
+Incorporated into reserve estimates are many factors and assumptions including:
+
+expected reservoir characteristics based on geological, geophysical and engineering
+assessments; 
+
+future production rates based on historical performance and expected future
+operating and investment activities; 
+
+future oil and gas prices; and 
+
+future development and operating costs. 
+
+Management believes the assumptions are reasonable based on the information available at the
+time of the estimates. However, actual results could vary considerably which could cause material
+variances in the estimated quantities of proved oil and natural gas reserves in the aggregate and
+for a particular geographic location or future net revenues, including production, revenues, taxes
+and development and operating expenditures. Any significant variation from these assumptions could
+result in the actual quantity of reserves and future net cash flows being materially different from
+the estimates. In addition, estimates of reserves may be subject to downward or upward revision
+based upon production history, results of future exploration and development, prevailing oil and
+natural gas prices, operating and development costs and other factors. Because a complete review
+of reserve projections is only done at the end of the year, any material change in a reserve
+estimate is included in subsequent reserve reports.
+
+(6) 
+
+Table of Contents   
+
+Failure to find or acquire additional reserves will cause reserves and production to decline
+materially from their current levels. 
+
+The rate of production from oil and natural gas properties generally declines as reserves are
+depleted. The Company s proved reserves will decline materially as reserves are produced except to
+the extent that the Company acquires additional properties containing proved reserves, conducts
+successful exploration and development drilling, successfully applies new technologies or
+identifies additional behind-pipe zones or secondary recovery reserves. Future oil and natural gas
+production is therefore highly dependent upon the level of success in acquiring or finding
+additional reserves. The above activities must be done with well operators, as the Company does
+not operate any of its wells.
+
+Drilling for oil and natural gas may involve unprofitable efforts, not only from dry wells but
+also from wells that are productive but do not produce sufficient net reserves to return a profit
+after deducting drilling, operating and other costs. In addition, wells that are profitable may
+not achieve a targeted rate of return. The Company relies on the operators  seismic data and other
+advanced technologies in identifying prospects and in conducting exploration activities. The
+seismic data and other technologies used do not allow operators to know conclusively prior to
+drilling a well whether oil or natural gas is present or may be produced economically.
+
+The ultimate cost of drilling, completing and operating a well is controlled by well operators
+and cost factors can adversely affect the economics of a project. Further drilling operations may
+be curtailed, delayed or canceled as a result of numerous factors, including unexpected drilling
+conditions, title problems, pressure or irregularities in formations, equipment failures or
+accidents, adverse weather conditions, environmental and other governmental requirements and the
+cost and availability of drilling rigs, equipment and services.
+
+Oil and natural gas drilling and producing operations involve various risks. 
+
+The Company is subject to all the risks normally incident to the operation and development of
+oil and natural gas properties and the drilling of oil and natural gas wells, including well
+blowouts, cratering and explosions, pipe failures, fires, abnormal pressures, uncontrollable flows
+of oil, natural gas, brine or well fluids, release of contaminants into the environment and other
+environmental hazards and risks.
+
+The Company maintains insurance against many potential losses or liabilities arising from well
+operations in accordance with customary industry practices and in amounts believed to be prudent.
+However, this insurance does not protect it against all operational risks. For example, the
+Company does not maintain business interruption insurance. Additionally, pollution and
+environmental risks generally are not fully insurable. These risks could give rise to significant
+uninsured costs that could have a material adverse effect upon financial reports.
+
+We can not control activities on properties we do not operate. 
+
+The Company does not operate any of the properties in which it has an interest and has very
+limited ability to exercise influence over operations for these properties or their associated
+costs. Dependence on the operator and other working interest owners for these projects and the
+limited ability to influence operations and associated costs could materially adversely affect the
+realization of targeted returns on capital in drilling or acquisition activities and targeted
+production growth rates. The success and timing of drilling, development and exploitation
+activities on properties operated by others depend on a number of factors that are beyond the
+Company s control, including the operator s expertise and financial resources, approval of other
+participants for drilling wells and utilization of technology.
+
+(7) 
+
+Table of Contents   
+
+Shortages of oil field equipment, services, qualified personnel and resulting cost increases could
+adversely affect results of operations. 
+
+The demand for qualified and experienced field personnel to drill wells and conduct field
+operations, geologists, geophysicists, engineers and other professionals in the oil and natural gas
+industry can fluctuate significantly, often in correlation with oil and natural gas prices, causing
+periodic shortages. There have also been shortages of drilling rigs and other equipment, as demand
+for rigs and equipment has increased along with the number of wells being drilled. These factors
+also cause significant increases in costs for equipment, services and personnel. Higher oil and
+natural gas prices generally stimulate increased demand and result in increased prices for drilling
+rigs, crews and associated supplies, equipment and services. These shortages or price increases
+could adversely affect the Company s profit margin, cash flow and operating results, or restrict
+its ability to drill wells and conduct ordinary operations.
+
+ITEM 2 PROPERTIES 
+
+As of September 30, 2006, Panhandle s principal properties consisted of perpetual ownership of
+254,778 net mineral acres, held principally in tracts in Oklahoma, New Mexico and Texas and nine
+other states. The Company also held leases on 20,742 net acres of minerals primarily in Oklahoma.
+At September 30, 2006, Panhandle held royalty and/or working interests in 4,174 producing oil or
+gas wells, and 41 wells in the process of being drilled or completed.
+
+Panhandle does not have current abstracts or title opinions on all mineral properties owned
+and, therefore, cannot be certain that it has unencumbered title to all of its properties. In
+recent years, few challenges have been made against the Company s fee title to its properties.
+
+Panhandle pays ad valorem taxes on its minerals owned in certain states.
+
+(8) 
+
+Table of Contents   
+
+ACREAGE 
+
+Mineral Interests 
+
+The following table of mineral interests owned reflects, as of September 30, 2006, in each
+respective state, the number of net and gross acres, net and gross producing acres, net and gross
+acres leased, and net and gross acres open (unleased).
+
+(1) 
+       
+      Producing  represents the mineral acres in which Panhandle owns a royalty or working
+interest in a producing well. 
+
+(2) 
+       
+      Leased  represents the mineral acres owned by Panhandle that are leased to third parties but
+not producing. 
+
+(3) 
+       
+      Open  represents mineral acres owned by Panhandle that are not leased or in production. 
+
+Leases 
+
+The following table reflects net mineral acres leased from others, lease expiration dates, and
+net leased acres held by production.
+
+(9) 
+
+Table of Contents   
+
+PROVED RESERVES 
+
+The following table summarizes estimates of the proved reserves of oil and gas held by
+Panhandle. All reserves are located within the United States. Because the Company s non-producing
+mineral and leasehold interests consist of various small interests in numerous tracts located
+primarily in Oklahoma, New Mexico and Texas and because the Company is a non-operator and must rely
+on third parties to propose and drill and operate producing wells, it is not feasible or possible
+to provide estimates of all proved undeveloped reserves and associated future net revenues. The
+Company is currently providing proved undeveloped reserve estimates for wells that it has a
+substantial reason to believe will be drilled in the very near term. In many cases, this means the
+Company has received some type of notice from the operator that a well will be drilled. All
+reserve quantity estimates were prepared by Campbell   Associates, Inc., Norman, Oklahoma, a
+consulting petroleum engineering firm. The Company s reserve estimates are not filed with any
+other federal agency.
+
+These reserves exclude approximately 1.2 to 1.6 Bcf of CO2 gas reserves for the years
+presented.
+
+Because the determination of reserves is a function of testing, evaluating, developing oil and
+gas reservoirs and establishing a production decline history, along with product price
+fluctuations, estimates will change as future information concerning individual reservoirs is
+developed and as market conditions change. Estimated reserve quantities and future net revenues
+are affected by changes in product prices, and these prices have varied substantially in recent
+years and are expected to vary substantially from current pricing in the future. Proved developed
+reserves are those expected to be recovered through existing well bores under existing economic and
+operating conditions. Proved undeveloped reserves are reserves that may be recovered from
+undrilled acreage or units, but are limited to those sites directly offsetting established
+production units, have sufficient geological data to indicate a reasonable expectation of
+commercial success and the Company has reason to believe will be drilled in the very near term.
+
+(10) 
+
+Table of Contents   
+
+ESTIMATED FUTURE NET CASH FLOWS 
+
+Set forth below are estimated future net cash flows with respect to Panhandle s proved
+reserves (based on the estimated units set forth in the immediately preceding table) for the fiscal
+year indicated, and the present value of such estimated future net cash flows, computed by applying
+a 10% discount factor as required by the rules and regulations of the SEC. Estimated future net
+cash flows have been computed by applying current prices at September 30 of each year to future
+production of proved reserves less estimated future expenditures to be incurred with respect to the
+development and production of such reserves. This pricing is based on SEC guidelines. No federal
+or state income taxes are included in estimated costs. However, the amounts are net of operating
+costs and production taxes levied by the respective states. Prices used for determining future
+cash flows from oil and natural gas for the periods ended September 30, 2006, 2005, 2004 were as
+follows: 2006   $60.50, $3.49; 2005   $64.18, $11.54; 2004   $44.68, $5.42. These future net cash
+flows should not be construed as the fair market value of the Company s reserves. A market value
+determination would need to include many additional factors, including anticipated oil and gas
+price increases or decreases.
+
+Estimated Future Net Cash Flows (before federal income taxes) 
+
+10% Discounted Present Value of Estimated Future Net Cash Flows (before federal income taxes) 
+
+The future net cash flows are net of immaterial amounts of future cash flow to be received
+from CO2 reserves. The large decrease in the natural gas price for 2006 resulted in the decline of
+future net cash flows in 2006.
+
+OIL AND GAS PRODUCTION 
+
+The following table sets forth the Company s net production of oil and gas for the fiscal
+periods indicated.
+
+Gas production includes 192,957, 183,743 and 176,605 Mcf of CO2 sold at average prices of
+$.65, $.51 and $.41 per Mcf for the years ended September 30, 2006, 2005 and 2004, respectively.
+
+(11) 
+
+Table of Contents   
+
+AVERAGE SALES PRICES AND PRODUCTION COSTS 
+
+The following table sets forth unit price and cost data for the fiscal periods indicated.
+
+(1) 
+       
+     Includes actual well operating costs only. 
+
+(2) 
+       
+     Includes production taxes, compression, handling and marketing fees paid on
+natural gas sales and other minor expenses associated with well operations. 
+
+Approximately 28% of the Company s oil and gas revenue is generated from small royalty
+interests in a few thousand wells. These royalty interests bear no share of the operating costs on
+those producing wells.
+
+GROSS AND NET PRODUCTIVE WELLS AND DEVELOPED ACRES 
+
+The following table sets forth Panhandle s gross and net productive oil and gas wells as of
+September 30, 2006. Panhandle owns fractional royalty interests or fractional working interests in
+these wells. The Company does not operate any wells.
+
+Information on multiple completions is not available from Panhandle s records, but the number
+of such is insignificant.
+
+As of September 30, 2006, Panhandle owned 345,106 gross developed mineral acres and 41,975 net
+developed mineral acres. Panhandle has also leased from others 178,312 gross developed acres,
+which contain 17,905 net developed acres.
+
+UNDEVELOPED ACREAGE 
+
+As of September 30, 2006, Panhandle owned 1,330,020 gross and 212,803 net undeveloped mineral
+acres, and leases on 30,694 gross and 2,837 net acres.
+
+(12) 
+
+Table of Contents   
+
+DRILLING ACTIVITY 
+
+The following net productive development and exploratory wells and net dry development and
+exploratory wells in which the Company had a fractional royalty or working interest were drilled
+and completed during the fiscal years indicated. Also shown are the net wells purchased during
+these periods.
+
+PRESENT ACTIVITIES 
+
+The following table sets forth the gross and net oil and gas wells drilling or testing as of
+September 30, 2006, in which Panhandle owns a royalty or working interest. These wells are not yet
+producing.
+
+(13) 
+
+Table of Contents   
+
+OTHER FACILITIES 
+
+The Company leases 9,944 square feet of office space in Oklahoma City, OK. The lease
+obligation ends in 2009.
+
+SAFE HARBOR STATEMENT 
+
+This report, including information included in, or incorporated by reference from, future
+filings by the Company with the SEC, as well as information contained in written material, press
+releases and oral statements, contain, or may contain, certain statements that are  forward-looking
+statements  within the meaning of the federal securities laws. All statements, other than
+statements of historical facts, included or incorporated by reference in this report, which address
+activities, events or developments which are expected to, or anticipated will, or may, occur in the
+future are forward-looking statements. The words  believes,   intends,   expects,   anticipates, 
+ projects,   estimates,   predicts  and similar expressions are used to identify forward-looking
+statements.
+
+These forward-looking statements include, among others, such things as: the amount and nature
+of our future capital expenditures; wells to be drilled or reworked; prices for oil and natural
+gas; demand for oil and natural gas; estimates of proved oil and natural gas reserves; development
+and infill drilling potential; drilling prospects; business strategy; production of oil and natural
+gas reserves; and expansion and growth of our business and operations.
+
+These statements are based on certain assumptions and analyses made by the Company in light of
+experience and perception of historical trends, current conditions and expected future developments
+as well as other factors believed appropriate in the circumstances. However, whether actual
+results and development will conform to our expectations and predictions is subject to a number of
+risks and uncertainties which could cause actual results to differ materially from our
+expectations.
+
+One should not place undue reliance on any of these forward-looking statements. The Company
+does not currently intend to update forward-looking information and to release publicly the results
+of any future revisions made to forward-looking statements to reflect events or circumstances after
+the date of this report which reflect the occurrence of unanticipated events.
+
+In order to provide a more thorough understanding of the possible effects of some of these
+influences on any forward-looking statements made, the following discussion outlines certain
+factors that in the future could cause consolidated results for 2007 and beyond to differ
+materially from those that may be presented in any such forward-looking statement made by or on
+behalf of the Company.
+
+Commodity Prices.   The prices received for oil and natural gas production have a direct impact
+on the Company s revenues, profitability and cash flows as well as the ability to meet its
+projected financial and operational goals. The prices for natural gas and crude oil are heavily
+dependent on a number of factors beyond the Company s control, including: the demand for oil and
+natural gas; weather conditions in the continental United States (which can greatly influence the
+demand for natural gas at any given time as well as the price we receive for such natural gas); and
+the ability of current distribution systems in the United States to effectively meet the demand for
+oil and natural gas at any given time, particularly in times of peak demand which may result
+because of adverse weather conditions.
+
+Oil prices are extremely sensitive to foreign influences based on political, social or
+economic factors, any one of which could have an immediate and significant effect on the price and
+supply of oil. In addition, prices of both natural gas and oil are becoming more and more
+influenced by trading on the commodities markets which, at times, has increased the volatility
+associated with these prices.
+
+(14) 
+
+Table of Contents   
+
+Uncertainty of Oil and Natural Gas Reserves.   There are numerous uncertainties inherent in
+estimating quantities of proved reserves and their values, including many factors beyond the
+Company s control. The oil and natural gas reserve data included in this report represents only an
+estimate of these reserves. Oil and natural gas reservoir engineering is a subjective and inexact
+process of estimating underground accumulations of oil and natural gas that cannot be measured in
+an exact manner. Estimates of economically recoverable oil and natural gas reserves depend on a
+number of variable factors, including historical production from the area compared with production
+from other producing areas, and assumptions concerning future oil and natural gas prices, future
+operating costs, severance and excise taxes, development costs, and workover and remedial costs.
+
+Some or all of these assumptions may vary considerably from actual results. For these
+reasons, estimates of the economically recoverable quantities of oil and natural gas, and estimates
+of the future net cash flows from oil and natural gas reserves prepared by different engineers or
+by the same engineers but at different times may vary substantially. Accordingly, oil and natural
+gas reserve estimates may be subject to periodic downward or upward adjustments. Actual
+production, revenues and expenditures with respect to oil and natural gas reserves will vary from
+estimates, and those variances can be material.
+
+The information regarding discounted future net cash flows included in this report is not
+necessarily the current market value of the estimated oil and natural gas reserves attributable to
+the Company s properties. As required by the SEC, the estimated discounted future net cash flows
+from proved oil and natural gas reserves are determined based on prices and costs as of the date of
+the estimate. Actual future prices and costs may be materially higher or lower. Actual future net
+cash flows are also affected, in part, by the amount and timing of oil and natural gas production,
+supply and demand for oil and natural gas and increases or decreases in consumption.
+
+In addition, the 10% discount factor required by the SEC for use in calculating discounted
+future net cash flows for reporting purposes is not necessarily the most appropriate discount
+factor based on interest rates in effect from time to time and the risks associated with operations
+of the oil and natural gas industry in general.
+
+ITEM 3 LEGAL PROCEEDINGS 
+
+There were no material legal proceedings involving Panhandle or Wood Oil as of the date of
+this report.
+
+ITEM 4 SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS 
+
+No matters were submitted to a vote of Panhandle s security holders during the fourth quarter
+of the fiscal year ended September 30, 2006.
+
+(15) 
+
+Table of Contents   
+
+PART II  
+
+ITEM 5 MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS 
+
+The Company s Class A Common Stock ( Common Stock ) is listed on the American Stock
+Exchange (symbol PHX). The following table sets forth the high and low trade prices of the Common
+Stock during the periods indicated (all share and per share amounts are adjusted for the 2-for-1
+stock split, effective on January 9, 2006):
+
+As of December 4, 2006, there were 1,877 holders of record of Panhandle s Class A Common
+Stock.
+
+During the past two years, cash dividends have been declared and paid as follows on the Class
+A Common Stock:
+
+The Company s current line of credit loan agreement contains a provision limiting the paying
+or declaring of a cash dividend to twenty percent of net cash flow provided by operating activities
+from the Consolidated Statement of Cash Flows of the preceding twelve-month period. See Note 4. to
+the consolidated financial statements contained herein at  Item 8   Financial Statements , for a
+further discussion of the loan agreement.
+
+(16) 
+
+Table of Contents   
+
+ITEM 6 SELECTED FINANCIAL DATA 
+
+The following table summarizes consolidated financial data of the Company and should be read
+in conjunction with the  Management s Discussion and Analysis of Financial Condition and Results of
+Operations  and the Consolidated Financial Statements of the Company, including the Notes thereto,
+included elsewhere in this report.
+
+(17) 
+
+Table of Contents   
+
+All share and per share amounts are adjusted for the effects of 2-for-1 stock splits,
+effective in January 2006 and in April 2004.
+
+(A) 
+       
+     The Company uses the successful efforts method of accounting for its oil and
+gas activities. 
+
+(B) 
+       
+     Represents the income effect of the adoption of SFAS No. 143,  Accounting for
+Asset Retirement Obligations  on October 1, 2003. See Note 1: Summary of Significant
+Accounting Policies of Notes to the Consolidated Financial Statements herein. 
+
+(C) 
+       
+     Weighted average shares outstanding for basic and diluted earnings per share
+are the same in fiscal year 2006 due to the October 2005 amendment to the Deferred
+Compensation Plan for Non-Employee Directors. 
+
+ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+RESULTS OF OPERATIONS
+
+General 
+
+The Company s principal line of business is the production and sale of oil and natural gas.
+Results of operations are dependent upon the quantity of production and the price obtained for such
+production. Prices received by the Company for the sale of its oil and natural gas have fluctuated
+significantly from period to period. These fluctuations affect the Company s ability to maintain
+or increase its production from existing oil and gas properties and to explore, develop or acquire
+new properties. Capital expenditures, which increased significantly in 2006, are expected to again
+increase in 2007 which should translate into increased production volumes for the Company going
+forward.
+
+The following table reflects certain operating data for the periods presented:
+
+2006 Compared to 2005 
+
+Overview 
+
+The Company recorded net income of $10,574,219 in 2006, compared to net income of $10,484,786
+in 2005. Total revenues were higher in 2006 as a result of increased oil and gas sales generated
+by increases in the average sales prices of oil and natural gas and increased sales volumes of
+
+(18) 
+
+Table of Contents   
+
+natural gas in 2006 as compared to 2005. The revenue increases were offset by substantial
+increases in depreciation, depletion and amortization and provision for impairment expense in 2006
+as compared to 2005.
+
+Revenues 
+
+Total revenues increased $3,887,505 or 12% for 2006 as compared to 2005. The increase was the
+result of a $5,766,317 increase in oil and natural gas sales revenues offset by a decline in lease
+bonus revenues of $1,804,008. The increase in oil and gas sales revenues resulted from a 24% and
+11% increase in the average sales price for oil and natural gas, respectively, and a 7% increase in
+gas sales volumes. The decrease in lease bonus revenue in 2006 is a result of the Company leasing
+all of its non-producing mineral acreage in Arkansas in 2005. The total lease bonus, net of
+associated basis, was $1,879,467, as compared to normal leasing activity in 2006. The table above
+outlines the Company s production and average sales prices for oil and natural gas for 2006 and
+2005.
+
+The continuing increase in drilling expenditures and the Company s stated goal of increasing
+its working interest percentage in new wells drilled is expected to result in continuing increased
+production volumes for gas in 2007, as compared to 2006. The Company has announced a significant
+increase, to $31.5 million, in its drilling budget for 2007. Drilling continues to be concentrated
+on natural gas prospects and new wells expected to be put on line in 2007 should continue to more
+than replace the decline of existing well production.
+
+Production by quarter for 2006 was as follows;
+
+Lease Operating Expenses and Production Taxes (LOE) 
+
+LOE increased $175,499 or 6% in 2006. The increase is a result of new larger ownership wells
+going on line in 2006, as new wells normally have higher operating costs the first several months
+of production, the continuing increase in the number of wells in which the Company has an interest
+and general oilfield price increases. In addition water disposal costs on one new well have been
+disproportionately high. LOE costs per mcfe of production were $.63 in 2006 as compared to $.62 in
+2005.
+
+Production Taxes: 
+
+Production taxes increased $284,740 or 15% in 2006. The increase is the result of the higher
+oil and gas revenues in 2006, as production taxes are paid as a percentage of these revenues.
+
+Exploration Costs 
+
+Exploration costs decreased $561,849 in 2006 as compared to 2005. This decrease is
+principally the result of three higher cost exploratory dry holes drilled in 2005 as compared to
+only one in 2006. Since the Company utilizes the successful efforts method of accounting for oil
+and gas operations, only exploratory dry holes result in their costs being charged to exploration
+costs. Also, the Company s charge to exploration costs for leasehold deemed worthless or the lease
+term had expired was higher in 2005.
+
+(19) 
+
+Table of Contents   
+
+Depreciation, Depletion and Amortization (DD A)  
+
+DD A increased $2,635,796 or 35% in 2006. The increase is a result of higher costs in 2006 on
+new wells as general oilfield price increases have been substantial the last two years. These
+higher costs then must be depreciated. In addition, projected remaining production volumes were
+reduced on some wells, which then increases current DD A costs. Further, high initial production
+rates and the inordinate amount of certain wells total estimated reserves being produced rapidly
+causes DD A to be heavily weighted to the front end of these wells lives.
+
+Provision for Impairment 
+
+The provision for impairment increased $2,777,658 in 2006 as compared to 2005. The impairment
+provision in 2005 benefited from higher natural gas prices used in the fair value calculations as
+compared to substantially lower prices used in the 2006 calculation. Natural gas prices declined
+dramatically during the fourth fiscal quarter of 2006, and were at a low point for fiscal 2006 at
+September 30. Market price for natural gas affects the economic evaluation of properties and the
+potential impairment calculation. The 2006 provision was principally the result of one 27 well
+field in which the more recent wells drilled were not as good as earlier well results. The last
+well drilled in the field, which was a large interest well (25%), resulted in a poor well and
+caused the entire field to be in an impaired status. This field s carrying value was impaired by
+approximately $1.9 million. An adjacent one well field also incurred a $.5 million impairment in
+2006.
+
+Loss on Sale of Assets 
+
+Loss on sale of assets decreased $172,170 in 2006 as compared to 2005. Several low performing
+properties were sold in 2005 at a loss, with one group of wells sold at a loss of approximately
+$200,000. In 2006, one property was sold at a loss of $94,275, and other insignificant sales
+accounted for the remaining $25,007.
+
+General and Administrative Costs (G A) 
+
+G A costs decreased $1,209,309 or 27% in 2006. The decrease is the result of an amendment to
+the Directors  Deferred Compensation Plan (the Plan). Effective October 19, 2005 the Plan was
+amended so that on retirement, termination or death of the director or on a change in control of
+the Company, the shares accrued under the Plan will be issued to the director. This amendment
+removed the conversion to cash option available under the Plan, which eliminated the requirement to
+adjust the deferred compensation liability for changes in the market value of the Company s common
+stock after October 19, 2005. The adjustment of the liability to market value of the shares at the
+closing price on October 19, 2005 resulted in a credit to G A of approximately $288,000 as compared
+to a charge of approximately $990,000 in 2005. In addition, the deferred compensation liability
+after the October 19, 2005 adjustment was reclassified to stockholders  equity.
+
+Interest Expense 
+
+Interest expense decreased in 2006 due to lower outstanding debt balances.
+
+Provision for Income Taxes 
+
+The 2006 provision for income taxes was basically flat as compared to 2005, as income before
+provision for income tax increased only $84,433. The Company utilizes excess percentage depletion
+to reduce its effective tax rate from the federal statutory rate. The effective tax rate was 30.3%
+for 2006 and 30.5% for 2005.
+
+(20) 
+
+Table of Contents   
+
+Liquidity and Capital Resources  
+
+At September 30, 2006, the Company had positive working capital of $4,997,714 as compared to
+$3,470,006 at September 30, 2005. The increase is a result of an income tax receivable created by
+the estimated federal income tax payment made in March 2006 and the directors  deferred
+compensation liability being reclassified to equity in October 2005. These items were offset by an
+increase in accounts payable, relating to increased drilling expenditures. Capital expenditures
+increased and will continue to increase as the Company implements its strategy of increasing the
+average working interest in new wells drilled, the costs for drilling rigs, field services and
+equipment continue to increase and the drilling of gas resource wells continues to increase in
+number.
+
+Cash flow from operating activities increased 38% over last year. Capital expenditures for
+oil and gas activities for 2006 amounted to $22,624,040, as compared to $14,741,637 for 2005.
+Management currently expects capital expenditures for oil and gas activities to be approximately
+$33,000,000 for 2007. This includes expected well drilling and equipment costs of $31.5 million
+and $1.5 for both leasehold acreage purchases and workover expenses on existing wells. The $31.5
+million drilling budget is expected to include expenditures of approximately $14.5 million on gas
+resource drilling projects principally in southeast Oklahoma and west Texas, $12.5 million on
+drilling projects in western Oklahoma and $4.5 million in onshore Gulf Coast drilling projects.
+Any acquisition of oil and gas properties would further increase capital expenditures.
+
+The Company has historically funded capital expenditures, overhead costs and dividend payments
+from operating cash flow and has utilized, at times, its bank revolving line-of-credit facility to
+help fund these expenditures. The borrowing base of the current bank line-of-credit can be
+substantially increased if needed. The $50 million facility currently has a $10 million borrowing
+base which could probably be expanded up to the $50 million maximum, if needed. The borrowing base
+is set by the Company to minimize the fee on the unused portion of the borrowing base. Based on
+expected natural gas production volumes and prices for fiscal 2007, the expected capital
+expenditure level discussed above, and no meaningful acquisitions of oil and gas properties,
+borrowings of $10-15 million in fiscal 2007 are possible. Changes in production volumes or pricing
+or an acceleration or slowing down of the development in the gas resource projects would materially
+affect anticipated borrowings.
+
+Contractual Obligations 
+
+In October 2006, the Company refinanced its credit facility with BancFirst of Oklahoma City,
+Oklahoma with a credit facility from Bank of Oklahoma (BOK). The BOK Agreement consists of a term
+loan in the amount of $2,500,000 and a revolving loan in the amount of $50,000,000 which is subject
+to a semi-annual borrowing base determination. The current borrowing base under the BOK Agreement
+is $10,000,000. The term loan matures on September 1, 2007, and the revolving loan matures on
+October 31, 2009. Monthly payments, beginning December 1, 2006, on the term loan are $250,000,
+plus accrued interest. Borrowings under the revolving loan are due at maturity. The term loan
+bears interest at 30 day LIBOR plus .75%. The revolving loan bears interest at the national prime
+rate minus from 1.375% to .75%, or 30 day LIBOR plus from 1.375% to 2.0%. The interest rate
+charged will be based on the percent of the value advanced of the calculated loan value of
+Panhandle s oil and gas reserves. The interest rate spread from LIBOR or prime increases as a
+larger percent of the loan value of Panhandle s oil and gas properties is advanced.
+
+Determinations of the borrowing base are made semi-annually or whenever the bank, in its sole
+discretion, believes there has been a material change in the value of the oil and gas properties.
+The loan agreement contains customary covenants which, among other things, require periodic
+financial and reserve reporting and limit the Company s incurrence of indebtedness, liens,
+dividends and acquisitions of treasury stock, and require the Company to maintain certain financial
+ratios. At September 30, 2006,
+
+(21) 
+
+Table of Contents   
+
+the Company was in compliance with the covenants of the BancFirst agreement.
+
+The table below summarizes the Company s contractual obligations, under the BancFirst
+facility, as of September 30, 2006:
+
+Hedging 
+
+Effective January 1, 2007, the Company entered into the following three natural gas collar
+contracts.
+
+2005 Compared to 2004 
+
+Overview 
+
+The Company recorded net income of $10,484,786 in 2005, compared to net income of $6,729,825
+in 2004. Revenues and consequently net income were larger as a result of increased oil and gas
+sales revenues generated by significant increases in the average sales prices of oil and natural
+gas in 2005 as compared to 2004. In addition, the Company was able to increase lease bonus revenue
+by approximately $2,100,000 in 2005. New leasing activity was the result of an industry wide
+increase in drilling activity brought on by the increased market price of oil and gas.
+
+Revenues 
+
+Total revenues increased 35% to $33,306,723 in 2005 compared to $24,606,609 in 2004. The
+majority of the increase was due to increases in the average sales price for oil and natural gas in
+2005 per the above operating data. New production from the Company s drilling activity more than
+replaced the normal production decline of existing gas wells and the sale in 2005 of approximately
+3% (on an annualized basis) of the Company s gas production. These sales of non-core assets were
+accomplished throughout 2005. Gas production increased 4% for the year in spite of the asset
+sales. Oil wells beginning production in 2005 could not replace the decline in existing oil
+production. As the Company is concentrating on the drilling of gas wells, this trend of increasing
+gas production and decreasing oil production should continue.
+
+(22) 
+
+Table of Contents   
+
+Lease bonus revenue increased $2,099,054 in 2005, substantially all of which is due to the
+leasing of all of the Company s non-producing mineral acreage in Arkansas. The total lease bonus, net of
+associated basis, for the approximate 9,000 Arkansas mineral acres was $1,879,467.
+
+Lease Operating Expenses and Production Taxes (LOE) 
+
+LOE continues to increase each year due to increases in the number of working interest wells
+in which the Company has an interest, increasing repairs and maintenance needed for existing older
+wells and normal inflation of costs. Actual well operating costs were $2,877,972 in 2005 as
+compared to $2,592,911 in 2004. Gross production taxes are paid as a percentage of oil and gas
+sales revenues and therefore increased in 2005 to $1,924,623, an increase of $419,410 over 2004.
+
+Exploration Costs 
+
+Exploration costs increased $547,802 or 231% in 2005 as compared to 2004. Since the Company
+utilizes the successful efforts method of accounting for oil and gas operations, only exploratory
+dry holes result in their costs being charged to exploration costs. In 2004, there were no high
+cost exploratory dry holes as compared to three such wells in 2005.
+
+Depreciation, Depletion and Amortization (DD A)  
+
+DD A increased $1,391,071 or 23% in 2005 as compared to 2004. Increased DD A expenses in
+2005, as compared to 2004, are a result of rapid decline rates on many wells which have been
+drilled and gone on production in the last two years coupled with higher costs on these recently
+completed wells, which then must be depreciated. The high initial production rates result in an
+inordinate amount of the wells  total estimated reserves being produced rapidly, which then causes
+the units of production DD A being heavily weighted to the front end of these wells  lives.
+
+Provision for Impairment 
+
+The provision for impairment decreased $609,392 or 72% in 2005 as compared to 2004. The
+decrease in impairment charges was principally the result of increased market prices for oil and
+natural gas. Higher market prices dramatically change the economic evaluation of properties and
+the calculation of potential impairment.
+
+General and Administrative Costs (G A) 
+
+G A costs increased $1,511,771 or 50% in 2005. Personnel related expenses (including
+salaries, payroll taxes, insurance and ESOP expenses) increased approximately $250,000 in 2005.
+Professional fees including; audit, oil and gas land brokers, engineering and Sarbanes-Oxley
+internal control review assistance increased $291,000 in 2005 as compared to 2004. G A expense
+related to the Non-Employee Directors Deferred Compensation Plan (the  Plan ) increased
+approximately $682,000 in 2005. The increase resulted from the Company recognizing a charge to G A
+to adjust the potential shares (approximately 31,000 shares) in the Plan to market price at
+September 30, 2005. The non-employee directors have elected to defer payment of directors  fees
+with future payment (in cash or shares) indexed to the Company s stock performance. Subsequent to
+2005 fiscal year end, the Company s board of directors voted to amend the Plan to provide future
+payment only in common stock of the Company. That change will eliminate the requirement to adjust
+the liability for changes in market price of the Company s common stock for 2006 and future fiscal
+periods.
+
+(23) 
+
+Table of Contents   
+
+Interest Expense 
+
+Interest expense decreased $128,570 or 26% in 2005 because of lower average outstanding bank
+debt balances.
+
+Provision for Income Taxes 
+
+The provision for income taxes increased in 2005 due to a substantial increase in income
+before taxes (as discussed above). The Company continued to be able to utilize excess percentage
+depletion on its oil and gas properties to reduce its tax liability, and its effective tax rate
+from the federal and state statutory rates. The effective tax rate was approximately 30% in 2005,
+31% in 2004 and 27% in 2003.
+
+CRITICAL ACCOUNTING POLICIES 
+
+Preparation of financial statements in conformity with accounting principles generally
+accepted in the United States requires management to make estimates, judgments and assumptions that
+affect the reported amounts of assets, liabilities, revenues and expenses, and the disclosure of
+contingent assets and liabilities. However, the accounting principles used by the Company
+generally do not change the Company s reported cash flows or liquidity. Generally, accounting
+rules do not involve a selection among alternatives, but involve a selection of the appropriate
+policies for applying the basic principles. Interpretation of the existing rules must be done and
+judgments made on how the specifics of a given rule apply to the Company.
+
+The more significant reporting areas impacted by management s judgments and estimates are
+crude oil and natural gas reserve estimation, impairment of assets, oil and gas sales revenue
+accruals and tax accruals. Management s judgments and estimates in these areas are based on
+information available from both internal and external sources, including engineers, geologists and
+historical experience in similar matters. Actual results could differ from the estimates as
+additional information becomes known. The oil and gas sales revenue accrual is particularly
+subject to estimates due to the Company s status as a non-operator on all of its properties.
+Production information obtained from well operators is substantially delayed. This causes the
+estimation of recent production, used in the oil and gas revenue accrual, to be subject to some
+variations.
+
+Oil and Gas Reserves 
+
+Of these judgments and estimates, management considers the estimation of crude oil and nature
+gas reserves to be the most significant. These estimates affect the unaudited standardized measure
+disclosures, as well as DD A and impairment calculations. Changes in crude oil and natural gas
+reserve estimates affect the Company s calculation of depreciation, depletion and amortization,
+provision for abandonment and assessment of the need for asset impairments. On an annual basis,
+with a limited scope semi-annual update, the Company s consulting engineer, with assistance from
+Company geologists, prepares estimates of crude oil and natural gas reserves based on available
+geologic and seismic data, reservoir pressure data, core analysis reports, well logs, analogous
+reservoir performance history, production data and other available sources of engineering,
+geological and geophysical information. As required by the guidelines and definitions established
+by the SEC, these estimates are based on current crude oil and natural gas pricing. Crude oil and
+natural gas prices are volatile and largely affected by worldwide production and consumption and
+are outside the control of management. Projected future crude oil and natural gas pricing
+assumptions are used by management to prepare estimates of crude oil and natural gas reserves used
+in formulating management s overall operating decisions in the exploration and production segment.
+
+(24) 
+
+Table of Contents   
+
+Successful Efforts Method of Accounting 
+
+The Company has elected to utilize the successful efforts method of accounting for its oil and
+gas exploration and development activities. Exploration expenses, including geological and
+geophysical costs, rentals and exploratory dry holes, are charged against income as incurred.
+Costs of successful wells and related production equipment and developmental dry holes are
+capitalized and amortized by property using the unit-of-production method as oil and gas is
+produced. This accounting method may yield significantly different operating results than the full
+cost method.
+
+Impairment of Assets 
+
+All long-lived assets, principally oil and gas properties, are monitored for potential
+impairment when circumstances indicate that the carrying value of the asset may be greater than its
+future net cash flows. The evaluations involve significant judgment since the results are based on
+estimated future events, such as inflation rates, future sales prices for oil and gas, future
+production costs, estimates of future oil and gas reserves to be recovered and the timing thereof,
+the economic and regulatory climates and other factors. The need to test a property for impairment
+may result from significant declines in sales prices or unfavorable adjustments to oil and gas
+reserves. Any assets held for sale are reviewed for impairment when the Company approves the plan
+to sell. Estimates of anticipated sales prices are highly judgmental and subject to material
+revision in future periods. Because of the uncertainty inherent in these factors, the Company can
+not predict when or if future impairment charges will be recorded.
+
+Oil and Gas Sales Revenue Accrual 
+
+The Company does not operate any of its oil and gas properties, and it primarily holds small
+interests in approximately 4,000 wells. Thus, obtaining timely production data from the well
+operators is extremely difficult. This requires the Company to utilize past production receipts to
+estimate its oil and gas sales revenue accrual at the end of each quarterly period. The oil and gas
+accrual can be impacted by many variables, including initial high production rates of new wells and
+subsequent rapid decline rates of those wells. This could lead to an over or under accrual of oil
+and gas sales at the end of any particular quarter. Based on past history, the estimated accrual
+has been materially accurate.
+
+Income Taxes 
+
+The estimation of the amounts of income tax to be recorded by the Company involves
+interpretation of complex tax laws and regulations as well as the completion of complex
+calculations, including the determination of the Company s percentage depletion deduction.
+Although the Company s management believes its tax accruals are adequate, differences may occur in
+the future depending on the resolution of pending and new tax laws, regulations and
+interpretations.
+
+The above description of the Company s critical accounting policies is not intended to be an
+all-inclusive discussion of the uncertainties considered and estimates made by management in
+applying accounting principles and policies. Results may vary significantly if different policies
+were used or required and if new or different information becomes known to management.
+
+ITEM 7A QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK 
+
+The Company s results of operations and operating cash flows can be significantly impacted by
+changes in market prices for oil and gas. Based on the Company s 2006 production, a $.10 per Mcf
+change in the price received for natural gas production would result in a corresponding $430,000
+annual change in pre-tax operating cash flow. A $1.00 per barrel change in the price received for
+oil production would result in a corresponding $97,000 annual change in pre-tax operating cash
+flow. Cash flows could
+
+(25) 
+
+Table of Contents   
+
+also be impacted, to a lesser extent, by changes in the market interest
+rates related to the Company s
+credit facilities. The term loan bears interest at 30 day LIBOR plus .75%. The revolving loan
+bears interest at the national prime rate minus from 1.375% to .75%, or 30 day LIBOR plus from
+1.375% to 2.0%. At September 30, 2006, the Company had $3,166,653 outstanding under these
+facilities. A change of .5% in the prime rate or on LIBOR would result in a change to interest
+expense of $15,833.
+
+ITEM 8 FINANCIAL STATEMENTS 
+
+(26) 
+
+Table of Contents   
+
+Management s Annual Report on Internal Control Over Financial Reporting 
+
+The management of the Company is responsible for establishing and maintaining adequate
+internal control over financial reporting. Internal control over financial reporting is defined in
+Rules 13a-15(f) and 15d-15(f) promulgated under the Securities Exchange Act of 1934 (the  Exchange
+Act ) as a process designed by, or under the supervision of, the Company s principal executive and
+principal financial officers and effected by the Company s board of directors, management and other
+personnel, to provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with generally accepted
+accounting principles and includes those policies and procedures that:
+
+Pertain to the maintenance of records that in reasonable detail accurately and
+fairly reflect the transactions and dispositions of the assets of the Company; 
+
+Provide reasonable assurance that transactions are recorded as necessary to permit
+preparation of financial statements in accordance with generally accepted accounting
+principles, and that receipts and expenditures of the Company are being made only in
+accordance with authorizations of management and directors of the Company; and 
+
+Provide reasonable assurance regarding prevention or timely detection of
+unauthorized acquisition, use or disposition of the Company s assets that could have a
+material effect on the financial statements. 
+
+Because of its inherent limitations, internal control over financial reporting may not prevent
+or detect misstatements. Also, projections of any evaluation of effectiveness to future periods
+are subject to the risk that controls may become inadequate because of changes in conditions, or
+that the degree of compliance with the policies or procedures may deteriorate. Internal control
+over financial reporting cannot provide absolute assurance of achieving financial reporting
+objectives because of its inherent limitations. Internal control over financial reporting is a
+process that involves human diligence and compliance and is subject to lapses in judgment and
+breakdowns resulting from human failures. Internal control over financial reporting also can be
+circumvented by collusion or improper management override. Because of such limitations, there is a
+risk that material misstatements may not be prevented or detected on a timely basis by internal
+control over financial reporting. However, these inherent limitations are known features of the
+financial reporting process. Therefore, it is possible to design into the process safeguards to
+reduce, though not eliminate, this risk.
+
+The Company s management assessed the effectiveness of the Company s internal control over
+financial reporting as of September 30, 2006. In making this assessment, the Company s management
+used the criteria set forth in  Internal Control   Integrated Framework  issued by the Committee of
+Sponsoring Organizations of the Treadway Commission (COSO). Based on our assessment, management
+has concluded that, as of September 30, 2006, the Company s internal control over financial
+reporting was effective based on those criteria.
+
+The Company s independent registered public accounting firm, Ernst   Young, LLP, has audited
+our assessment of the effectiveness of the Company s internal control over financial reporting as
+of September 30, 2006, as stated in their report which follows.
+
+(27) 
+
+Table of Contents   
+
+Report of Independent Registered Public Accounting Firm 
+on Internal Control Over Financial Reporting
+
+The Board of Directors and Stockholders 
+Panhandle Royalty Company
+
+We have audited management s assessment, included in the accompanying  Management s Annual Report
+on Internal Control Over Financial Reporting , that Panhandle Royalty Company (the Company)
+maintained effective internal control over financial reporting as of September 30, 2006, based on
+criteria established in Internal Control Integrated Framework issued by the Committee of Sponsoring
+Organizations of the Treadway Commission (COSO criteria). The Company s management is responsible
+for maintaining effective internal control over financial reporting and for its assessment of the
+effectiveness of internal control over financial reporting. Our responsibility is to express an
+opinion on management s assessment and an opinion on the effectiveness of the Company s internal
+control over financial reporting based on our audit.
+
+We conducted our audit in accordance with the standards of the Public Company Accounting Oversight
+Board (United States). Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether effective internal control over financial reporting was
+maintained in all material respects. Our audit included obtaining an understanding of internal
+control over financial reporting, evaluating management s assessment, testing and evaluating the
+design and operating effectiveness of internal control and performing such other procedures as we
+considered necessary in the circumstances. We believe that our audit provides a reasonable basis
+for our opinion.
+
+A company s internal control over financial reporting is a process designed to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles. A
+company s internal control over financial reporting includes those policies and procedures that (1)
+pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the
+transactions and dispositions of the assets of the company; (2) provide reasonable assurance that
+transactions are recorded as necessary to permit preparation of financial statements in accordance
+with generally accepted accounting principles, and that receipts and expenditures of the company
+are being made only in accordance with authorizations of management and directors of the company;
+and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized
+acquisition, use or disposition of the company s assets that could have a material effect on the
+financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or
+detect misstatements. Also, projections of any evaluation of effectiveness to future periods are
+subject to the risk that controls may become inadequate because of changes in conditions, or that
+the degree of compliance with the policies or procedures may deteriorate.
+
+In our opinion, management s assessment that the Company maintained effective internal control over
+financial reporting as of September 30, 2006, is fairly stated, in all material respects, based on
+the COSO criteria. Also, in our opinion, the Company maintained, in all material respects,
+effective internal control over financial reporting as of September 30, 2006, based on the COSO
+criteria . 
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight
+Board (United States), the consolidated balance sheets of the Company as of September 30, 2006 and
+2005, and the related consolidated statements of income, stockholders  equity and cash flows for
+each of the three years in the period ended September 30, 2006 and our report dated December 6,
+2006 expressed an unqualified opinion thereon.
+
+/s/ Ernst   Young LLP
+
+Oklahoma City, Oklahoma 
+December 6, 2006
+
+(28) 
+
+Table of Contents   
+
+Report of Independent Registered Public Accounting Firm
+
+The Board of Directors and Stockholders 
+Panhandle Royalty Company
+
+We have audited the accompanying consolidated balance sheets of Panhandle Royalty Company (the
+Company) as of September 30, 2006 and 2005, and the related consolidated statements of income,
+stockholders  equity, and cash flows for each of the three years in the period ended September 30,
+2006. These financial statements are the responsibility of the Company s management. Our
+responsibility is to express an opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight
+Board (United States). Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement. An
+audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the
+financial statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in all material
+respects, the consolidated financial position of Panhandle Royalty Company at September 30, 2006
+and 2005, and the consolidated results of its operations and its cash flows for each of the three
+years in the period ended September 30, 2006, in conformity with U.S. generally accepted accounting
+principles.
+
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight
+Board (United States), the effectiveness of the Company s internal control over financial reporting
+as of September 30, 2006, based on criteria established in Internal Control Integrated Framework
+issued by the Committee of Sponsoring Organizations of the Treadway Commission and our report dated
+December 6, 2006 expressed an unqualified opinion thereon.
+
+/s/ Ernst   Young LLP
+
+Oklahoma City, Oklahoma 
+December 6, 2006
+
+(29) 
+
+Table of Contents   
+
+Panhandle Royalty Company
+
+Consolidated Balance Sheets
+
+(Continued on next page)
+
+See accompanying notes. 
+
+(30) 
+
+Table of Contents   
+
+Panhandle Royalty Company 
+Consolidated Balance Sheets
+
+See accompanying notes. 
+
+(31) 
+
+Table of Contents   
+
+Panhandle Royalty Company
+
+Consolidated Statements of Income
+
+See accompanying notes. 
+
+(32) 
+
+Table of Contents   
+
+Panhandle Royalty Company
+
+Consolidated Statements of Stockholders  Equity
+
+See accompanying notes. 
+
+(33) 
+
+Table of Contents   
+
+Panhandle Royalty Company
+
+Consolidated Statements of Cash Flows
+
+(Continued on next page)
+
+See accompanying notes. 
+
+(34) 
+
+Table of Contents   
+
+Panhandle Royalty Company 
+Consolidated Statements of Cash Flows (continued)
+
+See accompanying notes. 
+
+(35) 
+
+Table of Contents   
+
+Panhandle Royalty Company
+
+Notes to Consolidated Financial Statements
+
+September 30, 2006, 2005 and 2004
+
+1. Summary of Significant Accounting Policies 
+
+Nature of Business 
+
+Since its formation, the Company has been involved in the acquisition and management of fee
+mineral acreage and the exploration for, and development of, oil and gas properties, principally
+involving the drilling of wells located on the Company s mineral acreage. Panhandle s mineral
+properties and other oil and gas interests are all located in the United States, primarily in
+Oklahoma, New Mexico and Texas. The Company is not the operator of any wells. The majority of the
+Company s oil and gas production is from small interests in several thousand wells located
+principally in Oklahoma. Approximately 83% of oil and gas revenues are derived from the sale of
+natural gas. Substantially all the Company s oil and gas production is being sold through the
+operators of the wells. The Company from time to time disposes of certain non-material, non-core or
+small interest oil and gas properties as a normal course of business.
+
+Principles of Consolidation and Basis of Presentation 
+
+The consolidated financial statements include the accounts of Panhandle Royalty Company and
+its wholly owned subsidiaries after elimination of all material intercompany transactions.
+
+Capitalized costs of certain oil and gas properties and gains and losses on sales of assets
+for prior years have been reclassified to conform to the current year presentation.
+
+Use of Estimates 
+
+The preparation of financial statements in conformity with accounting principles generally
+accepted in the United States requires management to make estimates and assumptions that affect the
+amounts reported in the consolidated financial statements and accompanying notes. Actual results
+could differ from those estimates.
+
+Of these judgments and estimates, management considers the estimation of crude oil and natural
+gas reserves to be the most significant. Changes in crude oil and natural gas reserve estimates
+affect the Company s calculation of depreciation, depletion and amortization, provision for
+abandonment and assessment of the need for asset impairments. On an annual basis, with a limited
+scope semi-annual update, the Company s consulting engineer with assistance from Company geologists
+prepares estimates of crude oil and natural gas reserves based on available geologic and seismic
+data, reservoir pressure data, core analysis reports, well logs, analogous reservoir performance
+history, production data and other available sources of engineering, geological and geophysical
+information. As required by the guidelines and definitions established by the Securities and
+Exchange Commission, these estimates are based on current crude oil and natural gas pricing. Crude
+oil and natural gas prices are volatile and largely affected by worldwide consumption and are
+outside the control of management. Projected future crude oil and natural gas pricing assumptions
+are used by management to prepare estimates of crude oil and natural gas reserves used in
+formulating management s overall operating decisions in the exploration and production business.
+
+(36) 
+
+Table of Contents   
+
+Panhandle Royalty Company 
+Notes to Consolidated Financial Statements (continued)
+
+1. Summary of Significant Accounting Policies (continued) 
+
+The Company does not operate any of its oil and gas properties, and it primarily holds small
+interests in several thousand wells. Thus, obtaining timely production data from the well operators
+is extremely difficult and in most cases substantially delayed. This causes the Company to utilize
+past production receipts and estimated sales price information to estimate its oil and gas sales
+revenue accrual at the end of each quarterly period. The oil and gas accrual can be impacted by
+many variables, including the initial high production rates and possible rapid decline rates of
+certain new wells and rapidly changing market prices for natural gas. The Company records an
+accrual to actual adjustment in each succeeding quarter.
+
+Cash and Cash Equivalents 
+
+Cash and cash equivalents consist of all demand deposits and funds invested in short-term
+investments with original maturities of three months or less.
+
+Oil and Gas Sales and Gas Imbalances 
+
+The Company sells oil and natural gas to various customers, recognizing revenues as oil and
+gas is produced and sold. The Company uses the sales method of accounting for gas imbalances in
+those circumstances where it has underproduced or overproduced its ownership percentage in a
+property. Under this method, a receivable or liability is recorded to the extent that an
+underproduced or overproduced position in a reservoir cannot be recouped through the production of
+remaining reserves. At September 30, 2006 and 2005, the Company had no material gas imbalances.
+
+Charges for gathering and transportation are included in lease operating expenses and
+production taxes.
+
+Concentration of Credit Risk 
+
+Substantially all of the Company s accounts receivable are due from purchasers of oil and
+natural gas or operators of the oil and gas properties. Oil and natural gas sales are generally
+unsecured. The Company has not experienced any meaningful credit losses in prior years and is not
+aware of any uncollectible accounts at September 30, 2006 or 2005.
+
+Oil and Gas Producing Activities 
+
+The Company follows the successful efforts method of accounting for oil and gas producing
+activities. Intangible drilling and other costs of successful wells and development dry holes are
+capitalized and amortized. The costs of exploratory wells are initially capitalized, but charged
+against income if and when the well is determined to be nonproductive. Oil and gas mineral and
+leasehold costs are capitalized when incurred.
+
+(37) 
+
+Table of Contents   
+
+Panhandle Royalty Company 
+Notes to Consolidated Financial Statements (continued)
+
+1. Summary of Significant Accounting Policies (continued) 
+
+Derivatives 
+
+The Company had not, through fiscal 2006, entered into derivative instruments to hedge the
+price risk on its oil or gas production. Beginning in calendar 2007 the Company has entered in
+costless collar arrangements intended to reduce the Company s exposure to short-term fluctuations
+in the price of natural gas. Collar contracts set a minimum price, or floor and provide for
+payments to the Company if the reference price falls below the floor or require payments by the
+Company if the reference price rises above the ceiling. These arrangements cover only a portion of
+the Company s production and provide only partial price protection against declines in natural gas
+prices. These economic hedging arrangements may expose the Company to risk of financial loss and
+limit the benefit of future increases in prices.
+
+Effective January 1, 2007, the Company entered into the following three natural gas collar
+contracts.
+
+Depreciation, Depletion, Amortization, and Impairment 
+
+Depreciation, depletion, and amortization of the costs of producing oil and gas properties are
+generally computed using the units of production method primarily on a separate property basis
+using proved reserves as estimated annually by a consulting petroleum engineer. Depreciation of
+furniture and fixtures is computed using the straight-line method over estimated productive lives
+of five to eight years.
+
+Non-producing oil and gas properties include non-producing minerals, which have a net book
+value of $5,680,765 at September 30, 2006, consisting of perpetual ownership of mineral interests
+in several states, with 82% of the acreage in Oklahoma, Texas and New Mexico. As mentioned these
+mineral rights are perpetual and have been accumulated over the 80 year life of the Company. There
+are approximately 213,000 acres of non-producing minerals in over 7,000 tracts owned by the
+Company. An average tract contains 30 acres and the average cost per acre is $41. Since inception,
+the Company has continually generated an interest in several thousand oil and gas wells using its
+ownership of the fee mineral acres as an ownership basis. There continues to be significant
+drilling activity each year on these mineral interests. Non-producing minerals are being amortized
+over a thirty-three year period on the Company s books. These assets are considered a long-term
+investment by the Company, they do not expire (as do oil and gas leases), in many cases the same
+mineral acreage has seen several wells drilled
+
+(38) 
+
+Table of Contents   
+
+Panhandle Royalty Company 
+Notes to Consolidated Financial Statements (continued)
+
+1. Summary of Significant Accounting Policies (continued) 
+
+over the span of several years and development of this acreage has been steady since the 1960 s.
+Given the above it was concluded that a longer term amortization was appropriate and that 33 years,
+based on past history and experience was a conservative range. Also, based on the fact that the
+minerals consist of a large number of properties whose costs are not individually significant, and
+virtually all are in the Company s core operating areas, the minerals are being amortized on an
+aggregate basis.
+
+In accordance with the provisions of Financial Accounting Standards (SFAS) No. 144,  Accounting
+for the Impairment or Disposal of Long-Lived Assets , the Company recognizes impairment losses for
+long-lived assets when indicators of impairment are present and the undiscounted cash flows are not
+sufficient to recover the assets  carrying amount. The impairment loss is measured by comparing the
+fair value of the asset to its carrying amount. Fair values are based on discounted future cash
+flows. The Company s oil and gas properties were reviewed for indicators of impairment on a
+field-by-field basis, resulting in the recognition of impairment provisions of $3,009,953, $232,295
+and $841,687 respectively, for 2006, 2005 and 2004. The majority of the impairment recognized in
+2005 and 2004 relates to fields comprised of a small number of wells or single wells on which the
+Company does not expect sufficient future net cash flow to recover its carrying cost. The
+impairment in 2006 is principally the result of a twenty-seven well field in which the more recent
+wells drilled were not up to earlier well results, and results of the last well drilled, which was
+a large interest well, were poor resulting in an impairment of the entire field.
+
+Investments 
+
+Insignificant investments in partnerships and limited liability companies (LLC) that maintain
+specific ownership accounts for each investor and where the Company holds an interest of five
+percent or greater, but does not have control of the partnership or LLC, are accounted for using
+the equity method of accounting. The cost method is used to account for the Company s investment in
+one LLC where the Company holds an interest of less than one percent.
+
+Asset Retirement Obligations 
+
+The Company owns oil and natural gas properties which may require expenditures to plug and
+abandon the wells when the oil and natural gas reserves in the wells are depleted. These
+expenditures are recorded in the period in which the liability is incurred (at the time the wells
+are drilled or acquired). The Company does not have any assets restricted for the purpose of
+settling the plugging liabilities.
+
+The following table shows the activity for the year ended September 30, 2006 relating to the
+Company s retirement obligation for plugging liability:
+
+(39) 
+
+Table of Contents   
+
+Panhandle Royalty Company 
+Notes to Consolidated Financial Statements (continued)
+
+1. Summary of Significant Accounting Policies (continued) 
+
+Environmental Costs 
+
+As the Company is directly involved in the extraction and use of natural resources, it is
+subject to various federal, state and local provisions regarding environmental and ecological
+matters. Compliance with these laws may necessitate significant capital outlays; however, to date
+the Company s cost of compliance has been insignificant. The Company does not believe the existence
+of these environmental laws will materially hinder or adversely affect the Company s business
+operations; however, there can be no assurances of future events. Since the Company does not
+operate any wells where it owns an interest, actual compliance with environmental laws is
+controlled by others, with Panhandle being responsible for its proportionate share of the costs
+involved. Panhandle carries liability insurance and to the extent available at reasonable cost,
+pollution control coverage. However, all risks are not insured due to the availability and cost of
+insurance.
+
+Environmental liabilities, which historically have not been material, are recognized when it
+is probable that a loss has been incurred and the amount of that loss is reasonably estimable.
+Environmental liabilities, when accrued, are based upon estimates of expected future costs. At
+September 30, 2006 and 2005, there were no such costs accrued.
+
+Earning Per Share of Common Stock 
+
+Basic earnings per share (EPS) is calculated using net income divided by the weighted average
+of common shares outstanding (including unissued, vested directors  shares after October 19, 2005  
+see Note 8) during the year. Diluted EPS is similar to basic EPS except that the weighted average
+common shares outstanding is increased (for periods prior to October 19, 2005) to include the
+number of additional common shares that would have been outstanding if the dilutive potential
+common shares had been issued. The treasury stock method is used to calculate dilutive shares,
+which reduces the gross number of dilutive shares (see Note 6).
+
+Stock-based Compensation 
+
+The Company recognizes current compensation costs for its Outside Directors Deferred
+Compensation Plan (the  Plan ). Compensation cost is recognized for the requisite directors  fees
+as earned and unissued stock is added to each director s account based on the closing price of the
+stock at the date earned. Effective October 19, 2005 the Plan was amended such that upon
+retirement, termination or death of the director or upon a change in control of the Company, the
+shares accrued under the Plan will be issued to the director. This amendment removed the conversion
+to cash option available under the Plan, resulting in reclassification to equity of the liability
+under the Plan. Effective October 1, 2005, the Company adopted Financial Accounting Standards Board
+(FASB) No. 123(R)  Share Based Payments.  Due to the nature of the Company s equity based
+compensation the adoption of the standard did not have a material effect on the Company s financial
+statements.
+
+The Company applies SOP 93-6 in accounting for its non-leveraged Employee Stock Ownership
+Plan. Under SOP 93-6 the Company records as expense, the fair market value of the stock at the time
+of contribution.
+
+(40) 
+
+Table of Contents   
+
+Panhandle Royalty Company 
+Notes to Consolidated Financial Statements (continued)
+
+1. Summary of Significant Accounting Policies (continued) 
+
+Fair Values of Financial Instruments 
+
+The carrying amounts reported in the balance sheets for cash and cash equivalents,
+receivables, accounts payable, accrued liabilities, and income taxes payable approximate their fair
+values due to the short maturity of these instruments. The fair value of Company s debt
+approximates its carrying amount due to the interest rate on the Company s term-loan being a rate
+which is approximately equivalent to market rates at September 30, 2006 for similar type debt based
+on the Company s credit worthiness.
+
+Income Taxes 
+
+The estimation of the amounts of income tax to be recorded by the Company involves
+interpretation of complex tax laws and regulations as well as the completion of complex
+calculations, including the determination of the Company s percentage depletion deduction. Although
+the Company s management believes its tax accruals are adequate, differences may occur in the
+future depending on the resolution of pending and new tax matters.
+
+New Accounting Pronouncements 
+
+In May 2005, the FASB issued SFAS No. 154,  Accounting Changes and Error Corrections   a
+replacement of APB Opinion No. 20 and SFAS No. 3.  SFAS No. 154 changes the requirements for the
+accounting for and reporting of a change in accounting principle and a change required by an
+accounting pronouncement when the pronouncement does not include specific transition provisions.
+SFAS No. 154 requires retrospective application of changes as if the new accounting principle had
+always been used. SFAS No. 154 is effective for fiscal years beginning after December 15, 2005,
+which is our fiscal year beginning October 1, 2006. The adoption of the pronouncement is not
+expected to have a material impact on the Company s financial position or results of operations.
+
+In June 2006, the FASB issued FIN 48,  Accounting for Uncertainty in Income Taxes   an
+interpretation of FASB Statement 109,  which clarifies the accounting for uncertainty in income
+taxes recognized in an enterprise s financial statements in accordance with FAS 109,  Accounting
+for Income Taxes.  FIN 48 prescribes a recognition threshold and measurement attribute for the
+financial statement recognition and measurement of a tax position taken or expected to be taken in
+a tax return. FIN 48 is effective for fiscal years beginning after December 15, 2006, which will be
+our fiscal year beginning October 1, 2007. The adoption of this statement is not expected to have a
+material impact on the Company s financial position or results of operations.
+
+On September 13, 2006, the Securities and Exchange Commission ( SEC ) issued Staff Accounting
+Bulletin No. 108 ( SAB 108 ), which provides interpretive guidance on how the effects of the
+carryover or reversal of prior year misstatements should be considered in quantifying a current
+year misstatement. SAB 108 is effective for the first fiscal year ending after November 15, 2006,
+which will be our fiscal year beginning October 1, 2007. The adoption of this statement is not
+expected to have a material impact on the Company s financial position or results of operations.
+
+Other accounting standards that have been issued or proposed by the FASB or other
+standards-setting bodies that do not require adoption until a future date are not expected to have
+a material impact on the consolidated financial statements upon adoption.
+
+(41) 
+
+Table of Contents   
+
+Panhandle Royalty Company 
+Notes to Consolidated Financial Statements (continued)
+
+2. Commitments 
+
+The Company leases office space in Oklahoma City, Oklahoma under the terms of an operating
+lease expiring in April 2009. Future minimum rental payments under the terms of the lease are
+$159,108 in 2007, $159,108 in 2008 and $92,813 in 2009. Total rent expense incurred by the Company
+was $153,164 in 2006, $158,203 in 2005 and $115,192 in 2004.
+
+3. Income Taxes 
+
+The Company s provision for income taxes is detailed as follows:
+
+The difference between the provision for income taxes and the amount which would result from
+the application of the federal statutory rate to income before provision for income taxes is
+analyzed below:
+
+(42) 
+
+Table of Contents   
+
+Panhandle Royalty Company 
+Notes to Consolidated Financial Statements (continued)
+
+3. Income Taxes (continued) 
+
+Deferred tax assets and liabilities, resulting from differences between the financial
+statement carrying amounts and the tax basis of assets and liabilities, consist of the following:
+
+4. Long-term Debt 
+
+Long-term debt consisted of the following at September 30:
+
+In October 2006, the Company refinanced its credit facility with BancFirst of Oklahoma City,
+Oklahoma (Bancfirst) with a new credit facility with Bank of Oklahoma (BOK). The BOK Agreement
+consists of a term loan in the amount of $2,500,000 and a revolving loan in the amount of
+$50,000,000 which is subject to a semi-annual borrowing base determination. The current borrowing
+base under the BOK Agreement is $10,000,000. The term loan matures on September 1, 2007, and the
+revolving loan matures on October 31, 2009. Monthly payments on the term loan are $250,000, plus
+accrued interest. Borrowings under the revolving loan are due at maturity. The term loan bears
+interest at 30 day LIBOR plus .75%. The revolving loan bears interest at the national prime rate
+minus from 1.375% to .75%, or 30 day LIBOR plus from 1.375% to 2.0%. The interest rate charged will
+be based on the percent of the value advanced of the calculated loan value of Panhandle s oil and
+gas reserves. The interest rate spread from LIBOR or prime increases or decreases as a larger
+percent of the loan value of Panhandle s oil and gas properties is advanced.
+
+Determinations of the borrowing base are made semi-annually or whenever the bank, in its sole
+discretion, believes that there has been a material change in the value of the oil and gas
+properties. The loan agreement contains customary covenants which, among other things, require
+periodic financial and reserve reporting and limit the Company s incurrence of indebtedness, liens,
+dividends and acquisitions
+
+(43) 
+
+Table of Contents   
+
+Panhandle Royalty Company 
+Notes to Consolidated Financial Statements (continued)
+
+4. Long-term Debt (continued) 
+
+of treasury stock, and require the Company to maintain certain financial ratios. At September 30,
+2006, the Company was in compliance with the covenants of the BancFirst agreement.
+
+The amounts of required principal payments under the BancFirst or the BOK agreement for the
+next five years, as of September 30, 2006, are as follows:
+
+5. Shareholders  Equity 
+
+On December 18, 2003, the Company s Board of Directors approved a proposal to amend the
+Company s Articles of Incorporation to increase the number of authorized shares of Class A Common
+Stock from 6,000,000 shares to 12,000,000 shares and effect a 2-for-1 stock split of the
+outstanding Class A Common Stock and a corresponding reduction of the par value per share from
+$.03333 to $.01666. On February 27, 2004, these proposals were put forth to a vote of the
+shareholders, for which a majority of the shareholders voted in favor of each proposal, causing
+these proposals to become effective on such date. The Class A Common Stock split was effected in
+the form of a stock dividend, distributed on April 15, 2004, to stockholders of record on April 1,
+2004.
+
+On December 13, 2005, the Company s Board of Directors declared a 2-for-1 stock split of the
+outstanding Class A Common Stock. The Class A Common Stock split was effected in the form of a
+stock dividend, distributed on January 9, 2006 to stockholders of record on December 29, 2005.
+
+All agreements concerning Common Stock of the Company, including the Company s Employee Stock
+Ownership Plan and the Company s commitment under the Deferred Compensation Plan for Non-Employee
+Directors, provide for the issuance or commitment, respectively, of additional shares of the
+Company s stock due to the declaration of the stock split. All references to number of shares, per
+share, and authorized share information in the accompanying consolidated financial statements have
+been adjusted to reflect the stock split and increase in authorized shares approved on February 27,
+2004, at the Annual Meeting of the Stockholders of the Company and to reflect the stock split
+distributed to stockholders on January 9, 2006.
+
+(44) 
+
+Table of Contents   
+
+Panhandle Royalty Company 
+Notes to Consolidated Financial Statements (continued)
+
+6. Earnings Per Share 
+
+The following table sets forth the computation of basic and diluted earnings per share. The
+Company s diluted earnings per share calculations in 2005 and 2004 takes into account certain
+shares that may be issued under the Non-Employee Directors  Deferred Compensation Plan (see Note
+8).
+
+* 
+       
+     Not applicable   see Note 8. 
+
+The weighted average shares outstanding, potentially dilutive shares, and earnings per share
+for 2005 and 2004 have been restated to affect the 2-for-1 stock splits discussed in Note 5.
+
+7. Employee Stock Ownership Plan 
+
+The Company has an employee stock ownership plan that covers all employees and is established
+to provide such employees with a retirement benefit. These benefits become fully vested after three
+years of employment. Contributions to the plan are at the discretion of the Board of Directors and
+can be made in cash (none in 2006, 2005 or 2004) or the Company s common stock. For contributions
+of common stock, the Company records as expense, the fair market value of the stock at the time of
+contribution. The 250,206 shares of the Company s common stock held by the plan as of September 30,
+2006, are allocated to individual participant accounts, are included in the weighted average shares
+outstanding for purposes of earnings per share computations and receive dividends which are
+credited to the individual accounts. Contributions to the plan consisted of:
+
+(45) 
+
+Table of Contents   
+
+Panhandle Royalty Company 
+Notes to Consolidated Financial Statements (continued)
+
+8. Deferred Compensation Plan for Directors 
+
+Effective November 1, 1994, the Company formed the Panhandle Royalty Company Deferred
+Compensation Plan for Non-Employee Directors (the Plan). The Plan provides that each eligible
+director can individually elect to receive shares of Company stock rather than cash for board and
+committee chair retainers, board meeting fees and board committee meeting fees. These shares are
+unissued and vest as earned. The shares are credited to each director s deferred fee account at the
+closing market price of the
+stock on the date earned. Because the original Plan contained an option allowing the directors to
+convert the shares to cash upon separation from the Company, the liability was adjusted for
+subsequent changes in market value of the shares. Upon retirement, termination or death of the
+director or upon change in control of the Company, the shares accrued under the Plan would have
+been either issued to the director or converted to cash, at the director s discretion, for the fair
+market value of the shares on the conversion date, as defined by the Plan. As of September 30,
+2006, 70,581 shares (62,412 shares at September 30, 2005) are included in the Plan. Effective
+October 19, 2005 the Plan was amended such that upon retirement, termination or death of the
+director or upon a change in control of the Company, the shares accrued under the Plan will be
+issued to the director. This amendment removed the conversion to cash option available under the
+Plan, which resulted in reclassification to stockholders  equity of the deferred shares outstanding
+under the Plan. The deferred balance outstanding at September 30, 2006 under the Plan was
+$1,202,569 ($1,335,305 at September 30, 2005). ($132,736), $1,111,097 and $344,551 was (credited)
+charged to the Company s results of operations for the years ended September 30, 2006, 2005 and
+2004, respectively, and is included in general and administrative expense in the accompanying
+income statement. The majority (89%) of the $1,111,097 charged to operations in 2005 was the result
+of the market prices of the Company s shares increasing from $17.20 per share at September 30, 2004
+to $42.79 per share at September 30, 2005, thus requiring a charge to expense for the increase per
+share times the number of shares in the Plan during the year.
+
+9. Information on Oil and Gas Producing Activities 
+
+All oil and gas producing activities of the Company are conducted within the United States
+(principally in Oklahoma) and represent substantially all of the business activities of the
+Company.
+
+During 2006 and 2005 approximately 14% and 17%, respectively, of the Company s total revenues
+were derived from sales through Chesapeake Operating, Inc. During 2006 sales through JMA Energy
+Company accounted for approximately 11% of the Company s total revenues. During 2004 sales through
+Oneok, Inc. accounted for approximately 10% of the Company s total revenues.
+
+(46) 
+
+Table of Contents   
+
+Panhandle Royalty Company 
+Notes to Consolidated Financial Statements (continued)
+
+9. Information on Oil and Gas Producing Activities (continued) 
+
+Aggregate Capitalized Costs 
+
+The aggregate amount of capitalized costs of oil and gas properties and related accumulated
+depreciation, depletion, and amortization as of September 30 is as follows:
+
+Costs Incurred 
+
+During the reporting period, the Company incurred the following costs in oil and gas producing
+activities:
+
+(1)    Property acquisition costs include $900,000 related to the acquisition of proved
+properties.
+
+10. Supplementary Information on Oil and Gas Reserves (Unaudited) 
+
+The following unaudited information regarding the Company s oil and natural gas reserves is
+presented pursuant to the disclosure requirements promulgated by the Securities and Exchange
+Commission (SEC) and SFAS No. 69,  Disclosures About Oil and Gas Producing Activities. 
+
+Proved reserves are estimated quantities of crude oil and natural gas which geological and
+engineering data demonstrate with reasonable certainty to be recoverable in future years from known
+reservoirs under existing economic and operating conditions. Proved developed reserves are those
+proved reserves that can be expected to be recovered through existing wells with existing equipment
+and operating methods. Because the Company s non-producing mineral and leasehold interests consist
+of various small interests in numerous tracts located primarily in Oklahoma, New Mexico, and Texas,
+it is not economically feasible for the Company to provide estimates of all proved undeveloped
+reserves.
+
+(47) 
+
+Table of Contents   
+
+Panhandle Royalty Company 
+Notes to Consolidated Financial Statements (continued)
+
+10. Supplementary Information on Oil and Gas Reserves (Unaudited) (continued) 
+
+The Company s net proved (including certain undeveloped reserves described above) oil and gas
+reserves, all of which are located in the United States, as of September 30, 2006, 2005 and 2004,
+have been estimated by Campbell   Associates, Inc., a consulting petroleum engineering firm. All
+studies have been prepared in accordance with regulations prescribed by the Securities and Exchange
+Commission. The reserve estimates were based on economic and operating conditions existing at
+September 30, 2006, 2005 and 2004. Since the determination and valuation of proved reserves is a
+function of testing and estimation, the reserves presented should be expected to change as future
+information becomes available.
+
+Estimated Quantities of Proved Oil and Gas Reserves 
+
+Net quantities of proved, developed, and undeveloped oil and gas reserves are summarized as
+follows:
+
+(48) 
+
+Table of Contents   
+
+Panhandle Royalty Company 
+Notes to Consolidated Financial Statements (continued)
+
+10. Supplementary Information on Oil and Gas Reserves (Unaudited) (continued) 
+
+The above reserve numbers exclude approximately 1.2   1.6 Bcf of CO2 gas reserved for the
+years ended September 30, 2006, 2005, 2004 and 2003.
+
+Standardized Measure of Discounted Future Net Cash Flows 
+
+Estimates of future cash flows from proved oil and gas reserves, based on current prices and
+costs, as of September 30 are shown in the following table. Estimated income taxes are calculated
+by applying the appropriate year-end tax rates to the estimated future pretax net cash flows less
+depreciation of the tax basis of properties and statutory depletion allowances. Prices used for
+determining future cash flows from oil and natural gas for the periods ended September 30, 2006,
+2005, 2004 were as follows: 2006   $60.50, $3.49; 2005   $64.18, $11.54; 2004   $44.68, $5.42.
+
+(49) 
+
+Table of Contents   
+
+Panhandle Royalty Company 
+Notes to Consolidated Financial Statements (continued)
+
+10. Supplementary Information on Oil and Gas Reserves (Unaudited) (continued) 
+
+Changes in the standardized measure of discounted future net cash flow are as follows:
+
+11. Quarterly Results of Operations (Unaudited) 
+
+The following is a summary of the Company s unaudited quarterly results of operations.
+
+(50) 
+
+Table of Contents   
+
+ITEM 9 
+
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE  
+
+NONE
+
+ITEM 9A CONTROLS AND PROCEDURES 
+
+(a) Evaluation of Disclosure Controls and Procedures 
+
+The Company maintains  disclosure controls and procedures,  as such term is defined in Rules
+13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, that are designed to ensure that
+information required to be disclosed in reports the Company files or submits under the Exchange Act
+is recorded, processed, summarized and reported within the time periods specified in SEC rules and
+forms, and that such information is collected and communicated to management, including the
+Company s Co-President/COO and Co-President/CFO (Co-Presidents), as appropriate, to allow timely
+decisions regarding required disclosure. In designing and evaluating its disclosure controls and
+procedures, management recognized that no matter how well conceived and operated, disclosure
+controls and procedures can provide only reasonable, not absolute, assurance that the objectives of
+the disclosure controls and procedures are met. The Company s disclosure controls and procedures
+have been designed to meet, and management believes that they do meet, reasonable assurance
+standards. Based on their evaluation as of the end of the fiscal period covered by this report,
+the Co-Presidents have concluded that, subject to the limitations noted above, the Company s
+disclosure controls and procedures were effective to ensure that material information relating to
+the Company, including its consolidated subsidiary, is made known to them.
+
+(b) Management s Report on Internal Control Over Financial Reporting 
+
+The Company s management is responsible for establishing and maintaining adequate  internal
+control over financial reporting , as such term is defined in Exchange Act Rule 13a-15(f). The
+Company s management, including the Co-Presidents, conducted an evaluation of the effectiveness of
+its internal control over financial reporting based on the  Internal Control   Integrated Framework 
+issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on the
+results of this evaluation, the Company s management concluded that its internal control over
+financial reporting was effective as of September 30, 2006.
+
+The Company management s assessment of the effectiveness of its internal controls over
+financial reporting as of September 30, 2006 has been audited by Ernst and Young, LLP, an
+independent registered public accounting firm, as stated in their report which is included in this
+report.
+
+(c) Changes in Internal Control Over Financial Reporting 
+
+There were no changes in the Company s internal control over financial reporting that have
+materially affected, or are reasonably likely to materially affect, the Company s internal control
+over financial reporting made during the fiscal quarter or subsequent to the date the assessment
+was completed.
+
+(51) 
+
+Table of Contents   
+
+PART III  
+
+The information called for by Part III of Form 10-K (Item 10   Directors and Executive
+Officers of the Registrant, Item 11   Executive Compensation, Item 12   Security Ownership of
+Certain Beneficial Owners and Management and Related Stockholder Matters, Item 13   Certain
+Relationships and Related Transactions, and Item 14   Principal Accountant Fees and Services), is
+incorporated by reference from the Company s definitive proxy statement, which will be filed with
+the SEC within 120 days after the end of the fiscal year to which this Report relates.
+
+PART IV  
+
+ITEM 15 EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K 
+
+Financial Statement Schedules 
+
+The Company has omitted all other schedules because the conditions requiring their
+filing do not exist or because the required information appears in the Company s
+Consolidated Financial Statements, including the notes to those statements.
+
+Exhibits 
+
+(3)
+
+Amended Certificate of Incorporation (incorporated by reference to Exhibit
+attached to Form 10 filed January 27, 1980, and to Forms 8-K dated June 1, 1982,
+December 3, 1982 and to Form 10-QSB dated March 31, 1999). 
+
+By-Laws as amended (incorporated by reference to Form 8-K dated October 31,
+1994) 
+
+By-Laws as amended (incorporated by reference to Form 8-K dated February
+24, 2006) 
+
+(4)
+
+Instruments defining the rights of security holders (incorporated by reference to
+Certificate of Incorporation and By-Laws listed above) 
+
+(10)
+
+Amendment to Loan Agreement (incorporated by reference to Form 10-K dated
+September 30, 2003) 
+
+(10)
+
+Agreement indemnifying directors and officers (incorporated by reference to
+Form 10-K dated September 30, 1989) 
+
+(21)
+
+Subsidiaries of the Registrant 
+
+(31.1)
+
+Certification of Chief Executive Officer 
+
+(31.2)
+
+Certification of Chief Financial Officer 
+
+(32.1)
+
+Certification of Chief Executive Officer 
+
+(32.2)
+
+Certification of Chief Financial Officer 
+
+REPORTS ON FORM 8-K 
+
+No Form 8-K s were filed in the fourth quarter of fiscal 2006.
+
+(52) 
+
+Table of Contents   
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 of the Securities Exchange Act of 1934, the
+registrant caused this Report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+PANHANDLE ROYALTY COMPANY
+
+By: /s/ Michael C. Coffman
+
+By: /s/ Ben D. Hare 
+
+Michael C. Coffman
+
+Ben D. Hare
+
+Co-President;
+
+Co-President; 
+
+Chief Financial Officer
+
+Chief Operating Officer 
+
+Date:   December 12, 2006 
+
+In accordance with the Securities Exchange Act of 1934, this report has been signed below by
+the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+
+/s/ E. Chris Kauffman
+
+/s/ Bruce M. Bell 
+
+E. Chris Kauffman, Chairman of Board
+
+Bruce M. Bell, Director
+
+Date December 12, 2006
+
+Date December 12, 2006
+
+/s/ Robert A. Reece
+
+/s/ Robert E. Robotti 
+
+Robert A. Reece, Director
+
+Robert E. Robotti, Director
+
+Date December 12, 2006
+
+Date December 12, 2006
+
+/s/ H. Grant Swartzwelder
+
+H. Grant Swartzwelder, Director
+
+/s/ Robert O. Lorenz
+
+Robert O. Lorenz, Director
+
+Date December 12, 2006
+
+Date December 12, 2006
+
+/s/ Lonnie J. Lowry
+
+Lonnie J. Lowry, Vice President,
+Controller and Secretary
+(Chief Accounting Officer)
+
+Date December 12, 2006
+
+(53) 
+
+<EX-21>
+ 2
+ d42006exv21.htm
+ SUBSIDIARIES OF THE REGISTRANT
+
+exv21 
+
+EXHIBIT 21 
+
+SUBSIDIARIES OF PANHANDLE ROYALTY COMPANY 
+AT SEPTEMBER 30, 2006 
+
+The following table sets forth certain information with respect to 
+Panhandle s subsidiaries:
+
+Corporation  
+
+Wood Oil Company 
+
+Wood Oil Company was incorporated in Oklahoma and is included in Panhandle s consolidated financial
+statements. Effective October 1, 2001, 100% of Wood Oil Company s outstanding stock was acquired
+by Panhandle.
+
+</EX-21>
+
+<EX-31.1>
+ 3
+ d42006exv31w1.htm
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+
+exv31w1 
+
+EXHIBIT 31.1 
+
+CERTIFICATION  
+
+I, Ben D. Hare, certify that:
+
+1. 
+       
+     I have reviewed this annual report on Form 10-K of Panhandle Royalty Company
+(the Company); 
+
+2. 
+       
+     Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements made,
+in light of the circumstances under which such statements were made, not misleading
+with respect to the period covered by this report; 
+
+3. 
+       
+     Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the Company as of, and
+for, the periods presented in this report; 
+
+4. 
+       
+     The Company s other certifying officer and I are responsible for establishing
+and maintaining disclosure controls and procedures (as defined in Exchange Act Rules
+13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in
+Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Company and have: 
+
+a). 
+       
+      Designed such disclosure controls and procedures, or caused
+such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the Company, including its
+consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being
+prepared; 
+
+b).  
+       
+     Designed such internal control over financial reporting, or
+caused such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of
+financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles; 
+
+c). 
+       
+      Evaluated the effectiveness of the Company s disclosure
+controls and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and 
+
+d).  
+       
+     Disclosed in this report any change in the Company s internal
+control over financial reporting that occurred during the Company s fourth
+fiscal quarter that has materially affected, or is reasonably likely to
+materially affect, the Company s internal control over financial reporting;
+and 
+
+5. 
+       
+     The Company s other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the Company s
+auditors and the audit committee of the Company s board of directors: 
+
+a).  
+       
+     All significant deficiencies and material weaknesses in the
+design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the Company s ability to record,
+process, summarize and report financial information; and 
+
+b). 
+       
+      Any fraud, whether or not material, that involves management
+or other employees who have a significant role in the Company s internal
+control over financial reporting. 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ d42006exv31w2.htm
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER
+
+exv31w2 
+
+EXHIBIT 31.2 
+
+CERTIFICATION  
+
+I, Michael C. Coffman, certify that:
+
+1. 
+       
+     I have reviewed this annual report on Form 10-K of Panhandle Royalty Company
+(the Company); 
+
+2. 
+       
+     Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements made,
+in light of the circumstances under which such statements were made, not misleading
+with respect to the period covered by this report; 
+
+3. 
+       
+     Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the Company as of, and
+for, the periods presented in this report; 
+
+4. 
+       
+     The Company s other certifying officer and I are responsible for establishing
+and maintaining disclosure controls and procedures (as defined in Exchange Act Rules
+13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in
+Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Company and have: 
+
+a). 
+       
+      Designed such disclosure controls and procedures, or caused
+such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the Company, including its
+consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being
+prepared; 
+
+b).  
+       
+     Designed such internal control over financial reporting, or
+caused such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of
+financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles; 
+
+c). 
+       
+      Evaluated the effectiveness of the Company s disclosure
+controls and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and 
+
+d). 
+       
+      Disclosed in this report any change in the Company s internal
+control over financial reporting that occurred during the Company s fourth
+fiscal quarter that has materially affected, or is reasonably likely to
+materially affect, the Company s internal control over financial reporting;
+and 
+
+5. 
+       
+     The Company s other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the Company s
+auditors and the audit committee of the Company s board of directors: 
+
+a). 
+       
+      All significant deficiencies and material weaknesses in the
+design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the Company s ability to record,
+process, summarize and report financial information; and 
+
+b). 
+       
+      Any fraud, whether or not material, that involves management
+or other employees who have a significant role in the Company s internal
+control over financial reporting. 
+
+/s/ Michael C. Coffman
+
+Michael C. Coffman
+
+Chief Financial Officer
+
+Date: December 12, 2006
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ d42006exv32w1.htm
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+
+exv32w1 
+
+EXHIBIT 32.1 
+
+Panhandle Royalty Company 
+5400 North Grand Blvd. Suite #305 
+Oklahoma City, OK 73112
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+REGARDING PERIODIC REPORT CONTAINING  
+  FINANCIAL STATEMENTS  
+
+I, Ben D. Hare, Co-President and Chief Operating Officer of Panhandle Royalty Company, (the
+ Company ), in compliance with 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, hereby certify in connection with the Company s Annual Report on Form
+10-K for the period that ended September 30, 2006 as filed with the Securities and Exchange
+Commission (the  Report ) that:
+
+(1) 
+       
+     The Report fully complies with the requirements of Section 13(a) of the
+Securities Exchange Act of 1934; and 
+
+(2) 
+       
+     The information contained in this Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company. 
+
+/s/ Ben D. Hare
+
+Ben D. Hare
+
+Co-President   
+Chief Operating Officer
+
+December 12, 2006
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ d42006exv32w2.htm
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER
+
+exv32w2 
+
+EXHIBIT 32.2 
+
+Panhandle Royalty Company 
+5400 North Grand Blvd. Suite #305 
+Oklahoma City, OK 73112
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+REGARDING PERIODIC REPORT CONTAINING  
+  FINANCIAL STATEMENTS  
+
+I, Michael C. Coffman, Co-President and Chief Financial Officer of Panhandle Royalty Company, (the
+ Company ), in compliance with 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, hereby certify in connection with the Company s Annual Report on Form
+10-K for the period that ended September 30, 2005 as filed with the Securities and Exchange
+Commission (the  Report ) that:
+
+(1) 
+       
+     The Report fully complies with the requirements of Section 13(a) of the
+Securities Exchange Act of 1934; and 
+
+(2) 
+       
+     The information contained in this Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company. 
+
+/s/ Michael C. Coffman
+
+Michael C. Coffman
+
+Co-President   
+Chief Financial Officer
+
+December 12, 2006
+
+</EX-32.2>
+

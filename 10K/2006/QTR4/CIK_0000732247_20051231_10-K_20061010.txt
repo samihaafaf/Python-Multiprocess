@@ -1,0 +1,1420 @@
+<Header>
+<FileStats>
+    <FileName>20061010_10-K_edgar_data_732247_0001116679-06-002372_1.txt</FileName>
+    <GrossFileSize>616191</GrossFileSize>
+    <NetFileSize>139558</NetFileSize>
+    <NonText_DocumentType_Chars>6670</NonText_DocumentType_Chars>
+    <HTML_Chars>261441</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>24</N_Tables>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001116679-06-002372.hdr.sgml : 20061009
+<ACCEPTANCE-DATETIME>20061010080349
+ACCESSION NUMBER:		0001116679-06-002372
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20061010
+DATE AS OF CHANGE:		20061010
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONSOLIDATED RESOURCES HEALTH CARE FUND II
+		CENTRAL INDEX KEY:			0000732247
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-NURSING & PERSONAL CARE FACILITIES [8050]
+		IRS NUMBER:				581542125
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-13415
+		FILM NUMBER:		061135550
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1175 PEACHTREE STREET SUITE 710
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30361
+		BUSINESS PHONE:		4046989040
+
+	MAIL ADDRESS:	
+		STREET 1:		1175 PEACHTREE STREET SUITE 710
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30361
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BXlI6EgbvcOevSlDmT72u+AfdhibbfCKN5rbSJ+nWOwNkRjUaJhuFVR12uLCS/Rn
+ dwpJV0ZsjkBLgQ9lG4wmYA==
+
+ 0001116679-06-002372.txt : 20061010
+
+10-K
+ 1
+ crhcf10k.htm
+ DECEMBER 31, 2005
+
+UNITED STATES   
+
+  SECURITIES AND EXCHANGE COMMISSION  
+
+  WASHINGTON, D.C. 20549  
+
+  FORM 10-K  
+
+  For annual and transition reports pursuant to Sections 13 or 15 (d) of the Securities Exchange Act of 1934.   
+
+  (Mark One)  
+
+OR  
+
+|_|    
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934  For the transition period from __________ to __________       
+
+Commission file number 0-13415  
+
+  CONSOLIDATED RESOURCES HEALTH CARE FUND II  
+
+  (Exact name of registrant as specified in its charter)  
+
+Georgia    
+         
+              58-1542125      
+
+(State or other jurisdiction  
+  of incorporation or organization)      
+         
+              (I.R.S. Employer  
+  identification No.)         
+
+1175 Peachtree Street, Suite 1230, Atlanta, Georgia 30361  
+
+  (Address of principal executive offices)  (Zip Code)  
+
+Securities registered pursuant to Section 12(b) of the Act:    
+         
+              None       
+
+Securities registered pursuant to Section 12(g) of the Act:    
+         
+              Limited Partnership Units       
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.   Yes   |_|         No |X|  
+
+Indicated by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.   Yes   |_|         No |X|  
+
+Indicate  by check  mark  whether  the  registrant:  (1) has filed  all  reports
+required to be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days.   Yes   |_|         No |X|  
+
+Indicate by check mark if disclosure of delinquent  filers  pursuant to Item 405
+of Regulations S-K is not contained  herein,  and will not be contained,  to the
+best  of  registrant s   knowledge,  in  definitive  proxy  or  information
+statements  incorporated  by  reference  in Part  III of this  Form  10-K or any
+amendment           to           this           Form           10-K.     |X|  
+
+Indicate by check mark whether the registrant is an accelerated filer (as defined in Exchange Act Rule 12b-2).   Yes   |_|         No |X|  
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 2b-2 of the Exchange Act).   Yes   |_|         No |X|  
+
+Based on a Unit ownership register dated September 14, 2006, of the registrant s 15,000 Limited Partnership Units, 13,195 are held by non-affiliates.  The aggregate market value of Units held by non-affiliates is not determinable with certainty as there is no public trading market for the Units and transfers of Units are subject to certain restrictions.  However, based on the $600 offer price for the Units reflected in the Tender Offer Statement on Schedule TO filed with the Securities and Exchange Commission on July 20, 2006 (the  Mackenzie 2006 Offer ) by MPF-NY 2006, LLC; Steven Gold; MPF Flagship Fund 10, LLC; MPF DeWaay Premier Fund 2, LLC; MacKenzie Patterson Special Fund 6, LLC; MacKenzie Patterson Special Fund 6-A, LLC; SCM Special Fund, LLC; Moraga Gold, LLC; MPF Blue Ridge Fund I, LLC; MPF Blue Ridge Fund II, LLC; MPF Senior Note Program I, LP; MP Value Fund 6,
+LLC; MPF Special Fund 8, LLC; MPF DeWaay Fund 4, LLC; MPF DeWaay Premier Fund 3, LLC; MPF Income Fund 22, LLC; MPF Income Fund 23, LLC; MPF DeWaay Fund 5, LLC; MPF Flagship Fund 11, LLC; and MacKenzie Patterson Fuller, LP (the  Mackenzie Purchasers ), we calculate the aggregate market value of Units held by non-affiliates to be approximately $7,917,000.    
+
+Documents Incorporated by Reference:    
+         
+              None       
+
+Consolidated Resources Health Care Fund II    
+
+   Annual Report on Form 10-K for the Year Ended December 31, 2005    
+
+   Table of Contents    
+
+Page      
+
+PART I      
+
+Item 1.    
+         
+              Business    
+         
+              1      
+
+Item 1A.    
+         
+              Risk Factors    
+         
+              11      
+
+Item 1B.    
+         
+              Unresolved Staff Comments    
+         
+              15      
+
+Item 2.    
+         
+              Properties    
+         
+              15      
+
+Item 3.    
+         
+              Legal Proceedings    
+         
+              15      
+
+Item 4.    
+         
+              Submission of Matters to a Vote of Security Holders    
+         
+              15      
+
+PART II      
+
+Item 5.    
+            Market for Units of Limited Partnership Interests, Related Security Holder Matters and Issuer Purchases of Equity Securities    
+
+16      
+
+Item 6.    
+         
+              Selected Financial Data    
+         
+              16      
+
+Item 7.    
+         
+              Management s Discussion and Analysis of Financial Condition and Results of Operations    
+         
+              18      
+
+Item 7A.    
+         
+              Quantitative and Qualitative Disclosures about Market Risk    
+         
+              21      
+
+Item 8.    
+         
+              Financial Statements and Supplementary Data    
+         
+              22      
+
+Item 9.    
+         
+              Changes in and Disagreements with Accountants on Accounting and Financial Disclosure    
+         
+              22      
+
+Item 9A.    
+         
+              Controls and Procedures    
+         
+              23      
+
+Item 9B.    
+         
+              Other Information    
+         
+              24      
+
+PART III      
+
+Item 10.    
+         
+              Directors and Executive Officers of the Registrant    
+         
+              25      
+
+Item 11.    
+         
+              Executive Compensation    
+         
+              25      
+
+Item 12.    
+            Security Ownership of Certain Beneficial Owners and Management and Related Security Holder Matters    
+
+25      
+
+Item 13.    
+         
+              Certain Relationships and Related Transactions    
+         
+              26      
+
+Item 14.    
+         
+              Principal Accountant Fees and Services    
+         
+              26      
+
+PART IV      
+
+Item 15.    
+         
+              Exhibits and Financial Statement Schedules     
+         
+              28      
+
+Signatures    
+         
+              30      
+
+Financial Statements and Report of Auditors    
+         
+              F-1       
+
+PART I   
+
+ITEM 1.     
+         
+               BUSINESS        
+
+Consolidated Resources Health Care Fund II (the  Partnership ) was organized on October 31, 1983, as a Limited Partnership under the provisions of the Georgia Uniform Limited Partnership Act.  As of December 31, 2005, the Partnership had two general partners (the  General Partners ), Consolidated Associates II ( CA-II ) and WelCare Service Corporation-II which serves as managing general partner ( WSC-II  or the  Managing General Partner ).     
+
+  On December 7, 1983, the Partnership offered for sale 15,000 of its Units of Limited Partnership Interest (the  Units ).  The Units represent equity interests in the Partnership and entitle the holders thereof (the  Limited Partners ) to participate in certain allocations and distributions of the Partnership.   There is no public market for the Units and the Partnership does not currently expect that any market will develop. There are restrictions upon the transferability of the Units, including the requirement that the General Partners consent to any transferee becoming a substituted limited partner (which consent may be granted or withheld in the sole discretion of the General Partners). In addition, restrictions on transfer may be imposed under state securities laws and federal tax laws.  
+
+  The Partnership s primary business is to own, operate and ultimately dispose of a portfolio of health care related real properties for the benefit of its Limited Partners.  The Partnership owns a 99.5% general partnership interest in Mayfair Village, Ltd. (which we sometimes refer to herein as the  Retirement Facility  or  Mayfair Village ) and a 99.5% general partnership interest in Mayfair Nursing Care Center, Ltd. (which we sometimes refer to herein as the  Nursing Facility  or  Mayfair Nursing Care ).  The remaining .5% limited partnership interest in Mayfair Village is owned by Retirement Centers of America, Inc., an affiliate of Life Care Centers of America, Inc. ( Life Care ), and the remaining .5% limited partnership interest in Mayfair Nursing Care is owned by Life Care.  The Partnership serves as the general partner for
+both Mayfair Village and Mayfair Nursing Care and makes all decisions with respect to those entities.  
+
+  Mayfair Village and Mayfair Nursing Care, in turn, own and operate the Retirement Facility and Nursing Facility, respectively.  Both of these facilities are located in Columbus, Ohio.  Each of the health care facilities is treated as a separate reportable segment of the Partnership.  The Partnership s Nursing Facility and Retirement Facility are managed by Life Care.  Life Care is owned by Forrest Preston, who also owns 33% of the interests in CA-II, our non-managing General Partner.  Life Care manages congregate care facilities throughout the United States.  Life Care receives a management fee equal to 5% of operating income of each of the facilities it manages.  The Managing General Partner provides oversight management services for these facilities and receives an oversight management fee of 1% of their aggregate operating income.  
+
+  The Nursing Facility has 86 units consisting of private rooms with one bed per room and semi-private rooms with two beds per room.  The services provided at the Partnership s Nursing Facility consist of long term nursing care.  Nursing care consists of 24-hour medical services prescribed by the resident s physician as well as assistance or supervision with daily activities, such as dressing, grooming, bathing, medication and dietary needs.  The Retirement Facility owned by the Partnership provides apartment living for ambulatory senior citizens who do not require assistance in their daily activities with additional services provided to attract the elderly including limited transportation, housekeeping and food services.  The Retirement Facility has studio apartments and one-bedroom apartments.   
+
+  The Nursing Facility is certified to receive benefits under joint federal and state funded programs administered by the State of Ohio to provide medical assistance to the indigent, known generally as the  Medicaid  program.  Benefits under the Federal Health Insurance for the Aged Act ( Medicare ) are for skilled care only in those facilities which are certified for the program.  The Nursing Facility is certified under the Medicare program.  
+
+  Medicaid reimbursement formulas vary by state and are established in accordance with Federal guidelines. Typically, Medicaid provides for reimbursement for nursing home care of an all inclusive nature up to specified limits based on historical costs, with adjustments for inflation. Federal law requires that Medicaid reimbursement rates be reasonable and adequate to meet the costs that must be incurred by efficiently and economically operated facilities in order to provide care and services in conformity with applicable laws, regulations and quality and safety standards.  Medicaid payments generally are set prospectively for each facility.  
+
+1  
+
+The Medicare and Medicaid programs are subject to statutory and regulatory changes, administrative rulings, interpretations of policy and determinations by intermediaries, and to governmental funding restrictions.  Each of these factors may materially increase or decrease program payments to long term care facilities and could adversely affect the operations of the Partnership s Nursing Facility.  In the operation and sale of services, the Partnership competes with a number of individuals and entities, including large, national nursing home chains and small, locally owned geriatric facilities.  Many competing operators have greater financial resources than the Partnership or may operate on a nonprofit basis or as charitable organizations.   The Partnership believes that the quality of care provided, the reputation and physical appearance of its facilities and, in the case of private
+pay patients, charges for services, are significant competitive factors which add to the success of a facility.  There is limited, if any, competition in price with respect to Medicaid and Medicare patients since revenues for services to such patients are strictly controlled and based on fixed rates and cost reimbursement principles.  In light of these factors, the Partnership seeks to meet competition by continually improving the appearance of and the quality of services provided at its facilities, establishing a reputation within the local medical community for providing competent care services and continually evaluating the needs of the community and services offered by other health care providers.  
+
+  As of December 31, 2005, the Partnership and its subsidiaries employed 201 employees, including administrative, nursing, dietary, social services and maintenance personnel.    
+
+  All patient and resident revenue derived by the Retirement Facility is received from private sources.  The Nursing Facility, however, receives patient revenue from both the public and private sector.  The following table sets forth information regarding the average daily census and sources of patient and resident revenues for the last two years at the Partnership s Nursing Facility:    
+
+1     Other revenues include revenues from interest on amounts held in reserve accounts, fees for ancillary services, such as meals and medical supplies, as well as other fee opportunities, such as application fees, received in the ordinary course of business of the facilities, but not directly related to the number of patients/residents.  
+
+  Because of regular changes in the census mix (i.e. private pay vs. government reimbursed patients), the occupancy required for a nursing facility to achieve an operating break-even point cannot be determined precisely.    
+
+2  
+
+Generally, a greater ratio of Medicaid patients will require a higher occupancy to reach a break-even point.  On the other hand, a high Medicare census can significantly reduce the break-even point due to a higher reimbursement rate. The overall occupancy rate for the Nursing Facility in 2005 was 95%, compared with 87% for 2004. The 2005 break-even occupancy figure for the Nursing Facility after depreciation and amortization is estimated to be approximately 75%.  Thus, the Nursing Facility exceeded its estimated break-even occupancy level for 2005.  
+
+  The Retirement Facility is much like an apartment complex with additional services provided to attract the elderly including limited transportation, housekeeping and food services.  During 2005, the Retirement Facility had an occupancy rate of 98%, compared with 86% for 2004.  The 2005 break-even occupancy figure for the Retirement Facility after depreciation and amortization is estimated to be approximately 80%.  Therefore, the Retirement Facility exceeded its estimated break-even occupancy level for 2005.  
+
+Governmental Regulation and Reimbursement          
+
+Our facilities must comply with numerous federal, state and local statutes and regulations.  Also, the healthcare industry depends significantly upon federal and federal/state programs for revenues and, as a result, is vulnerable to the budgetary policies of both the federal and state governments.  
+
+   Medicare and Medicaid Generally   
+
+  The Health Insurance for Aged and Disabled Act (Title XVIII of the Social Security Act), known as  Medicare,  has made available to nearly every United States citizen 65 years of age and older a broad program of health insurance designed to help the nation s elderly meet hospital and other healthcare costs.  The Medicare program consists of four parts: (i) Medicare Part A, which covers, among other things, inpatient hospital, skilled long-term care, home healthcare and certain other types of healthcare services; (ii) Medicare Part B, which covers physicians  services, outpatient services and certain items and services provided by medical suppliers; (iii) a managed care option for beneficiaries who are entitled to Medicare Part A and enrolled in Medicare Part B, known as Medicare Advantage or Medicare Part C; and (iv) a new Medicare Part D benefit that becomes
+effective in 2006 covering prescription drugs.  The Medicare program is administered by the Centers for Medicare and Medicaid Services (CMS).  
+
+  Medicaid (Title XIX of the Social Security Act) is a federal-state matching program, whereby the federal government, under a need based formula, matches funds provided by the participating states for medical assistance to  medically indigent  persons.  The programs are administered by the applicable state welfare or social service agencies under federal rules.  Although Medicaid programs vary from state to state, traditionally they have provided for the payment of certain expenses, up to established limits, at rates determined in accordance with each state s regulations.  For skilled nursing centers, most states pay prospective rates, and have some form of acuity adjustment. In addition to facility based services, most states cover an array of medical ancillary services.  Payment methodologies for these services vary based upon state preferences and practices permitted
+under federal rules.  
+
+  State Medicaid programs generally have long-established programs for reimbursement which have been revised and refined over time.  Any future changes in such reimbursement programs or in regulations relating thereto, such as reductions in the allowable reimbursement levels or the timing of processing of payments, could adversely affect our business.  The annual increase in the federally matched funds could vary from state to state based on a variety of factors.  Additionally, any shift from Medicaid to state designated managed care plans could adversely affect our business.  
+
+  Medicare and Medicaid are subject to statutory and regulatory changes, retroactive rate adjustments, administrative rulings and government funding restrictions, all of which may materially affect the timing and/or levels of payments to us for our services.  We are subject to periodic audits by the Medicare and Medicaid programs, which have various rights and remedies against us if they assert that we have overcharged the programs or failed to comply with program requirements.  These rights and remedies may include requiring the repayment of any amounts alleged to be overpayments or in violation of program requirements, or making deductions from future amounts due to us.  Such programs may also impose fines, criminal penalties or program exclusions.  Other third-party payer sources also reserve rights to conduct audits and make monetary adjustments in connection with or inclusive of
+auditing activities.  
+
+3  
+
+Laws Affecting Medicare Revenues   
+
+  Participating skilled nursing facilities are reimbursed under a prospective payment system (PPS) for inpatient Medicare covered services.  The prospective payment system commenced with a facility s first cost reporting period beginning on or after July 1, 1998 and phased in over a three-year period.  Under the prospective payment system, or PPS, skilled nursing facilities are paid a predetermined amount per patient, per day or  per diem , based on the anticipated costs of treating patients.  The per diem rate is determined by classifying each patient into one of 44 (53 beginning January 1, 2006) resource utilization groups using the information gathered as a result of each patient s minimum data set assessment.  There is a separate per diem rate for each of the resource utilization group classifications.  The per diem rate also covers rehabilitation and
+non-rehabilitation ancillary services.  
+
+  As implemented by CMS, the prospective payment system has had an adverse impact on the Medicare revenues of many skilled nursing facilities.  There have been three primary problems.  First, the base year calculations understate costs.  Second, the market basket index used to trend payments forward does not adequately reflect market experience.  Third, the resource utilization group case mix allocation is not adequately predictive of the costs of care for patients, and does not equitably allocate funding, especially for non-therapy ancillary services.  
+
+  Congress has enacted five major laws during the past decade that have significantly altered payment for skilled nursing facilities and medical ancillary services.  The Balanced Budget Act, signed into law on August 5, 1997, reduced federal spending on Medicare and Medicaid programs.  The Medicare Balanced Budget Refinement Act, enacted in November 1999, addressed a number of the funding difficulties caused by the Balanced Budget Act.  The Benefits Improvement and Protection Act, enacted on December 15, 2000, further modified the law and restored additional funding.  The Jobs and Growth Tax Reconciliation Act of 2003, enacted on May 28, 2003, provided temporary fiscal relief to states through an increase in federal support.  This temporary increase in Federal support has helped stabilize state Medicaid programs.  The Medicare Modernization Act, enacted on December 8, 2003, created a new
+Medicare prescription drug benefit, created incentives for greater private competition within Medicare, adjusted coverage and payment terms for a number of providers and prescription drugs and reformed the administration of the Medicare benefit. The following is a brief summary of these laws.  
+
+  In November 1999, the Balanced Budget Refinement Act was passed in Congress.  This enactment provided relief for certain reductions in Medicare reimbursement caused by the Balanced Budget Act.  For covered skilled nursing facility services furnished on or after April 1, 2000, the Medicare per diem rate was increased by 20% for 15 resource utilization group payment categories, which we refer to as  payment add-ons.  While this provision was initially expected to adjust payment rates for only six months, CMS withdrew proposed resource utilization group refinement rules.  Following completion of its study of the skilled nursing payment system, CMS published updates which were effective October 1, 2005.  The updates resulted in the discontinuance of these payment add-ons for dates of service beginning on or after January 1, 2006.   The updates also resulted in the addition of nine
+new resource utilization groups beginning January 1, 2006.  
+
+  On December 15, 2000, Congress passed the Benefits Improvement Protection Act, increasing the nursing component of federal prospective payment system s rates by approximately 16.7% for the period from April 1, 2001 through September 30, 2002.  The legislation also changed the 20% add-on to 3 of the 14 rehabilitation resource utilization group categories to a 6.7% add-on to all 14 rehabilitation resource utilization group categories beginning April 1, 2001. The Medicare Part B consolidated billing provision of the Balance Budget Refinement Act was repealed except for Medicare Part B therapy services and the moratorium on implementing $1,500 payment caps (therapy caps) on Medicare Part B rehabilitation therapy services was extended through calendar year 2002.   The 6.7% add-ons for all rehabilitation resource utilization group categories will be discontinued effective January 1, 2006,
+under the CMS  most recent updates.   
+
+  A number of provisions of the Balanced Budget Refinement Act and the Benefits Improvement and Protection Act, providing additional funding for Medicare participating skilled nursing facilities, expired on September 30, 2002 resulting in an approximate 10% reduction in the rates paid to us for providing services to Medicare patients.  We refer to the expiration of the additional funding as the  skilled nursing facility Medicare cliff.   Effective October 1, 2002,   
+
+4  
+
+Medicare rates adjusted for the skilled nursing facility Medicare cliff were increased by a 2.6% annual inflation update factor.   
+
+  The final fiscal year 2004 prospective payment system rules for skilled nursing facilities became effective on October 1, 2003.  The final rules enhanced the reimbursement rates for fiscal year 2004 by increasing base rates by 6.26% (a 3% increase in the annual inflation update factor and a 3.26% upward adjustment correcting previous forecast errors).  The final rules also provided for the continuation through fiscal year 2004 of certain payment add-ons that were authorized in the Balanced Budget Refinement Act to compensate for non-therapy ancillaries.  
+
+  On July 30, 2004, CMS published notice of the fiscal year 2005 prospective payment system rates that became effective October 1, 2004.  The fiscal year 2005 rules provided for a 2.8% increase in the annual inflation update factor.  
+
+  The Medicare Modernization Act suspended application of the $1,500 payment caps (therapy caps) on Medicare Part B rehabilitation through December 31, 2005.  The therapy caps in place effective September 1, 2003 imposed payment limits to services provided by independent therapists as well as to those provided by outpatient rehabilitation facilities and other forms of rehabilitation agencies.  The suspension did not have retroactive impact upon Medicare beneficiaries who exceeded their caps between September 1, 2003 and December 8, 2003.  Despite a widespread bipartisan effort to have the therapy caps legislation repealed or additional moratoriums put in place, on January 1, 2006 a cap of $1,740 (adjusted for inflation) went into effect for these health care services.  In response to lobbying efforts, however, Congress included a provision in the Deficit Reduction Act of 2005 to provide
+beneficiaries with a clinically based exceptions process to the financial limitation on rehabilitation services under Medicare.  The exceptions process currently applies to the 2006 fiscal year only.  
+
+   Laws Affecting Medicaid Revenues   
+
+  The Balanced Budget Act of 1997 repealed the  Boren Amendment  federal payment standard for payments to Medicaid nursing facilities, effective October 1, 1997.  This repeal gave the states greater latitude in setting payment rates for nursing facilities.  Budget constraints and other factors have caused some states to curb Medicaid reimbursement to nursing facilities and states may continue to curb or delay payments to nursing facilities in the future.  The law also granted the states greater flexibility in establishing Medicaid managed care programs without the need to obtain a federal waiver.  Although these waiver programs generally exempted institutional care, including nursing facility services, these programs could ultimately change the Medicaid reimbursement system for long-term care.  These changes could include changing reimbursement for pharmacy services from
+fee-for-service, or payment per procedure or service rendered, to a fixed amount per person utilizing managed care negotiated or capitated rates.  
+
+  The Benefits Improvement and Protection Act of 2000 enacted a phase out of intergovernmental transfer transactions by states whereby states would artificially inflate the payments to certain public facilities to increase federal matching funds.  This action may have had the effect of reducing federal support for a number of state Medicaid programs.  The reduced federal payments may impact aggregate available funds requiring states to further contain payments to providers.   
+
+  State budget pressures in recent years have translated into reductions in the rate of state spending growth in certain jurisdictions.  The plight of state governments has helped to elevate issues related to Medicaid onto the national agenda.  In 2003, Congress passed temporary relief to states providing a 2.9% increase in the federal Medicaid Assistance Percentage for five quarters estimated to provide states $10.0 billion in Medicaid relief.  That assistance terminated on June 30, 2004.  Actions to date on state Medicaid budgets affirm that many states are adjusting downward state Medicaid spending to reflect the loss of the temporary federal assistance.  Medicaid funding is set annually.    
+
+  As part of the state budget process, a number of states have indicated a desire to divert individuals from placement in nursing homes through an expansion of home and community based services.  Most of these efforts are being established under demonstration and waiver authority.  To date, these alternative care programs have not significantly impacted nursing home admissions.  
+
+5  
+
+Late in November 2003, the General Accounting Office released a study examining how nursing home reimbursement has been affected by the fiscal crisis being experienced by a number of states.  The report documents that most states have sustained their reimbursement commitments.  States have tapped reserves, tobacco settlement monies and other funding strategies including provider assessments to meet their obligations.  Similar conclusions were reached by an academic study published in June 2004 in Health Affairs.  While the data in both studies does not evaluate the adequacy of state Medicaid payments for nursing facility services, the analysis does suggest that under current difficult conditions states are honoring their commitments.    
+
+  Among the alternative Medicaid funding approaches that states have explored are nursing home provider assessments as tools for leveraging increased Medicaid matching funds.  Such initiatives are authorized under the law.    
+
+  It is not possible to quantify fully the effect of legislative changes, the interpretation or administration of such legislation or any other governmental initiatives on our business.  Accordingly, there can be no assurance that the impact of any future healthcare legislation or regulation will not further adversely affect our business.  There can be no assurance that payments under governmental and private third-party payer programs will be timely, will remain at levels similar to present levels or will, in the future, be sufficient to cover the costs allocable to patients eligible for reimbursement pursuant to such programs.  Our financial condition and results of operations are affected by the reimbursement process, which in the healthcare industry is complex and can involve lengthy delays between the time that revenue is recognized and the time that reimbursement amounts are settled.  
+
+   Government Regulation in General   
+
+  In addition to regulations relating to participation in the Medicare and Medicaid programs, our business is subject to extensive federal, state and, in some cases, local regulation with respect to matters such as licensure, certification and government reimbursement.  These regulations relate, among other things, to the adequacy of physical plant and equipment, qualifications of personnel, standards of care and operational requirements.  Compliance with such regulatory requirements, as interpreted and amended from time to time, can increase operating costs and thereby adversely affect the financial viability of our business.  Failure to comply with current or future regulatory requirements could also result in the imposition of various remedies including fines, restrictions on admission, denial of payment for all or new admissions, the revocation of licensure, decertification, imposition
+of temporary management or the closure of the facility.  
+
+   Licensure, Certification and Regulation   
+
+  Our assisted living and nursing home services, to the extent required, are currently licensed under applicable law.  Our skilled nursing centers and healthcare services, or practitioners providing the services therein, are certified or approved as providers under one or more of the Medicaid and Medicare programs.  Licensing, certification and other applicable standards vary from jurisdiction to jurisdiction and are revised periodically.    
+
+  Both initial and continuing qualifications of a skilled nursing center to participate in such programs depend upon many factors including accommodations, equipment, services, patient care, safety, personnel, physical environment, and adequate policies, procedures and controls.   Several states have adopted certificate of need or similar laws which generally require that a state agency approve certain acquisitions and determine the need for certain bed additions, new services, and capital expenditures.  State approvals are generally issued for a specified maximum expenditure and require implementation of the proposal within a specified period of time.  Failure to obtain the necessary state approval can result in:  
+
+the inability to provide the service;       
+
+the inability to operate the centers;       
+
+the inability to complete the acquisition, addition or other change; and       
+
+the imposition of sanctions or adverse action on the center s license and adverse reimbursement action.       
+
+During recent years several states have passed legislation altering their certificate of need requirements.  California and Texas, for example, have eliminated certificate of need laws. Virginia is expected to phase out its   
+
+6  
+
+certificate of need requirement and Maryland is studying a similar action.  Even states that have eliminated certificate of need laws often have retained other means of limiting new nursing home development, such as the use of moratoria, licensing laws or limitations upon participation in the state Medicaid program. While Ohio has not made changes to its certificate of need requirement to date, we believe that these governmental limitations generally make nursing homes more valuable by limiting competition.  We can give no assurance that the State of Ohio will not change its certificate of need requirements in the future.  
+
+   Survey and Enforcement   
+
+  CMS has begun to implement an initiative to increase the effectiveness of Medicare and Medicaid nursing facility survey and enforcement activities. CMS  initiative follows a July 1998 General Accounting Office investigation which found inadequate care in a significant proportion of California nursing homes and the CMS  July 1998 report to Congress on the effectiveness of the survey and enforcement system. In 1999, the U.S. Department of Health and Human Services Office of Inspector General issued several reports concerning quality of care in nursing homes, and the General Accounting Office issued reports in 1999 and 2000 which recommended that CMS and the states strengthen their compliance and enforcement practices to better ensure that nursing homes provide adequate care. Since 1998, the Senate Special Committee on Aging has held hearings on these issues. CMS is taking steps
+to focus more survey and enforcement efforts on nursing homes with findings of substandard care or repeat violations of Medicare and Medicaid standards and to identify chain operated facilities with patterns of noncompliance. CMS is increasing its oversight of state survey agencies and requiring state agencies to use enforcement sanctions and remedies more promptly when substandard care or repeat violations are identified, to investigate complaints more promptly, and to survey facilities more consistently. In addition, CMS has adopted regulations expanding federal and state authority to impose civil money penalties in instances of noncompliance. Medicare survey results and nursing staff hours per resident for each nursing home are posted on the internet at    www.medicare.gov   .  As noted above, when deficiencies under state licensing and Medicare and Medicaid standards are identified, sanctions and remedies such as denials of payment for new
+Medicare and Medicaid admissions, civil monetary penalties, state oversight and loss of Medicare and Medicaid participation or licensure may be imposed.  If our Nursing Facility is unable to cure deficiencies which are identified from time to time, such sanctions may be imposed, and if imposed, may adversely affect our financial condition.  
+
+  In 2000 and 2002, CMS issued reports on its study linking nursing staffing levels with quality of care, and CMS is assessing the impact that minimum staffing requirements would have on facility costs and operations. In a report presented to Congress in 2002, the Department of Health and Human Services found that 90% of nursing homes lack the nurse and nurse aide staffing necessary to provide adequate care to residents. The Bush administration has indicated that it does not intend to impose minimum staffing levels or to increase Medicare or Medicaid rates to cover the costs of increased staff at this time, but CMS is now publishing the nurse staffing level at each nursing home on its internet site to increase market pressures on nursing home operators.  Based on the latest information published by CMS as of the date of this Report, our Nursing Facility had 1.53 licensed nursing staff
+hours per resident per day ( NSH/Resident/Day ), slightly higher than the 1.50 NSH/Resident/Day average for the State of Ohio and slightly higher than the 1.20 NSH/Resident/Day average nationally.   
+
+   Laws Affecting Billing and Business Practices   
+
+  We are also subject to federal and state laws that govern financial and other arrangements between healthcare providers.  These laws often prohibit certain direct and indirect payments or fee-splitting arrangements between healthcare providers that are designed to induce the referral of patients to, or the recommendation of, a particular provider for medical products and services.  These laws include:  
+
+the  anti kickback  provisions of the federal Medicare and Medicaid programs, which prohibit, among other things, knowingly and willfully soliciting, receiving, offering or paying any remuneration (including any kickback, bribe or rebate) directly or indirectly in return for or to induce the referral of an individual to a person for the furnishing or arranging for the furnishing of any item or service for which payment may be made in whole or in part under Medicare or Medicaid.  Penalties may include imprisonment, fines, exclusion from participation in the Medicare and Medicaid programs and loss of license; and       
+
+7  
+
+the  Stark laws  which prohibit, with limited exceptions, the referral of patients by physicians for certain services, including home health services, physical therapy and occupational therapy, to an entity in which the physician has a financial interest.  Penalties may include denial of payment, mandatory refund of prior payment, civil monetary penalties and exclusion from participation in the Medicare and Medicaid programs.       
+
+In addition, some states restrict certain business relationships between physicians and other providers of healthcare services.  Possible sanctions for violation of any of these restrictions or prohibitions include loss of licensure or eligibility to participate in reimbursement programs and civil and criminal penalties.  These laws vary from state to state, are often complex and have seldom been interpreted by the courts or regulatory agencies.    
+
+  There have also been a number of recent federal and state legislative and regulatory initiatives concerning reimbursement under the Medicare and Medicaid programs.  During the past few years, the Department of Health and Human Services, or DHHS, has issued a series of voluntary compliance guidelines.  These compliance guidelines provide guidance on acceptable practices.  Skilled nursing facility services and durable medical equipment, prosthetics, orthotics, supplies, and supplier performance practices have been among the services addressed in these publications.  DHHS also issues fraud alerts and advisory opinions.  For example, directives concerning double billing, home health services, the provision of medical supplies to nursing facilities, and contractual joint venture relationships have been released.  It is anticipated that areas addressed by these advisories may come under closer
+scrutiny by the government.  While we have reviewed government guidance, we cannot predict accurately the impact of any such initiatives.  
+
+   Laws Governing Health Information   
+
+  We face additional federal requirements that mandate major changes in the transmission and retention of health information.  The Health Insurance Portability and Accountability Act of 1996, or HIPAA, was enacted to ensure, first, that employees can retain and at times transfer their health insurance when they change jobs, and secondly, to simplify healthcare administrative processes.  This simplification includes expanded protection of the privacy and security of personal medical data and requires the adoption of standards for the exchange of electronic health information.  Among the standards that DHHS has or may adopt pursuant to HIPAA are standards for the following: electronic transactions and code sets, unique identifiers for providers, employers, health plans and individuals, security and electronic signatures, privacy, and enforcement.  
+
+  Although HIPAA was intended to ultimately reduce administrative expenses and burdens faced within the healthcare industry, we believe that implementation of this law has resulted in additional costs.  DHHS has released three rules to date mandating the use of new standards with respect to certain healthcare transactions and health information.  The first rule establishes uniform standards for common healthcare transactions, including: healthcare claims information; plan eligibility, referral certification and authorization; claims status; plan enrollment and disenrollment; payment and remittance advice; plan premium payments; and coordination of benefits.  Second, DHHS has released standards relating to the privacy of individually identifiable health information.  These standards not only require our compliance with rules governing the use and disclosure of protected health information,
+but they also require us to impose those rules, by contract, on any business associate to whom we disclose information.  Third, DHHS has released rules governing the security of health information maintained or transmitted in electronic form.  
+
+  DHHS finalized the transaction standards on August 17, 2000.  DHHS issued the privacy standards on December 28, 2000, and, after certain delays, they became effective on April 14, 2001, with a compliance date of April 14, 2003.  On February 20, 2003, DHHS issued final rules governing the security of health information.  These rules specify a series of administrative, technical and physical security procedures to assure the confidentiality of electronic protected health information.  Affected parties had until April 20, 2005 to be fully compliant.  Sanctions for failing to comply with HIPAA health information practices provisions include criminal penalties and civil sanctions.  In January 2004, CMS announced the adoption of the National Provider Identifier as the standard unique health identifier for health care providers to use in filing and processing health care claims and other
+transactions.  The rule was effective May 23, 2005.  
+
+8  
+
+At this time, our management believes we are in compliance with all HIPAA requirements that have been adopted.   
+
+   Assisted Living    
+
+  According to the National Academy for State Health Policy, approximately 41 states provide or are approved to provide Medicaid payments for residents in some assisted living facilities under waivers granted by CMS, or under Medicaid state plans, and four other states are planning some Medicaid funding by preparing or requesting waivers to fund assisted living or demonstration projects.  Because rates paid to assisted living facility operators are lower than rates paid to nursing home operators, some states use Medicaid funding of assisted living as a means of lowering the cost of services for residents who may not need the higher intensity of health-related services provided in nursing homes.  States that administer Medicaid programs for assisted living facilities are responsible for monitoring the services at, and physical conditions of, the participating facilities.  Different states
+apply different standards in these matters, but generally we believe these monitoring processes are similar to the inspection processes mandated by these states for nursing homes.  Ohio currently does not provide Medicaid funding for assisted living facilities.  
+
+  In light of the large number of states using Medicaid to purchase services at assisted living facilities and the growth of assisted living in the 1990s, a majority of states have adopted licensing standards applicable to assisted living facilities. According to the National Academy for State Health Policy, 32 states and the District of Columbia have licensing statutes or standards specifically using the term  assisted living . Thirty-six states have requirements for facilities servicing people with Alzheimer s disease or dementia. The majority of states have revised their licensing regulations recently or are reviewing their policies or drafting or revising their regulations. State regulatory models vary; there is no national consensus on a definition of assisted living, and no uniform approach by the states to regulating assisted living facilities.   The State of Ohio,
+for example, regulates  residential care facilities  and permits them to provide to residents, in addition to accommodations, supervision and personal care services, supervision of special diets, limited administration of medication and other skilled nursing care on a part-time, intermittent basis.    
+
+  Most state licensing standards apply to assisted living facilities whether or not they accept Medicaid funding. Also, according to the National Academy for State Health Policy, six states require certificates of need from state health planning authorities before new assisted living facilities or programs may be developed. Based on our analysis of current economic and regulatory trends, we believe that assisted living facilities that become dependent upon Medicaid payments for a majority of their revenues may decline in value because Medicaid rates may fail to keep up with increasing costs. We also believe that assisted living facilities located in states that adopt certificate of need requirements, such as Ohio, or otherwise restrict the development of new assisted living facilities may increase in value because these limitations upon development may help ensure higher occupancy and
+higher non-governmental rates.  
+
+   Environmental Matters   
+
+  Under various laws, owners of real estate may be required to investigate and clean up hazardous substances present at a property, and may be held liable for property damage or personal injuries that result from such contamination. These laws also expose us to the possibility that we become liable to reimburse the government for damages and costs it incurs in connection with the contamination. No assurances can be given that environmental liabilities are not present in our properties or that costs we incur to remediate contamination will not have a material adverse effect on our business or financial condition.  
+
+   Competition   
+
+  The Partnership operates only two facilities, the Retirement Facility which is an assisted living facility and the Nursing Facility.  Therefore, many of the Partnership s competitors have more significant resources and assets available to them with which to compete with the Partnership s facilities.  Generally, quality of services and degree of care available, the reputation and physical appearance of facilities and, in the case of private pay patients, charges for services, are significant competitive factors which add to the success of a facility.  The Partnership attempts to compete with its larger competitors through active marketing targeted to the population it desires for its facilities.  Further, the Partnership believes that restrictions on the ability of new facilities to be opened create barriers that enhance its ability to compete in   
+
+9  
+
+its markets.  However, no assurance can be given that the Partnership will be able to continue to effectively compete given its small size.  
+
+   Limited Partner Special Meeting Request   
+
+  On June 17, 2005, the Managing General Partner received a written notice (the  Special Meeting Notice ) from Kodiak Partners III, Prizm Investments and Baseline Investments (the  Prizm Group ) who collectively hold in excess of 10% of the Partnership s Units.  In the Special Meeting Notice, the Prizm Group indicated an intent to exercise their rights under the Partnership Agreement to call for a special meeting of the limited partners in order to approve a proposal by the Prizm Group that all of the Partnership s assets be sold, that the Partnership be dissolved, and that the proceeds from a sale be distributed to the partners in connection with the dissolution.  On December 8, 2005, the Prizm Group delivered to the Managing General Partner its formal statement of the proposed requested action to be taken (the  Proposal Statement ).  The Proposal
+Statement requests that the limited partners approve the addition of a new provision to the Partnership Agreement to read as follows:  
+
+   Section 8.12 [sic] Direction to General Partners to Liquidate the Partnership   The General Partners shall promptly take all necessary or appropriate actions to undertake a transaction that will result in the sale of all the assets, directly or indirectly, of the Partnership and distribution of the proceeds therefrom to the Limited Partners (a  Liquidity Transaction ).  Such Liquidity Transaction, which may be structured as (i) a sale of the Partnership s interests in Mayfair Village, Ltd. and Mayfair Nursing Care Centers, Ltd. (the  Subsidiary Entities  (ii) a merger of the Subsidiary Entities with one or more third party entities; (iii) a sale of the buildings and other assets of such Subsidiary Entities; or (iv) a merger of the Partnership with a third party entity, shall be pursued as quickly as reasonably possible and for the highest possible
+price obtainable under the circumstances.  The rules to be utilized in connection with the Liquidity Transaction shall include a requirement that all offers for the assets of the Partnership (whether direct or indirect acquisitions) be delivered in sealed condition, and that all offers be opened simultaneously, with these procedures being publicized to all potential buyers.  In connection therewith, the General Partners shall be authorized and directed to engage a marketing agent to pursue such Liquidity Transaction on behalf of the Partnership on the basis of bids solicited from the following qualified marketing agents having experience in the healthcare services industry:  (a) C.B. Richard Ellis; (b) Marcus and Millichap; and (c) CLW Health Care Services Group.  Upon the consummation of the Liquidity Transaction, the Partnership shall be dissolved without the necessity for an additional vote of Limited Partners and the proceeds from such transaction together with any other remaining
+assets of the Partnership shall be distributed to the Partners as set forth in this Agreement as quickly as reasonably possible.  To the extent any provision of this Agreement would have prevented the Limited Partners from adopting or voting on this Section 8.12 [sic], such provision is hereby superseded, but only for purposes specifically related to this Section 8.12 [sic].   
+
+   The above text of the Proposal Statement is provided herein for informational purposes only.  Any action on the above-referenced proposal will be taken only at a special meeting of the Limited Partners which shall be called and notice given only in compliance with all rules and regulations of the SEC.   
+
+  To date, the Managing General Partner is unaware of any proposals to purchase the Company s assets.  Consequently, if the Proposal Statement is, in fact, approved by the Limited Partners at the requested special meeting, appropriate steps to market the Company s assets would be undertaken by the Managing General Partner subsequent to such meeting.  The Managing General Partner intends to fulfill its obligations under the Partnership Agreement relating to the requested special meeting, subject only to compliance with the proxy solicitation rules of the SEC.  The date of any such special meeting has not yet been determined and will depend on a number of factors, including the filing by the Partnership of a proxy statement relating to the special meeting which includes the Proposal Statement for consideration by the Limited Partners, and the expiration of the SEC s review
+period, or if the SEC should comment on any portion of the proxy statement, the resolution of any such comments.  In accordance with its discussions with the SEC, the Partnership will not be in a position to file the proxy statement for this special meeting until after the Partnership s Form 10-K for the fiscal year ended December 31, 2005 has been filed.  In addition, the SEC may also require that the Partnership file all Form 10-Qs currently due for the 2006 fiscal year as a condition to permitting the proxy statement to be delivered to our Limited Partners in connection with this meeting.   
+
+10  
+
+As disclosed in the Mackenzie 2006 Offer, the Managing General Partner was contacted by a representative for the Mackenzie Purchasers regarding the appropriate distribution of proceeds among the partners upon a sale or refinancing transaction.  The Managing General Partner is aware of a discrepancy among the provisions relating to such distributions in the form of partnership agreement filed with the initial prospectus and the executed document maintained in the Partnership s records.  The Managing General Partner has had discussions with the Mackenzie Purchasers regarding resolution of this discrepancy and currently intends to include a separate proposal for approval by the Limited Partners at the special meeting to resolve these discrepancies.  
+
+ITEM 1A.     
+         
+               RISK FACTORS        
+
+Our business and results of operations are subject to a number of risks, many of which are outside of our control.  In addition to the other information in this Report, readers should carefully consider that the following important factors, among others, could materially impact our business and future results of operations.  When we use terms such as  we,   our , and  us,  we are referring to Consolidated Resources Health Care Fund II, and its subsidiaries Mayfair       Village, Ltd. and Mayfair Nursing Care Center, Ltd.  The risks described below may not be the only risks we face. Additional risks that we do not yet know of, or that we currently think are immaterial, may also impair our business operations or financial results. If any of the events or circumstances described in the following risks actually occurs,
+our business, financial condition or results of operations could suffer and the trading price of our common shares could decline. Investors should consider the following risks and the information contained under the heading  Cautionary Notice Regarding Forward Looking Statements  before deciding to invest in our securities.  
+
+   The nature of our business exposes us to litigation risks. As a result, our insurance costs may increase.   
+
+In several well publicized instances, private litigation by residents of senior living communities for alleged abuses has resulted in large damage awards against other operating companies. Today, some lawyers and law firms specialize in bringing litigation against senior living companies. Medical liability insurance reform has become a topic of political debate and some states have enacted legislation to limit future liability awards. However, unless such reforms are generally adopted, we expect our insurance costs may increase.  Increasing liability insurance costs may materially negatively affect our results of operations.  
+
+Our business is subject to extensive regulation which increases our costs and may result in losses.   
+
+Licensing and Medicare and Medicaid laws require operators of senior living facilities to comply with extensive standards governing operations. There are also various laws prohibiting fraud by senior living operators, including criminal laws that prohibit false claims for Medicare and Medicaid and that regulate patient referrals. In recent years, the federal and state governments have devoted increased resources to monitoring the quality of care at senior living communities and to anti-fraud investigations. When quality of care deficiencies are identified or improper billing is uncovered, various sanctions may be imposed, including denial of new admissions, exclusion from Medicare or Medicaid program participation, monetary penalties, governmental oversight or loss of licensure.  As a result of this extensive regulatory system and increasing enforcement initiatives, we have increased our
+costs of monitoring quality of care compliance and billing procedures, and we expect these costs may continue to increase. Also, if we become subject to regulatory sanctions, our business may be adversely affected and we might experience financial losses.  
+
+We depend upon reimbursement for our services by third-party payors, and changes in their reimbursement levels could adversely affect our revenues, results of operations and financial position.    
+
+Approximately 55% of our revenues are derived from governmental third-party payors with the remainder being derived from commercial insurers, managed care plans, the Department of Veteran Affairs and private individuals.  There are ongoing pressures from many payors to control healthcare costs and to reduce or limit increases in reimbursement rates for medical services.  Governmental payment programs are subject to statutory and regulatory changes, retroactive rate adjustments, administrative or executive orders and government funding restrictions, all of which may materially change the amount of payments to us for our services.    
+
+11  
+
+In addition, some of our operations, especially our Nursing Facility, receive significant revenues from the Medicare and Medicaid programs. During the year ended December 31, 2005, approximately 70% of our net revenues from residents were received from these programs. The federal government and some states are now experiencing fiscal deficits. Historically, when governmental deficits have increased, cut backs in Medicare and Medicaid funding have often followed. These cut backs sometimes include rate reductions, but more often result in a failure of Medicare and Medicaid rates to increase by sufficient amounts to offset increasing costs. We cannot now predict whether future Medicare and Medicaid rates will be sufficient to cover our future cost increases. Future Medicare and Medicaid rate declines or a
+failure of these rates to cover increasing costs could result in our experiencing lower earnings or losses.     See  Business   Governmental Regulation and Reimbursement .   
+
+A significant increase in our labor costs may have a material adverse effect on us.   
+
+We compete with other operators of senior living communities with respect to attracting and retaining qualified personnel responsible for the day to day operations of each of our facilities. A shortage of nurses or other trained personnel may require us to increase the wages and benefits offered to our employees in order to attract and retain these personnel or to hire more expensive temporary personnel. Also, we have to compete for lesser skilled workers with numerous other employers.  A tightening job market often results in increased wage pressures. Although we have not yet experienced any recent significant wage pressures, such wage pressures may occur in the near future. Employee benefits costs, including employee health insurance and workers compensation insurance costs, have increased in recent years. Increasing employee health and workers compensation insurance costs may
+materially negatively affect our earnings. No assurance can be given that our labor costs will not increase or that any increase will be matched by corresponding increases in rates charged to residents. Any significant failure by us to control our labor costs or to pass on any increased labor costs to residents through rate increases could have a material adverse effect on our business, financial condition and results of operations.  
+
+Our business may require regular capital expenditures.   
+
+Physical characteristics of senior living facilities are mandated by various governmental authorities. Changes in these regulations may require us to make significant expenditures. In the future, our facilities may require significant expenditures to address ongoing required maintenance and to make them attractive to residents. Our available financial resources may be insufficient to fund these expenditures.  
+
+Our business is highly competitive and we may be unable to operate profitably.   
+
+We compete with numerous other companies that provide senior living services, including home healthcare companies and other real estate based service providers. Historically, nursing homes have been somewhat protected from competition by state laws requiring certificates of need to develop new communities; however, these barriers have been eliminated in many states. Also, there are few barriers to competition for home healthcare or for independent and assisted living services. Growth in the availability of nursing home alternatives, including assisted living communities, has had and may in the future have the effect of reducing the occupancy or profitability at nursing homes, including those we operate. Many of our existing competitors are larger and have greater financial resources than us. Accordingly, we cannot provide any assurances that we will be able to attract a sufficient number
+of residents to our facilities or that we will be able to attract employees and keep wages and other employee benefits, insurance costs and other operating expenses at levels which will allow us to compete successfully or to operate profitably.  
+
+Failure to comply with existing environmental laws regarding the management of infectious medical waste could harm our business.    
+
+Environmental laws are amended from time to time and vary from state to state. Our facilities can generate infectious medical waste due to the illness or physical condition of our residents, including for example, blood soaked bandages, swabs, and other medical waste products and incontinence products of those residents diagnosed with an infectious disease. The management of infectious medical waste, including handling, storage, transportation, treatment and disposal, is subject to regulation under various laws, including federal and state environmental laws. These environmental laws prescribe a number of requirements, including record-keeping, notice and reporting obligations. Each of our facilities have an agreement with a waste management company for the proper disposal of all infectious medical   
+
+12  
+
+waste. Any finding that we are not in compliance with these environmental laws could adversely affect our business operations.  
+
+We face periodic reviews, audits and investigations under our contracts with federal and state government agencies, and these audits could have adverse findings that may negatively impact our business.    
+
+As a result of our participation in the Medicare and Medicaid programs, we are subject to various governmental reviews, audits and investigations to verify our compliance with these programs and applicable laws and regulations. Private pay sources also reserve the right to conduct audits. An adverse review, audit or investigation could result in:  
+
+required refunding of amounts we have been paid pursuant to the Medicare or Medicaid programs or from private payors;       
+
+state or federal agencies imposing fines, penalties and other sanctions on us;       
+
+loss of our right to participate in the Medicare or Medicaid programs or one or more private payor networks; or       
+
+damages to our reputation in various markets.       
+
+Both federal and state government agencies have heightened and coordinated civil and criminal enforcement efforts as part of numerous ongoing investigations of healthcare companies and, in particular, skilled nursing facilities. The focus of these investigations includes:  
+
+cost reporting and billing practices;        
+
+quality of care;       
+
+financial relationships with referral sources; and        
+
+medical necessity of services provided.       
+
+We also are subject to potential lawsuits under a federal whistleblower statute designed to combat fraud and abuse in the healthcare industry. These lawsuits can involve significant monetary and award bounties to private plaintiffs who successfully bring these suits.  
+
+We are required to comply with laws governing the transmission and privacy of health information.    
+
+The Health Insurance Portability and Accountability Act of 1996, or HIPAA, requires us to comply with standards relating to the privacy of protected health information, the exchange of health information within our company and with third parties and protect the confidentiality and security of electronic protected health information. The privacy standards became effective in April 2003, standards for electronic data transactions and code sets became effective in October 2003, and security of health information became effective in April 21, 2005. Our ability to comply with the transaction and security standards is, in part, dependent upon third parties, including the fiscal intermediaries and state program payors also complying with HIPAA. We do not believe our on-going implementation to comply with the HIPAA standards will have a material impact on us. Should it be determined that we have
+not complied with the new standards, we could be subject to civil sanctions.  
+
+If we do not achieve and maintain competitive quality of care ratings from CMS in our skilled nursing facilities our business may be negatively affected.    
+
+CMS provides comparative data available to the public on its website rating every nursing facility operating in each state based upon nine quality-of-care indicators. These quality-of-care indicators include such measures as percentages of patients with infections, bedsores and unplanned weight loss. We currently monitor the comparative data   
+
+13  
+
+posted on the website to respond to potential consumers should questions arise. If we are unable to achieve quality of care ratings that are comparable or superior to those of our competitors, our ability to attract and retain patients could be affected and, as a result, our occupancy levels could decline.  
+
+Our revenues are sensitive to occupancy levels and changes in the resident mix.   
+
+With respect to our Nursing Facility, changes in the case mix of residents, the mix of residents by payor type and payment methodologies may significantly affect our profitability. The sources and amounts of our nursing facility resident revenues will be determined by a number of factors, including licensed bed capacity and occupancy rates of our Nursing Facility, average length of stay of our residents, the mix of residents by payor type (for example, Medicare versus Medicaid or private), and, within the Medicare and certain Medicaid programs, the distribution of residents assessed within the RUGs. Changes that increase the percentage of Medicaid residents within our facilities can have a material adverse effect on our financial operations.  
+
+With respect to our Retirement Facility, changes in the percentage of private residents, the level of care services, and, where applicable, Medicaid rates, may significantly affect our profitability. The sources and amounts of our Retirement Facility resident revenues will be determined by a number of factors, including licensed unit capacity and occupancy rates at our Retirement Facility, average length of stay of our residents, the mix of private versus Medicaid funded residents, and the level of care services required for our residents. Where residents pay privately, the income and assets of our residents and their family members can impact our private pay revenues. Economic downturns or changes in demographics could adversely affect the ability of seniors to afford our daily resident fees. If we are unable to attract seniors with sufficient income, assets or other resources, our
+resident revenues and results of operations may decline. An increase in the percentage of Medicaid residents within our facilities could have a material adverse effect on our financial operations.  
+
+If we fail to cultivate new or maintain existing relationships with the physicians in the community in which we operate, our patient base in our facilities may decrease.    
+
+Our success depends in part upon the admissions and referral practices of the physicians in the community in which we operate and our ability to cultivate and maintain relationships with these physicians. Physicians referring patients to our facilities are not our employees and are free to refer their patients to other providers. If we are unable to successfully cultivate and maintain strong relationships with these physicians, our patient population may decline.  
+
+Our facilities are located in areas that may be subject to flooding or susceptible to tornadoes.    
+
+Though we retain property and business interruption insurance, our facilities are not fully insured for flood damage and we may not fully recover all losses sustained in the case of flooding, tornadoes or other incidents.   
+
+We are required to comply with the Sarbanes Oxley Act of 2002, Section 404, or SOX, that involves an in-depth evaluation of our internal controls and compliance with the reporting requirements.    
+
+As a non-accelerated filer, we are mandated to be compliant by December 31, 2007. To comply with Section 404, we are required to conduct a thorough assessment of the effectiveness of our internal control structure and procedures for financial reporting to ascertain whether those controls are sufficient to prevent a material misstatement of our financial statements. The requirements of SOX are extensive and will involve considerable internal resources and the use of external consultants.  At the date of this Annual Report on Form 10-K, we have not taken any steps with respect to the SOX assessment and there can be no assurance that we will not uncover internal control material weaknesses that will require disclosure in our SEC filings, nor additional resources to rectify the deficiencies identified. The existence of one or more material weaknesses, management s conclusion that its
+internal controls over financial reporting are not effective, or the inability of our auditors to express an opinion or attest that our management s report is fairly stated, could result in a loss of investor confidence in our financial reports and/or subject us to sanctions or investigations by regulatory authorities.  
+
+14  
+
+ITEM 1B.     
+         
+               UNRESOLVED STAFF COMMENTS        
+
+Not applicable.       
+
+ITEM 2.     
+         
+               PROPERTIES        
+
+The following table sets forth the properties of the Partnership at December 31, 2005.  The buildings and the land on which they are located are beneficially owned by the Partnership in fee, subject in each case to a first deed of trust as set forth more fully in Note 2 to the consolidated financial statements included herein.  
+
+(1)    
+         
+              A provision was made prior to 1991 to write down each facility to its estimated net realizable value or estimated fair value at the time of the write-down as determined by WelCare Consolidated Resources Corporation of America, the corporate general partner at the time of this write-down. These values reflect this write-down.       
+
+ITEM 3.     
+         
+               LEGAL PROCEEDINGS        
+
+The Partnership did not have any pending legal proceedings that separately, or in the aggregate, if adversely determined, would have a material adverse effect on the Partnership as of December 31, 2005 or as of the date of this report.  The Partnership may, from time to time, be a party to litigation or administrative proceedings which arise in the normal course of business.  
+
+ITEM 4.     
+         
+               SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS        
+
+None.   
+
+15  
+
+PART II   
+
+ITEM 5.     
+         
+               MARKET FOR THE REGISTRANT S UNITS OF LIMITED PARTNERSHIP, SECURITY HOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES        
+
+(A)    
+         
+              No market for Limited Partnership Units exists nor is one expected to develop.       
+
+(B)    
+         
+               Title of Class     
+         
+               Number of Record Unit Holders        
+
+(C)    
+         
+              No cash was distributed to the Limited Partners during 2005.  Cumulative distributions paid to the Limited Partners as of December 31, 2005 were $3,538,203.  No distributions have been made to the General Partners.  Future distributions are dependent on the Partnership s ability to meet its ongoing obligations.     See    Liquidity and Capital Resources section of Item 7 -  Management s Discussion and Analysis of Financial Condition and Results of Operations,  for a discussion of distributions.       
+
+ITEM 6.     
+         
+               SELECTED FINANCIAL DATA        
+
+The selected consolidated financial data set forth below should be read in conjunction with Management s Discussion and Analysis of Financial Condition and Results of Operations set forth below and the financial statements of the Company included elsewhere in this Report and referred to in the Index to Financial Statements (together with the notes and other reports relating to such financial statements).  
+
+16  
+
+17  
+
+ITEM 7.     
+         
+               MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION        
+
+The purpose of the following discussion is to address information relating to the financial condition and results of operations of the Partnership that may not be readily apparent from a review of the consolidated financial statements and notes thereto, which begin on page F-1 of this report. This discussion should be read in conjunction with information provided in the Partnership s consolidated financial statements and accompanying footnotes.   
+
+   Cautionary Notice Regarding Forward-Looking Statements   
+
+  Certain of the statements made in this report and in documents incorporated by reference herein, including matters discussed in this section captioned  Management s Discussion and Analysis of Financial Condition and Results of Operations,  may constitute forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (the  Exchange Act ).  Such forward-looking statements are based on management s beliefs, current expectations, estimates and projections about the nursing home or other healthcare provider industry, the economy and about the Partnership in general.  The words  expect,   anticipate,   intend,   plan,   believe,   seek,   estimate  and similar expressions are intended to identify such forward-looking statements.  Such
+forward-looking statements are not guarantees of future performance and are subject to risks, uncertainties and other factors that may cause the actual results, performance or achievements of the Partnership to differ materially from historical results or from any results expressed or implied by such forward-looking statements. The Partnership cautions readers that the following important factors, among others, could cause the Partnership s actual results to differ materially from the forward-looking statements contained in this report:    
+
+changes in healthcare reimbursement systems and rates;       
+
+the availability of capital and financing;       
+
+changes to amounts recorded as revenues due to final resolution of amounts due to and from third-party payors; and        
+
+other factors affecting the Partnership s business that may be beyond its control.       
+
+Critical Accounting Policies and Estimates    
+
+  The Partnership s discussion and analysis of the financial condition and results of operations are based upon the consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States of America. The preparation of these financial statements requires the use of estimates and judgments that affect the reported amounts and related disclosures of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results may differ materially from these estimates. The Partnership believes the following critical accounting policies, among others, affect the more significant judgments and estimates used in the preparation of the consolidated financial statements.  
+
+   Operating revenue   
+
+  Operating revenue consists of rental income, long-term nursing revenues, and other ancillary services revenues. Operating revenues are recognized as services are provided and include amounts reimbursable by the Medicaid and Medicare programs.  We record gross service charges in our accounting records on an accrual basis using our established rates for the type of service provided to the patient.  We recognize an estimated contractual allowance to reduce gross patient charges receivable to an amount that we estimate we will actually realize for the service rendered based upon previously agreed to rates with a payor, and adjust such amounts in future periods as final settlements are determined.  Payors include Federal and state agencies, including Medicare and Medicaid.  Laws and regulations governing the Medicare and Medicaid programs are complex and subject to interpretation.  Management
+continually reviews the contractual estimation process to consider and incorporate updates to laws and regulations.  
+
+18  
+
+Property, equipment and long-lived assets   
+
+  Property and equipment are recorded at cost less accumulated depreciation and appropriate reductions for permanent declines in net realizable value.  Property and equipment are not adjusted for increases in net realizable value.  Long-lived assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. The Partnership evaluates the carrying value of long-lived assets in relation to the future projected undiscounted cash flows of the underlying properties to assess recoverability in accordance with Statement of Financial Accounting Standards No. 144  Accounting for the Impairment or Disposal of Long-Lived Assets  ( SFAS 144 ).  Those projected future undiscounted cash flows require significant assumptions about future operations, such as reimbursement rates for Medicaid and Medicare patients,
+occupancy rates, wage rates, workers compensation costs and professional liability costs. Under SFAS 144, an impairment loss is recognized if the sum of the future net expected cash flows is less than the carrying amount of the long-lived assets being evaluated. The difference between the carrying amount of the long-lived assets being evaluated, and the estimated fair market value of the assets represents the impairment loss. The Partnership determines estimated fair value for the long-lived assets that it intends to retain based on anticipated future cash flows discounted at rates commensurate with the risks involved.  
+
+   Results of Operations   
+
+   Revenues:   
+
+   Fiscal Year Ended December 31, 2005 Compared to Fiscal Year Ended December 31, 2004   
+
+  Operating revenues increased $1,763 thousand (20.2%) in 2005 as compared to 2004.  The increase was primarily attributable to a $325 thousand (16.6%) increase in revenues realized by the Retirement Facility and a $1,438 thousand  (21.2%) increase in revenues realized by the Nursing Facility.  The increased revenues at the Retirement Facility are primarily due to an increase in census and a rate increase effective during January 2005.        The increased revenues at the Nursing Facility are primarily attributable to increased bed days and improved patient mix.  
+
+   Fiscal Year Ended December 31, 2004 Compared to Fiscal Year Ended December 31, 2003   
+
+  Operating revenues increased $579 thousand (7.1%) in 2004 as compared to 2003.  The increase was primarily attributable to a $225 thousand (13.0%) increase in revenues realized by the Retirement Facility and a $340 thousand  (5.3%) increase in revenues realized by the Nursing Facility.  The increased revenues at the Retirement Facility are primarily due to an increase in census and a rate increase effective during January 2004.        The increased revenues at the Nursing Facility are primarily attributable to increased bed days and improved patient mix.  
+
+Expenses:    
+
+   Fiscal Year Ended December 31, 2005 Compared to Fiscal Year Ended December 31, 2004   
+
+  Operating costs and expenses increased by $1,430 thousand (17.0%) in 2005 as compared to 2004 primarily as a result of higher occupancy rates at both facilities as partially offset by reductions due to detailed attention to variable cost controls.  The Nursing Facility experienced a $1,100 thousand (17.6%) increase in expenses.  The increase experienced by the Nursing Facility is primarily attributable to a 16.3% increase in utilities, an 11.3% increase in taxes and insurance and a 22.7% increase in elderly and congregate care expenses.  Operating expenses at the Partnership level increased by $242 thousand, in large part due to increases in partnership administration costs (primarily increased auditing and legal fees) of 333.1%.   
+
+Fiscal Year Ended December 31, 2004 Compared to Fiscal Year Ended December 31, 2003   
+
+  Operating costs and expenses increased by $263 thousand (3.2%) in 2004 as compared to 2003 primarily as a result of higher occupancy rates at both facilities as offset by reductions due to detailed attention to variable cost controls.  The Nursing Facility experienced a $287 thousand (4.8%) increase in expenses.  The increase experienced by the Nursing Facility is primarily attributable to a 7.2% decrease in operating and maintenance costs and a 4.7% decrease in   
+
+19  
+
+financing costs, offset by a 4.2% increase in the costs of providing elderly and congregate services to occupants, an 11.1% increase in administrative costs (including administrative salaries, auditing and accounting expenses), a 10.0% increase in utilities and a 9.7% increase in insurance costs and taxes.  The Retirement Facility experienced a $24 thousand (1.3%) increase in expenses.  The increase experienced by the Retirement Facility is primarily attributable to a 6.4% increase in administrative costs, a 2.8% increase in utilities and a 1.3% increase in operating and maintenance costs.   
+
+Net Income:   
+
+   Fiscal Year Ended December 31, 2005 Compared to Fiscal Year Ended December 31, 2004   
+
+  For the fiscal year ended December 31, 2005, the Partnership had a net income increase of $359 thousand (101.9%) over 2004.  This increase was primarily attributable to increased revenues at the facilities during 2005, as partially offset by the overall increase in expenses for the Nursing Facility and at the Partnership level during 2005 as discussed above.  
+
+   Fiscal Year Ended December 31, 2004 Compared to Fiscal Year Ended December 31, 2003   
+
+  For the fiscal year ended December 31, 2004, the Partnership had a net income increase of $302 thousand (598.7%) over 2003.  This increase was primarily attributable to increased revenues at the facilities during 2004, as partially offset by the overall increase in expenses for the two facilities during 2004 as discussed above.  
+
+   Liquidity and Capital Resources   
+
+  At December 31, 2005, the Partnership held cash and cash equivalents of $3.4 million, an increase of $769 thousand (29.6%) from the amount held at December 31, 2004.  The cash balance will be necessary to meet the Partnership s current obligations and for operating reserves.  In addition, cash balances maintained at the two Partnership facilities must be maintained in accordance with operating reserves established by the U.S. Department of Housing and Urban Development ( HUD ).  At December 31, 2005, the balance of HUD reserved cash at the facilities was $440 thousand, which is equal to the mortgage escrow and reserve for replacement accounts.    
+
+  During fiscal 2005, operating cash flows provided by operations increased to $1.0 million compared to $497 thousand in fiscal 2004.  This increase in cash flow was primarily attributed to the increase in net income experienced by the Partnership in 2005.  
+
+  The Partnership believes that it will produce sufficient cash flow to meet the ongoing operations needs associated with the two facilities currently owned by it.   
+
+  As of December 31, 2005, the Partnership was not obligated to perform any major capital expenditures.  The Managing General Partner anticipates that any repairs, maintenance, or capital expenditures will be financed with cash reserves, HUD replacement reserves and cash flow from operations.   
+
+  No cash was distributed to the Partners during the year ended December 31, 2005.  No funds have been distributed to the Partners since 1998.  Cumulative distributions paid to the Limited Partners as of December 31, 2005 were $3.54 million.  In light of the Special Meeting Notice received from the Prizm Group, the Managing General Partner does not intend to make any distributions unless the special meeting requested is held and the Limited Partners take action on the matters set forth in the Proposal Statement.     See Business   Limited Partner Special Meeting Request.     However, the Partnership s ability to make distributions may be limited by HUD s requirements for surplus cash at both the Nursing Facility and Retirement Facility level.   
+
+  During the four year period 2002   2005, the Partnership experienced continually increasing working capital.  During this four year period, the Partnership s working capital grew by $2.5 million (or 240.2%) to $3.6 million.  
+
+20  
+
+During the four year period 2002   2005, the Partnership consistently generated cash from operations.  Over this four year period, the Partnership generated $2.7 million in cash from operations, which resulted in the increase in working capital noted above after funding capital improvements and mortgage payments.  
+
+   Seasonality   
+
+  Our earnings generally fluctuate from quarter to quarter.  This seasonality is related to a combination of factors, which include the timing of Medicaid rate increases and payroll tax obligations, inclement weather, seasonal census cycles, and the number of calendar days in a given quarter.  
+
+   Impact of Inflation   
+
+  The healthcare industry is labor intensive.  Wages and other labor costs are especially sensitive to inflation and marketplace labor shortages.  We have implemented cost control measures to limit increases in operating costs and expenses but cannot predict our ability to control such operating cost increases in the future.  
+
+   Contractual Obligations   
+
+  The following table discloses aggregate information, as of December 31, 2005, about our contractual obligations and the periods in which payments are due:  
+
+The subsidiaries of the Partnership are obligated to pay management fees to a related party in an amount equal to 5% of operating revenues.  Fees totaling $522 thousand were paid to the management company for the 2005 fiscal year.   In addition, the Managing General Partner provides oversight management services for the subsidiaries and receives an oversight management fee of 1% of operating revenues.  Oversight fees totaling $103 thousand were paid to the Managing General Partner for the 2005 fiscal year.  The management agreements for the Partnership facilities have expired but are continuing on a month-to-month basis.  
+
+  There are no other significant commercial commitments that we could be obligated to pay in the future that are not included in our consolidated balance sheet.  
+
+ITEM 7A.      
+         
+               QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK        
+
+The Partnership does not engage in any transactions exposing the Partnership to material market risk.  The Partnership has no variable rate debt.  
+
+21  
+
+ITEM 8.      
+         
+               FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA        
+
+The consolidated financial statements of the Company, including notes thereto, and the report of independent registered public accounting firm are included in this Report beginning at page F-1.   
+
+Quarterly Results of Operations    
+
+The following table presents certain unaudited quarterly statements of operations data for each of the eight quarters beginning January 1, 2004 and ending December 31, 2005.  Such information, in the opinion of management, includes all adjustments necessary for a fair presentation of that information. The results of operations for any quarter are not necessarily indicative of the results to be expected for any future quarter.     
+
+   (Unaudited   in thousands, except per share data)   
+
+ITEM 9.      
+         
+               CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE        
+
+On July 28, 2005, the Partnership dismissed BDO Seidman, LLP ( BDO ) as the Partnership s independent registered public accounting firm.  This dismissal, which was immediately effective, was approved by the Managing General Partner.  The Partnership has been delinquent in the filing of its periodic reports with the SEC since 2002.  The reports of BDO on the financial statements of the Partnership for the years ended December 31, 2000 and 2001, which are the most current Annual Reports on Form 10-K filed by the Partnership with the Securities and Exchange Commission containing the report of BDO, contained no adverse opinion or disclaimer of opinion and were not qualified or modified as to uncertainty, audit scope or accounting principle.  During the years ended December 31, 2003 and 2004, there have been no disagreements with BDO on any matter of accounting principles or
+practices, financial statement disclosure, or auditing scope or procedure, which disagreements, if not resolved to the satisfaction of BDO, would have caused BDO to make reference thereto in its reports on the financial statements of the Partnership for such years.  In 2004, BDO notified the Managing General Partner that the Partnership should consider hiring additional personnel or engage a consultant to assist in preparing the Partnership s financial statements and related footnotes in accordance with Regulation S-X of the Securities and Exchange Commission.  In response to such suggestion, the Partnership has since engaged a consultant for this purpose.  Other than the foregoing, during the years ended December 31, 2004  and 2005 and as of the filing of this Report, there have been no reportable events (as defined in Item 304(a)(1)(v) of Regulation S-K).  
+
+22  
+
+On July 28, 2005, the Partnership engaged Porter Keadle Moore, LLP ( PKM ) as its new independent registered public accounting firm to audit the Partnership s financial statements for the years ending December 31, 2002, 2003 and 2004 and to review the financial statements to be included in the Partnership s quarterly reports on Form 10-Q.  PKM has also been engaged to audit the Partnership s statements for the years ending December 31, 2005.  The decision to engage PKM was approved by the Managing General Partner.  Prior to the engagement of PKM, neither the Partnership nor anyone on behalf of the Partnership consulted with PKM during the Partnership s two most recent fiscal years, in any manner regarding either: (A) the application of accounting principles to a specified transaction, either completed or proposed, or the type of audit opinion that might be
+rendered on the Partnership s financial statements; or (B) any matter that was the subject of either a disagreement or a reportable event (as defined in Item 304(a)(1)(iv) and (v), respectively, of Regulation S-K).  
+
+ITEM 9A.     
+         
+               CONTROLS AND PROCEDURES.        
+
+Evaluation of Disclosure Controls and Procedures    
+
+  John F. McMullan, the principal executive officer and chief financial officer of the Managing General Partner of the Partnership who performs reporting functions for the Partnership, has evaluated the effectiveness of the design and operation of the Partnership s disclosure controls and procedures as of the end of the period reflected in this Report with respect to their adequacy in ensuring that information required to be disclosed in the reports that the Partnership files or submits under the Securities Exchange Act of 1934, is recorded, processed, summarized and timely reported as required by the rules and forms of the Securities and Exchange Commission.  Based on that evaluation, he has concluded that the Partnership s disclosure controls and procedures are effective at ensuring that required information is made available to him for disclosure in the Partnership s
+reports filed under the Exchange Act.  However, the Partnership is not timely in filing its reports with the Securities and Exchange Commission.  The Partnership is in the process of bringing its filings with the Securities and Exchange Commission up to date and in connection with those efforts intends to improve its disclosure controls and procedures such that material information will be made available on a timely basis for disclosure in required reports.  The Partnership currently has outsourced the preparation of its financial statements for inclusion in its SEC reports to a consultant.  
+
+Our Relationship with Life Care        
+
+Life Care Centers of America, Inc. ( Life Care ) has provided management services with respect to the Partnership s two facilities for over 15 years pursuant to the terms of management agreements originally put in place in 1991.  Under these agreements, Life Care is responsible for maintaining books and records for the Partnership s facilities and providing financial statements, prepared in accordance with GAAP, relating to the business operations of the two facilities.  Due to this relationship, the Partnership necessarily relies on Life Care to provide accurate, timely and sufficient data and information to properly record all revenues, expenses and accounts receivables of the two Partnership facilities, which underlie a substantial portion of the Partnership s periodic financial statements and other financial disclosures.  
+
+Our Disclosure Controls and Procedures   Fiscal 2005        
+
+Because of the Partnership s reliance on Life Care for financial information, the Managing General Partner relies on Life Care to design adequate internal controls with respect to the processes established to provide this data and information to the Partnership.  In May of 2006, in the course of preparing the reports the Partnership is required to file with the Department of Housing and Urban Development each year, it became apparent that certain cash reconciliations were not performed by Life Care in a timely and correct manner.  To address these issues, the Managing General Partner conducted a lengthy inquiry into the causes of the cash reconciliation issues.  Among other things, its representatives  had numerous discussions with Life Care s accounting staff.  Life Care ultimately came to the conclusion that one senior individual in the accounting department who had been
+given overall responsibility for the financial reporting did not prove to have the competencies necessary to adequately perform the roles expected of a senior financial officer at Life Care.  Consequently, Life Care effected a staffing change and replaced that individual with a senior-level officer who had the required expertise.  The failure to properly perform these cash reconciliations was determined to be a material weakness in the Partnership s internal controls.   A material weakness is a significant deficiency, or a combination of   
+
+23  
+
+significant deficiencies, that results in more than a remote likelihood that a material misstatement of the annual or interim financial statements will not be prevented or detected.  
+
+  As a result of the inquiries of Life Care, the changes in the procedures at Life Care and the changes made to the accounting staff, the Managing General Partner has concluded that the material weakness in internal controls discovered during the course of preparing the 2005 reports to be filed with the SEC has been corrected in 2006.  
+
+    Changes in Internal Control over Financial Reporting    
+
+We refer you to the information discussed above in Evaluation of Disclosure Controls and Procedures.       
+
+ITEM 9B.     
+         
+               OTHER INFORMATION.        
+
+None.  
+
+24  
+
+PART III   
+
+ITEM 10.      
+         
+               DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT        
+
+The Partnership does not have officers or directors and, consequently, has not adopted a code of ethics.  At December 31, 2005, the General Partners of the Partnership were Consolidated Associates II and WelCare Service Corporation-II as Managing General Partner of the Partnership.  The executive officer and sole director of WSC-II who controls the affairs of the Partnership, is as follows:  
+
+Name and Position            
+         
+               Age at 12/31/05     
+         
+               Principal Occupations and Other Directorships During the Past 5 Years             
+
+John F. McMullan,     President, Secretary     and Sole Director    
+         
+              69    
+         
+              John F. McMullan has served as President, Secretary and Director of WSC-II since July, 1998.  For more than five years prior to the date hereof, Mr. McMullan has served as a consultant to Life Care Centers of America, the Manager of the Partnership, and numerous other healthcare facilities.  Mr. McMullan is also a certified public accountant.         
+
+ITEM 11.      
+         
+               EXECUTIVE COMPENSATION        
+
+No individual principal or principals as a group received any direct remuneration from the Partnership.  
+
+  The General Partners are not compensated directly for their services as general partners of the Partnership.  See Item 13 and Note 1 to the consolidated financial statements appearing in Item 8 for further discussion of compensation paid to affiliates of the General Partners.  
+
+  The General Partners are entitled to distributions of cash from operations and from  other sources  (primarily from the sale or refinancing of Partnership properties, as set forth in Note 3 to the consolidated financial statements included herein).   
+
+ITEM 12.     
+         
+               SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT        
+
+The Partnership has no directors or officers and the General Partners do not own any Limited Partnership Units. To the best knowledge of the Partnership, as of the date of this report (based on a Unit ownership register dated September 14, 2006 and the public filings referenced below), no person beneficially owned more than 5.0% of the outstanding Units of limited partnership interest except as follows:   
+
+  (i) a group comprised of     MPF-NY 2006, LLC; Steven Gold; MPF Flagship Fund 10, LLC; MPF DeWaay Premier Fund 2, LLC; MacKenzie Patterson Special Fund 6, LLC; MacKenzie Patterson Special Fund 6-A, LLC; SCM Special Fund, LLC; Moraga Gold, LLC; MPF Blue Ridge Fund I, LLC; MPF Blue Ridge Fund II, LLC; MPF Senior Note Program I, LP; MP Value Fund 6, LLC; MPF Special Fund 8, LLC; MPF DeWaay Fund 4, LLC; MPF DeWaay Premier Fund 3, LLC; MPF Income Fund 22, LLC; MPF Income Fund 23, LLC; MPF DeWaay Fund 5, LLC; MPF Flagship Fund 11, LLC; and MacKenzie Patterson Fuller, LP, whose address is c/o MacKenzie Patterson Fuller, Inc.,1640 School Street, Moraga, California  94556, disclosed in an Amendment to its Schedule TO filed on July 20, 2006 that it owned approximately 22.6% of the total outstanding Units;   
+
+  (ii) to the extent the joint demand filed by Kodiak Partners III, Prizm Investors and Baseline Investors (the  Kodiak Group ) qualifies those holders as a  group  for purposes of Section 13(d)(3) of the Securities Exchange Act of 1934, as amended, the Kodiak Group, whose address is 4 Orinda Way, Suite 200-C, Orinda, CA  94563, has represented to the Managing General Partner that it owns 10.0% of the outstanding Units;   
+
+25  
+
+(iii) Care Associates, LLC, whose address is c/o Life Care Centers of America, Inc., 3570 Keith Street, NW, Cleveland, TN  37312, owns 1,805 Units (12%);  
+
+  (iv) LP Liquidity, LLC, whose address is c/o Vincent T. Gresham, 2575 Peachtree Road, Suite 22C, Atlanta, GA 30305, owns 750 Units (5%);   
+
+  (v) Everest Management, LLC, whose address is 199 South Los Robles Avenue, Suite 200, Pasadena, CA  91101, owns 750 Units (5%); and  
+
+  (vi) Barry Zemel d/b/a Baseline Investment, whose address is P.O. Box 47638, Phoenix, AZ  85068-7638, owns 903.5 Units (6%).  
+
+ITEM 13.     
+         
+               CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS        
+
+Management Agreements   
+
+   Mayfair Nursing Care Center     Pursuant to a Management Agreement executed in March 1991, management oversight for the Nursing Facility is provided by WSC (successor to Welcare Consolidated Resources Corporation of America, the original party to this agreement) and day-to-day management of the facility s operations is provided by Life Care Centers of America, Inc. ( Life Care ).  Life Care owns a 0.5% interest in Mayfair Village Ltd. and Mayfair Nursing Care Center Ltd., the entities who own the Properties, and the remaining 99.5% interest of these entities is owned by the Partnership.  As compensation for its services, WSC is entitled to monthly oversight fees equal to one percent (1%) of the nursing facility s operating income.  As compensation for its services, Life Care is entitled to monthly management fees equal to five percent (5%) of
+the nursing facility s operating income.  Although the Management Agreement by its terms expired in March 1996, the parties have continued to operate under its original provisions.  Forrest Preston, who owns a 33% general partner interest in CA, the non-managing General Partner of the Partnership, owns 100% of Life Care and Mr. McMullan serves on Life Care s Board of Directors.  In addition, Mr. McMullan and Mr. Preston have been involved in numerous business relationships for over 30 years, including those in which they invested in and/or managed properties similar to the Properties owned by the Partnership.  
+
+   Mayfair Retirement Center     Also pursuant to a Management Agreement executed in March 1991 containing substantially identical terms as that applicable to the nursing facility, management oversight for the retirement facility is provided by WSC (successor to Welcare Consolidated Resources Corporation of America, the original party to this agreement) and day-to-day management of the facility s operations is provided by Life Care.  As compensation for its services, WSC is entitled to monthly oversight fees equal to one percent (1%) of the retirement facility s operating income.  As compensation for its services, Life Care is entitled to monthly management fees equal to five percent (5%) of the retirement facility s operating income.  As with the nursing facility, although the Management Agreement by its terms expired in March 1996, the parties have
+continued to operate under its original provisions.  
+
+   Management Fees and Expenses Paid     Life Care (and/or its affiliate) received an aggregate of $522,498 and  $435,542 in management fees for the fiscal years ending December 31, 2005 and 2004.  WSC (and/or its affiliate) received an aggregate of $103,425 and $86,453 in oversight fees for the fiscal years ending December 31, 2005 and 2004, respectively.   During 2005 and 2004, WSC (and/or its affiliate) was reimbursed $310,397 and $71,668, respectively, for costs incurred in connection with the administration of Partnership activities.  These expenses are included in Partnership administration costs in the accompanying consolidated statement of operations.   
+
+ITEM 14.     
+         
+               PRINCIPAL ACCOUNTANT FEES AND SERVICES        
+
+Audit Fees    
+
+  As disclosed in Item 9 above, the Company terminated the services of its former outside accountant, BDO Seidman, LLP ( BDO ) effective July 28, 2005 and engaged Porter Keadle Moore, LLP ( PKM ) as its new independent registered public accounting firm.  With respect to its 2005 and 2004 fiscal years, the Company paid its outside accountants fees as follows:  
+
+26  
+
+BDO Seidman, LLP    
+
+   Audit Fees   .  BDO did not perform any services related to the audit of the Partnership s annual financial statements for the fiscal years ended December 31, 2005 or 2004.  In 2004, however, BDO billed $25,210.00 for services relating to the preliminary audit of the December 31, 2002 annual financial statements and review of the quarterly financial statements included in the Partnership s Form 10-Qs for the three quarterly periods in fiscal year 2002 (all of which reports were filed in 2004).   
+
+   Audit-Related Fees   .  The aggregate fees billed by BDO in 2005 and 2004 for assurance and related services that were reasonably related to the audits and reviews described in the preceding paragraph were $0 and $0, respectively.    
+
+   Tax Fees   .  The aggregate fees billed by BDO in 2005 and 2004 for tax compliance, tax advice and tax planning services were $0 and $11,944.26, respectively.   
+
+   All Other Fees   .  The aggregate fees billed by BDO in 2005 and 2004 for services rendered to the Partnership, other than the services described above were $0 and $35,298.00, respectively.  These services related primarily to the filing of HUD Reports including audits of the financial statements of the Partnership s subsidiaries for inclusion therein on behalf of the Nursing Facility and Retirement Facility for the 2004 fiscal year.  
+
+    Porter Keadle Moore LLP     
+
+   Audit Fees   .  The aggregate fees billed by PKM for professional services rendered for the audit of the Partnership s annual financial statements for the fiscal year ended December 31, 2005 which are included in this Report and review of Quarterly Reports on Form 10-Q for the 2005 fiscal year which have recently been filed was $125,181.  The aggregate fees billed by PKM for professional services rendered for the audit of the Partnership s annual financial statements for the fiscal years ended December 31, 2004, 2003 and 2002 was $97,524.  
+
+   Audit-Related Fees   .  The aggregate fees billed by PKM for assurance and related services that were reasonably related to the audit of the Partnership s annual financial statements for the fiscal years ended December 31, 2005 and 2004 were $0 and $0, respectively.    
+
+   Tax Fees   .  The aggregate fees billed by PKM in 2005 and 2004 for tax compliance, tax advice and tax planning services were $13,050 and $0, respectively.  
+
+   All Other Fees   .  The aggregate fees billed by PKM in 2005 and 2004 for services rendered to the Partnership, other than the services described above were $0 and $0, respectively.    
+
+  The Managing General Partner is responsible for all matters involving the Partnership s independent auditors, including pre-approving all auditing services and permitted non-audit services to be performed by its independent registered public accounting firm.  All of the fees paid to PKM as well as fees paid to BDO in each of the categories described above were pre-approved by the Managing General Partner.   
+
+27  
+
+PART IV   
+
+ITEM 15.      
+         
+               EXHIBITS AND FINANCIAL STATEMENT SCHEDULES        
+
+(a)    
+         
+              The following financial statements are filed with this report beginning on page F-1:       
+
+(1)    
+         
+              Consolidated Financial Statements:       
+
+Report of Independent Registered Public Accounting Firm  
+
+  Consolidated Balance Sheets - as of December 31, 2005 and 2004  
+
+  Consolidated Statements of Income - for the Years Ended December 31, 2005, 2004 and 2003  
+
+  Consolidated Statements of Partners  Equity - for the Years Ended December 31, 2005, 2004 and 2003   
+
+Consolidated  Statements of Cash Flows - for the Years Ended  December 31, 2005,
+2004 and 2003   
+
+  Notes to Consolidated Financial Statements  
+
+(2)    
+
+The following financial statement schedule is included in this report:       
+
+Schedule II - Valuation and Qualifying Accounts for the years ended December 31, 2005, 2004 and 2003   
+
+  All other schedules are omitted because they are not required, are not applicable, or the financial information required is included in the consolidated financial statements or notes thereto.  
+
+(3)    
+         
+              The following exhibits are incorporated by reference and are an integral part of this Form 10-K:       
+
+Exhibit Number    (as per Exhibit Table)    
+         
+              Document Description      
+
+3.1    
+         
+              Agreement of Limited Partnership of Consolidated Resources Health Care Fund II dated October 31, 1983 (filed as Exhibit (d)(3)(i) to Schedule 14D-9 filed on May 5, 2005 in connection with the tender offer of MPF-NY 2005, LLC; MPF Acquisition Co. 3, LLC; Moraga Gold, LLC; MPF Dewaay Fund 2, LLC; MPF Income Fund 22, LLC; MP Value Fund 8, LLC; MPF Special Fund 8, LLC; and Mackenzie Patterson Fuller, Inc. pursuant to the Offer to Purchase on Schedule TO dated April 21, 2005 (the  Mackenzie Schedule 14D-9 ) and incorporated herein by reference)  
+
+3.2    
+
+Amendment  to  Amended  and  Restated   Agreement  and  Certificate  of  Limited
+Partnership of Consolidated  Resources Health Care Fund II dated January 7, 1992
+(filed as Exhibit  (d)(3)(ii) to the Mackenzie  Schedule 14D-9 and  incorporated
+herein by reference)            
+
+3.3    
+         
+              Amendment to Amended and Restated Agreement and Certificate of Limited Partnership of Consolidated Resources Health Care Fund II dated July 16, 1998 (filed as Exhibit (d)(3)(iii) to the Mackenzie Schedule 14D-9 and incorporated herein by reference).       
+
+28  
+
+10.1    
+
+Management  Agreement dated March 1, 1991 among  Consolidated  Resources  Health
+Care Fund II,  Welcare  Consolidated  Resources  Corporation of America and Life
+Care Centers of America,  Inc. relating to Mayfair Nursing Care Center (filed as
+Exhibit  (d)(1)  to the  Mackenzie  Schedule  14D-9 and  incorporated  herein by
+reference)            
+
+10.2    
+
+Management  Agreement dated March 1, 1991 among  Consolidated  Resources  Health
+Care Fund II,  Welcare  Consolidated  Resources  Corporation of America and Life
+Care Centers of America,  Inc.  relating to Mayfair  Retirement Center (filed as
+Exhibit  (d)(2)  to the  Mackenzie  Schedule  14D-9 and  incorporated  herein by
+reference)            
+
+21    
+         
+              Subsidiaries            
+
+31.1    
+         
+              Certification Pursuant to 17 CFR 240.13a-14            
+
+32.1    
+         
+              Certification Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.       
+
+29  
+
+SIGNATURES  
+
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.  
+
+CONSOLIDATED RESOURCES HEALTH CARE FUND II  
+  (Registrant)  
+
+By:         WELCARE SERVICE CORPORATION-II  
+  Managing General Partner  
+
+Date: October 6, 2006    
+
+By:                /s/ John F. McMullan                               
+  John F. McMullan, Chief Financial Officer       
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons, on behalf of the Registrant and in the capacities and on the dates indicated:  
+
+Date: October 6, 2006    
+
+By:                /s/ John F. McMullan                               
+  John F. McMullan  
+  Director and Principal Executive Officer     of the Managing General Partner  
+
+Date:  October 6, 2006    
+
+By:                /s/ John F. McMullan                               
+  John F. McMullan  
+  Chief Financial Officer of the Managing General Partner       
+
+30  
+
+Porter Keadle Moore, LLP         
+
+   Report of Independent Registered Public Accounting Firm    
+
+  To the Partners  Consolidated Resources Health Care Fund II and Subsidiaries  Atlanta, Georgia   
+
+  We have audited the accompanying consolidated balance sheets of Consolidated Resources Health Care Fund II and Subsidiaries (the  Partnership ) as of December 31, 2005 and 2004 and the related consolidated statements of income, partners' equity and cash flows for each of the three years in the period ended December 31, 2005.  Our audits also included the accompanying financial statement schedule, Schedule II   Valuation and Qualifying Accounts, of the Partnership. These consolidated financial statements and financial statement schedule are the responsibility of the Partnership's management. Our responsibility is to express an opinion on these consolidated financial statements and financial statement schedule based on our audits.   
+
+  We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements and schedule are free of material misstatements. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the consolidated financial statements and schedule. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for our opinion.   
+
+  In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of Consolidated Resources Health Care Fund II and Subsidiaries as of December 31, 2005 and 2004, and the results of their operations and their cash flows for each of the three years in the period ended December 31, 2005, in conformity with accounting principles generally accepted in the United States of America. Also, in our opinion, the related financial statement schedule, when considered in relation to the basic consolidated financial statements, taken as a whole, presents fairly in all material respects the information set forth therein.   
+
+Atlanta, Georgia   
+
+  October 6, 2006   
+
+Certified Public Accountants   
+
+Suite 1800   235 Peachtree Street NE    Atlanta, Georgia 30303   Phone 404-588-4200   Fax 404 588-4222     www.pkm.com  
+
+F-1  
+
+Consolidated Resources Health Care Fund II and Subsidiaries  
+
+  Consolidated Balance Sheets  
+
+See accompanying summary of significant accounting policies and notes to consolidated financial statements.  
+
+F-2  
+
+Consolidated Resources Health Care Fund II and Subsidiaries  
+
+  Consolidated Balance Sheets  
+
+See accompanying summary of significant accounting policies and notes to consolidated financial statements.  
+
+F-3  
+
+Consolidated Resources Health Care Fund II and Subsidiaries  
+
+  Consolidated Statements of Income  
+
+See accompanying summary of significant accounting policies and notes to consolidated financial statements.  
+
+F-4  
+
+Consolidated Resources Health Care Fund II and Subsidiaries  
+
+  Consolidated Statements of Partners' Equity   
+
+  Years Ended December 31, 2005, 2004 and 2003  
+
+See accompanying summary of significant accounting policies and notes to consolidated financial statements.  
+
+F-5  
+
+Consolidated Resources Health Care Fund II and Subsidiaries  
+
+  Consolidated Statements of Cash Flows  
+
+See accompanying summary of significant accounting policies and notes to consolidated financial statements.  
+
+F-6  
+
+Consolidated Resources Health Care Fund II and Subsidiaries  
+
+  Summary of Significant Accounting Policies  
+
+Organization   
+
+Consolidated Resources Health Care Fund II (the  Partnership ) was organized on October 31, 1983 as a limited partnership under the provisions of the Georgia Uniform Limited Partnership Act for the purpose of acquiring, operating and holding for investment and future capital appreciation income producing, health care related real properties. Investments in healthcare real property consist of a nursing home (Mayfair Nursing Care Center, Ltd.) and a retirement center (Mayfair Village, Ltd.) in Ohio.  
+
+Prior to July 16, 1998, the General Partners of the Partnership were WelCare Consolidated Resources Corporation of America, serving as the Corporate General Partner, ( WCRCA  or the  Corporate General Partner ), a Nevada corporation, WelCare Service Corporation-II, serving as Managing General Partner, ( WSC-II  or the  Managing General Partner ), a Georgia corporation, and Consolidated Associates II, ( CA-II ), a Georgia general partnership (collectively the  General Partners ). On January 30, 1997, all of the stock of the Corporate General Partner and the Managing General Partner was sold to Consolidated Partners Corporation, which is wholly-owned by a general partner of CA-II. The General Partners collectively hold a 4% ownership interest in the Partnership. The limited partners hold 15,000 partnership units which comprise 96% ownership in the Partnership.  
+
+On July 16, 1998, WCRCA assigned all of its right, title and interest in and to its general partner interest in the Partnership to WSC-II. On July 22, 1998, an amendment to the Amended and Restated Agreement and Certificate of Limited Partnership was filed reflecting the withdrawal of WCRCA from the partnership and certain other matters. On July 23, 1998, the sole shareholder of the Managing General Partner sold all of its issued and outstanding shares to a third party.  
+
+The financial statements do not reflect assets the partners may have outside their interests in the Partnership, nor any personal obligations including income taxes, of the individual partners.  
+
+Consolidation   
+
+The consolidated financial statements include the accounts of the Partnership and the accounts of the subsidiary partnerships in which it holds 99.5% of the units. All significant intercompany balances and transactions have been eliminated. The amount of minority interest is immaterial.  
+
+Property, Equipment and Long-lived Assets   
+
+Property and equipment are recorded at cost less appropriate reductions for permanent declines in net realizable value. Property and equipment are not adjusted for increases in net realizable value.  
+
+Long-lived assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. If the sum of the expected future undiscounted cash flows is less than the carrying amount of the asset, a loss is recognized for the difference between the fair value and carrying value of the asset.  
+
+Prior to 1992, the Partnership recorded write-downs to reduce the carrying value of certain properties to their estimated net realizable value as determined by the Managing General Partner.  
+
+The balance of these write-downs and the carrying values of the property and equipment were as follows as of December 31, 2005:  
+
+F-7  
+
+Consolidated Resources Health Care Fund II and Subsidiaries  
+
+  Summary of Significant Accounting Policies, continued  
+
+Depreciation and Amortization   
+
+Property and equipment are depreciated using the straight-line method over lives of 24 to 30 years for buildings and improvements and 5 to 10 years for equipment and furnishings. Depreciation expense for 2005, 2004, and 2003 was $490,986, $483,138 and $491,299, respectively. Renewals and betterments are capitalized and repairs and maintenance are charged to operations as incurred.  
+
+Deferred Loan Costs   
+
+Deferred loan costs are amortized over the terms of the respective loans using the straight-line method which approximates the effective interest method. Amortization of deferred loan costs is included in depreciation and amortization expense.  
+
+Operating Revenue, Accounts Receivable and Allowance for Doubtful Accounts   
+
+Operating revenue is recorded when services are rendered and includes amounts reimbursable by the Medicaid and Medicare programs. Revenues are recorded at the estimated net realizable amounts from patients, third-party payors, and others for services rendered including estimated retroactive adjustments under reimbursement agreements with Medicare and Medicaid. Retroactive adjustments are accrued in the period related services are rendered and adjusted in future periods as final settlements are determined.  Accounts receivable is reported net of allowance for doubtful accounts. Additions to the allowance are based on ongoing evaluations of receivable balances.  
+
+Income Taxes   
+
+No provision has been made in the consolidated financial statements for income taxes because under current law, no income taxes are paid directly by the Partnership. The Partnership reports certain transactions differently for tax and financial statement purposes.  
+
+Allocation of Net Income and Loss   
+
+The Partnership's net profits and net losses (other than net profits or net losses from a sale or refinancing of Partnership property), are allocated 96% to the Limited Partners and 4% to the General Partners. Distributions are computed as described in Note 3.  
+
+Net losses resulting from a sale or refinancing are allocated 99% to the Limited Partners and 1% to the General Partners.   
+
+Net profits resulting from a sale or refinancing are allocated in the following order:  
+
+(1)    
+         
+              First, to the Limited Partners in the amount of their invested capital;       
+
+(2)    
+         
+              Second, any remaining net profits shall be allocated 15% to the General Partners and 85% to the Limited Partners.       
+
+Net Income (Loss) Per Limited Partnership Unit   
+
+Net income (loss) per Limited Partnership Unit is computed by dividing net income (loss) allocated to the Limited Partners by the number of Limited Partnership units outstanding.  
+
+Statements of Cash Flows   
+
+For purposes of this statement, cash equivalents include U.S. government securities, commercial paper and certificates of deposit with original maturities of three months or less.  
+
+F-8  
+
+Consolidated Resources Health Care Fund II and Subsidiaries  
+
+  Summary of Significant Accounting Policies, continued  
+
+Use of Estimates   
+
+The preparation of financial statements in conformity with accounting principles generally accepted  in the United States of America requires management to make certain estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.  
+
+Recent Accounting Pronouncements   
+
+Accounting standards that have been issued or proposed by the Financial Accounting Standards Board and other standard setting entities that do not require adoption until a future date are not expected to have a material impact on the Partnership s consolidated financial statements upon adoption.  
+
+F-9  
+
+Consolidated Resources Health Care Fund II and Subsidiaries  
+
+  Notes to Consolidated Financial Statements  
+
+1.     
+         
+               Management Fees and Affiliate Transactions        
+
+A company that is related to the Partnership and to the entities who hold the minority interests in the Partnership s subsidiaries manages the nursing home and retirement center for a fee of 5% of gross operating revenues. Fees totaling $522,498, $435,542 and $408,968 were paid to the management company for the years ended December 31, 2005, 2004, and 2003, respectively. In addition, an affiliate of the Managing General Partner was paid an oversight management fee of 1% of gross operating revenue totaling $103,425, $86,453 and $81,103 in 2005, 2004, and 2003, respectively.  
+
+During 2005, 2004 and 2003, the affiliate of the Managing General Partner was reimbursed for costs incurred in connection with the administration of Partnership activities in the amounts of $310,397, $71,668 and $123,478, respectively. These expenses are included in Partnership administration costs on the accompanying Consolidated Statements of Income.  
+
+2.     
+         
+               Long-Term Debt Obligations        
+
+Long-term debt obligations consisted of:  
+
+Future maturities of long-term debt obligations at December 31, 2005 are as follows:  
+
+F-10  
+
+Consolidated Resources Health Care Fund II and Subsidiaries  
+
+  Notes to Consolidated Financial Statements, continued  
+
+Restricted escrows and other deposits include amounts held in trust for payment of property taxes and insurance and for repairs and replacements of the property as approved by the U.S. Department of Housing and Urban Development ( HUD ). Under covenants contained in the Regulatory Agreement with HUD, the subsidiary partnerships are limited as to the amount of distributions they may make to the Partnership to the extent of surplus cash, as defined in the Regulatory Agreement with HUD. The Regulatory Agreement also imposes restrictions regarding cash receipts and disbursements and compliance with the Fair Housing Act.  
+
+3.     
+         
+               Distributions        
+
+Distributions to the partners are paid from operations of the Partnership's properties or from sales or refinancing of properties. Cash from operations is distributed 96% to the Limited Partners and 4% to the General Partners.   
+
+However, no distributions of cash from operations shall be made to the General Partners in any year until the Limited Partners have received distributions for such year equal to 9% of their invested capital.  
+
+Distributions of cash from sales and refinancing are made in the following order:  
+
+(a)    
+         
+              First, to the Limited Partners in an amount equal to their invested capital; then,       
+
+(b)    
+         
+              to the Partners in an amount equal to their capital accounts; then,       
+
+(c)    
+         
+              the balance of such proceeds is distributed 15% to the General Partners and 85% to the Limited Partners.       
+
+No cash was distributed to Limited Partners during 2005, 2004 or 2003. Cumulative distributions paid to the Limited Partners as of December 31, 2005 are $3,538,203. No distributions have been made to the General Partners.  
+
+4.     
+         
+               Cost Reimbursements        
+
+Accounts receivable and operating revenue include amounts estimated by management to be reimbursable by Medicaid and Medicare under the provisions of cost reimbursement formulas in effect. Final determination of amounts earned is subject to audit by the intermediaries. In the opinion of management, adequate provision has been made for any adjustments that may result from such audits. Differences between estimated provisions and final settlement are reflected as charges or credits to operating revenue in the year finalized. Significant changes have and will continue to be made in government reimbursement programs, and such changes could have a material impact on future reimbursement formulas.  Medicaid and Medicare programs accounted for approximately 55%, 57% and 58% of operating revenue during 2005, 2004 and 2003, respectively.  
+
+Accounts receivable, recorded at net realizable value, including amounts due from both the Ohio Medicaid program and Medicare, are as follows:  
+
+Amounts due from the Ohio Medicaid program are received on an interim and final basis generally within 30 to 60 days from date of billing. Amounts due from the Medicare program are generally received within 30 days.  
+
+F-11  
+
+Consolidated Resources Health Care Fund II and Subsidiaries  
+
+  Notes to Consolidated Financial Statements, continued  
+
+5.     
+         
+               Commitments and Contingencies        
+
+Professional Liability Insurance   
+
+The nursing home and retirement center are covered under professional liability policies maintained with an insurance company affiliated with the facilities  management company.  This policy also covers other facilities managed by the management company.  The cost of the policy is allocated to the facilities on a per-bed basis based on actuarial analyses of the claims of all of the facilities insured.  
+
+Concentrations of Credit Risk   
+
+At December 31, 2005 and 2004, the Partnership had cash on deposit at three banks which exceeded the Federal Deposit Insurance Corporation limits of $100,000 per financial institution.  The total amount of these deposits was approximately $3,100,000 and $2,283,000 at December 31, 2005 and 2004, respectively.  
+
+6.     
+         
+               Accrued Expenses        
+
+Accrued expenses consisted of the following:  
+
+7.     
+         
+               Segment Information        
+
+During 1998, the Partnership adopted Statement of Financial Accounting Standards No. 131 ( SFAS 131 ), Disclosures about Segments of an Enterprise and Related Information. SFAS 131 establishes standards for the way that public business enterprises report information about operating segments in their financial statements. The standard defines operating segments as components of an enterprise about which separate financial information is available that is evaluated regularly by the chief operating decision makers in deciding how to allocate resources and in assessing the performance. The Partnership's chief operating decision makers aggregate operating segments based on the facility type. Based on the quantitative thresholds specified in SFAS 131, the Partnership has determined that it has two reportable segments, a nursing home operation and a retirement center operation.  
+
+The accounting policies of the operating segments are the same as those described in the Summary of Significant Accounting Policies. Segment amounts disclosed are prior to any elimination entries made in the consolidation. The chief operating decision-makers evaluate performance of the segments based on operating results.  
+
+F-12  
+
+Consolidated Resources Health Care Fund II and Subsidiaries  
+
+  Notes to Consolidated Financial Statements, continued  
+
+Summary information by segment follows:  
+
+8.     
+         
+               Subsequent Event        
+
+On June 17, 2005, the Managing General Partner received a written notice (the  Special Meeting Notice ) from Kodiak Partners III, Prizm Investments and Baseline Investments (the  Prizm Group ) who collectively hold in excess of 10% of the Partnership s Units.  In the Special Meeting Notice, the Prizm Group indicated an intent to exercise their rights under the Partnership Agreement to call for a special meeting of the limited partners in order to approve a proposal by the Prizm Group that all of the Partnership s assets be sold, that the Partnership be dissolved, and that the proceeds from a sale be distributed to the partners in connection with the dissolution.  To date, the Managing General Partner is unaware of any proposals to purchase the Company s assets.  Consequently, if the Prizm Group s proposal is, in fact, approved by the Limited Partners at the requested
+special meeting, appropriate steps to market the Company s assets would be undertaken by the Managing General Partner subsequent to such meeting.  The Managing General Partner intends to fulfill its obligations under the Partnership Agreement relating to the requested special meeting, subject only to compliance with the proxy solicitation rules of the SEC.  The date of any such special meeting has not yet been determined and will depend on a number of factors, including the filing by the Partnership of a proxy statement relating to the special meeting which includes the Proposal Statement for consideration by the Limited Partners, and the expiration of the SEC s review period, or if the SEC should comment on any portion of the proxy statement, the resolution of any such comments.  In accordance with its discussions with the SEC, the Partnership will not be in a position to file the proxy statement for this special meeting until after the Partnership s Form 10-K for the
+fiscal year ended December 31, 2005 has been filed.  In addition, the SEC may also require that the Partnership file all Form 10-Qs currently due for the 2006 fiscal year as a condition to permitting the proxy statement to be delivered to Limited Partners in connection with this meeting.   
+
+F-13  
+
+Schedule II - Valuation and Qualifying Accounts  
+
+  Years Ended December 31, 2005, 2004 and 2003  
+
+(1) Represents direct write-offs of receivables.  
+
+F-14  
+
+<EX-21>
+ 4
+ ex21.htm
+ EX. 21: SUBSIDIARIES
+
+Exhibit 21   
+
+   SUBSIDIARIES   
+
+  Mayfair Village, Ltd.  
+
+  Mayfair Nursing Care Center, Ltd.  
+
+</EX-21>
+
+<EX-31>
+ 5
+ ex31-1.htm
+ EX. 31.1: 302 CERTIFICATION OF CEO & CFO
+
+Exhibit 31.1   
+
+  CERTIFICATION  
+
+  PURSUANT TO 17 CFR 240.13a-14   
+
+  PROMULGATED UNDER SECTION 302   
+
+  OF THE SARBANES-OXLEY ACT OF 2002  
+
+  I, John F. McMullan, Principal Executive Officer and Chief Financial Officer of Consolidated Resources Health Care Fund II, certify that:  
+
+1.    
+         
+              I have reviewed this annual report on Form 10-K of Consolidated Resources Health Care Fund II;       
+
+2.     Based on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report;  
+
+  3.     Based on my knowledge, the financial statements, and other financial information included in this annual report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this annual report.  
+
+  4.     I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the issuer and have:  
+
+  (a)           Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under my supervision, to ensure that material information relating to the issuer, including its consolidated subsidiaries, is made known to me by others within those entities, particularly during the period in which this report is being prepared;  
+
+  (b)           Evaluated the effectiveness of the issuer s disclosure controls and procedures and presented in this report my conclusion about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and  
+
+  (c)           Disclosed in this report any change in the issuer s internal control over financial reporting that occurred during the period covered by the annual report that has materially affected, or is reasonably likely to materially affect, the issuer s internal control over financial reporting; and  
+
+  5.     I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the issuer s auditors and the audit committee of the issuer s board of directors (or persons performing the equivalent functions):  
+
+  (a)           All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the issuer s ability to record, process, summarize and report financial information; and  
+
+  (b)           Any fraud, whether or not material, that involves management or other employees who have a significant role in the issuer s internal control over financial reporting.  
+
+  This certification is qualified by the fact that the Report was not filed within 90 days after the end of the Partnership s fiscal year as required by General Instruction A to Form 10-K and the review relating to disclosure controls and procedures was carried out as of the date of filing of the Report.  
+
+John F. McMullan  
+
+  Chief Financial Officer (chief executive and chief  financial officer of the Partnership)  
+
+</EX-31>
+
+<EX-32>
+ 6
+ ex32-1.htm
+ EX. 32: 906 CERTIFICATION OF CEO & CFO
+
+Exhibit 32.1   
+
+   CERTIFICATION PURSUANT TO   
+
+   18 U.S.C. SECTION 1350,   
+
+   AS ADOPTED PURSUANT TO   
+
+   SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+  In connection with the Annual Report of Consolidated Resources Health Care Fund II (the  Partnership ) on  Form 10-K for the period ending  December 31, 2005 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, John F. McMullan, Principal Executive Officer and Chief Financial Officer of the Partnership, certify, pursuant to 18 U.S.C.  1350, as adopted pursuant to  906 of the Sarbanes-Oxley Act of 2002, that, subject to the qualification noted below:  
+
+  (1)  The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities and Exchange Act of 1934; and   
+
+  (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of the operations of the Partnership.  
+
+  This certification is qualified by the fact that the Report was not filed within 90 days after the end of the Partnership s fiscal year as required by General Instruction A to Form 10-K.  
+
+John F. McMullan  
+
+  Chief Financial Officer (chief executive officer and chief  financial officer of the Partnership)  
+
+</EX-32>
+

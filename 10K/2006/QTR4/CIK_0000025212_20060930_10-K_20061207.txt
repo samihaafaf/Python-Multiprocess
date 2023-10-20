@@ -1,0 +1,3704 @@
+<Header>
+<FileStats>
+    <FileName>20061207_10-K_edgar_data_25212_0001104659-06-080174_1.txt</FileName>
+    <GrossFileSize>1689029</GrossFileSize>
+    <NetFileSize>154500</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1056545</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>39</N_Tables>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-06-080174.hdr.sgml : 20061207
+<ACCEPTANCE-DATETIME>20061207164701
+ACCESSION NUMBER:		0001104659-06-080174
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20060930
+FILED AS OF DATE:		20061207
+DATE AS OF CHANGE:		20061207
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COURIER CORP
+		CENTRAL INDEX KEY:			0000025212
+		STANDARD INDUSTRIAL CLASSIFICATION:	BOOK PRINTING [2732]
+		IRS NUMBER:				042502514
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-07597
+		FILM NUMBER:		061263132
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 WELLMAN AVENUE
+		CITY:			NORTH CHELMSFORD
+		STATE:			MA
+		ZIP:			01863
+		BUSINESS PHONE:		9782516000
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SpbKbsIXX3KiMB+sLZmJTwLveAwvKDbN6lj/uI3t+b87OxEeOyuYImZvKNc4Di6U
+ SUdlrDx5nFw649pTpzyLNg==
+
+ 0001104659-06-080174.txt : 20061207
+
+10-K
+ 1
+ a06-25099_110k.htm
+ ANNUAL REPORT PURSUANT TO SECTION 13 AND 15(D)
+
+UNITED
+STATES   
+
+   SECURITIES AND EXCHANGE COMMISSION   
+
+   WASHINGTON,
+D.C. 20549   
+
+   Form
+10-K   
+
+   (MARK
+ONE)   
+
+For the
+fiscal year ended September 30, 2006   
+
+   OR   
+
+For the
+transition period from                                   to                                     
+
+   Commission
+file number 0-7597   
+
+   Courier
+Corporation   
+
+A
+Massachusetts corporation   
+
+  I.R.S.
+Employer Identification No.  04-2502514   
+
+   15
+Wellman Avenue, North Chelmsford, Massachusetts 
+01863   
+
+  Telephone
+No.  978-251-6000   
+
+  Securities
+registered pursuant to Section 12(b) of the Act:     None   
+
+  Securities registered
+pursuant to Section 12(g) of the Act:   Common Stock, $1 par value   
+
+   Indicate by check mark whether the
+registrant is a well-known seasoned issuer, as defined in Rule 405 of the
+Securities Act.   
+
+   Yes                 o             No               x   
+
+   Indicate by check mark if the
+registrant is not required to file reports pursuant to Section 13 or 15(d) of
+the Act.   
+
+   Yes                 o             No               x   
+
+   Indicate by check mark whether the
+registrant (1) has filed all reports required to be filed by Section 13 or
+15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90
+days.   Yes      x    No     o   
+
+   Indicate by check mark if disclosure
+of delinquent filers pursuant to Item 405 of Regulation S-K is not contained
+herein, and will not be contained, to the best of the registrant s knowledge,
+in definitive proxy or information statements incorporated by reference in Part
+III of this Form 10-K or any amendment to this Form 10-K.       o   
+
+   Indicate by check mark whether the
+registrant is a large accelerated filer, an accelerated filer or a
+non-accelerated filer (as defined in Rule 12b-2 of the Exchange Act).   
+
+Large accelerated
+  filer             o   
+
+Accelerated
+  filer              x   
+
+Non-accelerated
+  filer              o   
+
+Indicate by check mark whether the
+registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).   Yes       o    No      x   
+
+   State the aggregate market value of
+the voting and non-voting common equity held by non-affiliates computed by
+reference to the price at which the common equity was last sold as of the last
+business day of the registrant s most recently completed second fiscal quarter
+(March 25, 2006).   
+
+   Common
+Stock, $1 par value - $355,459,141   
+
+   Indicate the number of shares
+outstanding of each of the registrant s classes of common stock as of December
+4, 2006.   
+
+   Common
+Stock, $1 par value - 12,461,610   
+
+   DOCUMENTS
+INCORPORATED BY REFERENCE   
+
+   Portions of the registrant s proxy statement dated
+December 8, 2006 for the Annual Meeting of Stockholders to be held on January
+17, 2007 are incorporated by reference to Part III of this Form 10-K.   
+
+PART I   
+
+   Item
+1.  Business.   
+
+   INTRODUCTION   
+
+  Courier Corporation and its subsidiaries ( Courier  or the  Company )
+are among America s leading book manufacturers and specialty publishers.
+Courier Corporation, founded in 1824, was incorporated under the laws of Massachusetts
+on June 30, 1972.  The Company has two
+business segments: book manufacturing and specialty book publishing.  
+
+  The book
+manufacturing segment focuses on streamlining and enhancing the process of
+bringing books from the point of creation to the point of use.  Based on sales, Courier is the fifth largest
+book manufacturer in the United States and largest in the Northeast, offering
+services from prepress and production through storage and distribution. Courier s
+principal book manufacturing markets are religious, educational and specialty
+trade books with products including Bibles, educational texts and consumer
+books. On October 17, 2005, the Company acquired Moore-Langen Printing Company,
+Inc. ( Moore Langen ), an Indianapolis-based printer specializing in
+manufacturing book covers, which is included in this segment.  Revenues from this segment accounted for
+approximately 82% of Courier s consolidated revenues in 2006.  
+
+  The specialty publishing segment consists of Dover
+Publications, Inc. ( Dover ) and Research   Education Association, Inc. ( REA ),
+which was acquired on January 6, 2004. 
+On April 28, 2006, the Company acquired Federal Marketing Corporation,
+d/b/a Creative Homeowner ( Creative Homeowner ), a New Jersey-based publisher
+and distributor of books, home plans and related products for the home and
+garden retail book market.  The results
+of Creative Homeowner were included in the specialty publishing segment from
+the date of acquisition.  Dover publishes
+over 9,000 titles in more than 30 specialty categories ranging from literature
+to paper dolls, and from music scores to clip art. REA publishes test
+preparation and study-guide books for high school, college and graduate
+students, and professionals.  The combination
+of Dover s, REA s, and Creative Homeowner s publishing, sales and distribution
+skills with Courier s book manufacturing, digital content conversion, and
+e-commerce skills are providing a powerful end-to-end publishing solution for
+Courier.  Revenues in this segment were
+approximately 21% of consolidated sales in 2006.  
+
+Additional segment information, including the amounts of
+earnings before taxes and total assets, for each of the last three fiscal
+years, is contained in Note I in the Notes to Consolidated Financial Statements
+on pages F-19 to F-21 included in this Annual Report on Form 10-K.  
+
+  On December 17, 2002, the Company sold the assets of its
+wholly owned subsidiary, Courier Custom Publishing, Inc., which comprised all
+of the remaining activities of the customized education segment.  Courier Custom Publishing provided customized
+coursepacks and textbooks.  The
+disposition was accounted for as a discontinued operation.  
+
+1     
+
+BUSINESS SEGMENTS   
+
+   BOOK MANUFACTURING SEGMENT   
+
+  Courier s book manufacturing segment produces hard and
+softcover books, as well as related services involved in managing the process
+of creating and distributing these products for publishers, religious
+organizations and other information providers. 
+Courier provides book manufacturing and related services from seven
+facilities in Westford, Stoughton and North Chelmsford, Massachusetts;
+Philadelphia, Pennsylvania; North Bergen, New Jersey; and Kendallville and
+Terre Haute, Indiana.  
+
+  In October 2005, the Company acquired Moore Langen, an
+Indianapolis-based printer specializing in book covers and known for innovative
+production techniques. The acquisition, a $15 million cash transaction
+completed on October 17, 2005, was accounted for as a purchase and,
+accordingly, Moore Langen s financial results were included in the consolidated
+financial statements from the date of acquisition.  
+
+  Courier s book manufacturing operations consist of both
+electronic and conventional film processing, platemaking and printing and
+binding of soft and hard cover books. 
+Each of Courier s seven facilities have certain specialties adapted to
+the needs of the market niches Courier serves, such as short-run book
+manufacturing, printing on lightweight paper, book cover production, and
+four-color book manufacturing.  These
+services are primarily sold to publishers of educational, religious and
+consumer books.  During 2004, the Company
+expanded its four-color book manufacturing capabilities with the addition of a
+major new four-color press at its Kendallville, Indiana facility. A second
+identical press was installed in December 2005, with another four-color press
+scheduled for installation in December 2006.  
+
+  Courier s book manufacturing sales force of 23   people is responsible for all of the Company s sales to
+over 500 book-manufacturing customers. 
+Courier s salespeople operate out of sales offices located in New York,
+New York; Chicago, Illinois; Philadelphia, Pennsylvania; Indianapolis, Indiana;
+Hayward, California; North Chelmsford, Massachusetts; and North Bergen and
+North Caldwell, New Jersey.  
+
+  Sales to The Gideons International aggregated approximately
+23%   of consolidated sales in 2006, 28% in
+2005, and 27% in 2004.  Sales to Pearson
+plc aggregated approximately 16% of consolidated sales in 2006, 19% in 2005,
+and 17% in 2004.  A significant reduction
+in order volumes or price levels from either of these customers could have a
+material adverse effect on the Company. 
+No other customer accounted for more than 10% of consolidated
+sales.  The Company distributes products
+around the world; export sales, as a percentage of consolidated sales, were
+approximately 19% in 2006 and 21% in both 2005 and 2004.  Approximately 90% of the export sales were in
+the book manufacturing segment in each of these years.  
+
+  All phases of Courier s business are highly competitive.  The printing industry, exclusive of
+newspapers, includes approximately 43,000 establishments.  While most of these establishments are
+relatively small, several of the Company s competitors are considerably larger
+or are affiliated with companies that are considerably larger and have greater
+financial resources than Courier.  In
+recent years, consolidation of both customers and competitors within the
+Company s markets has increased pricing pressures.  The major competitive factors in Courier s
+book manufacturing business in addition to price are product quality, speed of
+delivery, customer service, availability of appropriate printing capacity and
+paper, related services and technology support.  
+
+2     
+
+SPECIALTY PUBLISHING SEGMENT   
+
+  Dover, acquired by the Company in September 2000, is a
+publisher of books in over 30 specialty categories, including fine and
+commercial arts, children s books, crafts, music scores, graphic design,
+mathematics, physics and other areas of science, puzzles, games, social
+science, stationery items, and classics of literature for both juvenile and
+adult markets, including the Dover Thrift Editions.  In 2002, a new line of scholarly hardcover
+books valuable to scientists and mathematicians was launched under the name of
+Dover Phoenix Editions.  
+
+  Dover sells its products through most American bookstore
+chains, independent booksellers, children s stores, craft stores and gift
+shops, as well as a diverse range of distributors around the world.  Dover has also sold its books directly to
+consumers for over 50 years through its specialty catalogs and, since 2001,
+over the Internet at www.doverpublications.com. 
+Dover mails its proprietary catalogs to over 400,000 consumers.  In 2002, Dover launched www.DoverDirect.com,
+which is a business-to-business site for its retailers and distributors .   
+
+  REA, acquired by the Company in January 2004, publishes more
+than 900 test preparation and study-guide titles.  Product lines include Problem Solvers ,
+Essentials , Super Reviews  and Test Preparation books.  REA sells its products around the world
+through major bookseller chains, college bookstores, and teachers  supply
+stores, as well as directly to teachers and other consumers through catalogs and
+over the Internet at www.REA.com.  
+
+  In April 2006, the Company acquired Creative Homeowner, a New
+Jersey-based publisher and distributor of books, home plans, and related
+products for the $340-million home and garden retail book market.  The Company purchased 100% of the stock of
+Creative Homeowner in a $37 million cash transaction.  The acquisition was accounted for as a
+purchase and accordingly, Creative Homeowner s financial results were included
+in the consolidated financial statements from the date of acquisition.  Creative Homeowner s 120 titles include books
+on home decoration, design and improvement, gardening and landscaping, home
+arts, and hunting and fishing.  Its
+products are sold primarily through home and garden centers, as well as bookstores
+and direct to consumers over the Internet at www.creativehomeowner.com.  Creative Homeowner also manages the
+distribution of its own titles and books from third-party publishers to
+selected home centers.  From its line of
+home plan books, Creative Homeowner offers over 5,000 home plans from which
+consumers can order blueprints directly over the Internet at
+www.ultimatehomeplans.com.  
+
+  The U.S. publishing market is comprised of over 80,000
+publishers.  Many of these publishers are
+very small, but a few are much larger than Dover, REA, or Creative Homeowner,
+or are part of organizations that are much larger.  In addition, newer sources of competition
+have emerged with large retailers launching or expanding publishing operations
+and new web-based publishing businesses starting up, which compete in the
+specialty book publishing market, including publishing of electronic
+books.  Dover distinguishes its products
+by offering an extremely wide variety of high quality books at modest
+prices.  REA offers high editorial quality
+study guides and test preparation books and software products in almost every
+academic area including many specialized areas such as teacher certification,
+adult education, and professional licensing. 
+Creative Homeowner provides books on home improvement and landscaping
+that include high-quality photographs, illustrations and written content, as
+well as full-service book distribution at competitive prices.  
+
+3     
+
+MATERIALS AND SUPPLIES   
+
+  Courier purchases its principal raw materials, primarily
+paper, but also plate materials, ink, adhesives, cover stock, casebinding
+materials and cartons, from numerous suppliers, and is not dependent upon any
+one source for its requirements.  Many of
+Courier s book manufacturing customers purchase their own paper and furnish it
+at no charge to Courier for book production. 
+Dover and REA purchase a significant portion of their books from Courier s
+book manufacturing operations.  Creative
+Homeowner purchases most of its books under a contractual agreement, which
+expires in December 2007.  Paper prices
+increased slightly in each of the years 2006, 2005 and 2004.  
+
+   ENVIRONMENTAL REGULATIONS   
+
+  The Company s operations are subject to federal, state and
+local environmental laws and regulations relating to, among other things: air
+emissions; waste generation, handling, management and disposal; wastewater
+treatment and discharge; and remediation of soil and groundwater
+contamination.  The Company periodically
+makes capital expenditures so that its operations comply, in all material
+respects, with applicable environmental laws and regulations.  No significant expenditures for this purpose
+are anticipated in 2007.  The Company
+does not believe that its compliance with applicable environmental laws and
+regulations will have a material impact on the Company s earnings or
+competitive position.  
+
+   EMPLOYEES   
+
+  The Company employed 1,724 persons at September 30, 2006
+compared to 1,479 a year ago.  
+
+   OTHER   
+
+  Courier s overall business is not significantly seasonal in
+nature, although demand is normally highest in the Company s fourth
+quarter.  Educational publishers in the
+book manufacturing segment and Dover s business all contribute to this higher
+fourth quarter demand. There is no portion of Courier s business subject to
+cancellation of government contracts or renegotiation of profits.  
+
+  Courier holds no material patents, licenses, franchises or
+concessions that are important to its operations, but does have trademarks,
+service marks, and Universal Resource Locators (URL s) on the World Wide Web in
+connection with each of its business segments. 
+Substantially all of Dover s, REA s, and Creative Homeowner s
+publications are protected by copyright, either in its own name, in the name of
+the author of the work, or in the name of a predecessor publisher from whom rights
+were acquired.  
+
+  The Company makes available free of charge (as soon as
+reasonably practicable after they are filed or furnished to the SEC) copies of
+its Annual Report on Form 10-K, as well as all other reports required to be
+filed by Section 13(a) or 15(d) of the Securities Exchange Act of 1934, via the
+Internet at www.courier.com or upon written request to Peter M. Folger, Senior
+Vice President and Chief Financial Officer, Courier Corporation, 15 Wellman
+Avenue, North Chelmsford, MA 01863.  
+
+4     
+
+Item
+1A.  Risk Factors.   
+
+  The Company s consolidated results of operations, financial
+condition and cash flows can be adversely affected by various risks.  Our business is influenced by many factors
+that are difficult to predict, involve uncertainties that may materially affect
+actual results and are often beyond our control.  These risks include, but are not limited to,
+the principal factors listed below and the other matters set forth in this
+Annual Report on Form 10-K.  You should
+carefully consider all of these factors. 
+For other factors that may cause actual results to differ materially
+from those indicated in any forward-looking statement contained in this report,
+see  Forward-Looking Information  in  Management s Discussion and Analysis of Financial Condition and Results
+of Operations .  
+
+   Highly
+competitive markets for our products and industry consolidation may create
+increased pricing pressures.   
+
+  The printing industry is extremely competitive.  In the book manufacturing segment,
+consolidation over the past few years of both customers and competitors within
+the markets the Company competes has caused downward pricing pressures.  In addition, excess capacity and competition
+from printing companies in lower cost countries may increase competitive
+pricing pressures.  Furthermore, some of
+our competitors have greater sales, assets and financial resources than us and
+others, particularly those in foreign countries, may derive significant
+advantages from local governmental regulation, including tax holidays and other
+subsidies.  All or any of these
+competitive pressures could affect prices or customers  demand for our
+products, impacting our profit margins and/or resulting in a loss of customers
+and market share.  
+
+   We
+have a high degree of customer concentration.   
+
+  We derived approximately
+40% of our 2006 revenues, 47% of our 2005 revenues, and 44% of our 2004
+revenues from two major customers.  A
+significant reduction in order volumes or price levels from either of them
+could have a material adverse effect on the Company.  
+
+   We
+need to keep pace with rapid industry and technological change.   
+
+  The printing industry is in a period of rapid technological
+evolution.  Our future financial
+performance will depend, in part, upon the ability to anticipate and adapt to
+rapid industry and technological changes occurring in the industry and upon the
+ability to offer, on a timely basis, services that meet evolving industry
+standards.  We cannot assure investors
+that we will be able to adapt to such technological changes or offer these
+services on a timely basis or establish or maintain a competitive
+position.  We are unable to predict which
+of the many possible future product and service offerings will be important to
+establish and maintain competitive position or what expenditures will be
+required to develop and provide these products and services.  We cannot assure investors that one or more
+of these factors will not vary unpredictably, which could have a material
+adverse effect on us. In addition, we cannot assure investors, even if these
+factors turn out as we anticipate, that we will be able to implement our
+strategy or that the strategy will be successful in this rapidly evolving
+market.  
+
+5     
+
+Fluctuations
+in the cost and availability of paper and other raw materials may cause
+disruption and impact margins.   
+
+  Purchases of paper and other raw materials represent a large
+portion of our costs.  Historically, we
+have generally been able to pass on these cost increases to customers through
+higher prices.  However, if we are unable
+to continue to pass on these increases, our margins and profits could be
+adversely affected.  In addition,
+increases in the costs of materials may adversely impact our book manufacturing
+customers  demand for products.  
+
+  Availability of paper is important to both the book
+manufacturing and specialty publishing segments of the Company.  Although we generally have not experienced
+difficulty in obtaining adequate supplies of paper, unexpected changes in the
+paper markets could result in a shortage of supply.  If this were to occur in the future, it could
+cause disruption to the business or increase paper costs, adversely impacting
+either or both net sales or profits.  
+
+  Fluctuations in the costs and availability of raw materials
+could adversely affect operating costs or customer demand and thereby
+negatively impact our operating results, financial condition or cash flows.  
+
+   Energy
+costs and availability may negatively impact our financial results.   
+
+  Energy costs are incurred directly to run production
+equipment and facilities and indirectly through expenses such as freight and
+raw materials such as ink.  In a
+competitive market environment, increases to these direct and indirect energy
+related costs might not be able to be passed through to customers through price
+increases or mitigated through other means. 
+In such instances, increased energy costs could adversely impact
+operating costs or customer demand.  In
+addition, interruption in the availability of energy could disrupt operations,
+adversely impacting operating results.  
+
+   We
+may not be able to continue to improve our operating efficiencies.   
+
+  Because the markets in which we operate are highly
+competitive, we must continue to improve our operating efficiency in order to
+maintain or improve our profitability. 
+Although we have been able to expand our capacity, improve our
+productivity and reduce costs in the past, there is no assurance that we will
+continue to be able to do so in the future. 
+In addition, reducing operating costs in the future may require significant
+initial costs to reduce headcount, close or consolidate operations, or upgrade
+equipment and technology.  
+
+   Protection of intellectual property rights
+critical to publishing segment.   
+
+  Certain of our
+publications are protected by copyright, primarily held in the Company s
+name.  Such copyrights protect the
+Company s exclusive right to publish the work in the United States and in many
+other countries for specified periods. 
+The ability of the Company to continue to achieve anticipated results
+depends in part on our ability to defend our intellectual property against
+infringement.  The Company s operating
+results may be adversely affected by inadequate legal and technological
+protections for intellectual property and proprietary rights in some
+jurisdictions and markets.  
+
+6     
+
+Declines
+in general economic conditions may adversely impact our business.   
+
+  Economic conditions have the potential to impact our
+financial results significantly.  Within
+the book manufacturing and specialty publishing segments, a change in economic
+conditions can impact many areas of spending, including government, business
+and individual spending.  Examples of the
+changes in spending that could affect our financial results include:  
+
+           Fluctuations in federal or state
+government spending on education could lead to a corresponding decrease or
+increase in the demand for educational materials, which are produced in our
+book manufacturing segment and comprise a portion of our publishing products.  
+
+           Consumer demand for books can be impacted
+by reductions in disposable income when costs such as electricity and gasoline
+reduce discretionary spending.  
+
+           Changes in the housing market may impact
+the sale of Creative Homeowner s products.  
+
+  These
+changes may adversely impact our business.  
+
+   The
+substitution of electronic delivery for printed materials may adversely affect
+our business.   
+
+  Electronic delivery of documents and data, including the
+online distribution and hosting of media content, offers alternatives to
+traditional delivery of printed documents. 
+Consumer acceptance of electronic delivery is uncertain, as is the
+extent to which consumers are replacing print materials with online hosted
+media content.  To the extent that our
+customers accept these electronic alternatives, demand for our printed products
+may be adversely affected.  
+
+   Changes
+in postal rates and postal regulations may adversely impact our business.   
+
+  Postal costs are a significant component of our direct
+marketing cost structure and postal rate changes can influence the number of
+catalogs that we may mail.  In addition,
+increased postal rates can impact the cost of delivering our products to
+customers.  Either of these results could
+adversely affect consumer demand and results of operations.  
+
+   Our
+facilities are subject to environmental laws and regulations, which may subject
+us to liability or increase costs.   
+
+  We use various materials in our operations which contain
+substances considered hazardous or toxic under environmental laws.  In addition, our operations are subject to
+federal, state, and local environmental laws relating to, among other things,
+air emissions, waste generation, handling, management and disposal, waste water
+treatment and discharge and remediation of soil and groundwater
+contamination.  Permits are required for
+the operation of certain of our businesses and these permits are subject to
+renewal, modification and in some circumstances, revocation.  Under certain environmental laws, including
+the Comprehensive Environmental Response, Compensation and Liability Act, as
+amended ( CERCLA,  commonly referred to as  Superfund ), and similar state laws
+and regulations, we may be liable for costs and damages relating to soil and
+groundwater contamination at off-site disposal locations or at our own
+facilities.  Future changes to
+environmental laws and regulations may give rise to additional costs or
+liabilities that could have a material adverse impact on our financial position
+and results of operations.  
+
+7     
+
+We
+may not be able to successfully integrate acquired businesses.   
+
+  Over the last three years, we have completed three acquisitions,
+including Moore Langen and Creative Homeowner in fiscal year 2006, and may
+continue to make acquisitions in the future. 
+We believe that these acquisitions provide strategic growth
+opportunities for the Company.  Achieving
+the anticipated benefits of these acquisitions will depend in part upon our
+ability to integrate these businesses in an efficient and effective
+manner.  The challenges involved in
+successfully integrating acquisitions include:  
+
+           we may find that the acquired company or
+assets do not further our business strategy, or that we overpaid for the
+company or assets, or that economic conditions have changed, all of which may
+result in a future impairment charge;  
+
+           we may have difficulty integrating the
+operations and personnel of the acquired business and may have difficulty
+retaining the customers and/or the key personnel of the acquired business;  
+
+           we may have difficulty incorporating and
+integrating acquired technologies into our business;  
+
+           our ongoing business and management s
+attention may be disrupted or diverted by transition or integration issues and
+the complexity of managing diverse locations;  
+
+           we may have difficulty maintaining uniform
+standards, controls, procedures and policies across locations;  
+
+           an acquisition may result in litigation
+from terminated employees of the acquired business or third parties; and  
+
+           we may experience significant problems or
+liabilities associated with technology and legal contingencies of the acquired
+business.  
+
+  These factors could have a material adverse effect on
+our business, results of operations and financial condition or cash flows,
+particularly in the case of a larger acquisition or multiple acquisitions in a
+short period of time.  From time to time,
+we may enter into negotiations for acquisitions that are not ultimately
+consummated.  Such negotiations could
+result in significant diversion of management time from our business as well as
+significant out-of-pocket costs.  
+
+  The consideration that we pay in connection with an
+acquisition could affect our financial results. 
+If we were to proceed with one or more significant acquisitions in which
+the consideration included cash, we could be required to use a substantial
+portion of our available cash to consummate such acquisitions.  To the extent we issue shares of stock or
+other rights to purchase stock, including options or other rights, our existing
+stockholders may experience dilution in their share ownership in our company
+and their earnings per share may decrease. 
+In addition, acquisitions may result in the incurrence of debt, large
+one-time write-offs and restructuring charges. 
+They may also result in goodwill and other intangible assets that are
+subject to impairment tests, which could result in future impairment
+charges.  Any of these factors may materially
+and adversely affect our business and operations.  
+
+8     
+
+Our
+ability to hire and train key executives and other qualified employees is
+crucial.   
+
+  Our success depends, in part, on our ability to continue to
+retain our executive officers and key management personnel.  Our business strategy also depends on our
+ability to attract, develop, motivate and retain employees who have relevant
+experience in the printing and publishing industries.  There can be no assurance that we can
+continue to attract and retain the necessary talented employees, including
+executive officers and other key members of management.  If that were to occur, it could adversely
+affect our business.  
+
+   Compliance with changing regulation of corporate governance, public
+disclosure and accounting matters may result in additional expenses.   
+
+  Changing laws, regulations and standards relating to corporate
+governance and public disclosure, including the Sarbanes-Oxley Act of 2002 and
+new rules subsequently implemented by the Securities and Exchange Commission
+and The NASDAQ Stock Market, as well as new accounting pronouncements, are
+creating uncertainty and additional complexities for companies.  To maintain high standards of corporate
+governance and public disclosure, we continue to invest resources to comply
+with evolving standards.  This investment
+may result in increased general and administrative expenses and a diversion of
+management time and attention from revenue generating and cost management
+activities.  
+
+   Item
+1B.  Unresolved Staff Comments.   
+
+  None.  
+
+9     
+
+Item
+2.  Properties.   
+
+   REAL PROPERTIES   
+
+  The following schedule lists the facilities owned or leased
+by Courier at September 30, 2006. Courier considers its plants and other
+facilities to be well maintained and suitable for the purposes intended.  
+
+(1)                                  Also houses warehousing and end-user
+fulfillment operations supporting the book manufacturing segment.  
+
+  (2)                                  In May 2004, the Company completed
+the sale of approximately 200,000 square feet of unoccupied and underutilized
+portions of its multi-building manufacturing complex in Westford, MA for $1.7
+million.  
+
+   EQUIPMENT   
+
+  The Company s products are
+manufactured on equipment that in most cases is owned by the Company, although
+it leases computers, image setters and other electronic prepress equipment,
+which are subject to more rapid obsolescence. 
+In addition, one printing press is leased whereby the lessor holds title
+and the Company has an option to purchase the equipment upon expiration of the
+lease in 2008 at a price of $161,658. 
+Capital expenditures amounted to approximately $29.4 million in 2006,
+$19.7 million in 2005, and $13.4 million in 2004. Capital expenditures in 2006
+included approximately $21 million for new four-color presses and related
+equipment and an expansion of the Kendallville, Indiana facility.  A four-color press was installed in December
+2005 and deposits were made on another four-color press to be installed in
+December 2006.  This press is identical
+to the presses installed in April 2004 and December 2005. Capital expenditures
+in 2006 also included investments to increase productivity, lower costs, and
+improve employee safety.  Fiscal 2007
+capital expenditures are expected to be approximately $25 to $28 million. This
+amount includes completing the current four-color expansion program, as well as
+expanding capacity in the religious book manufacturing operation.  Courier considers its equipment to be in good
+operating condition and adequate for its present needs.  
+
+10     
+
+ENCUMBRANCES AND RENTAL
+OBLIGATIONS   
+
+  For a description of encumbrances on
+certain properties and equipment, see Note D of Notes to Consolidated Financial
+Statements on page F-11 of this Annual Report on Form 10-K. Information
+concerning leased properties and equipment is disclosed in Note E of Notes to
+Consolidated Financial Statements, which appears on page F-12 of this Annual
+Report on Form 10-K.  
+
+   Item 3.  Legal Proceedings.   
+
+  In the ordinary course of business,
+the Company is subject to various legal proceedings and claims.  The Company believes that the ultimate
+outcome of these matters will not have a material adverse effect on its
+financial statements.  
+
+   Item 4.  Submission of Matters to a Vote of Security
+Holders.   
+
+  There were no matters submitted to a
+vote of security holders during the quarter ended September 30, 2006.  
+
+11     
+
+PART II   
+
+   Item 5.  Market for the Registrant s Common Equity,
+Related Stockholder Matters and Issuer Purchases of Equity Securities.   
+
+  The information required by this Item
+is contained in the section captioned  Selected Quarterly Financial Data (Unaudited) 
+which appears on page F-23 of this Annual Report on Form 10-K.  
+
+   Item 6.  Selected Financial Data.   
+
+  The information required by this Item
+is contained in the section captioned  Five-Year Financial Summary  appearing
+on page F-22 of this Annual Report on Form 10-K.  
+
+   Item 7.  Management s Discussion and Analysis of
+Financial Condition and Results of Operations.   
+
+  The information required by this Item
+is contained in the section captioned  Management s Discussion and Analysis  on
+pages F-24 through F-33 of this Annual Report on Form 10-K.  
+
+   Item 7A.  Quantitative and Qualitative Disclosures
+About Market Risk.   
+
+  The
+Company does not hold any derivative financial instruments, derivative
+commodity instruments or other financial instruments except as noted in Notes A
+and L of Notes to Consolidated Financial Statements, which appear on pages F-7
+through F-9 and F-21 of this Annual Report on Form 10-K.  The Company engages neither in speculative
+nor derivative trading activities. The Company is exposed to market risk for
+changes in interest rates on invested funds as well as borrowed funds.  The Company s revolving bank credit facility
+bears interest at a floating rate, with further information contained in Note D
+on page F-11 of this Annual Report on Form 10-K.  
+
+   Item 8.  Financial Statements and Supplementary Data.   
+
+  The information required by this Item
+is contained on pages F-1 through F-21 of this Annual Report on Form 10-K.  
+
+   Item 9.  Changes in and Disagreements With Accountants
+on Accounting and Financial Disclosure.   
+
+  None.  
+
+   Item 9A.  Controls and Procedures   
+
+   (a)          Disclosure Controls and Procedures   
+
+  As of the end of the period covered
+by this Annual Report on Form 10-K, we carried out an evaluation under the
+supervision and with the participation of our management, including the Chief
+Executive Officer and the Chief Financial Officer, of the effectiveness of the
+design and operation of our disclosure controls and procedures pursuant to
+Exchange Act Rules 13a-15(e) and 15d-15(e). Disclosure controls are
+procedures that are designed to ensure that information required to be
+disclosed in our reports filed under the Securities Exchange Act of 1934 (the  Exchange
+Act ) is recorded, processed, summarized and reported within the time periods
+specified by the Securities and Exchange Commission. Disclosure controls are
+also designed to ensure that such information is accumulated and communicated
+to our management, including our Chief Executive Officer and Chief Financial
+Officer, as appropriate to allow timely decisions regarding required
+disclosure. Based upon that evaluation, our Chief Executive Officer and Chief
+Financial Officer concluded that our disclosure controls and procedures were
+effective as of the end of the period covered by this report.  
+
+12     
+
+(b)          Changes in Internal Controls over Financial Reporting   
+
+  There were no changes in the Company s
+internal control over financial reporting during the fourth quarter of fiscal
+year 2006 that have materially affected, or that are reasonably likely to
+materially affect, the Company s internal control over financial
+reporting.  As set forth below, we
+excluded our fiscal year 2006 acquisitions from our assessment of internal
+control over financial reporting for the quarter and year ended September 30,
+2006.  We are in the process of
+integrating the internal control procedures of these acquired companies into
+our internal control structure.  
+
+   (c)                                      Management s Responsibility for
+Financial Statements   
+
+  Management of the Company is
+responsible for the preparation, integrity and objectivity of the Company s
+consolidated financial statements and other financial information contained in
+its Annual Report to Stockholders.  Those
+consolidated financial statements were prepared in conformity with accounting
+principles generally accepted in the United States.  In preparing those consolidated financial
+statements, the Company s management was required to make certain estimates and
+judgments, which are based upon currently available information and management s
+view of current conditions and circumstances.  
+
+  The Audit Committee of the Board of
+Directors, which consists solely of independent directors, oversees the Company s
+process of reporting financial information and the audit of its consolidated
+financial statements.  The Audit
+Committee stays informed of the financial condition of the Company and
+regularly reviews management s financial policies and procedures, the
+independence of the independent auditors, the Company s internal control and
+the objectivity of its financial reporting. The independent registered public
+accounting firm has free access to the Audit Committee and to meet with the
+Audit Committee periodically, both with and without management present.  
+
+  The Company has retained Deloitte
+  Touche LLP, an independent registered public accounting firm, to audit
+its consolidated financial statements found in this Annual Report on Form 10-K
+for the year ended September 30, 2006. 
+The Company has made available to Deloitte   Touche LLP all of its
+financial records and related data in connection with their audit of the
+consolidated financial statements.  
+
+  The Company has filed with the
+Securities and Exchange Commission the required certifications related to its
+consolidated financial statements as of and for the year ended September 30,
+2006.  These certifications are attached
+as exhibits to this Annual Report on Form 10-K for the year ended September 30,
+2006.  
+
+   (d)                                      Management s Report on Internal
+Control Over Financial Reporting.   
+
+  Management has responsibility for
+establishing and maintaining adequate internal control over financial
+reporting.  Internal control over
+financial reporting is a process designed to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of
+financial statements for external reporting purposes in accordance with
+accounting principles generally accepted in the United States.  Because of its inherent limitations, internal
+control over financial reporting may not prevent or detect misstatements.  Management has assessed the effectiveness of
+the Company s internal control over financial reporting as of September 30,
+2006. As discussed in Item 1 of this Annual Report under the caption  Business 
+and in Note H to our consolidated financial statements included in this Annual
+Report, the Company acquired Moore Langen and Creative Homeowner during fiscal
+year 2006. The total assets and revenues of these acquisitions were 12% and 9%,
+respectively, as of and for the year ended September 30, 2006. As permitted by
+the rules and regulations of the SEC, we excluded these two acquired companies
+from the assessment of internal control over financial reporting as of
+September 30, 2006.  
+
+  In making its assessment of the
+Company s internal control over financial reporting, the Company s management
+has utilized the criteria set forth by the Committee of Sponsoring
+Organizations ( COSO ) of the Treadway Commission in Internal
+Control-Integrated Framework. Management concluded that based on its
+assessment, the Company s internal control over financial reporting was
+effective as of September 30, 2006. Deloitte   Touche LLP, an independent
+registered public accounting firm that audited our financial statements
+included in this Annual Report, has issued an attestation report on
+management s assessment of internal control over financial reporting.  Such attestation, which expresses unqualified
+opinions on management s assessment and on the effectiveness of internal
+control over financial reporting as of September 30, 2006, which appears below
+in this Annual Report on Form 10-K.  
+
+13     
+
+(e)          Limitations on Design and Effectiveness of Controls.   
+
+   The
+Company s management, including our Chief Executive Officer and Chief Financial
+Officer, believes that our disclosure controls and procedures and internal
+control over financial reporting are effective at the reasonable assurance
+level. However, the Company s management does not expect that our disclosure
+controls and procedures or our internal control over financial reporting will
+prevent all errors and all fraud. A control system, no matter how well conceived
+and operated, can provide only reasonable, not absolute, assurance that the
+objective of the control system are met. In addition, the design of a control
+system must take into consideration resource constraints, and the benefits of
+controls must be considered relative to their costs. Because of the inherent
+limitations in all control systems, no evaluation of controls can provide
+absolute assurance that all control issues and instances of fraud, if any,
+within the Company have been detected in a timely manner. These inherent
+limitations include the fact that controls can be circumvented by individual
+acts, by collusion of two or more people or by management override of the
+controls. The design of any system of controls also is based in part upon certain
+assumptions about the likelihood of future events, and there can be no
+assurance that any design will succeed in achieving its stated goals under all
+potential future conditions. Finally, over time, controls may become inadequate
+because of changes in conditions, or the degree of compliance with policies or
+procedures may deteriorate. Because of the inherent limitations in a
+cost-effective control system, misstatements due to error or fraud may occur
+and not be detected.   
+
+   REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM     
+
+  To the Board of Directors and Stockholders of Courier
+Corporation 
+ North Chelmsford, Massachusetts   
+
+  We have audited management s assessment, included in
+the accompanying Management s Report on Internal Control Over Financial Reporting,
+that Courier Corporation and subsidiaries (the  Company ) maintained effective
+internal control over financial reporting as of September 30, 2006, based on
+criteria established in  Internal
+Control Integrated Framework  issued by the Committee of Sponsoring
+Organizations of the Treadway Commission. As described in Management s Report
+on Internal Control Over Financial Reporting, management excluded from their
+assessment the internal control over financial reporting at Moore-Langen
+Printing Company, Inc. ( Moore Langen ) and Federal Marketing Corp. d/b/a
+Creative Homeowner ( Creative Homeowner ), which were acquired on
+October 17, 2005 and April 28, 2006, respectively, and whose
+financial statements reflect total assets (excluding intangibles) and revenues constituting
+12 and 9 percent, respectively, of the related consolidated financial statement
+amounts as of and for the year ended September 30, 2006. Accordingly, our
+audit did not include the internal control over financial reporting at Moore
+Langen and Creative Homeowner. The Company s management is responsible for
+maintaining effective internal control over financial reporting and for its
+assessment of the effectiveness of internal control over financial
+reporting.  Our responsibility is to express an opinion on management s
+assessment and an opinion on the effectiveness of the Company s internal
+control over financial reporting based on our audit.  
+
+  We conducted our audit in accordance with the
+standards of the Public Company Accounting Oversight Board (United
+States).  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether effective internal control over
+financial reporting was maintained in all material respects.  Our audit
+included obtaining an understanding of internal control  
+
+14     
+
+over financial reporting, evaluating management s
+assessment, testing and evaluating the design and operating effectiveness of
+internal control, and performing such other procedures as we considered
+necessary in the circumstances.  We believe that our audit provides a
+reasonable basis for our opinions.  
+
+  A company s internal control over financial reporting
+is a process designed by, or under the supervision of, the company s principal
+executive and principal financial officers, or persons performing similar
+functions, and effected by the company s board of directors, management, and
+other personnel to provide reasonable assurance regarding the reliability of
+financial reporting and the preparation of financial statements for external purposes
+in accordance with generally accepted accounting principles.  A company s
+internal control over financial reporting includes those policies and
+procedures that (1) pertain to the maintenance of records that, in reasonable
+detail, accurately and fairly reflect the transactions and dispositions of the
+assets of the company; (2) provide reasonable assurance that transactions are
+recorded as necessary to permit preparation of financial statements in
+accordance with generally accepted accounting principles, and that receipts and
+expenditures of the company are being made only in accordance with
+authorizations of management and directors of the company; and (3) provide
+reasonable assurance regarding prevention or timely detection of unauthorized
+acquisition, use, or disposition of the company s assets that could have a
+material effect on the financial statements.  
+
+  Because of the inherent limitations of internal
+control over financial reporting, including the possibility of collusion or
+improper management override of controls, material misstatements due to error
+or fraud may not be prevented or detected on a timely basis.  Also,
+projections of any evaluation of the effectiveness of the internal control over
+financial reporting to future periods are subject to the risk that the controls
+may become inadequate because of changes in conditions, or that the degree of
+compliance with the policies or procedures may deteriorate.  
+
+  In our opinion, management s assessment that the
+Company maintained effective internal control over financial reporting as of
+September 30, 2006, is fairly stated, in all material respects, based on the
+criteria established in  Internal
+Control Integrated Framework  issued by the Committee of Sponsoring
+Organizations of the Treadway Commission.  Also in our opinion, the
+Company maintained, in all material respects, effective internal control over
+financial reporting as of September 30, 2006, based on the criteria established
+in  Internal Control Integrated Framework  issued
+by the Committee of Sponsoring Organizations of the Treadway Commission.  
+
+  We have also audited, in accordance with the standards
+of the Public Company Accounting Oversight Board (United States), the
+consolidated financial statements as of and for the year ended September 30,
+2006 of the Company and our report dated December 7, 2006 expressed an
+unqualified opinion on those financial statements and included an explanatory
+paragraph concerning the adoption of SFAS 123R  Share-Based Payments  by
+application of the modified retrospective transition method on those financial
+statements and financial statement schedule.  
+
+/s/ DELOITTE   TOUCHE LLP  
+
+Boston, Massachusetts   
+December 7, 2006 
+
+15     
+
+Item 9B. 
+Other Information   
+
+  The following table sets forth information concerning
+the granting on September 25, 2006 of restricted stock awards and stock options
+under the Courier Corporation 1993 Stock Incentive Plan to each of the
+Executive Officers.  
+
+16  
+
+PART III   
+
+   Item 10.  Directors and Executive Officers of the
+Registrant.   
+
+  Courier s executive officers,
+together with their ages and all positions and offices with the Company
+presently held by each person named, are as follows:  
+
+James F. Conway III 
+
+54  
+
+Chairman, President and Chief  
+
+Executive Officer  
+
+George Q. Nichols  
+
+77  
+
+Corporate Senior Vice President  
+
+and Chairman of National  
+
+Publishing Company  
+
+Robert P. Story, Jr.  
+
+55  
+
+Executive Vice President and  
+
+Chief Operating Officer  
+
+Peter M. Folger  
+
+53  
+
+Senior Vice President and  
+
+Chief Financial Officer  
+
+Peter D. Tobin  
+
+51  
+
+Corporate Vice President and   
+
+Executive Vice President of  
+
+Courier Companies and National   
+
+Publishing Company  
+
+Eric J. Zimmerman  
+
+41  
+
+Vice President, Publishing  
+
+The terms of office of all of the
+above executive officers continue until the first meeting of the Board of
+Directors following the next annual meeting of stockholders and the election or
+appointment and qualification of their successors, unless any officer sooner
+dies, resigns, is removed or becomes disqualified.  
+
+  Mr. Conway III was elected Chairman
+of the Board in September 1994 after serving as acting Chairman since December
+1992.  He has been Chief Executive Officer
+since December 1992 and President since July 1988.  
+
+  Mr. Nichols became an executive
+officer of Courier in June 1989.  He was
+elected a Director of the Company in March 1995 and became Senior Vice
+President of the Company in November 1996. 
+He became Chairman of National Publishing Company in December 1999.  He had previously been President of National
+Publishing Company since 1976.  
+
+  Mr. Story became Executive Vice
+President and Chief Operating Officer in November 2006. He had previously been
+Senior Vice President and Chief Financial Officer since April 1989.  He joined Courier in November 1986 as Vice
+President and Treasurer.  He was elected
+a Director of the Company in February 1995.  
+
+  Mr. Folger became Senior Vice
+President and Chief Financial Officer in November 2006.  He had previously been Controller since 1982
+and Vice President since November 1992.  
+
+  Mr. Tobin became Vice President of
+Courier Corporation and Executive Vice President of  
+
+17     
+
+Courier Companies in October 2000, and Executive Vice
+President of National Publishing Company in March 2002.  He joined Courier Companies as National Sales
+Manager in 1994 and became Vice President of Sales and Marketing in 1997.  
+
+  Mr. Zimmerman became Vice President,
+Publishing and an executive officer of Courier Corporation in October
+2004.  He joined Courier in December 1994
+as General Manager of its former Copyright Management Services operation and
+became Vice President of e-Commerce for Courier in September 2000.  
+
+  The Company has adopted a code of
+ethics entitled  Courier Corporation Business Conduct Guidelines,  which is
+applicable to all of the Company s directors, officers, and employees.  These Business Conduct Guidelines are
+available on the Company s Internet website, located at www.courier.com.  
+
+  All other information called for by
+Item 10 is contained in the definitive Proxy Statement, under the captions  Item
+1: Election of Directors  and  Section 16(a) Beneficial Ownership Reporting
+Compliance,  to be delivered to stockholders in connection with the Annual
+Meeting of Stockholders scheduled to be held on Wednesday, January 17,
+2007.  Such information is incorporated
+herein by reference.  
+
+   Item 11.  Executive Compensation.   
+
+  Information called for by Item 11 is
+contained in the definitive Proxy Statement, under the caption  Executive
+Compensation,  to be delivered to stockholders in connection with the Annual
+Meeting of Stockholders scheduled to be held on Wednesday, January 17,
+2007.  Such information is incorporated
+herein by reference.  
+
+   Item 12.  Security Ownership of Certain Beneficial
+Owners and Management and Related Stockholder Matters.   
+
+   The
+following table provides information as of September 30, 2006 regarding
+shares of common stock of the Company that may be issued under its existing
+compensation plans, including the Courier Corporation Amended and Restated
+1993 Stock Incentive Plan (the  1993 Plan ), the Courier Corporation
+2005 Stock Equity Plan for Non-Employee Directors (the  2005 Plan ), and
+the Courier Corporation 1989 Deferred Income Stock Option Plan for Non-Employee
+Directors, which was replaced by the 2005 Plan.   
+
+Plan category   
+
+Number of securities 
+  to be issued upon 
+  exercise of 
+  outstanding options, 
+  warrants and rights (1)   
+
+Weighted-average 
+  exercise price of 
+  outstanding options, 
+  warrants and rights   
+
+Number of securities 
+  remaining available for 
+  future issuance under 
+  equity compensation 
+  plans (excluding 
+  securities reflected 
+  in column (a))(2)(3)   
+
+(a)   
+
+(b)   
+
+(c)   
+
+Equity compensation
+  plans approved by security holders  
+
+587,018  
+
+$  
+
+22.98  
+
+509,285  
+
+Equity
+  compensation plans not approved by security holders  
+
+Total  
+
+587,018  
+
+$  
+
+22.98  
+
+509,285  
+
+(1)    Does not include any restricted stock as
+such shares are already reflected in the Company s outstanding shares.  
+
+  (2)    101,176 shares of these 509,285 shares were
+reserved for future issuance under the Company s Employee Stock Purchase Plan.  
+
+  (3)    Includes
+up to 272,425 securities that may be issued in the form of restricted stock.  
+
+  All other information called for by
+Item 12 is contained in the definitive Proxy Statement, under the captions  Security
+Ownership of Certain Beneficial Owners and Management  and  Executive
+Compensation,  to be delivered to stockholders in connection with the Annual
+Meeting of Stockholders scheduled to be held on Wednesday, January 17,
+2007.  Such information is incorporated
+herein by reference.  
+
+   Item 13.  Certain Relationships and Related
+Transactions.   
+
+  Information called for by Item 13 is
+contained in the definitive Proxy Statement to be delivered to stockholders in
+connection with the Annual Meeting of Stockholders scheduled to be held on
+Wednesday, January 17, 2007.  Such
+information is incorporated herein by reference.  
+
+   Item 14.  Principal Accounting Fees and Services   
+
+  Information called for by Item 14 is
+contained in the definitive Proxy Statement, under the caption  Item 2:
+Ratification and Approval of Selection of Independent Auditors,  to be
+delivered to stockholders in connection with the Annual Meeting of Stockholders
+scheduled to be held on Wednesday, January 17, 2007.  Such information is incorporated herein by
+reference.  
+
+18     
+
+PART IV   
+
+   Item 15.  Exhibits and Financial Statement Schedules.   
+
+   (a)         Documents filed as part of this report   
+
+1.       Financial
+  statements   
+
+Report of
+  Independent Registered Public Accounting Firm   
+
+Consolidated
+  Statements of Income for each of the three years in the period ended
+  September 30, 2006   
+
+Consolidated
+  Balance Sheets as of September 30, 2006 and September 24, 2005   
+
+Consolidated
+  Statements of Cash Flows for each of the three years in the period ended
+  September 30, 2006   
+
+Consolidated
+  Statements of Changes in Stockholders  Equity for each of the three years in
+  the period ended September 30, 2006   
+
+Notes to
+  Consolidated Financial Statements   
+
+2.       Financial statement schedule    
+
+Schedule II
+  - Consolidated Valuation and Qualifying Accounts   
+
+3.       Exhibits    
+
+Exhibit No. 
+
+Description of Exhibit   
+
+3A-1  
+
+Articles of Organization of Courier Corporation, as
+  of June 29, 1972 (filed as Exhibit 3A-1 to the Company s Annual Report on
+  Form 10-K for the fiscal year ended September 26, 1981, and incorporated
+  herein by reference).  
+
+3A-2  
+
+Articles of Amendment of Courier Corporation
+  (changing stockholder vote required for merger or consolidation), as of
+  January 20, 1977 (filed as Exhibit 3A-2 to the Company s Annual Report on
+  Form 10-K for the fiscal year ended September 26, 1981, and incorporated
+  herein by reference).  
+
+3A-3  
+
+Articles of Amendment of Courier Corporation
+  (providing for staggered election of directors), as of January 20, 1977 (filed
+  as Exhibit 3A-3 to the Company s Annual Report on Form 10-K for the fiscal
+  year ended September 26, 1981, and incorporated herein by reference).  
+
+3A-4  
+
+Articles of Amendment of Courier Corporation
+  (authorizing class of Preferred Stock), as of February 15, 1978 (filed as
+  Exhibit 3A-4 to the Company s Annual Report on Form 10-K for the fiscal year
+  ended September 26, 1981, and incorporated herein by reference).  
+
+3A-5  
+
+Articles of Amendment of Courier Corporation
+  (increasing number of shares of authorized Common Stock), as of January 16,
+  1986 (described in item #2 of the  
+
+19     
+
+Company s Proxy Statement for the Annual Meeting of
+  Stockholders held on January 16, 1986, and incorporated herein by reference).  
+
+3A-6 
+
+Articles of Amendment of Courier Corporation
+  (providing for fair pricing procedures for stock to be sold in certain
+  business combinations), as of January 16, 1986 (filed as Exhibit A to the Company s
+  Proxy Statement for the Annual Meeting of Stockholders held on January 16,
+  1986, and incorporated herein by reference).  
+
+3A-7  
+
+Articles of Amendment of Courier Corporation
+  (limiting personal liability of directors to the Corporation or to any of its
+  stockholders for monetary damages for breach of fiduciary duty), as of
+  January 28, 1988 (filed as Exhibit 3A-7 to the Company s Annual Report on
+  Form 10-K for the fiscal year ended September 24, 1988, and incorporated
+  herein by reference).  
+
+3A-8  
+
+Articles of Amendment of Courier Corporation
+  (establishing Series A Preferred Stock), as of November 8, 1988 (filed as
+  Exhibit 3A-8 to the Company s Annual Report on Form 10-K for the fiscal year
+  ended September 24, 1988, and incorporated herein by reference).  
+
+3A-9  
+
+Articles of Amendment of Courier Corporation
+  (increasing number of shares of authorized Common Stock), as of January 17,
+  2002 (filed as Exhibit 3 to the Company s Quarterly Report on Form 10-Q for
+  the period ended March 30, 2002, and incorporated herein by reference).  
+
+3B  
+
+By-Laws of Courier Corporation, amended and restated
+  as of March 24, 2005 (filed as Exhibit 3 to the Company s Current Report on
+  Form 8-K, dated March 24, 2005, and incorporated herein by reference).  
+
+10A-1+  
+
+Courier Corporation Stock Grant Plan (filed as
+  Exhibit C to the Company s Proxy Statement for the Annual Meeting of
+  Stockholders held on January 20, 1977, and incorporated herein by reference).  
+
+10A-2+  
+
+Amendment, effective January 19, 1989, to the
+  Courier Corporation Stock Grant Plan (described in Item 4 of the Company s
+  Proxy Statement for the Annual Meeting of Stockholders held January 19, 1989,
+  and incorporated herein by reference).  
+
+10B+  
+
+Letter Agreement, dated February 8, 1990, of Courier
+  Corporation relating to supplemental retirement benefit and consulting
+  agreement with James F. Conway, Jr. (filed as Exhibit 10B to the Company s
+  Annual Report on Form 10-K for the fiscal year ended September 29, 1990, and
+  incorporated herein by reference).  
+
+10C-1+  
+
+Courier Corporation 1989 Deferred Income Stock
+  Option Plan for Non-employee Directors, effective September 28, 1989 (filed
+  as Exhibit A to the Company s Proxy Statement for the Annual Meeting of
+  Stockholders held January 18, 1990, and incorporated herein by reference).  
+
+10C-2+  
+
+Amendment, effective November 4, 1993, to the 1989
+  Deferred Income Stock Option Plan for Non-employee Directors (filed as
+  Exhibit 10C-2 to the Company s Annual Report on Form 10-K for the fiscal year
+  ended September 25, 1993, and incorporated herein by reference).  
+
+20     
+
+10C-3+ 
+
+Amendment, effective September 24, 1998, to the 1989
+  Deferred Income Stock Option Plan for Non-employee Directors (filed as
+  Exhibit 10C-3 to the Company s Annual Report on Form 10-K for the fiscal year
+  ended September 26, 1998, and incorporated herein by reference).  
+
+10C-4+  
+
+Amendment, effective January 21, 1999, to the 1989
+  Deferred Income Stock Option Plan for Non-employee Directors (described in Item
+  3 of the Company s Proxy Statement for the Annual Meeting of Stockholders
+  held January 21, 1999, and incorporated herein by reference).  
+
+10D-1+  
+
+Courier Corporation 1983 Stock Option Plan (filed as
+  Exhibit A to the Company s Proxy Statement for the Annual Meeting of
+  Stockholders held on January 20, 1983, and incorporated herein by reference).  
+
+10D-2+  
+
+Amendment, effective January 17, 1985, to the
+  Courier Corporation 1983 Stock Option Plan (described in Item 2 of the
+  Company s Proxy Statement for the Annual Meeting of Stockholders held on
+  January 17, 1985, and incorporated herein by reference).  
+
+10D-3+  
+
+Amendment, effective January 19, 1989, to the
+  Courier Corporation 1983 Stock Option Plan (described in Item 3 of the
+  Company s Proxy Statement for the Annual Meeting of Stockholders held January
+  19, 1989, and incorporated herein by reference).  
+
+10E-1+  
+
+The Courier Executive Compensation Program, as
+  amended and restated on December 5, 2005 (filed as Exhibit 10.2 to the
+  Company s Current Report on Form 8-K on December 7, 2005, and incorporated
+  herein by reference).  
+
+10E-2+  
+
+The Management Incentive Compensation Program,
+  effective October 4, 1993 (filed as Exhibit 10E-3 to the Company s Annual
+  Report on Form 10-K for the fiscal year ended September 25, 1993, and
+  incorporated herein by reference).  
+
+10F+  
+
+Courier Corporation Senior Executive Severance
+  Program, as amended and restated on December 5, 2005 (filed as Exhibit 10.3
+  to the Company s Current Report on Form 8-K on December 7, 2005, and
+  incorporated herein by reference).  
+
+10G-1  
+
+Rights Agreement between Courier Corporation and
+  State Street Bank and Trust Company dated March 18, 1999 (filed as Exhibit
+  4.1 to the Company s Current Report on Form 8-K, dated March 18, 1999, and
+  incorporated herein by reference).  
+
+10G-2  
+
+Amendment, dated November 8, 2001, to Rights
+  Agreement between Courier Corporation and EquiServe Trust Company NA dated
+  March 18, 1999 (filed as Exhibit 10.2 to the Company s Quarterly Report on
+  Form 10-Q for the period ended March 26, 2005, and incorporated herein by
+  reference).  
+
+10H+  
+
+Courier Corporation 1999 Employee Stock Purchase
+  Plan (filed as Exhibit A to the Company s Proxy Statement for the Annual
+  Meeting of Stockholders held on January 21, 1999, and incorporated herein by
+  reference).  
+
+10I-1+  
+
+Agreement, as of March 3, 1993, of Courier
+  Corporation relating to employment contract and supplemental retirement
+  benefit with George Q. Nichols (filed as Exhibit  
+
+21     
+
+10J to the Company s Annual Report on Form 10-K for
+  the fiscal year ended September 25, 1993, and incorporated herein by
+  reference).  
+
+10I-2+ 
+
+Amendment, as of April 16, 1997, to supplemental
+  retirement benefit agreement with George Q. Nichols (filed as Exhibit 10J-2
+  to the Company s Annual Report on Form 10-K for the fiscal year ended
+  September 27, 1997, and incorporated herein by reference).  
+
+10I-3+  
+
+Amendment, as of November 9, 2000, to supplemental
+  retirement benefit agreement with George Q. Nichols (filed as Exhibit 10I-3
+  to the Company s Annual Report on Form 10-K for the fiscal year ended
+  September 29, 2001, and incorporated herein by reference).  
+
+10J-1  
+
+Amended and Restated Revolving Credit Agreement,
+  dated as of March 31, 2003, between Courier Corporation, Fleet National Bank,
+  KeyBank National Association, Citizens Bank of Massachusetts and Sovereign
+  Bank, providing for a $60 million revolving credit facility (filed as Exhibit
+  10 to the Company s Quarterly Report on Form 10-Q for the period ended June
+  28, 2003, and incorporated herein by reference).  
+
+10J-2  
+
+Amendment, dated March 31, 2004, to Amended and
+  Restated Revolving Credit Agreement, dated as of March 31, 2003, between
+  Courier Corporation, Fleet National Bank, KeyBank National Association,
+  Citizens Bank of Massachusetts and Sovereign Bank, providing for a $60
+  million revolving credit facility (filed as Exhibit 10 to the Company s
+  Quarterly Report on Form 10-Q for the period ended March 27, 2004, and
+  incorporated herein by reference).  
+
+10J-3  
+
+Amendment, dated April 29, 2005, to Amended and
+  Restated Revolving Credit Agreement, dated as of March 31, 2003, between
+  Courier Corporation, KeyBank National Association, Citizens Bank of
+  Massachusetts and Sovereign Bank, providing for a $45 million revolving
+  credit facility (filed as Exhibit 10.1 to the Company s Quarterly Report on
+  Form 10-Q for the period ended March 26, 2005, and incorporated herein by
+  reference).  
+
+10J-4  
+
+Amendment, dated May 11, 2006, to Amended and
+  Restated Revolving Credit Agreement, dated as of March 31, 2003, between
+  Courier Corporation, KeyBank National Association, Citizens Bank of
+  Massachusetts and Sovereign Bank, providing for a $60 million revolving credit
+  facility (filed as Exhibit 10 to the Company s Current Report on Form 8-K on
+  May 17, 2006, and incorporated herein by reference).  
+
+10J-5  
+
+Amendment, dated November 9, 2006, to Amended and
+  Restated Revolving Credit Agreement, dated as of March 31, 2003, between
+  Courier Corporation, KeyBank National Association, Citizens Bank of
+  Massachusetts, Sovereign Bank, JP Morgan Chase Bank, N.A., and Wells Fargo
+  Bank, N.A. providing for a $100 million revolving credit facility (filed as
+  Exhibit 10 to the Company s Current Report on Form 8-K on November 15, 2006,
+  and incorporated herein by reference).  
+
+10K-1+  
+
+Courier Corporation Amended and Restated 1993 Stock
+  Incentive Plan (filed January 19, 2005 as Exhibit 10.5 to the Company s
+  Registration Statement No. 333-122136 and incorporated herein by reference).  
+
+10K-2+  
+
+Form of Incentive Stock Option Agreement for the
+  Courier Corporation 1993 Stock  
+
+22     
+
+23     
+
+herein by reference).  
+
+10K-13+ 
+
+Non-Qualified Stock Option Agreement for the Courier
+  Corporation 1993 Stock Incentive Plan for E. J. Zimmerman dated September 23,
+  2004 (filed as Exhibit 10.12 to the Company s Annual Report on Form 10-K for
+  the fiscal year ended September 25, 2004, and incorporated herein by
+  reference).  
+
+10K-14+  
+
+Stock Grant Agreement for the Courier Corporation
+  1993 Stock Incentive Plan for E. J. Zimmerman dated September 23, 2004 (filed
+  as Exhibit 10.13 to the Company s Annual Report on Form 10-K for the fiscal
+  year ended September 25, 2004, and incorporated herein by reference).  
+
+10K-15+  
+
+Incentive Stock Option Agreement for the Courier
+  Corporation 1993 Stock Incentive Plan for E. J. Zimmerman dated September 23,
+  2004 (filed as Exhibit 10.14 to the Company s Annual Report on Form 10-K for
+  the fiscal year ended September 25, 2004, and incorporated herein by
+  reference).  
+
+10L-1+  
+
+Courier Corporation 2005 Stock Equity Plan for
+  Non-Employee Directors (filed January 19, 2005 as Exhibit 10.1 to the Company s
+  Registration Statement No. 333-122137 and incorporated herein by reference).  
+
+10L-2+  
+
+Form of Non-Qualified Stock Option Agreement for the
+  Courier Corporation 2005 Stock Equity Plan for Non-employee Directors (filed
+  as Exhibit 10.15 to the Company s Annual Report on Form 10-K for the fiscal
+  year ended September 25, 2004, and incorporated herein by reference).  
+
+10L-3+  
+
+Form of Stock Unit Agreement for the Courier
+  Corporation 2005 Stock Equity Plan for Non-employee Directors (filed as
+  Exhibit 10.16 to the Company s Annual Report on Form 10-K for the fiscal year
+  ended September 25, 2004, and incorporated herein by reference).  
+
+10M  
+
+Stock Purchase Agreement by and among Courier
+  Corporation and the stockholders of Book-mart Press, Inc., dated as of July
+  21, 1997 (filed as Exhibit 2.1 to the Company s Current Report on Form 8-K
+  dated July 21, 1997, and incorporated herein by reference).  
+
+10N-1+  
+
+Courier Corporation Deferred Compensation Program
+  dated November 6, 1997 including Messrs. Conway III, Nichols, and Story
+  (filed as Exhibit 10 to the Company s Quarterly Report on Form 10-Q for the
+  period ended December 27, 1997, and incorporated herein by reference).  
+
+10N-2+  
+
+Amendment to Courier Corporation Deferred
+  Compensation Program, effective January 1, 2005 (filed as
+  Exhibit 10.1 to the Company s Current Report on Form 8-K on
+  December 7, 2005, and incorporated herein by reference).  
+
+10O  
+
+Master Lease Finance Agreement, dated as of
+  September 23, 1998 between Courier Corporation and General Electric Capital
+  Corporation (filed as Exhibit 10R to the Company s Annual Report on Form 10-K
+  for the fiscal year ended September 26, 1998, and incorporated herein by
+  reference).  
+
+10P  
+
+Stock Purchase Agreement by and among Courier
+  Corporation, Mrs. Blanche Cirker, individually, the Estate of Hayward Francis
+  Cirker, by Blanche Cirker, executrix, and each of the stockholders of Dover
+  Publications, Inc., Dover Book Store Inc. and Transfolio Express, Inc. dated
+  as of August 14, 2000 (filed as Exhibit 2.1 to the Company s Current Report
+  on Form 8-K dated September 22, 2000, and incorporated herein by reference).  
+
+24     
+
+10Q 
+
+Master Lease Finance Agreement, dated as of
+  September 25, 2000 between Courier Corporation and Eastern Bank (filed as
+  Exhibit 10T to the Company s Annual Report on Form 10-K for the fiscal year
+  ended September 30, 2000, and incorporated herein by reference).  
+
+10R+  
+
+Amendment, effective March 1, 2005, to the Courier
+  Corporation 1999 Employee Stock Purchase Plan (filed as Exhibit 10.1 to the
+  Company s Annual Report on Form 10-K for the fiscal year ended September 24,
+  2005, and incorporated herein by reference).  
+
+10S  
+
+Stock Purchase Agreement, dated April 27, 2006, by
+  and among Courier Corporation, Federal Marketing Corporation, d/b/a Creative
+  Homeowner ( Creative Homeowner ), and the stockholders of Creative Homeowner
+  (filed as Exhibit 10.1 to the Company s Current Report on Form 8-K on May 3,
+  2006, and incorporated herein by reference).  
+
+10T  
+
+Lease Agreement, dated April 27, 2006, between
+  Courier Corporation and Thomas Minor Associates, LLC (filed as Exhibit 10.2
+  to the Company s Current Report on Form 8-K on May 3, 2006, and incorporated
+  herein by reference).  
+
+21*  
+
+Schedule of Subsidiaries.  
+
+23*  
+
+Consent of Deloitte   Touche LLP, independent
+  registered public accounting firm.  
+
+31.1*  
+
+Certification of Chief Executive Officer pursuant to
+  15 U.S.C. Section 10A, as adopted pursuant to Section 302 of the
+  Sarbanes-Oxley Act of 2002.  
+
+31.2*  
+
+Certification of Chief Financial Officer pursuant to
+  15 U.S.C. Section 10A, as adopted pursuant to Section 302 of the
+  Sarbanes-Oxley Act of 2002.  
+
+32.1*  
+
+Certification of Chief Executive Officer pursuant to
+  18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+  Sarbanes-Oxley Act of 2002.  
+
+32.2*  
+
+Certification of Chief Financial Officer pursuant to
+  18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+  Sarbanes-Oxley Act of 2002.  
+
+* Exhibit is furnished herewith.  
+
+  + Designates a Company compensation plan or arrangement.  
+
+25     
+
+SIGNATURES   
+
+  Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of
+1934, the Company has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized, on December 7, 2006.  
+
+  COURIER
+CORPORATION  
+
+By: 
+
+s/James F. Conway III   
+
+James F. Conway III  
+
+Chairman, President and Chief Executive
+  Officer  
+
+By:  
+
+s/Peter M. Folger   
+
+Peter M. Folger  
+
+Senior Vice President and Chief
+  Financial Officer  
+
+By:  
+
+s/Kathleen M. Leon   
+
+Kathleen M. Leon  
+
+Controller  
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has
+been signed below by the following persons on behalf of the registrant in the
+capacities indicated, on December 7, 2006.  
+
+s/James F. Conway III  
+
+s/George Q. Nichols   
+
+James F. Conway III  
+
+George Q. Nichols  
+
+Chairman, President and  
+
+Director  
+
+Chief Executive Officer  
+
+s/Kathleen Foley Curley   
+
+s/Ronald L. Skates   
+
+Kathleen Foley Curley 
+
+Ronald L. Skates  
+
+Director  
+
+Director  
+
+s/Richard K. Donahue   
+
+s/Robert P. Story, Jr.   
+
+Richard K. Donahue  
+
+Robert P. Story, Jr.  
+
+Director  
+
+Director  
+
+s/Edward J. Hoff   
+
+s/W. Nicholas Thorndike   
+
+Edward J. Hoff  
+
+W. Nicholas Thorndike  
+
+Director  
+
+Director  
+
+s/Arnold S. Lerner   
+
+s/Susan L. Wagner   
+
+Arnold S. Lerner  
+
+Susan L. Wagner  
+
+Director  
+
+Director  
+
+s/Peter K. Markell   
+
+Peter K. Markell  
+
+Director  
+
+26  
+
+REPORT OF INDEPENDENT REGISTERED
+PUBLIC ACCOUNTING FIRM     
+
+  To the Board of Directors and Stockholders of Courier Corporation 
+ North Chelmsford, Massachusetts   
+
+  We have audited the accompanying consolidated balance sheets of Courier
+Corporation and subsidiaries (the  Company ) as of September 30, 2006 and
+September 24, 2005, and the related consolidated statements of income,
+stockholders  equity, and cash flows for each of the three years in the period
+ended September 30, 2006.  Our audits also included the financial
+statement schedule listed in the Index at Item 15(a)2.  These financial statements and financial
+statement schedule are the responsibility of the Company s management. 
+Our responsibility is to express an opinion on these financial statements and
+financial statement schedule based on our audits.  
+
+  We conducted our audits in accordance with the standards of the Public
+Company Accounting Oversight Board (United States).  Those standards
+require that we plan and perform the audit to obtain reasonable assurance about
+whether the financial statements are free of material misstatement.  An
+audit includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements.  An audit also includes assessing
+the accounting principles used and significant estimates made by management, as
+well as evaluating the overall financial statement presentation.  We
+believe that our audits provide a reasonable basis for our opinion.  
+
+  In our opinion, such consolidated financial statements present fairly,
+in all material respects, the financial position Courier Corporation and
+subsidiaries as of September 30, 2006 and September 24, 2005, and the results
+of their operations and their cash flows for each of the three years in the
+period ended September 30, 2006, in conformity with accounting principles
+generally accepted in the United States of America.  Also, in our opinion, such financial
+statement schedule, when considered in relation to the basic consolidated
+financial statements taken as a whole, presents fairly, in all material
+respects, the information set forth therein.  
+
+  We have also audited, in accordance with the standards of the Public
+Company Accounting Oversight Board (United States), the effectiveness of the
+Company s internal control over financial reporting as of September 30, 2006,
+based on the criteria established in  Internal
+Control Integrated Framework  issued by the Committee of Sponsoring
+Organizations of the Treadway Commission and our report dated December 7, 2006
+expressed an unqualified opinion on management s assessment of the
+effectiveness of the Company s internal control over financial reporting and an
+unqualified opinion on the effectiveness of the Company s internal control over
+financial reporting.  
+
+  As discussed in Note F, in fiscal 2006 the Company adopted SFAS 123R  Share
+Based Payments  applying the modified retrospective method to all prior
+periods.  
+
+   DELOITTE   TOUCHE LLP   
+
+  Boston, Massachusetts 
+December 7, 2006  
+
+F-  1     
+
+COURIER
+CORPORATION   
+
+   CONSOLIDATED STATEMENTS OF INCOME     
+
+The
+accompanying notes are an integral part of the consolidated financial
+statements.   
+
+Fiscal year 2006 was a 53-week
+period.  Prior year amounts have been
+retroactively adjusted to reflect adoption of SFAS 123R (Notes A and F).   
+
+F-  2     
+
+COURIER
+CORPORATION   
+
+   CONSOLIDATED BALANCE SHEETS     
+
+The
+accompanying notes are an integral part of the consolidated financial
+statements.   
+
+Prior year amounts have been
+retroactively adjusted to reflect adoption of SFAS 123R (Notes A and F).   
+
+F-  3     
+
+COURIER
+CORPORATION   
+
+   CONSOLIDATED BALANCE SHEETS   
+
+The accompanying notes are an integral part of the
+consolidated financial statements.   
+
+   Prior year amounts have been retroactively adjusted
+to reflect adoption of SFAS 123R (Notes A and F).   
+
+F-  4     
+
+COURIER
+CORPORATION   
+
+   CONSOLIDATED STATEMENTS OF CASH FLOWS     
+
+The
+accompanying notes are an integral part of the consolidated financial
+statements.   
+
+Prior
+year amounts have been retroactively adjusted to reflect adoption of SFAS 123R
+(Notes A and F).   
+
+F-  5     
+
+COURIER
+CORPORATION   
+
+   CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS  EQUITY     
+
+The
+accompanying notes are an integral part of the consolidated financial
+statements.   
+
+Prior
+year amounts have been retroactively adjusted to reflect adoption of SFAS 123R
+(Notes A and F).   
+
+F-  6     
+
+NOTES TO
+CONSOLIDATED FINANCIAL STATEMENTS     
+
+   A.  Summary of Significant
+Accounting Policies   
+
+   Business:    Courier Corporation and its subsidiaries
+( Courier  or the  Company ) print, publish and sell books.  Courier has two business segments: book
+manufacturing and specialty book publishing. 
+On April 28, 2006, the Company acquired Federal Marketing
+Corporation, d/b/a Creative Homeowner ( Creative Homeowner ), a New
+Jersey-based publisher and distributor of books, home plans, and related
+products for the home and garden retail book market. On October 17, 2005, the
+Company acquired Moore-Langen Printing Company, Inc. ( Moore Langen ) an
+Indianapolis-based printer specializing in manufacturing book covers.  On
+January 6, 2004, Courier purchased substantially all of the assets of Research
+  Education Association, Inc. ( REA ). 
+Both Creative Homeowner and REA are included in the specialty publishing
+segment and Moore Langen is included in the Book Manufacturing segment (see
+Note H). 
+
+   Principles of Consolidation and Presentation:   The consolidated financial statements, prepared
+on a fiscal year basis, include the accounts of Courier Corporation and its
+subsidiaries after elimination of all significant intercompany
+transactions.  Such financial statements
+have been prepared in conformity with accounting principles generally accepted
+in the United States of America ( generally accepted accounting
+principles ).  Fiscal year 2006 was a
+53-week period compared with fiscal years 2005 and 2004, which were 52-week
+periods. 
+
+   Financial Instruments:   Financial instruments consist primarily of cash, accounts receivable,
+accounts payable and debt obligations. 
+The Company classifies as cash and cash equivalents amounts on deposit
+in banks and cash invested temporarily in various instruments with maturities
+of three months or less at time of purchase. 
+At September 30, 2006 and September 24, 2005, the fair market value of
+the Company s financial instruments approximated their carrying values.  Interest income from these instruments was
+$450,000 in 2006, $666,000 in 2005, and $230,000 in 2004 and is included in the
+caption  Interest (income) expense, net  in the accompanying Consolidated
+Statements of Income. 
+
+   Property, Plant and Equipment:   Property, plant and equipment are recorded at cost, including interest
+on funds borrowed to finance the acquisition or construction of major capital
+additions.  No interest was capitalized
+in 2006 and 2005; interest capitalized in 2004 was $74,000.  The Company provides for depreciation of
+property, plant and equipment on a straight-line basis over periods ranging
+from 10 to 40 years on buildings and improvements and from 3 to 11 years on
+equipment and furnishings. 
+
+  Leasehold improvements
+are amortized on a straight-line basis over the shorter of their useful life or
+the term of the lease.  Expenditures for
+maintenance and repairs are charged against income as incurred; betterments
+that increase the value or materially extend the life of the related assets are
+capitalized.  When assets are sold or
+retired, the cost and accumulated depreciation are removed from the accounts
+and any gain or loss is included in income.  
+
+F-  7     
+
+Goodwill and Other Intangibles:   The Company evaluates possible impairment
+annually or whenever events or circumstances indicate that the carrying value
+of the assets may not be recoverable. There were no such events or
+circumstances in the periods presented. 
+In fiscal 2006, goodwill and other intangibles increased as a result of
+the acquisitions of Moore Langen and Creative Homeowner (Note H).  The following table reflects the fiscal 2006
+changes in both goodwill and other intangibles: 
+
+* Net of accumulated
+amortization of $2.1 million in the book manufacturing segment and $0.9 million
+in the specialty publishing segment.  
+
+  Customer lists for Moore
+Langen and Creative Homeowner are being amortized over 10-year and 15-year
+periods, respectively.  Annual
+amortization expense for the next five years will be approximately $800,000.  
+
+   Long-Lived Assets:   Management periodically reviews long-lived assets for impairment and does
+not believe that there is any material impairment of any asset of the Company. 
+
+   Prepublication Costs:   Prepublication costs, associated with the creating new titles in the
+specialty publishing segment, are amortized to cost of sales using the
+straight-line method over estimated useful lives of three years for REA, four
+years for Dover Publications, Inc. ( Dover ), and five years for Creative
+Homeowner. 
+
+   Income Taxes:  
+Deferred income tax liabilities and assets are determined based upon the
+differences between the financial statement and tax bases of assets and
+liabilities, and are measured by applying enacted tax rates and laws for the
+taxable years in which these differences are expected to reverse. 
+
+   Revenue Recognition:   Revenue is recognized upon shipment of goods to customers or upon the
+transfer of ownership for those customers for whom the Company provides
+manufacturing and distribution services. 
+Revenue for distribution services is recognized as services are
+provided.  Shipping and handling fees
+billed to customers are classified as revenue. 
+
+F-  8     
+
+Use of Estimates:   The
+process of preparing financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions
+that affect the reported amounts at the date of the financial statements.  Actual results may differ from these
+estimates. 
+
+   Net Income per Share:   Basic net income per share is based on the weighted average number of
+common shares outstanding each period. 
+Diluted net income per share also includes potentially dilutive items
+such as stock options (Note K). 
+
+   Stock Split:   On
+May 27, 2005, the Company distributed a three-for-two stock split, effected in
+the form of a 50% stock dividend. 
+Previously authorized but unissued shares were used to effect the stock
+dividend.  Weighted average shares
+outstanding and per share amounts presented in the accompanying financial
+statements for periods prior to the stock split reflect the effect of the stock
+split. 
+
+   Adoption of New Accounting
+Principle:    As more fully discussed in Note F below, the
+Company adopted Statement of Financial Accounting Standards No. 123R,
+ Share-Based Payment  ( SFAS 123R ).  The
+effective date of this new standard was the beginning of the Company s 2006
+fiscal year.  The Company implemented
+this new standard on a retrospective basis.    Under this new standard, companies
+are required to account for stock-based compensation transactions using a
+fair-value method and to recognize the expense over the service period. 
+
+   New Accounting Pronouncements:   In July 2006, the FASB
+issued Interpretation No. 48,  Accounting for Uncertainty in Income Taxes 
+( FIN No. 48 ), an interpretation of FASB Statement No. 109,  Accounting for
+Income Taxes.   FIN No. 48 applies to
+fiscal years beginning after December 15, 2006; the Company s 2008 fiscal
+year.  The Company does not believe the
+adoption of FIN No. 48 will have a material effect on its consolidated
+financial position, results of operations or cash flows. 
+
+   B.
+Inventories   
+
+  Inventories are valued at
+the lower of cost or market. Cost is determined using the last-in, first-out
+(LIFO) method for approximately 37% and 41% of the Company s inventories at
+September 30, 2006 and September 24, 2005, respectively.  Other inventories, primarily in the specialty
+publishing segment, are determined on a first-in, first-out (FIFO) basis.  
+
+F-  9     
+
+The acquisitions of Moore
+Langen and Creative Homeowner increased inventories by approximately $3.3
+million.  Inventories consisted of the
+following at September 30, 2006 and September 24, 2005:  
+
+On
+a FIFO basis, reported year-end inventories would have been higher by $5.5
+million in fiscal 2006 and $5.4 million in fiscal 2005.  
+
+   C.  Income Taxes   
+
+  The provision for income taxes differs from that computed using the
+statutory federal income tax rates for the following reasons:  
+
+During the fourth
+quarter of fiscal 2006, the Company reversed an income tax reserve for $3.8
+million pursuant to receipt of a state tax audit report and the expiration of
+certain statutory limitations.  
+
+  The provision for income taxes consisted of the following:  
+
+F-  10  
+
+The following is a
+summary of the significant components of the Company s deferred tax assets and
+liabilities as of September 30, 2006 and September 24, 2005:  
+
+The Company also has deferred tax assets for state net operating loss
+carryforwards of approximately $660,000 and $480,000 as of September 30, 2006
+and September 24, 2005, respectively, for which the Company has fully provided
+valuation allowances.  
+
+  Non-current deferred tax assets have been netted against non-current
+deferred tax liabilities for balance sheet classification purposes.  
+
+   D.  Long-Term Debt   
+
+  At September 30, 2006, the Company had $16.9 million in borrowings under
+its long-term revolving credit facility; no such debt was outstanding at
+September 24, 2005.  Other long-term debt
+at September 30, 2006 and September 24, 2005 consisted of an obligation under
+an industrial development bond arrangement totaling $425,000 and $510,000,
+respectively, including current maturities of $88,000 and $85,000,
+respectively.  This industrial bond
+arrangement bears interest at 3%. At September 30, 2006, scheduled
+aggregate principal payments of these obligations were $88,000 in 2007, $91,000
+in 2008, $16,978,000 in 2009, $96,000 in 2010, and $57,000 in 2011.  The industrial bond arrangement provides for
+a lien on the assets acquired with the proceeds.  
+
+  The Company has a $60 million long-term revolving credit facility in
+place under which the Company can borrow at a rate not to exceed LIBOR plus
+1.5%; such rate was 5.8% at September 30, 2006. During 2006, the Company
+increased the amount available under this facility from $45 million to $60
+million and extended the maturity date of this facility to March 2009.  The revolving credit facility is available to
+the Company for both its long-term and short-term financing needs.  
+
+F-  11     
+
+The revolving credit facility contains restrictive covenants including
+provisions relating to the maintenance of working capital, the level of capital
+expenditures, the incurring of additional indebtedness and a quarterly test of
+EBITDA to debt service.  It also provides
+for a commitment fee not to exceed 3/8% per annum on the unused portion.  These fees are included in the caption  Interest
+(income) expense, net  in the accompanying Consolidated Statements of Income.  
+
+   E.  Commitments and Contingencies   
+
+  The Company is committed under various operating leases to make annual
+rental payments for certain buildings and equipment. Amounts charged to
+operations under such leases approximated $3,108,000 in 2006, $3,363,000 in
+2005 and $3,902,000 in 2004.  As of September
+30, 2006, minimum annual rental commitments under the Company s long-term
+operating leases were approximately $3,103,000 in 2007, $2,282,000 in 2008,
+$1,445,000 in 2009, $1,433,000 in 2010, $623,000 in 2011, and $1,546,000 in the
+aggregate thereafter.  The Company leases
+one of its facilities from a corporation owned in part by an executive of one
+of the Company s subsidiaries.  The lease
+agreement requires annual payments of approximately $276,000 through July
+2007.  At September 30, 2006 and
+September 24, 2005, the Company had letters of credit outstanding of $1,270,000
+and $1,318,000, respectively.  
+
+  In the ordinary course of business, the Company is subject to various
+legal proceedings and claims.  The
+Company believes that the ultimate outcome of these matters will not have a
+material adverse effect on its consolidated financial statements.  
+
+   F. 
+Stock Arrangements   
+
+  In the first quarter of
+fiscal 2006, the Company adopted the provisions of SFAS 123R.  All prior periods presented have been
+restated on a retrospective basis consistent with the pro forma disclosures
+required for those periods by SFAS No. 123,  Accounting for Stock-Based
+Compensation  ( SFAS 123 ), as amended by SFAS No. 148.  Prior to the adoption of SFAS 123R, the
+Company applied APB 25 to account for its stock-based awards.  Under APB 25, the Company generally only
+recorded stock-based compensation expense for the vesting of stock grants as
+well as shares issued to directors in lieu of cash for annual retainer fees.  Under the provisions of APB 25, the Company
+was not required to recognize compensation expense for the cost of stock
+options or for shares issued under the Company s Employee Stock Purchase Plan ( ESPP ).  Beginning with its 2006 fiscal year, with the
+adoption of SFAS 123R, the Company recorded stock-based compensation expense
+for the cost of stock options, stock grants, and shares issued under the ESPP.
+The fair value of each option awarded was calculated on the date of grant using
+the Black-Scholes option-pricing model.  
+
+F-  12     
+
+Incremental
+stock-based compensation recognized in selling and administrative expenses in
+the accompanying financial statements, and the related tax benefit, were as
+follows:  
+
+The following table
+provides information on the impact on the accompanying income statements of
+adopting SFAS 123R on a retrospective basis.  
+
+Unrecognized stock-based
+compensation cost at September 30, 2006 was $1.7 million to be recognized over
+a weighted-average period of 2.3   years.  
+
+  The cumulative effect of
+the adoption of SFAS 123R on the Company s consolidated balance sheet at
+September 27, 2003 resulted in an increase in additional paid-in capital of
+$3,177,000, a reduction in retained earnings of $3,233,000, elimination of
+unearned compensation of $350,000, and a reduction in deferred income tax
+liabilities of $294,000.  
+
+   Stock Incentive Plan:   The Company s stock incentive plan provides for the granting of stock
+options and stock grants up to a total of 2,064,375 shares.  Under the plan provisions, both non-qualified
+and incentive stock options to purchase shares of the Company s common stock
+may be granted to key employees.  The
+option price per share may not be less than the fair market value of stock at
+the time the option is granted and incentive stock options must expire not
+later than ten years from the date of grant. 
+The Company annually issues a combination of stock options and stock
+grants to its key employees.  Prior to
+2004, stock-based awards to key employees consisted primarily of stock
+options.  Beginning in 2004, the Company
+reduced the number of stock options granted and added restricted stock awards.
+Stock options awarded in 2004 vested 
+
+F-  13     
+
+in one year.  Stock options awarded
+in 2005 and 2006 vest over three years. Stock grants generally vest over 3
+years. The following is a summary of all option activity for this plan:  
+
+There were 26,078 non-vested restricted stock grants outstanding at the
+beginning of fiscal 2006 with a weighted-average fair value of $26.65 per
+share.  During 2006, 16,673 restricted
+stock awards were granted with a weighted-average fair value of $40.01 per
+share, of which 2,000 shares were forfeited. 
+There were 4,781 restricted stock grants that vested in 2006 with a
+weighted-average fair value of $12.60 per share.  At September 30, 2006, there were 35,970
+non-vested stock grants outstanding with a weighted-average fair value of
+$33.77.  
+
+   Directors  Option Plan:   In January 2005, stockholders approved the Courier Corporation 2005
+Stock Equity Plan for Non-Employee Directors (the  2005 Plan ). Under the plan
+provisions, non-qualified stock options to purchase shares of the Company s
+common stock may be granted to non-employee directors up to a total of 225,000
+shares.  The option price per share is
+the fair market value of stock at the time the option is granted.  The options are immediately exercisable and
+have a term of five years. The 2005 Plan replaced the previous non-employee
+directors  plan which had been adopted in 1989 (the  1989 Plan ).  The 1989 Plan allowed directors to make an
+election to apply their annual retainer fee toward the granting of stock
+options at a price per share that was $5 below the fair market value at the
+time of the option award.  In the first
+quarter of 
+
+F-  14     
+
+fiscal 2005, 9,000 options were granted under the 1989 Plan. No further
+options will be granted under the 1989 Plan. The following is a summary of all
+option activity for these plans:  
+
+Directors may also elect to receive their annual retainer and committee
+chair fees as shares of stock in lieu of cash. 
+Such shares issued in 2006 and 2005 were 5,504 shares and 4,062 shares
+at a fair market value of $36.34 and $34.49, respectively.  
+
+   Employee Stock Purchase Plan:   The Company s 1999 Employee Stock Purchase Plan ( ESPP ), as amended,
+covers an aggregate of 337,500 shares of Company common stock for issuance
+under the plan.  Eligible employees may
+purchase shares of Company common stock at not less than 85% of fair market
+value at the end of the grant period. 
+Prior to 2005, the purchase price was determined based upon 85% of fair
+market value at the beginning or end of the grant period.  During 2006, 2005, and 2004, 18,433 shares,
+21,439 shares, and 26,184 shares, respectively, were issued under the plan at an
+average price of $32.36 per share, $26.49 per share, and $21.25 per share,
+respectively.  Since inception, 236,324   shares have been issued. 
+At September 30, 2006, an additional 101,176 shares were reserved for
+future issuances. 
+
+   Stockholders  Rights Plan:   In March 1999, the Board of Directors adopted a ten-year stockholders 
+rights plan.  Under the plan, the Company s
+stockholders of record at March 19, 1999 received a right to purchase a unit ( Unit )
+comprised of one one-thousandth of a share of preferred stock for each share of
+common stock held on that date at a price of $100, subject to adjustment.  Until such rights become exercisable, one
+such right will also attach to subsequently issued shares of common stock.  The rights become exercisable if a person or
+group acquires 15% or more of the Company s common stock or after commencement
+of a tender or exchange offer which would result in a person or group
+beneficially owning 15% or more of the Company s common stock.  When exercisable, under certain conditions,
+each right entitles the holder thereof to purchase Units of the Company s
+preferred stock or shares of common stock of the acquirer, in each case having
+a market value at that time of twice the right s exercise price.  
+
+F-  15     
+
+The Board of Directors will be entitled to redeem the rights at one cent
+per right, under certain circumstances. 
+The rights expire in 2009.  
+
+   Stock-Based Compensation:   The fair value of each option grant was estimated on the date of the
+grant using the Black-Scholes option-pricing model. 
+
+  The
+following key assumptions were used to value options issued:  
+
+The following is a summary of the weighted average fair value per share
+of options granted during each of the past three fiscal years, based on the
+Black-Scholes option-pricing model.  
+
+G.  Retirement Plans   
+
+  The Company and its consolidated subsidiaries maintain various defined
+contribution retirement plans covering substantially all of its employees.  Dover, acquired in September 2000, also
+provides retirement benefits through a defined benefit plan ( the Dover plan )
+as described below.  
+
+  Retirement costs of
+multi-employer union plans consist of contributions determined in accordance
+with the respective collective bargaining agreements.  Retirement benefits for non-union employees
+are provided through the Courier Profit Sharing and Savings Plan, which
+includes an Employee Stock Ownership Plan ( ESOP ).  Retirement costs included in the accompanying
+financial statements amounted to approximately $3,870,000 in 2006, $3,820,000
+in 2005 and $3,300,000 in 2004.  
+
+  The Courier Profit Sharing and Savings Plan ( PSSP ) is qualified under
+Section 401(k) of the Internal Revenue Code. 
+The plan allows eligible employees to contribute up to 100% of their
+compensation, subject to IRS limitations, with the Company matching 25% of the
+first 6% of pay contributed by the employee. 
+The Company also makes contributions to the plan annually based on
+profits each year for the benefit of all eligible non-union employees.  
+
+F-  16     
+
+Shares of Company common stock may be allocated to participants  ESOP
+accounts annually based on their compensation as defined in the plan.  During 2006,   2005
+and 2004, no such shares were allocated to eligible participants.  At September 30, 2006, the ESOP held 397,500   shares on behalf of the participants.  
+
+  Dover has a noncontributory, defined benefit pension plan
+covering substantially all of its employees. As of December 31, 2001, Dover
+employees became eligible to participate in the PSSP.  As such, plan benefits under the Dover
+defined benefit plan were frozen as of that date. No contributions have been
+made to the Dover plan for any of the past three years.  In 2007, contributions are expected to be
+$19,000.  
+
+  The following tables provide information regarding the Dover
+plan for the years ended September 30, 2006 and September 24, 2005.  
+
+  Change in projected benefit obligation:  
+
+Benefit payments in each
+of the next five years are projected to be $262,000, $255,000, $245,000,
+$268,000 and $264,000. Aggregate payments for the 2011-2015 period are
+estimated to be $1,295,000.  
+
+  Change in plan assets:  
+
+Plan assets were invested entirely in Guaranteed Insurance
+Contracts in 2006 and 2005.  
+
+  Reconciliation of funded status:  
+
+F-  17     
+
+Components of the net periodic benefit cost:  
+
+Actuarial
+assumptions used to determine costs and benefit obligations:  
+
+The Company s strategy is
+to achieve a long-term rate of return sufficient to satisfy plan liabilities
+while minimizing plan expenses and mitigating downside risks. Assets are
+currently allocated 100% to Guaranteed Insurance Contracts, however the Company
+reviews this weighting from time to time in order to achieve overall objectives
+in light of current circumstances.  
+
+  The expected long-term
+rate of return on assets of 7% was determined based on historical returns for
+investments consistent with Plan objectives, but weighted primarily towards
+investments in debt securities. While actual returns in 2006 and 2005 were
+below the assumed rate of return, the assumed rate gives consideration to
+historical longer-term rates.  
+
+  Prepaid pension cost at
+September 30, 2006 and September 24, 2005 is included in the accompanying
+consolidated balance sheet under the caption  Other assets.   
+
+   H. Business Acquisitions   
+
+  On
+April 28, 2006, the Company acquired Federal Marketing Corporation, d/b/a
+Creative Homeowner ( Creative Homeowner ), a New Jersey-based publisher and
+distributor of books, home plans, and related products for the home and garden
+retail book market. The Company purchased 100% of the stock of Creative
+Homeowner in a $37 million cash transaction. The acquisition was accounted for
+as a purchase, and accordingly, Creative Homeowner s financial results were
+included in the specialty publishing segment in the consolidated financial
+statements from the date of acquisition. 
+The allocation of the purchase price to assets acquired included, in the
+accompanying financial statements, approximately $16.6 million to goodwill,
+$11.5 million to customer lists, and $1.4 million to trade name. Goodwill
+deductible for tax purposes is approximately $16 million.  Other assets acquired included $7.5 million
+of accounts receivable and $2.9 million of inventories.  Accounts payable and other current
+liabilities assumed were $4.9 million and $2.1 million, respectively.  
+
+  The
+following unaudited pro forma information presents a summary of consolidated
+results of operations of the Company and Creative Homeowner as if the
+acquisition had occurred at the   
+
+F-  18     
+
+beginning
+of fiscal 2006 and 2005, with pro forma adjustments to give effect to
+amortization of customer lists, interest expense on acquisition debt and
+certain other purchase accounting adjustments, together with related income tax
+effects.  
+
+On October 17, 2005, the
+Company acquired Moore-Langen Printing Company, Inc. ( Moore Langen ), an
+Indianapolis-based printer specializing in manufacturing book covers, in a $15
+million cash transaction.  The
+acquisition was accounted for as a purchase, and accordingly, Moore Langen s
+financial results were included in the book manufacturing segment in the
+consolidated financial statements from the date of acquisition.  The allocation of the purchase price to
+assets acquired included, in the accompanying financial statements,
+approximately $5.5 million to goodwill, which is tax deductible, $0.9 million
+to trade name, and $230,000 to customer lists.  
+
+  On January 6, 2004, the
+Company purchased substantially all of the assets of Research   Education
+Association ( REA ), a publisher of test preparation and study guide books and
+software for high school, college and graduate students, and
+professionals.  The acquisition was
+accounted for as a purchase, and accordingly, REA s financial results were
+included in the specialty publishing segment in the consolidated financial
+statements from the date of acquisition. 
+The purchase price was approximately $12 million, with an allocation of
+approximately $8.4 million to goodwill and $0.7 million to prepublication costs
+in the accompanying financial statements. In addition, a required purchase
+accounting adjustment was made to write up inventory by approximately $1
+million to fair market value when REA was acquired.  
+
+   I.  Business Segments   
+
+  The Company has two business segments: book manufacturing and specialty
+publishing. The book manufacturing segment offers a full range of services from
+production through storage and distribution for religious, educational and
+specialty trade book publishers.  The
+Company has aggregated its book manufacturing business into one segment because
+of strong similarities in the economic characteristics, the nature of products
+and services, production processes, class of customer and distribution methods
+used. Moore Langen, acquired in October 2005, was added to this segment in
+fiscal 2006.  The specialty publishing
+segment consists of Dover, REA, beginning with the second quarter of fiscal
+2004, and Creative Homeowner, beginning with its acquisition in April 2006 (see
+Note H).  
+
+  The accounting policies of the segments are the same as those described
+in Note A.  In evaluating segment
+performance, management primarily focuses on income or loss before taxes,
+stock-based compensation, and other income. The elimination of intersegment
+sales and related profit represents sales from the book manufacturing segment
+to the specialty publishing segment. 
+Interest is allocated to the specialty publishing segment based on the
+acquisition costs of Dover, REA, and Creative Homeowner, reduced by cash
+generated by each business since acquisition. 
+
+F-  19     
+
+Interest allocated to the book manufacturing segment includes costs
+associated with funding the Moore Langen acquisition.  Stock-based compensation is reflected as  unallocated 
+in the following table.  Other income,
+discussed in Note J, is also reflected as  unallocated.  Corporate expenses
+that are allocated to the segments include various support functions such as
+information technology services, finance, human resources and engineering, and
+include depreciation and amortization expense related to corporate assets.  The corresponding corporate asset balances
+are not allocated to the segments.  Unallocated
+corporate assets consist primarily of cash and cash equivalents and fixed
+assets used by the corporate support functions.  
+
+  The following table provides segment information as required
+under SFAS No. 131,  Disclosures about Segments of an Enterprise and Related
+Information.   
+
+F-  20  
+
+Export sales as a percentage of consolidated sales were approximately 19%
+in 2006 and 21% in both 2005 and 2004. 
+Approximately 90% of export sales were in the book manufacturing segment
+in fiscal years 2006, 2005, and 2004. 
+Sales to the Company s largest customer amounted to approximately 23%   of consolidated sales in 2006, 28% in 2005 and 27% in 2004.
+In addition, sales to another customer amounted to 16% of consolidated sales in
+2006, 19% in 2005 and 17% in 2004.  Both
+of these customers are in the book manufacturing segment and no other customer
+accounted for more than 10% of consolidated sales.  Customers are granted credit on an unsecured
+basis.  Receivables for the two largest
+customers, as a percentage of consolidated accounts receivable, were 24% at
+September 30, 2006 and 23% at September 24, 2005.  
+
+   J.  Other Income   
+
+   On May 26, 2004, the Company completed the sale of  approximately
+200,000 square feet of unoccupied and unutilized portions of its multi-building
+manufacturing complex in Westford, Massachusetts for $1.7 million, resulting in
+a pretax gain of $250,000, or $.01 per diluted share.  
+
+   K.  Net
+Income per Share   
+
+  Following is a reconciliation of the shares used in the
+calculation of basic and diluted net income per share.  Potentially dilutive shares, calculated using
+the treasury stock method, consist of shares issued under the Company s stock
+option plans.  
+
+L.  Derivative Financial Instruments   
+
+  At the end of fiscal
+2006, the Company had a forward exchange contract to purchase approximately 800,000
+euros as a hedge against a foreign currency equipment purchase commitment,
+designated as a cash flow hedge.  The
+Company does not use financial instruments for trading or speculative purposes.  
+
+   M.  Subsequent
+Event   
+
+  On November 9, 2006, the
+Company increased its revolving credit facility to $100 million.  In addition, the bank group was expanded from
+three banks to five banks and the maturity date of this facility was extended
+to March 2011.  
+
+F-  21     
+
+COURIER CORPORATION  
+
+FIVE-YEAR
+FINANCIAL SUMMARY  
+
+Prior year amounts have been retroactively adjusted to
+reflect the adoption of SFAS 123R (Notes A and F).   
+
+   Net income per diluted share is based on weighted average
+shares outstanding; stockholders  equity per share is based on shares
+outstanding at year end. Shares outstanding and per share amounts have been
+retroactively adjusted to reflect three-for-two stock splits distributed on May
+27, 2005 and December 5, 2003 (Note A).   
+
+   Net sales, gross profit, net income, net income per diluted
+share and return on stockholders  equity for 2003 and 2002 reflect continuing
+operations.  Results from a discontinued
+operation were income of $848,000 (including a gain on disposal) in 2003 and a
+loss of $120,000 in 2002.   
+
+*                         Fiscal 2006 was a 53-week
+period.  Fiscal 2006 results include the
+reversal of a $3.8 million, or $.30 per diluted  share, income tax
+reserve (Note C).  
+
+F-  22     
+
+COURIER CORPORATION  
+
+SELECTED QUARTERLY
+FINANCIAL DATA (UNAUDITED)  
+
+Diluted
+share amounts are based on weighted average shares outstanding.  Per share amounts and stock prices have been   
+
+   retroactively adjusted to reflect a three-for-two
+stock split distributed on May 27, 2005 (see Notes A and K).   
+
+   Common shares of the Company are traded over-the-counter on
+the Nasdaq National Market - symbol  CRRC.    
+
+   There were 985 stockholders of record as of September
+30, 2006.   
+
+(1)            Two cash dividends were
+declared in the second quarter of fiscal 2005. The second dividend, declared in
+March 2005, was announced in conjunction with a three-for-two stock split (see
+Note A).  As such, no cash dividend was
+declared in the third quarter of fiscal 2005.  
+
+F-  23     
+
+MANAGEMENT S DISCUSSION AND ANALYSIS   
+
+    FORWARD-LOOKING INFORMATION    
+
+   The Annual
+Report to shareholders includes forward-looking statements.  Statements that describe future expectations,
+plans or strategies are considered  forward-looking statements  as that term is
+defined under the Private Securities Litigation Reform Act of 1995 and releases
+issued by the Securities and Exchange Commission.  The words  believe ,  expect ,  anticipate ,  intend ,
+ estimate  and other expressions which are predictions of or indicate future
+events and trends and which do not relate to historical matters identify
+forward-looking statements.  Such
+statements are subject to risks and uncertainties that could cause actual
+results to differ materially from those currently anticipated.  Factors that could affect actual results
+include, among others, changes in customers  demand for the Company s products,
+including seasonal changes in customer orders, changes in raw material costs
+and availability, pricing actions by competitors, consolidation among customers
+and competitors, success in the integration of acquired businesses, changes in
+operating expenses including energy costs, changes in technology, difficulties
+in the start up of new equipment or information technology systems, changes in
+copyright laws, changes in tax regulations, changes in the Company s effective
+income tax rate, and general changes in economic conditions, including currency
+fluctuations and changes in interest rates. 
+Although the Company believes that the assumptions underlying the
+forward-looking statements are reasonable, any of the assumptions could be
+inaccurate, and therefore, there can be no assurance that the forward-looking
+statements will prove to be accurate. 
+The forward-looking statements included herein are made as of the date
+hereof, and the Company undertakes no obligation to update publicly such
+statements to reflect subsequent events or circumstances.   
+
+   OVERVIEW   
+
+  Courier
+Corporation, founded in 1824, is one of America s leading book manufacturers
+and specialty publishers.  The Company
+has two business segments: book manufacturing and specialty publishing.  The book manufacturing segment streamlines
+the process of bringing books from the point of creation to the point of
+use.  Based on sales, Courier is the
+fifth largest book manufacturer in the United States and largest in the
+Northeast, offering services from prepress and production through storage and
+distribution.  The specialty publishing
+segment consists of Dover Publications, Inc. ( Dover ) and Research  
+Education Association, Inc. ( REA ), as well as the recent acquisition of
+Federal Marketing Corporation, d/b/a Creative Homeowner ( Creative Homeowner ).  Dover publishes over 9,000 titles in more
+than 30 specialty categories ranging from literature to paper dolls, and music
+scores to clip art.  REA publishes test
+preparation and study-guide books for high school, college and graduate students,
+and professionals.  Creative Homeowner
+publishes and distributes books, home plans and related products to the home
+and garden market.  
+
+F-  24     
+
+RESULTS OF OPERATIONS   
+
+  FINANCIAL
+HIGHLIGHTS  
+
+  (dollars in
+thousands except per share amounts)  
+
+Fiscal
+year 2006 was a 53-week period compared with 52-week periods in fiscal years
+2005 and 2004. The pro rata effect of the extra week contributed approximately
+2% to fiscal 2006 increases in comparison to fiscal 2005 results.  
+
+  Revenues
+in fiscal 2006 increased in both of the Company s operating segments compared
+to last year.  Acquisitions made during
+fiscal 2006 contributed positively to financial results, adding $24 million to
+sales and $.06 to earnings per diluted share. 
+Book manufacturing revenues were up 14% in fiscal 2006 compared to last
+year, reflecting higher textbook sales and the Moore Langen acquisition discussed
+below.  Sales in the specialty publishing
+segment for fiscal 2006 were up 43% compared to the prior year as a result of
+growth in both of the segment s existing businesses as well as the acquisition
+during the third quarter of Creative Homeowner. Net income was $28.4 million,
+which included $3.8 million, or $.30 per diluted share, from the reversal of
+tax accruals resulting from a state tax audit report received during the fourth
+quarter and the expiration of certain statutory limitations.  Without the effect of this tax accrual
+reversal, net income was $24.6 million, or $1.95 per diluted share, up 18% over
+fiscal 2005. In fiscal 2005, revenues were 7.5 % higher than the prior year,
+primarily due to growth in four-color textbooks to the education market.  
+
+     Business Acquisitions     
+
+  On April 28, 2006, the Company acquired Creative
+Homeowner, a New Jersey-based publisher and distributor of books, home plans,
+and related products for the $340-million home and garden retail book
+market.  On October 17, 2005, the Company
+acquired Moore-Langen Printing Company, Inc. ( Moore Langen ) an
+Indianapolis-based printer specializing in manufacturing book covers.  On January 6, 2004, the Company purchased
+substantially all of the assets of REA, a publisher of test preparation and
+study-guide books.  Each of these acquisitions
+was accounted for as a purchase, and accordingly, the financial results of
+Creative Homeowner and REA were included in the specialty publishing segment
+from the date of acquisition and the financial results of Moore Langen were
+included in the book manufacturing segment from the date of acquisition.  
+
+F-  25     
+
+Stock-Based Compensation     
+
+  In the first quarter of
+fiscal 2006, the Company adopted the provisions of Statement of Financial
+Accounting Standards 123R,  Share-Based Payment  ( SFAS 123R ), an accounting
+rule requiring the expensing of stock options. 
+All prior periods presented have been restated on a retrospective basis
+consistent with the pro forma disclosures required for those periods by SFAS
+No. 123,  Accounting for Stock-Based Compensation  ( SFAS 123 ).  Prior to the adoption of SFAS 123R, the
+Company applied APB 25 to account for its stock-based   awards.  Under APB 25, the Company generally only
+recorded stock-based compensation expense for the vesting of stock grants as
+well as shares issued to directors in lieu of cash for annual retainer
+fees.  Under the provisions of APB 25,
+the Company was not required to recognize compensation expense for the cost of
+stock options or for shares issued under the Company s Employee Stock Purchase
+Plan ( ESPP ).  Beginning with its 2006
+fiscal year, with the adoption of SFAS 123R, the Company recorded stock-based
+compensation   expense for the cost of stock
+options (using the Black-Scholes option-pricing model), stock grants, and
+shares issued under the ESPP. The incremental impact of adoption of this
+standard was a reduction in net income of approximately $784,000, $1,266,000
+and $1,306,000 in fiscal 2006, 2005 and 2004, respectively.  
+
+  The following table
+provides information on the impact on the accompanying income statements of
+adopting SFAS 123R on a retrospective basis.  
+
+Unrecognized
+stock-based compensation cost at September 30, 2006 was $1.7 million to be
+recognized over a weighted-average period of 2.3   years.  The cumulative effect of the adoption of SFAS
+123R on the Company s consolidated balance sheet at September 27, 2003 resulted
+in an increase in additional paid-in capital of $3,177,000, a reduction in
+retained earnings of $3,233,000, elimination of unearned compensation of
+$350,000, and a reduction in deferred income tax liabilities of $294,000.  
+
+  The Company annually issues a combination of stock options and stock
+grants to its key employees under its stock plans.  Prior to 2004, stock-based awards to key
+employees consisted primarily of stock options. 
+Beginning in 2004, the Company reduced the number of stock options
+granted and added restricted stock awards. Stock options awarded in 2004 vested
+in one year.  Stock options awarded in
+2005 and 2006 vest over three years. Stock grants generally vest over 3 years.
+Under the Company s ESPP, eligible employees may purchase shares of stock for
+not less than 85% of fair market value at the end of the grant period.  Prior to 2005, the purchase price was
+determined based upon 85% of fair market value at the beginning or end of the
+grant period. In January 2005, stockholders approved a new   
+
+F-  26     
+
+stock equity plan for non-employee directors (the  2005 Plan ).  The option price per share is the fair market
+value at the time the option is granted. 
+The 2005 Plan replaced a plan that had allowed directors to make an
+election to apply their annual retainer fee toward the granting of stock
+options at a price per share that was $5 below the fair market value at the
+time of the option award.  During the first quarter of fiscal 2005 prior
+to the adoption of the new plan, 9,000
+shares were issued to non-employee directors under the previous Directors
+Option Plan.  
+
+     Book Manufacturing Segment     
+
+   SEGMENT HIGHLIGHTS   
+
+  (dollars in
+thousands)  
+
+*Fiscal
+year 2006 was a 53-week period.  
+
+  Within
+this segment, the Company focuses on three key publishing markets: education,
+religious and specialty trade.  Sales to
+the education market rose 11% in fiscal 2006 compared with 2005, with 4% of
+this increase attributed to the addition of Moore Langen.  Sales increased in all levels of the market,
+with particular strength in four-color textbooks for elementary and high
+schools.  The newest 4-color press
+installation in December 2005, and related bindery expansion, provided the
+necessary capacity to meet the growing demand for educational books. Sales
+growth in the religious and the specialty trade markets increased 2% and 9%,
+respectively, compared with the prior year. In fiscal 2005, compared with
+fiscal 2004, sales to the education market rose 15%, with gains achieved at all
+levels, from elementary and high school through college.  Growth in four-color textbooks to the
+education market was particularly strong in fiscal 2005, enabled by a new
+four-color press installed in April 2004. In the religious market, sales were
+flat in 2005 compared to the prior year, reflecting a decision to discontinue
+manufacturing certain low-priced work. 
+Sales to the specialty trade market were up 7% in fiscal 2005 compared
+to 2004 as a result of strong demand late in the year.  
+
+  Gross
+profit in this segment increased 11% to $63.2 million compared with 2005,
+reflecting the increased sales volume. As a percentage of sales, gross profit
+decreased slightly to 28.7% in fiscal 2006 from 29.5% in 2005, reflecting a
+$1.8 million increase in utility costs as well as the impact of a highly
+competitive industry environment. In 2005, gross profit in this segment
+increased by 16% compared with 2004 and as a percentage of sales, increased to
+29.5% in 2005 from 27.9% in 2004.  Growth
+in sales volume, especially in four-color textbooks, and continued productivity
+gains, more than offset the effects of increased energy and medical costs.  
+
+  Selling
+and administrative expenses in this segment were $30.3 million, up $3.6 million
+or 13% over the prior year.  This
+increase was primarily due to the addition of Moore Langen and the 53  rd   week in fiscal 2006.  As a percentage of sales, selling and
+administrative expenses were 13.8% in 2006, comparable to the prior year.  In 2005, selling and administrative expenses
+were $26.7 million, 10% higher than 2004,   
+
+F-  27     
+
+reflecting
+higher compensation costs of approximately $1.5 million associated with
+increased sales and profitability, as well as audit, legal and other expenses
+related to compliance with the provisions of Sarbanes-Oxley. As a percentage of
+sales, selling and administrative expenses increased slightly to 13.8% in 2005
+from 13.7% in 2004.  
+
+  Intercompany
+interest income allocated to the book manufacturing segment in fiscal 2006
+increased to $733,000 compared to $700,000 in 2005. This increase was primarily
+the result of higher interest rates offset in part by interest expense
+allocated to Moore Langen. The increase in allocated interest income in fiscal
+2005 from $330,000 in 2004 reflects cash generated within the segment as well
+as higher interest rates.  
+
+  Pretax
+income in the Company s book manufacturing segment in fiscal 2006 increased 8%
+to $33.6 million, or, on an after-tax basis, $1.73 per diluted share compared
+to $31.1 million, or $1.62 per diluted share, in 2005.  Fiscal 2005 pretax income of $31.1 million,
+or $1.62 per diluted share, increased 22% compared to $25.4 million, or $1.35
+per diluted share, in 2004.  
+
+     Specialty Publishing Segment     
+
+   SEGMENT
+HIGHLIGHTS   
+
+  (dollars in thousands)  
+
+*Fiscal year 2006
+was a 53-week period.  
+
+  The Company s specialty publishing segment is comprised of Dover, REA
+since its acquisition in January 2004, and Creative Homeowner since its
+acquisition on April 28, 2006.  Creative
+Homeowner is a New Jersey-based publisher and distributor of books, home plans,
+and related products for the $340-million home and garden retail book
+market.  Fiscal 2006 sales in this
+segment were $57.5 million, a 43% increase over the prior year, with approximately
+$12 million of the increase attributable to the addition of Creative
+Homeowner.  Dover s sales increased 12%
+in fiscal 2006 to $39.0 million compared to 2005, including a 17% increase in
+trade sales, a 16% increase in international sales, and a 6% increase in
+direct-to-consumer sales.  Sales at REA
+increased 20% in fiscal 2006 compared to the prior year.  The sales growth at both Dover and REA
+reflect the success of new marketing and merchandising programs as well as the
+completion of information technology and distribution upgrades which enhanced
+customer service and accelerated deliveries. The segment reported fiscal 2005
+sales of $40.3 million, down 1% from $40.8 million in fiscal 2004.  REA sales totaled $5.6 million in fiscal 2005
+compared to $3.9 million in 2004, which was a partial year starting at the date
+of acquisition in January 2004.  Dover
+sales were down 6% in 2005 to $34.7 million compared to the prior year.  The decline at Dover reflected soft sales to
+trade retailers as well as fourth-quarter shipment delays and a resulting increase
+in order backlogs of approximately $600,000 in conjunction with a major
+warehouse relocation   
+
+F-  28     
+
+project and the implementation of an enterprise-wide information
+system.  Despite these difficulties,
+Dover s direct-to-consumer sales for 2005 were up 12% over 2004.  
+
+  Gross
+profit in this segment increased 38% to $25.5 million in 2006 reflecting the
+improvement in Dover s sales and the contribution of Creative Homeowner.  As a percentage of sales, gross profit was
+44.3 % compared to 45.9% in 2005, resulting from costs associated with the
+acquisition of Creative Homeowner. 
+Creative Homeowner s gross profit percentage since acquisition was 32%,
+including the cost associated with a required purchase accounting write-up to
+fair market value of approximately $370,000 in their opening inventory and
+which had been sold and charged to cost of sales during 2006.  Gross profit in the specialty publishing
+segment was $18.5 million in 2005 compared to $19.5 million in 2004.  Dover s gross profit as a percentage of sales
+decreased to 46.2% from 49.4% in the prior year, reflecting the reduction in
+sales.  In addition, Dover incurred costs
+of approximately $500,000 in 2005 in connection with relocating a significant
+portion of Dover s leased offsite warehousing space to available warehouse
+space owned by the Company.  REA s gross
+profit percentage for fiscal 2005 was 44.2% versus 34.4% in 2004.  This improvement was due, in large part, to
+the expense related to a required purchase accounting write up of inventory to
+fair market value when REA was acquired. 
+The original inventory write up was approximately $1 million and was
+being expensed as the acquired inventory was sold.  Approximately $250,000 of the inventory write
+up was expensed in 2005 compared to $600,000 in 2004.  
+
+  Selling
+and administrative expenses for this segment were $18.4 million in 2006, up
+from $14.3 million in 2005.  The
+acquisition of Creative Homeowner represents approximately $3.0 million of the
+increase.  Creative Homeowner s selling
+and administrative expenses include approximately $325,000 for amortization of
+intangibles.  Selling and administrative
+expenses for Dover and REA increased by $1.1 million, or 8%, compared to the
+prior year, primarily as a result of increased sales and related marketing expenses.  As a percentage of sales, selling and
+administrative expenses in 2006 decreased to 32.0% from 35.5% in the prior
+year.  In 2005, selling and
+administrative expenses in the specialty publishing segment were $14.3 million,
+an increase of 12% over 2004, primarily as a result of the addition of REA to
+the segment in January 2004 and increases in sales and marketing activities at
+Dover.  In addition, a project was
+underway in 2005 to replace information systems at Dover with a new fully
+integrated system.  The implementation of
+the SAP system and other process improvements began in July 2005 at Dover and
+added approximately $200,000 of expenses in 2005.  
+
+  Intercompany
+interest expense is allocated to the specialty publishing segment based on the
+acquisition cost of Dover, REA, and Creative Homeowner, reduced by cash
+generated by each business since acquisition. 
+Such intercompany interest expense in fiscal 2006 was $915,000 compared
+to $312,000 in 2005 and $307,000 in 2004. 
+The increase in interest expense allocated to this segment in 2006
+reflects the $37 million acquisition of Creative Homeowner.  Intercompany interest expense for Dover and
+REA decreased in 2006 reflecting the benefit of cash generated by these businesses.  Intercompany interest expense for Dover and
+REA was comparable between fiscal 2005 and 2004.  
+
+  In
+fiscal 2006, pretax income in the specialty publishing segment increased 58%
+over the prior year to $6.1 million, or, on an after-tax basis, $.31 per
+diluted share.  Pretax income in fiscal
+2005 was $3.9 million, or, on an after-tax basis, $.19 per diluted share,
+compared to $6.5 million, or $.33 per diluted share in 2004.  REA contributed approximately $170,000 to
+pretax income, or $.01 per diluted share, in 2004.  
+
+F-  29     
+
+Total Consolidated Company     
+
+  Interest
+expense, net of interest income, was $182,000 in fiscal 2006 while interest
+income, net of interest expense, was $388,000 in 2005 and $23,000 in 2004.  During the past three years, the Company had
+not borrowed under its revolving credit facility until April 2006 when
+approximately $20 million was borrowed towards the purchase of Creative
+Homeowner.  Average debt in 2006 under
+the revolving credit facility was approximately $6.9 million at an average
+annual interest rate of 5.7%.  Interest
+expense also includes commitment fees and other costs associated with
+maintaining this credit facility.  Cash
+investments in 2006 averaged approximately $11.6 million at an average annual
+interest rate of 3.9%.  The Company s
+average cash investments for 2005 were approximately $26.5 million, earning a
+2.5% average annual interest rate, and approximately $17.7 million for 2004,
+earning at an average annual interest rate of 1.3%.  These investments generated interest income
+of approximately $450,000 in 2006, $666,000 in 2005, and $230,000 in 2004.
+Capitalized interest, related to a new four-color press, was $74,000 in
+2004.  No interest was capitalized in
+2006 or 2005.  
+
+  Other
+income in 2004 is comprised of a pretax gain of approximately $250,000
+resulting from the sale of an unused portion of the Company s multi-building
+manufacturing complex in Westford, Massachusetts.  
+
+  During
+the fourth quarter of 2006, the Company reversed an income tax accrual pursuant
+to receipt of a state tax audit report and the expiration of certain statutory
+limitations.  As a result, the Company s
+2006 effective tax rate reflects a reduction in its income tax expense of $3.8
+million, or $.30 per diluted share. Without the effect of this tax accrual
+reversal, the effective tax rate was 35.6% compared to 36.3% in 2005.  This decline in the effective tax rate is due
+in large part to the impact of the retrospective adoption of SFAS 123R at the
+beginning of fiscal 2006.  Although
+non-deductible stock compensation costs increased the effective tax rate by
+0.4% in fiscal 2006, the impact in 2005 was higher at 0.9%.  In addition, the fiscal 2006 tax rate
+reflects a federal tax benefit for manufacturers associated with the American
+Jobs Creation Act of 2004. The Company s effective tax rate for 2005 was 36.3%
+compared to 36.1% for 2004, reflecting a reduced federal tax benefit from
+export related income associated with the American Jobs Creation Act of 2004.  
+
+  For purposes of computing
+net income per diluted share, weighted average shares outstanding increased by
+approximately 118,000 shares in 2006 and 136,000 shares in 2005.  These increases were primarily due to options
+exercised and shares issued under the Company s stock plans and the impact of
+potentially dilutive shares.  
+
+   LIQUIDITY
+AND CAPITAL RESOURCES   
+
+  Operating
+activities provided $39.2 million of cash in 2006 compared to $34.2 million in
+2005.  Net income for 2006 was $28.4
+million, stock-based compensation was $1.4 million, depreciation was $11.1
+million, amortization of prepublication costs was $3.4 million, and
+amortization of intangible assets was $0.3 million.  Working capital changes used approximately
+$6.1 million of cash, as a result of an increase in accounts receivable and a
+reduction in accrued taxes.  
+
+  Investment activities in
+2006 used $84.8 million of cash, including $51.2 million for the acquisitions
+of Moore Langen and Creative Homeowner. 
+Capital expenditures were approximately $29.4 million, including
+approximately $21 million for new four-color presses and related equipment and
+an expansion of the Kendallville, Indiana facility.  A four-color press was installed in December
+2005 and deposits were made on another four-color press to be installed in
+December 2006.  This press is identical
+to the presses installed in April 2004 and December 2005.  Capital also included investments to increase
+
+F-  30     
+
+productivity, lower costs
+and improve employee safety.  For fiscal
+2007, capital expenditures are expected to be approximately $25 to $28
+million.  This amount includes completing
+the current four-color expansion program, as well as expanding capacity in the
+religious book manufacturing operation. Prepublication costs in 2006 were
+approximately $4.3 million, reflecting increased investments in new title
+offerings at Dover and REA as well as the acquisition of Creative
+Homeowner.  These costs are expected to
+increase to approximately $5 million in 2007, reflecting a full year of
+Creative Homeowner publishing activity and modest growth at Dover and REA.  
+
+  Financing activities
+provided approximately $13.1 million of cash in 2006.  The Company borrowed approximately $20
+million under the revolving credit facility towards the purchase of Creative
+Homeowner in April.  At September 30, 2006,
+the Company had $16.9 million in borrowings under its $60 million long-term
+revolving credit facility.  Dividend
+payments in 2006 were $5.9 million, 46% higher than the $4.1 million paid in
+2005.  Proceeds from stock plans were
+$1.7 million, primarily from the exercise of stock options.  The revolving credit facility, which bears
+interest at a floating rate, is used by the Company for both its long-term and
+short-term financing needs.  In May 2006,
+the Company increased the amount available under this facility from $45 million
+to $60 million and extended the maturity date to March 2009.  In November 2006, subsequent to fiscal 2006
+year end, the revolving credit facility was increased to $100 million, the bank
+group was expanded from three banks to five banks and the maturity date was
+extended to 2011.  The Company believes
+that its cash on hand, cash from operations and the available credit facility
+will be sufficient to meet its cash requirements through 2007.  
+
+  The following table
+summarizes the Company s contractual obligations and commitments at September
+30, 2006 to make future payments as well as its existing commercial
+commitments.  Purchase obligations
+represent amounts for capital commitments for a new 4-color press and other
+projects.  
+
+Long-term debt includes
+$16.9 million under the Company s revolving credit facility, which had a
+maturity date of March 2009 as of September 30, 2006.  In November 2006, the maturity date of this
+facility was extended to 2011.  
+
+F-  31     
+
+NEW
+ACCOUNTING PRONOUNCEMENTS   
+
+  In July 2006, the
+FASB issued Interpretation No. 48,  Accounting for Uncertainty in Income Taxes 
+( FIN No. 48 ), an interpretation of FASB Statement No. 109,  Accounting for
+Income Taxes.   FIN No. 48 applies to
+fiscal years beginning after December 15, 2006; the Company s 2008 fiscal
+year.  In September 2006, the FASB issued
+Statement of Financial Accounting Standards No. 158,  Employers  Accounting
+Defined Benefit Pension and Other Postretirement Plans  ( SFAS 158 ), which
+will be effective at the end of the Company s 2007 fiscal year.  The Company does not believe the adoption of
+either FIN No. 48 or SFAS 158 will have a material effect on its consolidated
+financial position, results of operations or cash flows.  
+
+   RISKS   
+
+  Our businesses operate in
+markets that are highly competitive, and the Company faces competition on the
+basis of price, product quality, speed of delivery, customer service,
+availability of appropriate printing capacity and paper, related services and
+technology support.  Some of our
+competitors have greater sales, assets and financial resources than our Company
+and others, particularly those in foreign countries, may derive significant
+advantages from local governmental regulation, including tax holidays and other
+subsidies. These competitive pressures could affect prices or customers  demand
+for our products, impacting our profit margins and/or resulting in a loss of
+customers and market share. The Company derived approximately 40% of its 2006
+revenues, 47% of its 2005 revenues, and 44% of its 2004 revenues from two major
+customers.  A significant reduction in
+order volumes or price levels from either of them could have a material adverse
+effect on the Company.  
+
+   CRITICAL ACCOUNTING POLICIES AND ESTIMATES   
+
+  The
+Company s consolidated financial statements have been prepared in accordance
+with accounting principles generally accepted in the United States of
+America.  The preparation of these
+financial statements requires management to make estimates and assumptions that
+affect the amounts reported in these financial statements and accompanying
+notes.   On an ongoing basis, management
+evaluates its estimates and judgments, including those related to
+collectibility of accounts receivable, recovery of inventories, impairment of
+goodwill and other intangibles, prepublication costs and income taxes.  Management bases its estimates and judgments
+on historical experience and various other factors believed to be reasonable
+under the circumstances, the results of which form the basis for making
+judgments about the carrying value of assets and liabilities at the date of the
+financial statements and the reported amounts of revenues and expenses during
+the periods presented.  Actual results
+may differ from these estimates.  The
+significant accounting policies which management believes are most critical to
+aid in fully understanding and evaluating the Company s reported financial
+results include the following:  
+
+   Accounts Receivable   Management
+performs ongoing credit evaluations of the Company s customers and adjusts
+credit limits based upon payment history and the customer s current credit
+worthiness.  Collections and payments
+from customers are continuously monitored. 
+A provision for estimated credit losses is determined based upon
+historical experience and any specific customer collection issues that have
+been identified.  If the financial
+condition of the Company s customers were to deteriorate, resulting in an
+impairment of their ability to make payments, additional allowances may be
+required. 
+
+   Inventories    Management
+records reductions in the cost basis of inventory for excess and obsolete
+inventory based primarily upon historical and forecasted product demand.  If actual market conditions are less
+favorable than those projected by management, additional inventory charges may
+be required. 
+
+F-  32     
+
+Goodwill and
+Other Intangibles   Other intangibles include customer
+lists which are amortized on a straight-line basis over periods ranging from
+ten to fifteen years. The Company evaluates possible impairment of goodwill and
+other intangibles annually or whenever events or circumstances indicate that
+the carrying value of the assets may not be recoverable.  The Company completed the annual impairment
+test at September 30, 2006 resulting in no change to the nature or carrying
+amounts of its intangible assets. 
+Changes in market conditions or poor operating results could result in a
+decline in value thereby potentially requiring an impairment charge in the
+future. 
+
+   Prepublication Costs  
+The Company capitalizes prepublication costs, which include the costs of
+acquiring rights to publish a work and costs associated with bringing a
+manuscript to publication such as artwork and editorial efforts.  Prepublication costs are amortized on a
+straight-line basis over periods ranging from three to five years.  Management regularly evaluates the sales and
+profitability of the products based upon historical and forecasted demand.  Based upon this evaluation, adjustments may
+be required to amortization expense. 
+
+   Income Taxes    The income tax provision and related accrued
+taxes are based on amounts reported on the Company s tax returns and changes in
+deferred taxes.  Deferred income tax liabilities and assets are determined
+based upon the differences between the financial statement and tax bases of
+assets and liabilities.  Changes in the
+recoverability of the Company s deferred tax assets or audits by tax
+authorities could result in future charges or credits to income tax expense,
+and related accrued and deferred taxes. 
+
+F-  33  
+
+COURIER
+CORPORATION  
+
+SCHEDULE II    
+
+  CONSOLIDATED
+VALUATION AND QUALIFYING ACCOUNTS  
+
+(1)   Other changes reflect amounts related to
+business acquisitions.  
+
+S-  1  
+
+<EX-21>
+ 2
+ a06-25099_1ex21.htm
+ EX-21
+
+EXHIBIT
+21   
+
+    COURIER
+CORPORATION    
+
+    SUBSIDIARIES
+OF REGISTRANT    
+
+Registrant has the
+following subsidiaries:  
+
+% Owned   
+
+Jurisdiction of   
+
+by Immediate   
+
+Name   
+
+Immediate Parent   
+
+Incorporation   
+
+Parent   
+
+Book-mart Press, Inc.  
+
+National Publishing Company  
+
+Delaware  
+
+100  
+
+%  
+
+Courier New Media, Inc.  
+
+National Publishing Company  
+
+Massachusetts  
+
+100  
+
+%  
+
+Courier Companies, Inc.  
+
+National Publishing Company  
+
+Massachusetts  
+
+100  
+
+%  
+
+Courier Kendallville, Inc.  
+
+National Publishing Company  
+
+Indiana  
+
+100  
+
+%  
+
+Courier Properties, Inc.  
+
+National Publishing Company  
+
+Massachusetts  
+
+100  
+
+%  
+
+Dover Publications, Inc.  
+
+National Publishing Company  
+
+New York  
+
+100  
+
+%  
+
+Research   Education Association, Inc.  
+
+National Publishing Company  
+
+Delaware  
+
+100  
+
+%  
+
+Federal
+  Marketing Corporation, 
+  d/b/a Creative Homeowner  
+
+National Publishing Company  
+
+New Jersey  
+
+100  
+
+%  
+
+Moore-Langen Printing Company, Inc.  
+
+National Publishing Company  
+
+Indiana  
+
+100  
+
+%  
+
+National Publishing Company  
+
+Courier Corporation  
+
+Pennsylvania  
+
+100  
+
+%  
+
+Courier Foreign Sales Corporation Ltd.  
+
+National Publishing Company  
+
+Jamaica  
+
+99  
+
+%  
+
+</EX-21>
+
+<EX-23>
+ 3
+ a06-25099_1ex23.htm
+ EX-23
+
+Exhibit
+23   
+
+   CONSENT OF INDEPENDENT REGISTERED
+PUBLIC ACCOUNTING FIRM   
+
+  We consent to the
+incorporation by reference in Registration Statement Nos. 333-122136,
+333-122137, 333-03201, 333-71631, 333-75187, 333-75189 and 333-118033 on Form
+S-8 of our reports dated December 7, 2006, relating to the consolidated
+financial statements and financial statement schedule of Courier Corporation
+and subsidiaries (which report includes an explanatory paragraph concerning the
+adoption of SFAS 123R  Share-Based Payments  by application of the modified
+retrospective transition method), and management s report on the effectiveness
+of internal control over financial reporting appearing in and incorporated by
+reference in the Annual Report on Form 10-K of Courier Corporation for the year
+ended September 30, 2006.  
+
+  DELOITTE   TOUCHE LLP 
+Boston, Massachusetts 
+December 7, 2006  
+
+</EX-23>
+
+<EX-31.1>
+ 4
+ a06-25099_1ex31d1.htm
+ EX-31
+
+Exhibit
+31.1   
+
+    CERTIFICATION    
+
+  I, James F. Conway III, certify that:  
+
+  1.                  I have reviewed
+this annual report on Form 10-K of Courier Corporation; 
+
+  2.                  Based on my
+knowledge, this report does not contain any untrue statement of a material fact
+or omit to state a material fact necessary to make the statements made, in
+light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; 
+
+  3.                  Based on my
+knowledge, the financial statements, and other financial information included
+in this report, fairly present in all material respects the financial
+condition, results of operations and cash flows of the registrant as of, and
+for, the periods presented in this report; 
+
+  4.                  The registrant s
+other certifying officer and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in
+Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+  a)                 designed such
+disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated subsidiaries
+(except such disclosure controls and procedures and internal control over
+financial reporting of Moore-Langen Printing Company, Inc. and Federal
+Marketing Corporation d/b/a Creative Homeowner, each of which was acquired by
+the registrant during fiscal 2006), is made known to us by others within
+those entities, particularly during the period in which this report is being
+prepared; 
+
+  b)                designed such
+internal control over financial reporting, or caused such internal control over
+financial reporting to be designed under our supervision, to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation
+of financial statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+  c)                 evaluated the
+effectiveness of the registrant s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; and 
+
+  d)                disclosed in this
+report any change in the registrant s internal control over financial reporting
+that occurred during the registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of an annual report) that has
+materially affected, or is reasonably likely to materially affect, the
+registrant s internal control over financial reporting; and 
+
+  5.     The registrant s other
+certifying officer and I have disclosed, based on our most recent evaluation of
+internal control over financial reporting, to the registrant s auditors and the
+audit committee of the registrant s board of directors (or persons performing
+the equivalent functions):  
+
+  a)                  all significant deficiencies and material
+weaknesses in the design or operation of internal control over financial
+reporting which are reasonably likely to adversely affect the registrant s
+ability to record, process, summarize and report financial information; and  
+
+  b)                 any fraud, whether or not material, that involves
+management or other employees who have a significant role in the registrant s
+internal control over financial reporting.  
+
+December 7, 2006  
+
+By:   
+
+s/James F. Conway III   
+
+Date  
+
+James F. Conway III  
+
+Chairman,
+  President and Chief Executive Officer  
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ a06-25099_1ex31d2.htm
+ EX-31
+
+Exhibit
+31.2   
+
+    CERTIFICATION    
+
+  I, Peter M. Folger,
+certify that:  
+
+  1.                  I have reviewed
+this annual report on Form 10-K of Courier Corporation; 
+
+  2.                  Based on my
+knowledge, this report does not contain any untrue statement of a material fact
+or omit to state a material fact necessary to make the statements made, in
+light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; 
+
+  3.                  Based on my
+knowledge, the financial statements, and other financial information included
+in this report, fairly present in all material respects the financial
+condition, results of operations and cash flows of the registrant as of, and
+for, the periods presented in this report; 
+
+  4.                  The registrant s
+other certifying officer and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in
+Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+  a)                 designed such
+disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated subsidiaries
+(except such disclosure controls and procedures and internal control over
+financial reporting of Moore-Langen Printing Company, Inc. and Federal
+Marketing Corporation d/b/a Creative Homeowner, each of which was acquired by
+the registrant during fiscal 2006), is made known to us by others within
+those entities, particularly during the period in which this report is being
+prepared; 
+
+  b)                designed such
+internal control over financial reporting, or caused such internal control over
+financial reporting to be designed under our supervision, to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation
+of financial statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+  c)                 evaluated the
+effectiveness of the registrant s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; and 
+
+  d)                disclosed in this
+report any change in the registrant s internal control over financial reporting
+that occurred during the registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of an annual report) that has
+materially affected, or is reasonably likely to materially affect, the
+registrant s internal control over financial reporting; and 
+
+  5.                   The registrant s other certifying officer
+and I have disclosed, based on our most recent evaluation of internal control
+over financial reporting, to the registrant s auditors and the audit committee
+of the registrant s board of directors (or persons performing the equivalent
+functions):  
+
+  a)                  all significant deficiencies and material
+weaknesses in the design or operation of internal control over financial
+reporting which are reasonably likely to adversely affect the registrant s
+ability to record, process, summarize and report financial information; and  
+
+  b)                 any fraud, whether or not material, that involves
+management or other employees who have a significant role in the registrant s
+internal control over financial reporting.  
+
+December 7, 2006  
+
+By:   
+
+s/ Peter M. Folger   
+
+Date  
+
+Peter M. Folger  
+
+Senior Vice President and
+  Chief Financial Officer  
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ a06-25099_1ex32d1.htm
+ EX-32
+
+Exhibit 32.1   
+
+    CERTIFICATION PURSUANT TO    
+
+    18 U.S.C. SECTION 1350,    
+
+    AS ADOPTED PURSUANT TO    
+
+    SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002    
+
+  The
+undersigned officer of Courier Corporation (the  Company ) hereby certifies
+that the Company s annual report on Form 10-K for the year ended September 30,
+2006 to which this certification is attached (the  Report ), as filed with the
+Securities and Exchange Commission on the date hereof, fully complies with the
+requirements of Section 13(a) or 15(d), as applicable, of the Securities
+Exchange Act of 1934, as amended, and that the information contained in the
+Report fairly presents, in all material respects, the financial condition and
+results of operations of the Company.  
+
+December 7, 2006  
+
+By:   
+
+s/James F. Conway III   
+
+Date  
+
+James F. Conway III  
+
+Chairman, President and  
+
+Chief Executive Officer  
+
+This
+certification shall not be deemed  filed  for any purpose, nor shall it be
+deemed to be incorporated by reference into any filing, under the Securities
+Act of 1933 or the Securities Exchange Act of 1934.  
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ a06-25099_1ex32d2.htm
+ EX-32
+
+Exhibit 32.2   
+
+    CERTIFICATION PURSUANT TO    
+
+    18 U.S.C. SECTION 1350,    
+
+    AS ADOPTED PURSUANT TO    
+
+    SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002    
+
+  The
+undersigned officer of Courier Corporation (the  Company ) hereby certifies
+that the Company s annual report on Form 10-K for the year ended September 30,
+2006 to which this certification is attached (the  Report ), as filed with the
+Securities and Exchange Commission on the date hereof, fully complies with the
+requirements of Section 13(a) or 15(d), as applicable, of the Securities
+Exchange Act of 1934, as amended, and that the information contained in the
+Report fairly presents, in all material respects, the financial condition and
+results of operations of the Company.  
+
+December 7, 2006  
+
+By:   
+
+s/ Peter M. Folger   
+
+Date  
+
+Peter M. Folger  
+
+Senior Vice President and  
+
+Chief Financial Officer  
+
+This certification shall not be deemed  filed  for any purpose, nor shall
+it be deemed to be incorporated by reference into any filing, under the
+Securities Act of 1933 or the Securities Exchange Act of 1934.  
+
+</EX-32.2>
+

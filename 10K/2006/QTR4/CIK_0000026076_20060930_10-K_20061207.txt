@@ -1,0 +1,4017 @@
+<Header>
+<FileStats>
+    <FileName>20061207_10-K_edgar_data_26076_0001104659-06-080067_1.txt</FileName>
+    <GrossFileSize>1607319</GrossFileSize>
+    <NetFileSize>185842</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>977323</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>38</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-06-080067.hdr.sgml : 20061207
+<ACCEPTANCE-DATETIME>20061207134954
+ACCESSION NUMBER:		0001104659-06-080067
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20060930
+FILED AS OF DATE:		20061207
+DATE AS OF CHANGE:		20061207
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CUBIC CORP /DE/
+		CENTRAL INDEX KEY:			0000026076
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEASURING & CONTROLLING DEVICES, NEC [3829]
+		IRS NUMBER:				951678055
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08931
+		FILM NUMBER:		061262097
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9333 BALBOA AVE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92123
+		BUSINESS PHONE:		858 623-0489
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 85587
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92186-5587
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ G7Rs8JxEqfDrAjFu/qxc4Fa6nwoLkkKb5cABSUlhPZfHtH4+DX58z6YDpalpISXH
+ efRySWag1UEUlfsPXle8mQ==
+
+ 0001104659-06-080067.txt : 20061207
+
+10-K
+ 1
+ a06-25105_110k.htm
+ ANNUAL REPORT PURSUANT TO SECTION 13 AND 15(D)
+
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549   
+
+   FORM 10-K   
+
+   x                                      ANNUAL
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934   
+
+   For the Fiscal Year Ended
+September 30, 2006   
+
+   o                                         TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934   
+
+   For the Transition Period
+from                 to                    
+
+    Commission File Number   1-8931    
+
+   CUBIC CORPORATION   
+
+  Exact Name of Registrant as Specified in its
+Charter  
+
+9333
+Balboa Avenue 
+San Diego, California 92123 
+  Telephone (858) 277-6780    
+
+  Securities registered pursuant to Section 12(b)
+of the Act:  
+
+Common Stock  
+
+American
+  Stock Exchange, Inc.   
+
+Title of each
+  class  
+
+Name of exchange
+  on which registered  
+
+Securities registered pursuant to Section 12(b) of the Act:  
+
+   None   
+
+  Indicate
+by check mark if the registrant is a well known seasoned issuer, as defined in
+Rule 405 of the Securities Act.  
+
+  Yes   o        No   x        
+
+  Indicated
+by check mark if the registrant is not required to file reports pursuant to
+Section 13 or Section 15(d) of the Act.  
+
+  Yes   o        No   x        
+
+  Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months, and (2) has been subject to such filing
+requirements for the past 90 days.  
+
+  Yes   x      No   o  
+
+  Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of the registrant s knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K.  
+
+  Yes   x      No   o  
+
+  Indicate by check mark whether the registrant is an accelerated filer.  
+
+  Yes   x      No   o  
+
+  Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Act)  
+
+  Yes   o      No   x  
+
+  The aggregate market value of 16,029,954 shares of
+voting stock held by non-affiliates of the registrant was:   $383,757,000 as of
+March 31, 2006, based on the closing stock price on that date.  
+
+  Number of shares of common stock outstanding as of   November 17, 2006
+including shares held by affiliates is  :   26,719,663 (after deducting 8,945,066     shares held as treasury
+stock).  
+
+  Parts I and III incorporate information by
+reference from the Registrant s definitive proxy statement which will be filed
+no later than 120 days after the close of the Registrant s year-end, and no
+later than 30 days prior to the Annual Shareholders  Meeting.  
+
+    DOCUMENTS INCORPORATED BY
+REFERENCE:    
+
+  Portions
+of the Registrant s Proxy Statement for its 2006 Annual Meeting of Shareholders
+to be held on February 20, 2007, are incorporated by reference into
+Part III of this Annual Report on Form 10-K.  
+
+PART I    
+
+   Item 1.          BUSINESS.   
+
+    GENERAL    
+
+  CUBIC CORPORATION ( Cubic  or  the Company ), was incorporated in the
+State of California in 1949 and began operations in 1951.  In 1984, the Company moved its corporate
+domicile to the State of Delaware.  
+
+  We design, develop, manufacture and install products which are mainly
+electronic in nature, such as:  
+
+  Equipment for use in customized
+military range instrumentation, training and applications systems, simulators,
+communications and surveillance systems, surveillance receivers, power
+amplifiers, and avionics systems.  
+
+  Automated revenue collection
+systems, including contactless smart cards, passenger gates, central computer
+systems and ticket vending machines for mass transit networks, including rail
+systems, buses, and parking applications.  
+
+  We also perform a variety of services, such as computer simulation
+training, distributed interactive simulation and development of military
+training doctrine, as well as field operations and maintenance. We manufacture
+replacement parts for the products we produce. 
+In addition, we operate a corrugated paper converting facility.  
+
+  In 2006, growth in our defense segment slowed to about 4% from the prior
+year.  Compared to 2005,  training systems sales were virtually flat
+and mission support services grew by 2%, while our communications and
+electronics business grew by 23% due to new contracts we won last year. The
+defense segment made one small strategic acquisition of a training systems
+business during the year; however, we continue to evaluate possible targets for
+future defense-related acquisitions. Transportation systems sales have leveled
+off in recent years primarily because of the completion of the initial phase of
+the fare collection system in London in 2003. The business has expanded in other
+regions to largely offset the decrease in sales in the U.K  
+
+  During fiscal year 2006, approximately 52% of our total business was
+conducted, either directly or indirectly, with various agencies of the United
+States government.  Most of the remainder
+of our revenue was from local, regional and foreign governments or agencies.  
+
+  Cubic s internet address is www.Cubic.com. The content on our website is
+available for information purposes only. It should not be relied upon for
+investment purposes, nor is it incorporated by reference into this Form 10-K.
+We make available free of charge on or through our Internet website under the
+heading  Investor Information,  our reports on Form 10-K, quarterly reports on
+Form 10-Q, current reports on Form 8-K and amendments to those reports as soon
+as reasonably practicable after we electronically file such material with the
+Securities and Exchange Commission.  
+
+2     
+
+BUSINESS SEGMENTS    
+
+  Information regarding the amounts of revenue, operating profit and loss
+and identifiable assets attributable to each of our business segments, is set
+forth in Note 10 to the Consolidated Financial Statements for the year ended
+September 30, 2006. Additional information regarding the amounts of revenue and
+operating profit and loss attributable to major classes of products and
+services is set forth in Management s Discussion and Analysis which follows at
+Item 7.  
+
+    DEFENSE    
+
+  Cubic s defense business segment operates as the Cubic Defense
+Applications (CDA) group consisting of three market-focused business units: Training
+Systems, Mission Support Services, and Communications   Electronics.  Our products include customized military
+range instrumentation systems, tactical engagement simulation systems, firearm
+simulation systems, communications and surveillance systems, surveillance
+receivers, power amplifiers, and avionics systems.  Our services include training mission
+support, computer simulation training, distributed interactive simulation,
+development of military training doctrine, and field operations and maintenance.  We market our capabilities directly to
+various U.S. government departments and agencies and foreign governments.  In addition, we frequently contract or team
+with other leading defense suppliers. In addition to the three business units,
+we formed a joint venture with Rafael Armament Development Authority Ltd., an
+Israeli company, to produce certain Rafael defense systems in the United States
+for Israel and for U.S. customers.  
+
+   Training Systems   
+
+  Our Training Systems Business Unit (TSBU) is a pioneer and market leader
+in the design and production of instrumented training systems for military
+customers.  These systems generally
+permit live training in air and land combat environments, with weapons and
+other effects simulated by electronic and/or laser technology.  The systems also enable the collection (based
+on Global Positioning System technology) and analysis of behavior and event
+data for determination of combat effectiveness and lessons learned.  As such, the systems generally have a high
+degree of communications and software sophistication.  
+
+  TSBU s business is organized into Air Combat Training, Land Combat
+Training, Tactical Engagement Simulation, and Simulation Systems.  In Air Combat Training, Cubic was the initial
+developer and supplier of Air Combat Maneuvering Instrumentation (ACMI)
+capability during the Vietnam War and continues to lead that market with the
+competitive award in 2003 of a 10-year, $525 million indefinite delivery/
+indefinite quantity (IDIQ) contract to provide upgraded air combat training
+capability to the U.S. Air Force, Navy and Marine Corps.  The latest ACMI systems permit forces to
+train on either a fixed geographic range or in a  rangeless  environment.  Many other nations employ Cubic s ACMI
+systems.  
+
+  TSBU s Land Combat Training involves systems analogous to air ranges for
+ground force training.  TSBU provided
+turnkey systems to instrument two U.S. Army training centers in past years at
+Fort Polk, LA (Joint Readiness Training Center   JRTC) and Hohenfels, Germany
+(Combat Maneuver Training Center   CMTC) and is engaged in a multiyear effort
+to expand capability of the Alaska Training Range.  The unit also built ranges in recent years
+for the British Army in the U.K. and Canada. 
+TSBU is currently working on similar land combat training centers for
+Canada, Australia and for customers in the Middle East and Far East. To meet
+new customer demand for mobile instrumented training, TSBU has also developed a
+transportable, deployable system, known as I-HITS, now being fielded by the U.S.
+Army. In 2005, TSBU was awarded a five-year $72 million IDIQ contract to
+produce I-HITS for the U.S. Army.  
+
+  Laser-based Tactical Engagement Simulation systems, generally known as
+MILES (Multiple Integrated Laser Engagement Simulators), are used at combat training
+centers (CTC) and in other training environments to permit weapons to be used
+realistically, registering hits or kills, without live ammunition.  TSBU supplies MILES equipment as part of CTC
+contracts and as an independent product line. 
+Cubic MILES systems are being heavily utilized by U.S. Army and Marine
+Corps forces, as well as Air Force security forces, other U.S. agencies and
+many international customers.  We produce
+MILES equipment in  
+
+3     
+
+the U.S. and at our New Zealand-based subsidiary, Oscmar International.  In 2005, Cubic was awarded a 5-year $113
+million IDIQ contract to produce MILES Individual Weapon System (IWS) kits for
+the U. S. Army.  
+
+  TSBU s Simulation Systems Division (SSD) produces virtual training
+systems, employing actual or realistic weapons and systems together with visual
+imagery to simulate actual battlefield or other environments.  SSD also produces combat system and
+maintenance trainers.  
+
+   Mission Support Services   
+
+  CDA s Mission Support Business Unit (MSBU), along with the separate
+Force Modernization Division (FMD), is a leading provider of tactical
+knowledge-based services to the U.S. Government and allied nations, with an
+emphasis on military training.  Our
+mission support business consists of approximately 3,300 people at more than
+100 locations throughout the world.  Our
+personnel serve with clients in their actual environments and prepare forces
+through comprehensive training, exercises, education, and operational support
+to meet the full scope of their missions, from large scale combat operations,
+to special operations, peacekeeping, consequence management, and humanitarian
+assistance operations worldwide.  We also
+plan, prepare, execute and document realistic and focused mission rehearsal
+exercises (including live and computer-based) as final preparation of forces
+prior to their deployment to mission areas. 
+In addition, we provide high level consultation and advisory services to
+the governments and militaries of allied nations.  U.S. government service contracts are
+typically awarded on a competitive basis with options for multiple years.  In this competitive market, MSBU and FMD are
+viewed as premier service providers and formidable competitors.  We typically compete as prime contractors to
+the government, but also team with other companies depending on the skills
+required.  Much of our early work
+centered on battle command training and simulation, in which military
+commanders are taught to make correct decisions in battle situations.  More recently, the business base has broadened
+to include integrated live, virtual, and constructive training support,
+distance learning, knowledge management, weapons effects modeling, intelligence
+analysis, homeland security training and exercises, and military force
+modernization.  
+
+  Our programs include providing mission support services to three of the
+Army s major CTCs, to the JRTC as prime contractor, and to the National
+Training Center (NTC) and Battle Command Training Program (BCTP) as a principal
+subcontractor.  These services include
+planning, executing and documenting large scale exercises aimed at stressing
+U.S. forces in situations as close to actual combat as possible. Cubic is
+assisting the Army National Guard in developing and implementing a similar
+exportable combat training capability at selected Guard locations in the U.S.  
+
+  At U.S. Joint Forces Command, Cubic supports and helps manage all
+aspects of the operations of the Joint Warfighting Center (JWFC), including
+support to worldwide exercises and the development and fielding of the Joint
+National Training Capability (JNTC).  We
+provide similar technical and management support services to the U.S. Army s
+National Simulation Center (NSC) at Fort Leavenworth, Kansas. On the Marine Air
+Ground Task Force Training Systems Support (MTSS) contract, Cubic provides
+comprehensive training and exercise support to U.S. Marine forces worldwide,
+including real-world mission rehearsals. 
+We have planned and executed virtually all Marine Corps simulation-based
+exercises worldwide since 1998, directly preparing Marines for combat
+operations. Cubic provides contractor logistics and training support necessary
+to operate and maintain a wide variety of flight simulation, Unmanned Aerial
+Vehicles (UAV), and other facilities worldwide for U.S. and allied forces under
+multiple long-term contracts. In addition, we provide a broad range of
+operational support to the U.S. Navy s newly-formed Anti-Submarine Warfare
+(ASW) Command.  
+
+  Cubic initiated and has continued to operate the Korea Battle Simulation
+Centers (KBSC) since their inception in 1991. 
+KBSC prepare U.S. and allied forces in Korea to deal with situations
+which may develop in their areas of responsibility and include the world s
+largest and most complex training event, the annual ULCHI FOCUS LENS exercise.  
+
+  At the U.S. Army I Corps Battle Simulation Center, Cubic provides the
+technical and operational expertise necessary to support worldwide training,
+exercises, evaluations, and mission rehearsals for I Corps active and reserve
+component units, the new Stryker brigades, other services, and joint commands.  
+
+4     
+
+Cubic supports the Defense Threat Reduction Agency (DTRA) with
+technology-based engineering and other services necessary to accomplish DTRA s
+mission of predicting and defeating the effects of chemical, biological,
+radiological, nuclear and high explosive (CBRNE) weapons.  Cubic supports DTRA with modeling and
+simulations to assess and predict the effects of such weapons in combat and
+other environments. Additionally, Cubic provides comprehensive support to help
+plan, manage, and execute DTRA s worldwide CBRNE exercise program, which trains
+senior U.S. and allied civilian and military personnel, first responders, and
+other users of DTRA products.  
+
+  Cubic has multiple contracts with the U.S. Army and other government
+agencies to improve the quality and reach of training and education initiatives
+for individuals up through large organizations. Cubic s products and
+capabilities include development and deployment of curriculum and related
+courseware, computer-based training, knowledge management and distribution,
+advanced distance learning tools, and other advanced education programs for
+U.S. and allied forces.  
+
+  FMD s principal business is providing specialized teams of military
+experts to advise the governments and militaries of the nations of the former
+Warsaw Pact and Soviet Union in the transformation of their militaries to a
+NATO environment.  These very broad force
+modernization contracts entail both sweeping vision and minute detail,
+involving both the nations  strategic foundation and the detailed planning of
+all aspects of reform. FMD also operates battle simulation centers for select
+countries.  
+
+  We believe the combination and scope of CDA s mission support and
+training systems business is unique in the industry, permitting us to offer
+customers a complete training and readiness capability from one source.  
+
+   Communications   Electronics   
+
+  Our Communications and Electronics Business Unit (CEBU) is a supplier of
+secure data links, intelligence receivers, high power RF amplifiers and search
+and rescue avionics systems to the U.S. military, other agencies and allied
+nations.  CEBU s products support the
+strong military trend toward network-centric warfare and modernization
+initiatives.  The unit has long supplied
+the air/ground secure data link for the U.S. Army/Air Force Joint STARS system
+and supplies the principal datalink for the United Kingdom s ASTOR
+program.  Capitalizing on a multiyear
+internal R D program, CEBU won a competitive contract in fiscal 2003 to
+develop and produce the next-generation Common Data Link Subsystem (CDLS) for
+the U.S. Navy.  CDLS is now being
+installed on major surface ships of the U.S. fleet.  Smaller, tactical versions of our Common Data
+Link have been selected for both legacy and new military platforms, such as
+UAV, which require high performance in a small package.  
+
+  CEBU s Personnel Locator System (PLS) is standard equipment on U.S.
+aircraft with a search-rescue   mission.  We  have continued to receive orders for an
+upgraded PLS which has been redesigned to interface with all modern search and
+rescue system standards, thus positioning us for major platform upgrades
+expected over the next few years. 
+
+  CEBU has also begun to successfully leverage its communications
+products portfolio to move into larger subsystem and system level programs in
+the areas of communications interception and jamming (Electronic Warfare) and
+communications intelligence.  We have
+been awarded contracts by the U.S. Navy and intelligence services for the
+initial development of these systems which could evolve to production contracts
+and potentially lead to new opportunities within these services.  
+
+    Raw Materials    :  
+
+  The principal raw materials used by the defense segment are sheet
+aluminum and steel, copper electrical wire, and composite products.  A significant portion of the segment s end
+products are composed of purchased electronic components and subcontracted
+parts and supplies. These items are primarily procured from commercial
+sources.  In general, supplies of raw
+materials and purchased parts are adequate to meet the requirements of the
+segment.  
+
+5     
+
+Backlog    :  
+
+   Funded sales backlog of the defense segment at September 30, 2006 was
+$509 million compared to $476 million at September 30, 2005.   Total backlog, including unfunded
+customer orders, was $763 million at September 30, 2006 compared to $728
+million at September 30, 2005.  Approximately
+$360 million of the September 30, 2006 total backlog is not expected to be
+completed by September 30, 2007.   
+
+    Competition    :  
+
+  CDA s broad defense business portfolio means we compete with numerous
+companies, large and small, domestic and international.  In many cases, we have also teamed with these
+same companies on specific bid opportunities. 
+Well known CDA competitors include Lockheed Martin, Northrop Grumman,
+General Dynamics, Boeing, L3 Communications and SAIC.  While CDA is generally smaller than its
+competition, we believe our competitive advantages include past performance,
+incumbent relationships and the ability to rapidly focus technology and innovation
+to solve customer problems.  
+
+  Competition also exists among projects for funding in the defense
+budget.  While the U.S. defense budget
+has seen above average increases in recent years, long-term growth will only
+occur in those segments which offer very high payoff and are consistent with
+warfighting priorities and growing fiscal restraints.  The U.S. defense market today can be
+characterized as highly dynamic, with priorities and funding shifting in
+reaction to, or anticipation of, world events much more rapidly than during the
+Cold War or since.  Overarching military
+priorities include lighter, faster, more lethal forces with the ability and
+training to rapidly adapt to new situations based on superior knowledge of the
+battle environment.  Superior knowledge
+is enabled by systems which rapidly collect, process and disseminate the right
+information to the right place at the right time, resulting in what DoD calls
+network-centric warfare.  We believe
+Cubic s training systems, training support and intelligence, surveillance and
+reconnaissance capabilities are well matched to these sustainable defense
+priorities.  
+
+    TRANSPORTATION SYSTEMS    
+
+  Cubic
+Transportation Systems ( CTS ) is the leading turnkey solution provider of
+automated fare collection systems for public transport authorities
+worldwide.  We provide a range of service
+and system solutions for the bus, bus rapid transit, light rail, commuter rail,
+heavy rail, ferry and parking markets. 
+These solutions and services include system design, central computer
+systems, equipment design and manufacturing, device-level software,
+integration, test, installation, warranty, maintenance, computer hosting
+services, call center services, card management and distribution services,
+financial clearing and settlement, multi-application support and outsourcing
+services.  In addition, CTS designs,
+develops and manufactures special technology components, such as smart card
+readers and magnetic ticket transports for use within its suite of fare
+collection equipment consisting of on-bus solutions, access control solutions,
+vending solutions, retail and card issuing solutions, and mobile inspection and
+sales solutions.  
+
+  Over
+the years, the transportation segment has been awarded over 400 projects in 40
+major markets on 5 continents.  Active
+projects include London, the New York / New Jersey region, the Washington, D.C.
+/ Baltimore / Virginia region, the Los Angeles region, the San Diego region,
+San Francisco, Minneapolis/St. Paul, Chicago, Atlanta, Brisbane, Australia, and
+Sweden.  
+
+  These
+programs provide a base of current business and the potential for additional
+future business as the systems are expanded. 
+In 1998, Transaction Systems Limited (TranSys), a joint venture company
+in which Cubic has a 37.5% ownership, was awarded a contract called  PRESTIGE 
+to outsource the London Transport fare collection services.  This 17-year contract, now in its ninth year,
+is the largest automated fare collection contract ever awarded.  Our share of the work, including all contract
+change orders to date, exceeds $1 billion over the 17-year life of the
+contract.  
+
+6     
+
+Industry
+Overview    
+
+  Transport
+agencies, particularly those based in the U.S., rely heavily on federal, state
+and local government for subsidies in capital investments, including new
+procurements and/or upgrades of automated fare collection systems.  The average lifecycle for fare collection
+systems is 12 to 15 years.  Procurements
+tend to follow a long and strict competitive bid process where low price is a
+significant factor.  
+
+  The
+automated fare collection business is a niche market able to sustain only a
+relatively few number of suppliers. 
+Because of the long life expectancy of these systems and only a few
+companies able to supply them, there is fierce competition to win these jobs,
+often resulting in low initial contract profitability.  
+
+  Advances
+in communications, networking and security technologies are enabling
+interoperability of multiple modes of transportation within a single networked
+system as well as interoperability of multiple operators within a single
+networked system.  As such, there is a
+growing trend for regional ticketing systems, usually built around a large
+transit agency and including neighboring operators, all sharing a common
+regional smart card.  There is an
+emerging trend for other applications to be added to these regional systems to
+expand the utility of the smart card, offering higher value and incentives to
+the end users and lowering costs and creating new revenue streams for the
+regional system operators.  As a result,
+these regional systems have created opportunities for new levels of systems
+support and services including call center support, smart card production and
+distribution, financial clearing and settlement and multi-application
+support.  In some cases, operators are
+choosing to outsource the ongoing operations and commercialization of these
+regional ticketing systems. This growing new market provides the opportunity to
+establish lasting relationships and grow revenues and profits over the
+long-term.  
+
+    Raw Materials    :  
+
+  Raw materials used in this segment include sheet steel, composite
+products, copper electrical wire and castings. A significant portion of the
+segment s end product is composed of purchased electronic components and
+subcontracted parts and supplies. All of these items are procured from
+commercial sources.  In general, supplies
+of raw materials and purchased parts are adequate to meet the requirements of
+the segment.  
+
+    Backlog    :  
+
+  Funded sales backlog of the transportation systems segment at September
+30, 2006 and 2005 amounted to $716 million and $733 million, respectively.
+Approximately $525 million of the September 30, 2006 total backlog is not
+expected to be completed by September 30, 2007.  
+
+    Competition    :  
+
+  We
+are one of several companies involved in providing automated fare collection
+systems solutions and services for public transport operators worldwide
+including such foreign competitors as Thales, ACS, Scheidt   Bachmann and
+ERG.  In addition, there are many smaller
+local companies, particularly in European and Asian markets.  For large national tenders, it is common
+practice to form consortiums that include, in addition to the fare collection
+companies noted above, telecommunications, consulting and computer services companies
+including Keane, Siemens, Accenture, Metropolitan Transit Railway Corporation,
+Unisys, Computer Sciences Corporation and EDS. 
+These procurement activities are very competitive and require that we
+have highly skilled and experienced technical personnel to compete. We believe
+that our competitive advantages include intermodal and interagency regional
+integration expertise, technical skills, past contract performance, systems
+quality and reliability, experience in the industry and long-term customer
+relationships.  
+
+7     
+
+OTHER OPERATIONS    
+
+  Consolidated
+Converting Company converts corrugated paper stock into pizza boxes and other
+food related corrugated products.  
+
+    Raw Materials    :  
+
+  Raw materials used by Consolidated Converting Company consist of paper
+products which are procured from commercial sources.  In general, supplies of raw materials are
+presently adequate to meet the requirements of this business.  Paper shortages could delay completion, or
+result in the cancellation, of customer orders.  
+
+    Backlog    :  
+
+  Consolidated Converting Company had little sales backlog at September
+30, 2006 and 2005. The business does not track sales backlog due to the
+short-term conversion of customer orders into sales and the absence of
+long-term contracts.  
+
+    Competition    :  
+
+  This business competes with concerns of varying size, including some
+very large companies. It is not possible to predict the extent of the
+competition which present or future activities will encounter, particularly
+since the market for this subsidiary s products is subject to rapidly changing
+competitive conditions.  
+
+    BUSINESS STRATEGY    
+
+  Our
+objective is to consistently grow sales, improve profitability and deliver
+attractive returns on capital.  We intend
+to build on our position with U.S. and foreign governments as the leading full
+spectrum supplier of training systems and mission support services, grow our
+niche position as a supplier of network-centric technologies for communications
+systems and products, and maintain our position as the leading provider of
+integrated intermodal regional transit fare collection systems to transit
+authorities worldwide. Our strategies to achieve these objectives include:  
+
+    Leverage Long-Term Relationships    
+
+  We
+seek to maintain long-term relationships with our customers through repeat
+business by continuing to achieve high levels of performance on our existing
+contracts.  By achieving this goal we can
+leverage our returns through repeat business with existing customers and expand
+our presence in the market through sales of similar systems at  good value  to
+additional customers.  
+
+  An
+example of this in our defense segment is the recent competitive award of a
+contract to provide the next generation U.S. mobile ground training
+system.  Starting in the early 1980 s we
+built sophisticated ground training instrumented facilities for the U.S. and foreign
+militaries.  Our experience and
+innovation in this area of training technology was a key factor in the recent
+award by the U.S. Army of a five year $72 million IDIQ contract for the first
+mobile training facilities known as Initial-Homestation Instrumentation
+Training System or  I-HITS .  These new
+mobile training facilities will be deployed into combat areas and will utilize
+the latest in training technologies. Since the initial U.S. Army award in 2005,
+we have received four additional awards under this contract for I-HITS
+systems.  
+
+  In
+our transportation segment we have had a relationship with the Washington
+Metropolitan Area Transportation Authority (WMATA) for over 30 years, since we
+first implemented their magnetic ticketing system, and have over the years
+installed a complete back office system and over 4,000 pieces of
+equipment.  In 1999, we upgraded their
+system with SmarTrip    , the first contactless smart card
+implementation in the U.S. and have since added other applications such as
+parking, security access and prepaid transit benefits to the system.  We are currently rolling out the SmarTrip
+system to 1,600 
+
+8     
+
+WMATA
+buses, to over 2,000 buses throughout the Baltimore and Northern Virginia
+region and to the regional rail system. 
+We are also supplying a point-of-sale distribution network and upgrading
+the central computer system to offer region-wide services and to interface to a
+third party operated customer service center. Similarly, we are regionalizing
+integrated fare collection systems in London, New York and Southern California.  
+
+    Maintain a Diversified Business Mix    
+
+  We
+have a diverse mix of business in our defense and transportation systems
+segments. Approximately 52% of our sales are made directly or indirectly to the
+U.S. government; however, this represents a wide variety of product and service
+sales to many different U.S. government agencies. The largest single contract
+in the transportation segment is the PRESTIGE contract in London which
+represented about 6% of consolidated sales in 2006. The London area continues
+to be one of our strongest markets for transportation systems but we do not
+rely significantly on any single customer in the transportation systems market.  
+
+  We also seek a reasonable balance between systems and service work in
+both the defense and transportation segments. In aggregate, approximately 40%
+of our sales revenue in 2006 was from service type work. We believe that a
+strong base of service work helps to smooth the revenue fluctuations inherent
+in systems type work.  
+
+    Pursue Strategic Acquisitions    
+
+  Through
+selective strategic acquisitions we seek to expand our customer base, broaden
+our technical solutions, gain staffing resources and leverage our entry into
+related new markets. In our defense segment we acquired a small virtual
+training product line in 2006 that broadened our presence in the small arms
+virtual training market.  With our
+improved financial performance in 2006, we anticipate a renewed focus on
+acquisitions in fiscal 2007. We are focused on specific growth opportunities in
+the defense marketplace and select market opportunities in transportation.  
+
+    OTHER MATTERS    
+
+  We pursue a policy of seeking patent protection for our products where
+deemed advisable, but do not regard ourselves as materially dependent on
+patents for the maintenance of our competitive position.  
+
+  We do not engage in any business that is seasonal in nature. Because our
+revenues are generated primarily from work on contracts performed by our
+employees and subcontractors, first quarter revenues tend to be lower than the
+other three quarters due to our policy of providing many of our employees seven
+holidays in the first quarter, compared to one or two in each of the other
+quarters of the year. This is not necessarily a consistent pattern as it
+depends upon actual activities in any given year.  
+
+   The cost of Company sponsored research and development (R D)
+activities was $6.1 million, $8.1 million, $5.5 million in 2006, 2005, 2004,
+respectively.   We do not rely heavily
+on independent R D, as most of our new product development occurs in
+conjunction with the performance of work on our contracts. The amount of
+contract-required product development activity was $64 million in 2006 compared
+to $65 million and $51 million in 2005 and 2004, respectively; however, these costs
+are included in cost of sales as they are directly related to contract
+performance.   
+
+  We comply with federal, state and local laws and regulations regarding
+discharge of materials into the environment and the handling and disposal of
+materials classed as hazardous and/or toxic. Such compliance has no material
+effect upon the capital expenditures, earnings or competitive position of the
+Company.  
+
+  We employed approximately 6,000 persons at September 30, 2006.  
+
+  Our domestic products and services are sold almost entirely by our
+employees.  Overseas sales are made
+either directly or through representatives or agents.  
+
+9     
+
+RISK FACTORS    
+
+   The following are some of the factors we
+believe could cause our actual results to differ materially from expected and
+historical results.   Additional
+risks and uncertainties not presently known to us, or that we currently see as
+immaterial, may also harm our business. 
+If any of the risks or uncertainties described below or any such
+additional risks and uncertainties actually occur, our business, results of
+operations or financial condition could be materially and adversely affected.  
+
+    We
+depend on government contracts for substantially all of our revenues and the
+loss of government contracts or a delay or decline in funding of existing or future
+government contracts could adversely affect our sales and cash flows and our
+ability to fund our growth.    
+
+  Our revenues from
+contracts, directly or indirectly, with foreign and United States, state,
+regional and local governmental agencies represented more than 95% of our total
+revenues in fiscal year 2006.  Although
+these various government agencies are subject to common budgetary pressures and
+other factors, many of our various government customers exercise independent
+purchasing decisions.  Because of the
+concentration of business with governmental agencies, we are vulnerable to
+adverse changes in our revenues, income and cash flows if a significant number
+of our government contracts or subcontracts or prospects are delayed or
+canceled for budgetary or other reasons.  
+
+  The factors that could
+cause us to lose these contracts or could otherwise materially harm our
+business, prospects, financial condition or results of operations include:  
+
+                        re-allocation of
+government resources as the result of actual or threatened terrorism or hostile
+activities; 
+
+                        budget
+constraints affecting government spending generally, or specific departments or
+agencies such as U.S. or foreign defense and transit agencies and regional
+transit agencies, and changes in fiscal policies or a reduction of available
+funding; 
+
+                        changes in
+government programs or requirements or their timing; 
+
+                        curtailment of
+government s use of technology products and service providers; 
+
+                        the adoption of
+new laws or regulations pertaining to government procurement; 
+
+                        government
+appropriations delays or shutdowns; 
+
+                        suspension or
+prohibition from contracting with the government or any significant agency with
+which we conduct business; 
+
+                        impairment of
+our reputation or relationships with any significant government agency with
+which we conduct business; 
+
+                        impairment of
+our ability to provide third-party guarantees and letters of credit; and 
+
+                        delays in the
+payment of our invoices by government payment offices. 
+
+    Government
+spending priorities may change in a manner adverse to our businesses.    
+
+  In the past, our
+businesses have been adversely affected by significant changes in government
+spending during periods of declining budgets. 
+A significant decline in overall spending, or the decision not to
+exercise options to renew contracts, or the loss of or substantial decline in
+spending on a large program in which we participate could materially adversely
+affect our business, prospects, financial condition or results of
+operations.  As an example, the U.S.
+defense and intelligence budgets generally, and spending in specific agencies
+with which we work, such as the Department of Defense, have declined from time
+to time for extended periods since the mid-1980s, resulting in program delays,
+program cancellations and a  
+
+10     
+
+slowing of new program
+starts.  Although spending on
+defense-related programs by the U.S. government has recently increased, future
+levels of expenditures and authorizations for those programs may decrease,
+remain constant or shift to programs in areas where we do not currently provide
+products or services.  
+
+  Even though our contract
+periods of performance for a program may exceed one year, Congress must usually
+approve funds for a given program each fiscal year and may significantly reduce
+funding of a program in a particular year. 
+Significant reductions in these appropriations or the amount of new
+defense contracts awarded may affect our ability to complete contracts, obtain
+new work and grow our business.  Congress
+does not always enact spending bills by the beginning of the new fiscal
+year.  Such delays leave the affected
+agencies under-funded which delays their ability to contract.  Future delays and uncertainties in funding
+could impose additional business risks on us.  
+
+    Our contracts with
+government agencies may be terminated or modified prior to completion, which
+could adversely affect our business.    
+
+  Government contracts
+typically contain provisions and are subject to laws and regulations that give
+the government agencies rights and remedies not typically found in commercial
+contracts, including providing the government agency with the ability to
+unilaterally:  
+
+                        terminate our
+existing contracts; 
+
+                        reduce the value
+of our existing contracts; 
+
+                        modify some of
+the terms and conditions in our existing contracts; 
+
+                        suspend or
+permanently prohibit us from doing business with the government or with any
+specific government agency; 
+
+                        control and
+potentially prohibit the export of our products; 
+
+                        cancel or delay
+existing multiyear contracts and related orders if the necessary funds for
+contract performance for any subsequent year are not appropriated; 
+
+                        decline to
+exercise an option to extend an existing multiyear contract; and 
+
+                        claim rights in
+technologies and systems invented, developed or produced by us. 
+
+  Most U.S. government
+agencies and some other agencies with which we contract can terminate their
+contracts with us for convenience, and in that event we generally may recover
+only our incurred or committed costs, settlement expenses and profit on the
+work completed prior to termination.  If
+an agency terminates a contract with us for default, we are denied any recovery
+and may be liable for excess costs incurred by the agency in procuring
+undelivered items from an alternative source. 
+We may receive show-cause or cure notices under contracts that, if not
+addressed to the agency s satisfaction, could give the agency the right to
+terminate those contracts for default or to cease procuring our services under
+those contracts.  
+
+  In the event that any of
+our contracts were to be terminated or adversely modified, there may be
+significant adverse effects on our revenues, operating costs and income that
+would not be recoverable.  
+
+    Failure to retain
+existing contracts or win new contracts under competitive bidding processes may
+adversely affect our revenue.    
+
+  We obtain most of our
+contracts through a competitive bidding process, and substantially all of the
+business that we expect to seek in the foreseeable future likely will be
+subject to a competitive bidding process. 
+Competitive bidding presents a number of risks, including:  
+
+                        the need to
+compete against companies or teams of companies with more financial and
+marketing resources and more experience in bidding on and performing major
+contracts than we have; 
+
+                        the need to
+compete against companies or teams of companies that may be long-term,
+entrenched incumbents for a particular contract for which we are competing and
+that have, as a result, greater domain expertise and better customer relations; 
+
+11     
+
+the need to
+compete to retain existing contracts that have in the past been awarded to us
+on a sole-source basis; 
+
+                        the expense and
+delay that may arise if our competitors protest or challenge new contract
+awards; 
+
+                        the need to bid
+on programs in advance of the completion of their design, which may result in
+unforeseen technological difficulties, cost overruns or both; 
+
+                        the substantial
+cost and managerial time and effort, including design, development and
+marketing activities, necessary to prepare bids and proposals for contracts
+that may not be awarded to us; 
+
+                        the need to
+develop, introduce, and implement new and enhanced solutions to our customers 
+needs; 
+
+                        the need to
+locate and contract with teaming partners and subcontractors; and 
+
+                        the need to
+accurately estimate the resources and cost structure that will be required to
+perform any fixed-price contract that we are awarded. 
+
+  We may not be afforded
+the opportunity in the future to bid on contracts that are held by other
+companies and are scheduled to expire if the agency decides to extend the existing
+contract.  If we are unable to win
+particular contracts that are awarded through the competitive bidding process,
+we may not be able to operate in the market for services that are provided
+under those contracts for a number of years. 
+If we win a contract, and upon expiration, if the customer requires
+further services of the type provided by the contract, there is frequently a
+competitive rebidding process and there can be no assurance that we will win
+any particular bid, or that we will be able to replace business lost upon
+expiration or completion of a contract.  
+
+  Because of the complexity
+and scheduling of contracting with government agencies, we occasionally incur
+costs before receiving contractual funding by the government agency.  In some circumstances, we may not be able to
+recover these costs in whole or in part under subsequent contractual actions.  
+
+  If we are unable to
+consistently retain existing contracts or win new contract awards, our business
+prospects, financial condition and results of operations will be adversely
+affected.  
+
+    Government audits of our contracts could result in
+a material charge to our earnings and have a negative effect on our cash
+position following an audit adjustment.    
+
+  Many of our government
+contracts are subject to cost audits which may occur several years after the
+period to which the audit relates.  If an
+audit identifies significant unallowable costs, we could incur a material
+charge to our earnings or reduction in our cash position.  
+
+    Our
+international business exposes us to additional risks, including exchange rate
+fluctuations, foreign tax and legal regulations and political or economic
+instability that could harm our operating results.    
+
+  Our international
+operations, including our contract for the London Transport fare collection
+system, subject us to risks associated with operating in and selling products
+or services in foreign countries, including:  
+
+                        devaluations and
+fluctuations in currency exchange rates; 
+
+                        changes in
+foreign laws that adversely affect our ability to sell our products or services
+or our ability to repatriate profits to the United States; 
+
+                        increases or
+impositions of withholding and other taxes on remittances and other payments by
+foreign subsidiaries or joint ventures to us; 
+
+                        increases in
+investment and other restrictions or requirements by foreign governments in
+order to operate in the territory or own the subsidiary; 
+
+                        costs of
+compliance with local laws, including labor laws; 
+
+                        export control
+regulations and policies which govern our ability to supply foreign customers; 
+
+                        unfamiliar and
+unknown business practices and customs; 
+
+12     
+
+domestic and
+foreign government policies, including requirements to expend a portion of
+program funds locally and governmental industrial cooperation requirements; 
+
+                        the complexity
+and necessity of using foreign representatives and consultants; 
+
+                        the uncertainty
+of the ability of foreign customers to finance purchases; 
+
+                        imposition of
+tariffs or embargoes, export controls and other trade restrictions; 
+
+                        the difficulty
+of management and operation of an enterprise in various countries; and 
+
+                        economic and
+geopolitical developments and conditions, including international hostilities,
+acts of terrorism and governmental reactions, inflation, trade relationships
+and military and political alliances. 
+
+  Our foreign subsidiaries
+and joint ventures generally conduct business in foreign currencies and enter
+into contracts and make purchase commitments that are denominated in foreign
+currencies.  Accordingly, we are exposed
+to fluctuations in exchange rates, which could have a significant impact on our
+results of operations.  We have no
+control over the factors that generally affect this risk, such as economic,
+financial and political events and the supply of and demand for applicable
+currencies.  While we use foreign
+exchange forward and option contracts to hedge significant contract sales and
+purchase commitments that are denominated in foreign currencies, our hedging
+strategy may not prevent us from incurring losses due to exchange fluctuations.  
+
+    Our operating margins may decline under our fixed-price
+contracts if we fail to estimate accurately the time and resources necessary to
+satisfy our obligations.    
+
+  Approximately 74% of our
+revenues in 2006 were from fixed-price contracts under which we bear the risk
+of cost overruns.  Our profits are
+adversely affected if our costs under these contracts exceed the assumptions we
+used in bidding for the contract.  Often,
+we are required to fix the price for a contract before the project
+specifications are finalized, which increases the risk that we will incorrectly
+price these contracts. The complexity of many of our engagements makes
+accurately estimating the time and resources required more difficult.  
+
+    We may be liable
+for civil or criminal penalties under a variety of complex laws and
+regulations, and changes in governmental regulations could adversely affect our
+business and financial position.    
+
+  Our businesses must
+comply with and are affected by various government regulations that impact our
+operating costs, profit margins and our internal organization and operation of
+our businesses. These regulations affect how we do business and, in some
+instances, impose added costs.  Any
+changes in applicable laws could adversely affect our financial
+performance.  Any material failure to
+comply with applicable laws could result in contract termination, price or fee
+reductions or suspension or debarment from contracting.  The more significant regulations include:  
+
+                        the Federal
+Acquisition Regulations and all department and agency supplements, which
+comprehensively regulate the formation, administration and performance of U.S.
+government contracts; 
+
+                        the Truth in
+Negotiations Act and implementing regulations, which require certification and
+disclosure of all cost and pricing data in connection with contract
+negotiations; 
+
+                        laws,
+regulations and executive orders restricting the use and dissemination of
+information classified for national security purposes and the exportation of
+certain products and technical data; 
+
+                        regulations of
+most state and regional agencies and foreign governments similar to those
+described above; 
+
+                        the
+Sarbanes-Oxley Act of 2002; and 
+
+                        tax laws and
+regulations in the U.S. and in other countries in which we operate. 
+
+13  
+
+Our failure to identify, attract and retain qualified
+technical and management personnel could adversely affect our existing
+businesses.    
+
+  We may not be able
+to attract and retain the highly qualified technical personnel, including
+engineers, computer programmers, and personnel with security clearances
+required for classified work, or management personnel to supervise such
+activities that are necessary for maintaining and growing our existing
+businesses.  
+
+    We may incur significant costs in protecting our
+intellectual property which could adversely affect our profit margins. Our
+inability to protect our patents and proprietary rights could adversely affect
+our businesses  prospects and competitive positions.    
+
+  We seek to protect
+proprietary technology and inventions through patents and other proprietary-right
+protection.  The laws of some foreign
+countries do not protect proprietary rights to the same extent as the laws of
+the United States.  If we are unable to
+obtain or maintain these protections, we may not be able to prevent third
+parties from using our proprietary rights. In addition, we may incur
+significant expense both in protecting our intellectual property and in
+defending or assessing claims with respect to intellectual property owned by
+others.  
+
+  We also rely on
+trade secrets, proprietary know-how and continuing technological innovation to
+remain competitive.  We have taken
+measures to protect our trade secrets and know-how, including the use of
+confidentiality agreements with our employees, consultants and advisors.  These agreements may be breached and remedies
+for a breach may not be sufficient to compensate us for damages incurred.  We generally control and limit access to our
+product documentation and other proprietary information.  Other parties may independently develop our
+know-how or otherwise obtain access to our technology.  
+
+    We compete primarily for government contracts
+against many companies that are larger, better financed and better known than
+us.  If we are unable to compete
+effectively, our business and prospects will be adversely affected.    
+
+  Our businesses
+operate in highly competitive markets. 
+Many of our competitors are larger, better financed and better known
+companies who may compete more effectively than we can.  In order to remain competitive, we must keep
+our capabilities technically advanced and compete on price and on value added
+to our customers.  Our ability to compete
+may be adversely affected by limits on our capital resources and our ability to
+invest in maintaining and expanding our market share.  
+
+    The terms of our financing arrangements may restrict
+our financial and operational flexibility, including our ability to invest in
+new business opportunities.    
+
+  We currently have
+unsecured borrowing arrangements.  The
+terms of these borrowing arrangements include provisions that require and/or
+limit our levels of working capital, debt and net worth and coverage of fixed
+charges.  We also have provided
+performance guarantees to various customers that include financial covenants
+including limits on working capital, debt, tangible net worth and cash flow
+coverage.  
+
+  We may incur
+future obligations that would subject us to additional covenants that affect
+our financial and operational flexibility or subject us to different events of
+default.  
+
+    Our revenues could be less than expected if we are not
+able to deliver services or products as scheduled due to disruptions in supply.    
+
+  Because our
+internal manufacturing capacity is limited, we use contract manufacturers.
+While we use care in selecting our manufacturers, we have less control over the
+reliability of supply, quality and price of products or components than if we
+manufactured them.  In some cases, we
+obtain products from a sole supplier or a limited group of suppliers.  Consequently, we risk disruptions in our
+supply of key products and components if our suppliers fail or are unable to
+perform because of strikes, natural disasters, financial condition or other
+factors.  Any material supply disruptions
+could adversely affect our ability to perform our obligations under our
+contracts and could result in cancellation of contracts or purchase orders,
+penalties, delays in realizing revenues, payment delays, as well as adversely
+affect our ongoing product cost structure.  
+
+14     
+
+Failure
+to perform by one of our subcontractors could materially and adversely affect
+our prime contract performance and our ability to obtain future business.    
+
+  Our performance of
+contracts may involve subcontractors, upon which we rely to deliver the
+products to our customers.  We may have
+disputes with subcontractors.  A failure
+by a subcontractor to satisfactorily deliver products or services may adversely
+affect our ability to perform our obligations as a prime contractor.  Any subcontractor performance deficiencies
+could result in the customer terminating our contract for default, which could
+expose us to liability for excess costs of reprocurement by the customer and
+have a material adverse effect on our ability to compete for other contracts.  
+
+    We
+may acquire other companies, which could increase our costs or liabilities or
+be disruptive.    
+
+  Part of our
+strategy involves the acquisition of other companies.  We may not be able to integrate acquired
+entities successfully without substantial expense, delay or operational or
+financial problems.  The acquisition and
+integration of new businesses involves risk. 
+The integration of acquired businesses may be costly and may adversely
+impact our results of operations or financial condition:  
+
+                        we
+may need to divert management resources to integration, which may adversely
+affect our ability to pursue other more profitable activities; 
+
+                        integration
+may be difficult as a result of the necessity of coordinating geographically
+separated organizations, integrating personnel with disparate business
+backgrounds and combining different corporate cultures; 
+
+                        we
+may not eliminate redundant costs in selecting acquisition candidates; and 
+
+                        one
+or more of our acquisition candidates may also have unexpected liabilities or
+adverse operating issues that we fail to discover through our due diligence
+procedures prior to the acquisition. 
+
+    Our results of operations have historically fluctuated
+and may continue to fluctuate significantly in the future, which could
+adversely affect the market price of our common stock.    
+
+  Our revenues are
+affected by factors such as the unpredictability of contract awards due to the
+long procurement process for most of our products and services, the potential
+fluctuation of governmental agency budgets, the time it takes for the new
+markets we target to develop and for us to develop and provide products and
+services for those markets, competition and general economic conditions.  Our contract type/product mix and unit
+volume, our ability to keep expenses within budget, and our pricing affect our
+operating margins. Significant growth in costs to complete our contracts, such
+as we experienced in our transportation systems business in 2005 and 2006, may
+adversely affect our results of operations in future periods. These factors and
+other risk factors described herein may adversely affect our results of
+operations and cause our financial results to fluctuate significantly on a
+quarterly or annual basis.  Consequently,
+we do not believe that comparison of our results of operations from period to
+period is necessarily meaningful or predictive of our likely future results of
+operations. In some future financial period our operating results may be below
+the expectations of public market analysts or investors.  If so, the market price of our securities may
+decline significantly.  
+
+15     
+
+CAUTIONARY STATEMENT ABOUT FORWARD-LOOKING
+INFORMATION    
+
+  This report,
+including the documents that we incorporate by reference, contains
+forward-looking statements within the meaning of Section 21E of the Securities
+Exchange Act of 1934, as amended, that are subject to the  safe harbor  created
+by those sections. Any statements about our expectations, beliefs, plans,
+objectives, assumptions or future events or our future financial and/or
+operating performance are not historical and may be forward-looking. These
+statements are often, but not always, made through the use of words or phrases
+such as  may,   will,   anticipate,   estimate,   plan,   project,   continuing, 
+ ongoing,   expect,   believe,   intend,   predict,   potential,   opportunity 
+and similar words or phrases or the negatives of these words or phrases.  These statements involve estimates,
+assumptions and uncertainties, including those discussed in  Risk Factors  and
+elsewhere throughout this filing and in the documents incorporated by reference
+into this filing that could cause actual results to differ materially from
+those expressed in these statements.  
+
+  Because the risk
+factors referred to above could cause actual results or outcomes to differ
+materially from those expressed in any forward-looking statements made by us or
+on our behalf, you should not place undue reliance on any forward-looking
+statements.  In addition, past financial
+and/or operating performance is not necessarily a reliable indicator of future
+performance and you should not use our historical performance to anticipate
+results or future period trends. 
+Further, any forward-looking statement speaks only as of the date on
+which it is made, and we undertake no obligation to update any forward-looking
+statement to reflect events or circumstances after the date on which the
+statement is made or to reflect the occurrence of unanticipated events. New
+factors emerge from time to time, and it is not possible for us to predict
+which factors will arise. In addition, we cannot assess the impact of each
+factor on our business or the extent to which any factor, or combination of
+factors, may cause actual results to differ materially from those contained in
+any forward-looking statements.  
+
+16     
+
+Item 2.                 PROPERTIES .  
+
+  We
+conduct our operations in approximately 1.6 million square feet of both owned
+and leased properties located in the United States and foreign countries.  We own approximately 74% of the square
+footage, including 517,000 square feet located in San Diego, California and
+468,000 square feet located in Orlando, Florida.  All owned and leased properties are
+considered in good condition and, with the exception of the Orlando facility,
+adequately utilized.  The following table
+identifies significant properties by business segment:  
+
+Location of Property 
+
+Owned or Leased   
+
+Corporate
+  Headquarters:    
+
+San Diego, CA  
+
+Owned  
+
+Defense:    
+
+Arlington, VA  
+
+Leased  
+
+Auckland, New
+  Zealand  
+
+Leased  
+
+Hampton, VA  
+
+Leased  
+
+Honolulu, HI  
+
+Leased  
+
+Kingstowne, VA  
+
+Leased  
+
+Lacey, WA  
+
+Leased  
+
+Leavenworth, KS  
+
+Leased  
+
+Orlando, FL  
+
+Leased and owned  
+
+San Diego, CA  
+
+Leased and owned  
+
+Shalimar, FL  
+
+Leased  
+
+Singapore  
+
+Leased  
+
+Tijuana, Mexico  
+
+Leased  
+
+Transportation
+  Systems:    
+
+Auburn, NSW
+  Australia  
+
+Leased  
+
+Glostrup,
+  Denmark  
+
+Leased  
+
+Chantilly, VA  
+
+Leased  
+
+Frankfurt,
+  Germany  
+
+Leased  
+
+London, England  
+
+Leased  
+
+Los Angeles, CA  
+
+Leased  
+
+Montreal, Canada  
+
+Leased  
+
+New York, NY  
+
+Leased and owned  
+
+Merthsham,
+  Surrey, England  
+
+Leased  
+
+Salfords,
+  Surrey, England  
+
+Owned  
+
+San Diego, CA  
+
+Owned  
+
+Tullahoma, TN  
+
+Owned  
+
+Other:    
+
+Whittier, CA  
+
+Leased  
+
+Investment
+  properties:    
+
+Teterboro, NJ  
+
+Leased  
+
+Vancouver,
+  Canada  
+
+Leased  
+
+17     
+
+Item 3.                 LEGAL
+PROCEEDINGS .  
+
+  In 1991, the government of
+Iran commenced an arbitration proceeding against the Company seeking $12.9
+million for reimbursement of payments made for equipment that was to comprise
+an Air Combat Maneuvering Range pursuant to a sales contract and an
+installation contract executed in 1977, and an additional $15 million for
+unspecified damages. The Company contested the action and brought a
+counterclaim for compensatory damages of $10.4 million.  In May 1997, the arbitral tribunal awarded the
+government of Iran $2.8 million, plus simple interest at the rate of 12% per
+annum from September 21, 1991 through May 5, 1997. In December 1998, the United
+States District Court granted a motion by the government of Iran confirming the
+arbitral award but denied Iran s request for additional interest and costs.
+Both parties have appealed. In October 2004, the 9  th   Circuit Court of Appeals issued a decision in
+the case of two interveners who are attempting to claim an attachment on the
+amount that was awarded to Iran in the original arbitration. The Court denied
+one of the intervener s liens but confirmed the second one s lien. Iran asked
+the U.S. Supreme Court to review the 9  th   Circuit decision and to void the initial
+judgment against it. In 2006, the Supreme Court returned the case to the 9  th   Circuit for reconsideration,
+suggesting that the claimed lien cannot be enforced. The dispute between Iran
+and Cubic is on hold in the 9  th   Circuit and the obligation upon Cubic to pay
+is stayed. Under current United States law and policy, any payment to the
+Revolutionary Government of Iran must first be licensed by the U.S. government.
+The Company is unaware of the likelihood of the U.S. government granting such a
+license. The Company is continuing to pursue its appeal in the 9  th   Circuit case against Iran, and
+management believes that a license from the U.S. government would be required
+in any case to make payment to or on behalf of Iran. However, in light of the 9  th   Circuit Court s decision in the
+related intervener s case, in 2004 the Company established a reserve of $6
+million for the estimated potential liability and will continue to accrue
+interest on this amount until the ultimate outcome of the case is determined.  
+
+  In January 2005, a bus fare collection system
+customer in North America issued a  cure notice  to the Company, alleging that
+its performance was not in accord with the contract. After unsuccessful
+negotiations with the customer, in March 2005, the Company filed for a
+temporary restraining order requesting that the customer be restrained from
+further interfering with the Company s performance and from issuing a
+termination notice. The next business day, the customer issued a letter
+terminating the contract for default. In April 2005, the customer filed a claim
+for breach of contract, seeking damages for  all actual, consequential and
+liquidated damages sustained  as well as attorney s fees. The contract limits
+liability to the contract value of $8.2 million, but the customer appears to be
+attempting to avoid that limitation. In May 2005, the Company filed an answer
+and general denial and subsequently filed a verified petition alleging breach
+of contract and other substantive claims, claiming the amount owed under the
+contract of $4.2 million, plus interest and attorney s fees. Management
+believes that both the customer s default notice and claim for damages are
+unsupported and the Company is vigorously defending against the allegations.
+Based on the advice of counsel, management believes the Company had substantially
+completed the contract prior to termination and that the remaining contract
+value is due and that the Company will prevail at trial; therefore, no
+liability has been recorded for the former customer s claim as of September 30,
+2006. However, due to the uncertainty of collecting the outstanding receivable
+balance an allowance for doubtful accounts of $4.2 million was established and
+all costs incurred in the performance of the contract and costs incurred
+outside the scope of the contract were expensed in the year ended September 30,
+2005.  
+
+  In June 2005, a company
+that Cubic had an alleged agreement with to potentially bid on a portion of
+automated fare collection contracts filed a court claim for breach of contract,
+fraud, negligent misrepresentation, theft of trade secrets, and other related
+allegations. The claim seeks $15.0 million in compensatory damages, punitive
+damages, disgorgement of profits and a permanent injunction. In accordance with
+the underlying contract arbitration clause, in July 2005 the Company filed a
+claim with the American Arbitration Association and requested the court case be
+stayed or dismissed. The Court denied the Company s motion to transfer the case
+to arbitration. The Company has appealed that decision to the California Court
+of Appeals. Based on information currently available, management believes there
+is no merit to the claim and that it will prevail in this matter. Therefore, no
+liability has been recorded as of September 30, 2006.  
+
+18     
+
+From time-to-time, agencies of the U.S. and foreign governments may
+investigate whether the Company s operations are being conducted in accordance
+with applicable regulatory requirements. Such investigations, whether relating
+to government contracts or conducted for other reasons, could result in
+administrative, civil or criminal liabilities, including repayments, fines or
+penalties being imposed upon the Company, or could lead to suspension or
+debarment from future government contracting. 
+Government investigations often take years to complete and most result
+in no adverse action against the Company.  
+
+  The Company is not a party to any other material
+pending proceedings and management considers all other matters to be ordinary
+proceedings incidental to the business. Management believes the outcome of
+these proceedings and the proceedings described above will not have a
+materially adverse effect on the Company s financial position.  
+
+   Item 4.                 SUBMISSION
+OF MATTERS TO A VOTE OF SECURITY HOLDERS .  
+
+  Information
+regarding submission of matters to a vote of security holders is incorporated
+herein by reference from our definitive Proxy Statement, which will be filed no
+later than 30 days prior to the date of the Annual Meeting of Shareholders.  
+
+    PART II    
+
+   Item 5.                 MARKET
+FOR THE REGISTRANT S COMMON STOCK AND RELATED SECURITY    HOLDER MATTERS   .  
+
+  The
+principal market on which our common stock is being traded is the American
+Stock Exchange under the symbol CUB.  The
+closing high and low sales prices for the stock, as reported in the
+consolidated transaction reporting system on the American Stock Exchange for
+the quarterly periods during the past two fiscal years, and dividend
+information for those periods, are as follows:  
+
+  MARKET
+AND DIVIDEND INFORMATION  
+
+On November 17, 2006, the closing price of our common stock on the
+American Stock Exchange was $21.86.  
+
+  There were approximately 1,100 shareholders of record of our common
+stock as of November 17, 2006.  
+
+19     
+
+Item 6.                 SELECTED
+FINANCIAL DATA .  
+
+  FINANCIAL HIGHLIGHTS AND SUMMARY OF CONSOLIDATED
+OPERATIONS  
+
+  (amounts in thousands, except per share data)  
+
+This summary should be
+read in conjunction with the related consolidated financial statements and  accompanying notes.  
+
+20     
+
+Item 7.                 MANAGEMENT S
+DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND    RESULTS OF OPERATIONS .  
+
+  Our two primary businesses are in the defense and transportation industries. For the year ended September 30, 2006, 69% of sales were derived from defense, while 31% were derived from transportation fare collection systems and other commercial operations. These are high technology businesses that design, manufacture and integrate complex systems to meet the needs of various federal and regional government agencies in the U.S. and other nations around the world. The U.S. Government remains our largest customer, accounting for approximately 52% of sales in 2006 compared to 53% in 2005 and 50% in 2004.  
+
+  Cubic Defense Applications (CDA) is organized into
+three market-focused business units: Training Systems Business Unit (TSBU),
+Mission Support Services Business Unit (MSBU), and Communications  
+Electronics Business Unit (CEBU).  The
+segment is a diversified supplier of constructive, live and virtual military
+training systems, services and communication systems and products to the U.S.
+Department of Defense, other government agencies and allied nations. We design
+instrumented range systems for fighter aircraft, armored vehicles and infantry
+force-on-force live training; weapons effects simulations; laser-based tactical
+and communication systems; and precision gunnery solutions.  Our services are focused on training mission
+support, computer simulation training, distributed interactive simulation,
+development of military training doctrine, force modernization services for
+NATO entrants and field operations and maintenance. Our communications products
+are aimed at intelligence, surveillance, and search and rescue markets. The
+segment also has a 50% interest in a joint venture which in 2006 received its
+first contracts to produce certain advanced tactical systems for the U.S. and
+Israel.  
+
+  Cubic Transportation Systems develops and delivers
+innovative fare collection systems for public transit authorities
+worldwide.  We provide hardware, software
+and multiagency, multimodal transportation integration technologies and
+services that allow the agencies to efficiently collect fares, manage their
+operations, reduce shrinkage and make using public transit a more convenient
+and attractive option for commuters.  
+
+    Consolidated Overview    
+
+  Sales in fiscal
+2006 increased by 2% to $821.4 million compared to $804.4 million in 2005.
+Sales in 2005 represented an 11% increase over 2004 sales of $722.0 million.
+The sales growth in both 2005 and 2006 came from our defense segment, while
+transportation systems sales were nearly flat for the three year period from
+2004 to 2006. Essentially all the growth in defense sales in both years came
+from existing businesses, with an immaterial amount coming from a small strategic
+acquisition we made in 2006. We also made two small transportation systems
+acquisitions, one at the end of 2004 and one early in 2005, which added about
+$4.3 million and $9.1 million to fiscal 2006 and 2005 transportation systems
+sales, respectively.  See
+the segment discussions following for further analysis of segment sales. 
+
+  Operating income more than doubled in 2006 to $30.9 million from $13.1
+million in 2005. The primary reason for the improvement in 2006 was that our
+transportation business returned to profitability after having incurred an
+operating loss in fiscal 2005. Defense operating income also increased in 2006,
+at a slightly better rate than the growth in defense sales. Costs of compliance
+with Section 404 of the Sarbanes-Oxley Act of 2002, which are included in
+corporate and other costs in our segment reporting, decreased in fiscal 2006 to
+$0.9 million compared to $1.4 million in 2005, our initial year of compliance.
+Operating income decreased by 76% in 2005 from 2004 operating income of $54.2
+million. The primary reason for the large decrease was the operating loss
+incurred in 2005 by our transportation systems segment, in addition to a small
+decrease in defense operating income. See the segment discussions following for
+further details of segment operating results.  
+
+  Net income more
+than doubled from $11.6 million ($0.44 per share) in 2005 to $24.1 million
+($.90 per share) in 2006, primarily because of the improvement in
+transportation systems operating results. Net income in 2005 had dropped from
+the 2004 level of $36.9 million ($1.38 per share) primarily because of the
+operating loss in transportation systems in 2005, and was further impacted by
+the decrease in defense segment operating income in that year. Approximately
+$4.3 million, after applicable income taxes, of the  
+
+21     
+
+2006 net income
+was from  a gain on the
+sale of real estate that had been held for investment purposes for many years,
+but was sold in the first quarter of the fiscal year. Approximately $2.8
+million of the 2005 net income was from a reduction in tax contingency
+reserves in the fourth quarter, while $2.3 million, after taxes, of the 2004
+net income was from a gain on the sale of a life insurance policy in the third
+quarter. In 2004, a loss provision for a legal matter had also reduced net
+income in the fourth quarter by approximately $3.8 million after taxes. 
+
+  The gross margin from product sales improved slightly
+in 2006 to 16.0% from 15.1% in 2005, due to improved performance in the
+transportation systems segment. However, cost growth on a training systems
+contract in the defense segment and on several transportation systems contracts
+in 2006, kept the gross margin from products lower than the 2004 level of
+26.6%.  The gross margin from service
+sales was 16.9% in 2006, compared to 18.1% in 2005 and 19.6% in 2004. The
+primary cause of the decreasing service gross margin during the three year
+period was lower sales from a service contract in Europe that had generated
+higher than average gross margins. This contract continues to decrease in scope
+and is expected to be completed in the second quarter of fiscal 2007.  
+
+  Selling, general and administrative
+(SG A) expenses decreased to 11.8% of sales in 2006 compared to 13.8% in
+2005 and 14.8% in 2004. SG A expenses were $13.5 million lower in 2006 than
+in 2005, with the decrease coming from both segments. In 2005, the defense
+segment incurred higher than normal selling expenses related to contract
+proposals, while such activities returned to a more normal level in 2006. Lower
+transportation systems selling expenses and staffing reductions contributed to
+reduced SG A expenses in that segment. In addition, an allowance for
+doubtful accounts provision of more than $4 million had contributed to higher
+SG A expenses in transportation systems in 2005. Transportation systems
+SG A expenses decreased in 2005 despite the allowance for doubtful accounts
+provision, due to a reduction in legal, consulting and engineering support
+costs incurred in 2004 related to a contractual dispute with a former subcontractor.  
+
+  Company sponsored
+research and development (R D) spending decreased in 2006 from the 2005
+level, however, R D costs continued to be incurred primarily in connection
+with customer funded activities. We do not rely heavily on company sponsored R D,
+as most of our new product development occurs in conjunction with the
+performance of work on our contracts. The amount of contract required
+development activity in 2006 was $64 million, compared to $65 million in 2005
+and $51 million in 2004; however, these costs are included in cost of sales as
+they are directly related to contract performance.  
+
+  Interest and
+dividend income increased in 2006 over both 2005 and 2004 due primarily to
+higher interest rates in 2006. Other income was lower in 2006 than in 2005 and
+2004 due in part to lower rental income, resulting from the sale of the real
+estate mentioned above. Other income in 2005 had also included higher foreign
+currency exchange gains on intercompany advances to our U.K. subsidiary.
+Interest expense decreased in 2006 from the 2005 level primarily because of a
+reduction in long-term borrowings. Interest expense was higher in both 2005 and
+2006 than in 2004 due primarily to higher levels of short-term borrowings
+during each of those years.  
+
+  Our effective tax
+rate for 2006 was 33.6% of pretax income compared to 3.7% in 2005 and 34.4% in
+2004. Tax expense in 2006 included a provision of $1.6 million for taxes due
+upon the repatriation of capital to the U.S. from our U.K. subsidiary during
+the year. The effective rate in both 2006 and 2005 benefited from the reversal
+of tax contingency provisions amounting to $1.1 million and $2.8 million,
+respectively. Our effective tax rate could be affected in future years by,
+among other factors, the mix of business between U.S. and foreign
+jurisdictions, our ability to take advantage of available tax credits, and
+audits of our records by taxing authorities.  
+
+  In December 2004, Financial Accounting Standards Board Position
+109-2 was issued and established standards for how an issuer accounts for a
+special one-time dividends received deduction on the repatriation of certain
+foreign earnings to a U.S. taxpayer pursuant to the American Jobs Creation Act
+of 2004 (the Act). The Financial Accounting Standards Board (FASB) staff
+believes that the lack of clarification of certain provisions within the Act
+and the timing of the enactment necessitated a practical exception to the
+Statement of Financial Accounting Standards No. 109,  Accounting for Income Taxes   
+
+22     
+
+(SFAS 109), requirement to reflect in the period of enactment the
+effect of a new tax law. Accordingly, an enterprise was allowed time beyond the
+financial reporting period of enactment to evaluate the effect of the Act on
+its plan for reinvestment or repatriation of foreign earnings for purposes of
+applying SFAS 109. We determined during the third fiscal quarter of 2006 that
+we had sufficient information to make an informed decision on the impact of the
+Act on our repatriation plans and a provision of $1.5 million was recorded at
+that time. In the fourth quarter, an extraordinary dividend, as defined by the
+Act, was paid by our U.K. subsidiary amounting to $48.3 million.  
+
+  In light of this
+extraordinary dividend and changing market conditions, we have reevaluated our
+capital requirements in Europe to determine what portion of our investment can
+be considered indefinitely reinvested. Our analysis determined that the level
+of investment we currently have in Europe will be required for the foreseeable
+future and is considered indefinitely reinvested; therefore, no provision for
+taxes due upon repatriation has been provided. However, we currently have no
+firm plans to invest further capital in Europe, so we have concluded that we
+will provide for U.S. taxes on future earnings in Europe until such time as our
+plans for investment in Europe become solidified.  
+
+  Tax legislation enacted in 2004 repealed the Extraterritorial Income
+(ETI) exclusion relating to export sales. Over a transition period which began
+in 2005, the new tax rules phase-out the ETI exclusion benefit and provide for
+a new tax deduction in computing profits from the sale of products manufactured
+in the United States. The tax benefit we may realize from the new legislation
+is expected to be substantially equivalent to the benefit we realized under the
+repealed ETI exclusion; however, changing business conditions could affect this
+benefit in the future.  
+
+    Defense
+Segment    
+
+As depicted in the table above, sales from our defense segment
+increased 4% in 2006 to $562.8 million from $543.4 million in 2005, after
+having increased by 20% in 2005 from the 2004 level of $452.9 million. All
+defense business units generated higher sales in 2006, with the biggest
+increase coming from CEBU. In 2005 sales from CEBU decreased from the 2004
+level, while the other defense business units experienced significant growth.
+The caption  Tactical systems and other  in the table above includes operating
+results of our 50% owned joint venture company as well as advanced programs for
+the development of new defense technologies. The joint venture company began
+work on its first contracts in 2006, which is reflected in the sales amounts
+above.  
+
+  Operating income
+in our defense segment increased to $31.4 million in 2006 from $30.1 million in
+2005, a 4% increase, after having decreased in 2005 by 13% from $34.5 million
+in 2004. The increase in 2006 operating income was primarily due to a
+turnaround to profitability in CEBU, which incurred an operating loss in 2005.
+MSBU operating income increased in both 2005 and 2006, while TSBU operating
+income decreased by nearly 50% in 2006 after having increased in 2005. The
+joint venture company incurred  
+
+23     
+
+operating losses
+of $2.0 million and $1.3 million in 2006 and 2005, respectively, and is not
+expected to generate operating profits in the near term as it is still in its
+start-up phase. Operating income amounts in the above table for 2005 and 2004
+have been revised from previous reports to conform to the 2006 method of
+allocating corporate costs to the business units.  
+
+   Communications and Electronics (CEBU)   
+
+  Sales from CEBU increased from $52.5 million in 2005 to $64.6 million
+in 2006, a 23% increase, after having decreased 20% in 2005 from the 2004 level
+of $65.5 million. The business unit has gone through a transition during this
+time period as new data link technology has been developed to replace legacy
+data link systems and the business unit has transitioned to building more power
+amplifiers than surveillance receivers. The sales increase in 2006 came
+primarily from contracts for the new data link technology, in addition to
+growth in sales of avionics products and power amplifiers. Sales in 2005 had
+decreased primarily because of the completion of contracts for legacy data
+links in 2004.  
+
+  Operating income from CEBU also reflects the transition that has taken
+place during this period. Operating income improved to $3.9 million in
+2006 from the operating loss of $4.8 million incurred in 2005. Operating income
+in 2006 came primarily from the sale of power amplifiers and data links, in
+addition to the favorable settlement of a long-standing dispute with a customer
+during the year, which added $1.2 million to operating income. The operating
+loss in communications and electronics in 2005 was primarily due to cost growth
+totaling nearly $5 million on two contracts, one a program for the development
+of new data link technology and the other a program involving a new
+intelligence application of our data link and receiver technology. In addition,
+approximately $2 million in overstocked or obsolete surveillance receiver
+inventory was written down in value to zero in 2005. CEBU operating income was
+bolstered in 2004 by high margins on a legacy data link contract with a foreign
+customer, which was completed that year. Avionics products, such as our
+personnel locator systems had also generated higher operating income in 2004;
+however, this was offset by operating losses from the surveillance receiver product
+line.  
+
+   Training Systems (TSBU)   
+
+  Sales of training systems were virtually flat from 2005, increasing
+slightly to $228.0 million in 2006 compared to $227.9 million in 2005, after
+having increased in 2005 by 25% from $181.6 million in 2004.  Air combat training and laser engagement
+systems (MILES) sales increased in 2006 compared to 2005 while ground combat
+training sales decreased slightly from the 2005 level. Delayed U.S. government
+funding for small arms training systems in 2006 also resulted in lower sales
+from this product line. Work continued in 2006 on development of the next
+generation air combat training system known as P5 and on ground combat training
+ranges in Canada, Australia and the Middle East. Sales in 2005 increased over
+2004 as a result of growth in sales from these air and ground combat training
+systems as well as the MILES product line.  
+
+  TSBU operating income fell nearly 50% to $9.7 million in 2006 from
+$18.2 million in 2005. The primary reason for the decrease was cost growth of
+$4.6 million that was accrued on a contract for the development of a ground
+combat training system for a foreign customer. In addition, operating income
+from small arms training systems was lower, due to planned development costs of
+$1.9 million for new weapons simulations systems for this product line in
+an effort to become more competitive. This major weapons simulations
+development effort is now complete. Lower sales of small arms virtual training
+systems, as mentioned above, further impacted operating income from this
+product line. Operating income in 2005 was up by 20% from 2004 operating income
+of $15.2 million. This increase was the result of higher sales from ground
+combat training and MILES contracts.  
+
+   Mission Support Services (MSBU)   
+
+  Sales from MSBU increased in 2006 to $262.9 million compared to $257.0
+million in 2005, a 2% increase. This increase followed a 27% sales increase in
+2005 from $202.4 million in 2004. The increase in 2006 sales came despite a $20
+million decrease in sales from the Joint Readiness Training Center (JRTC)
+contract in Fort Polk, LA, due to a reduction in training exercises conducted
+by the customer.  Sales from all MSBU contracts other than the
+JRTC increased by 15% between 2005 and 2006, as the result of both new
+contracts and the expansion of existing programs. The most significant growth
+in 2006 sales came from contracts for 
+
+24     
+
+modeling the effects of weapons of mass destruction. Sales in 2005 grew
+from the 2004 level due primarily to higher sales from the JRTC contract
+because of an increase in training exercises that year. Sales from contracts
+for modeling the effects of weapons of mass destruction also increased in 2005
+over the 2004 level.  
+
+  Operating income from MSBU increased in 2006 to $20.6 million from
+$17.9 million in 2005, an increase of 15%. Operating income in 2005 increased
+46% over the 2004 level of $12.3 million. Operating income as a percentage of
+sales increased during the three year period due to improved operating
+performance on several contracts and due to sales growth without a proportional
+increase in SG A expenses. Operating income as a percentage of sales
+increased to 7.8% in 2006, compared to 7.0% in 2005 and 6.1% in 2004.  
+
+    Transportation Systems Segment    
+
+  Transportation
+systems sales trended down slightly for the 2004 to 2006 period. Sales for 2006
+were $243.9 million compared to $245.8 million in 2005 and $253.5 million in
+2004. Sales in North America increased in 2006 compared to 2005, while sales in
+Australia decreased and European sales were consistent from year to year.
+Increased sales from a contract in Sweden in 2006 helped to offset  an anticipated decrease in sales from the
+PRESTIGE contract in London and from European service contracts. As we have
+discussed in previous reports, the PRESTIGE system is in the operations and
+maintenance phase, which generates lower sales than the system design and
+installation phase. Service sales were lower in Europe primarily because of the
+gradual phase-out of old ticket issuing equipment which is being replaced by
+modern equipment requiring less maintenance. We are competing for the contracts
+to provide the new equipment and have been successful in winning a portion of
+the work awarded thus far. In addition, we completed a contract for the
+maintenance of communications equipment in London at the end of fiscal 2005
+which was not renewed in 2006, further impacting service sales. The
+reduction in sales in 2005 from 2004 resulted from a decrease in North American
+sales by 15%, while sales in Australia and Europe increased about 14%. We anticipate lower sales from the
+transportation systems segment in fiscal 2007 due to the expected completion of
+several systems contracts in North America and a decrease in opportunities to
+sell new systems in the near term. 
+
+  We made
+acquisitions of two small parking system companies, one at the end of 2004 and
+one early in 2005, which added $4.3 million and $9.1 million, respectively, to
+fiscal 2006 and 2005 transportation product sales in North America.  
+
+  The transportation
+systems segment returned to profitability in 2006, with operating income of
+$2.8 million, compared to an operating loss of $13.8 million in 2005 and
+operating income of $28.2 million in 2004. In 2006, healthy operating income
+from contracts in Europe was partially offset by operating losses on contracts
+in North America and Australia.  Projected costs to complete fare collection systems on several
+North American and one Australian contract increased by approximately $21 million more than we had estimated last
+year; therefore, we recorded a loss of that amount on these contracts during
+the year. The primary cause of the cost growth was an increase in engineering
+hours incurred to complete the projects, in addition to project management
+costs incurred due to delays in project completion. This compares to cost
+growth of approximately $28 million on these contracts in 2005. 
+
+  The design, manufacture and a substantial portion of the installation
+of equipment on the North American and Australian contracts referred to above
+is complete. Nevertheless, there continues to be risk that we will not be able
+to complete these contracts within our current estimates. These risks include
+potential higher costs for integration, customer-caused delays in the
+installation of hardware and other customer directed changes. We also believe
+that customer directed work outside the scope of the contracts and customer
+delay of progress toward completion of these contracts has resulted in a
+portion of the cost growth we have already experienced. We are continuing to assess
+the contractual basis for claims on these contracts and measuring the cost
+impact related to these customer required changes to the scope of work. While
+we believe we are entitled to recover some of the additional costs we have
+incurred and costs we may incur in the future due to customer delays or
+changes, the amount of recovery from claims cannot be determined at this time.
+Therefore, all related costs have been expensed and no revenues from these
+claims have been recorded to date.  
+
+  Also included in the results described above are operating losses of
+$3.4 million in 2006 and $4.5 million  
+
+25  
+
+in 2005 from the parking businesses we acquired in late 2004 and early
+2005. This was the result of cost growth on two contracts as well a lack of
+sufficient sales volume to absorb the overhead costs of the business. These
+businesses have now been incorporated into our other North American operations.  
+
+  In 2005 we also recorded an allowance of $4.2 million for doubtful
+collection of an accounts receivable balance with a customer that terminated
+its contract with us. This provision is included in 2005 SG A expenses in
+the consolidated statement of income. We believe that we have substantially
+performed the requirements of the contract such that this payment is due to us
+and we believe the termination attempt by this customer is unwarranted.  
+
+    Backlog    
+
+In addition to the
+amounts identified above, the company has been selected as a participant in or,
+in some cases, the sole contractor for several substantial Indefinite delivery/
+indefinite quantity (IDIQ) contracts. 
+IDIQ contracts are not included in backlog until an order is received.  
+
+  The difference
+between total backlog and funded backlog represents options under multiyear
+service contracts. Funding for these contracts comes from annual operating
+budgets of the U.S. government and the options are normally exercised annually.
+Options for the purchase of additional systems or equipment are not included in
+backlog until exercised.  
+
+    New
+Accounting Standards    
+
+  On July 13, 2006, the Financial Accounting Standards Board issued
+Interpretation No. 48,  Accounting for
+Uncertainty in Income Taxes  (FIN 48), which is effective for fiscal
+years beginning after December 31, 2006. The purpose of FIN 48 is to clarify
+and set forth consistent rules for accounting for uncertain tax positions in
+accordance with FAS 109,  Accounting for
+Income Taxes . The cumulative effect of applying the provisions of
+this interpretation are required to be reported separately as an adjustment to
+the opening balance of retained earnings in the year of adoption. We are in the
+process of reviewing and evaluating FIN 48, and therefore the ultimate impact
+of its adoption is not yet known.  
+
+  In September 2006, the
+Financial Accounting Standards Board published FASB Statement of Financial
+Accounting Standards No. 158 (SFAS 158),    Employers  Accounting for Defined Benefit
+Pension and Other Postretirement Plans,    to require an employer
+to fully recognize the obligations associated with  
+
+26     
+
+single-employer defined
+benefit pension, retiree healthcare, and other postretirement plans in their
+financial statements. The new standard is effective for fiscal years ending
+after December 15, 2006.  Previous standards
+required an employer to disclose the complete funded status of its plan only in
+the notes to the financial statements. Moreover, because those standards
+allowed an employer to delay recognition of certain changes in plan assets and
+obligations that affected the costs of providing benefits, employers reported
+an asset or liability that almost always differed from the plan s funded
+status. Under SFAS 158, a defined benefit postretirement plan sponsor that is a
+public or private company or a nongovernmental not-for-profit organization must
+(a) recognize in its statement of financial position an asset for a plan s
+overfunded status or a liability for the plan s underfunded status, (b) measure
+the plan s assets and its obligations that determine its funded status as of
+the end of the employer s fiscal year (with limited exceptions), and (c)
+recognize, as a component of other comprehensive income, the changes in the
+funded status of the plan that arise during the year but are not recognized as
+components of net periodic benefit cost pursuant to SFAS 87,    Employers 
+Accounting for Pensions,    or SFAS 106,    Employers  Accounting for Postretirement
+Benefits Other Than Pensions.    SFAS 158 also requires an
+employer to disclose in the notes to financial statements additional
+information on how delayed recognition of certain changes in the funded status
+of a defined benefit postretirement plan affects net periodic benefit cost for
+the next fiscal year.  We are in the
+process of reviewing and evaluating SFAS 158, and therefore the ultimate impact
+of its adoption in not yet known.  
+
+  In May 2005, the FASB issued
+SFAS No. 154,  Accounting Changes and Error Corrections  (SFAS 154). This
+Statement replaces APB Opinion No. 20,  Accounting Changes,  and SFAS 3,  Reporting
+Accounting Changes in Interim Financial Statements.  SFAS 154 sets forth
+new guidelines on accounting for voluntary changes in accounting principle and
+requires certain disclosures. It also applies to the unusual situation in which
+an accounting pronouncement is issued but does not include specific transition
+guidelines. This Statement requires such accounting principle changes to be
+applied retrospectively to all prior periods presented and an adjustment to the
+balance of assets or liabilities affected along with an offsetting adjustment to
+retained earnings for the cumulative effect on periods prior to those
+presented. This Statement carries forward without change the guidance in APB
+Opinion No. 20 for reporting the correction of an error and a change in
+accounting estimate. SFAS 154 will be effective for the Company beginning with
+fiscal year 2007.  
+
+    Liquidity
+and Capital Resources    
+
+  Cash flows from
+operations totaled $31.4 million in 2006 compared to $54.7 million in 2005.
+Operating activities had used cash of $28.2 million in 2004. A decrease in
+accounts receivable of $5.8 million in 2006 and $38.5 million in 2005
+contributed to the positive cash flows. Both the defense and transportation
+systems segments generated positive cash flows in 2006, with the larger amount
+contributed by transportation systems. Operating cash flows from the defense
+segment were positive in all three years, while transportation systems
+operating cash flows were positive in 2006 and 2005 after having been negative
+in 2004.  
+
+  We have classified
+certain unbilled accounts receivable balances as noncurrent because we do not
+expect to receive payment within one year from the balance sheet date. At
+September 30, 2006, this balance improved to $2.2 million compared to $22.9
+million at September 30, 2005.  
+
+  Cash flows used in
+investing activities in 2006 included $9.8 million in capital expenditures,
+partially offset by proceeds of $8.0 million from the investment real estate
+sale. We also invested $8.9 million of our excess cash in short-term
+investments in 2006. In 2005, investing activities included $8.3 million in
+capital expenditures, partially offset by the liquidation of $6.2 million in
+short-term investments. Investing activities in 2004 included a $13.6 million
+cash receipt from the sale of a life insurance policy, $6.9 million in capital
+expenditures, $7.1 million used for acquisitions and the net purchase of
+short-term investments of $3.2 million.  
+
+  Financing
+activities in 2006 included the repayment of short term borrowings of $16.4
+million and scheduled payments on long-term borrowings of $6.1 million, in
+addition to the payment of a dividend to shareholders of $4.8 million (18 cents
+per share). Financing activities in 2005 included scheduled debt payments of
+$6.1 million, dividends paid to shareholders of $4.8 million and net borrowings
+of $0.7 million on a short-term basis. In 2004 we obtained a $9.0 million
+mortgage on our facility in the U.K. and  
+
+27     
+
+used the proceeds
+to repay short-term borrowings in the U.K. 
+We also borrowed $25 million on a short-term basis in the U.S. and New
+Zealand that year to fund working capital requirements. Other financing
+activities in 2004 included scheduled debt payments of $1.9 million and the
+payment of $4.3 million in dividends to shareholders.  
+
+  Accumulated other comprehensive income increased by
+$6.7 million in 2006 because of foreign currency translation adjustments of
+$4.3 million and a decrease in the minimum liability for our pension plan of
+$2.4 million. This increases the positive balance in accumulated other
+comprehensive to $8.4 million income as of September 30, 2006 compared to $1.7
+million at September 30, 2005.  
+
+  The pension plan under-funded balance improved from
+the September 30, 2005 balance of $41.1 million to $32.2 million at September
+30, 2006. Of this improvement, $7.4 million was the result of our decision to
+discontinue accrual of benefits under the defined benefit pension plan that
+provides benefits to certain U.S. based employees, effective January 1, 2007.
+We will replace this benefit with a company match of employee s contributions
+up to 3% of their qualified pay under our existing defined contribution 401(k) plan.
+Over the long-term, the cost of this defined contribution is expected to be
+equivalent to or slightly lower than the cost of the defined benefit pension
+plan; however, we expect this change will result in a more consistent and
+predictable retirement cost in the future. The remainder of the improvement in
+the funding position can be attributed to a return on plan assets for the year
+that was higher than our assumed rate of return.  
+
+  The net deferred tax asset was $26.4 million at
+September 30, 2006 compared to $28.1 million at September 30, 2005. Of these
+amounts, $4.7 million and $6.0 million at September 30, 2006 and 2005,
+respectively, resulted from the tax effect of recording an additional minimum
+pension liability. We expect to generate sufficient taxable income in the
+future such that the net deferred tax asset will be realized.  
+
+  Our financial
+condition remains strong with working capital of $277.5 million and a current
+ratio of 2.7 at September 30, 2006. We expect that cash on hand and our ability
+to access the debt markets will be adequate to meet our working capital
+requirements for the foreseeable future. In addition to the short-term
+borrowing arrangements we have in the U.K. and New Zealand , we have a committed five year credit
+facility from a group of financial institutions in the U.S., aggregating $150
+million.  As of September 30, 2006, $19.9
+million of this capacity was used, leaving an additional $130.1 million
+available.  Our total debt to capital
+ratio at September 30, 2006 was less than 15%. In addition, our cash and
+short-term investments totaled $51.3 million at September 30, 2006 which was
+nearly the level of our total short and long-term borrowings of $54.2 million. 
+
+  The following is a schedule of our contractual obligations outstanding
+as of September 30, 2006:  
+
+Critical Accounting Policies, Estimates and Judgments      Our financial statements are prepared in accordance with accounting principles that are generally accepted in the United States. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets and liabilities, and disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period. We continually evaluate our estimates and judgments, the most critical of which are those related to revenue recognition, income taxes, valuation of goodwill and pension costs. We base our estimates and judgments on historical experience and other factors that we believe to be  
+   28     
+
+reasonable under the circumstances. Materially different results can occur as circumstances change and additional information becomes known.    Besides the estimates identified above that are considered critical, we make many other accounting estimates in preparing our financial statements and related disclosures. All estimates, whether or not deemed critical, affect reported amounts of assets, liabilities, revenues and expenses, as well as disclosures of contingent assets and liabilities. These estimates and judgments are also based on historical experience and other factors that are believed to be reasonable under the circumstances. Materially different results can occur as circumstances change and additional information becomes known, even for estimates and judgments that are not deemed critical.    This discussion of critical accounting policies, estimates and judgments should be read in conjunction with other disclosures included in this discussion, and the Notes to the Consolidated Financial Statements related to estimates, contingencies and new accounting standards. Significant accounting policies are identified in Note 1 to the Consolidated Financial Statements. We have discussed each of the  critical  accounting policies and the related estimates with the audit committee of the Board of Directors.     Revenue Recognition   
+
+  Most of our business is derived from long-term development, production
+and system integration contracts which we account for consistent with the
+American Institute of Certified Public Accountants  (AICPA) audit and
+accounting guide,  Audits of Federal Government Contractors ,
+and the AICPA s Statement of Position No. 81-1,  Accounting
+for Performance of Construction-Type and Certain Production-Type Contracts .
+We consider the nature of these contracts, and the types of products and
+services provided, when we determine the proper accounting for a particular
+contract. Generally, we record revenue for long-term fixed price contracts on a
+percentage of completion basis using the cost-to-cost method to measure
+progress toward completion. Most of our long-term fixed-price contracts require
+us to deliver minimal quantities over a long period of time or to perform a
+substantial level of development effort in relation to the total value of the
+contract. Under the cost-to-cost method of accounting, we recognize revenue based
+on a ratio of the costs incurred to the estimated total costs at completion.
+Amounts representing contract change orders, claims or other items are included
+in the contract value only when they can be reliably estimated and realization
+is considered probable. Provisions are made on a current basis to fully
+recognize any anticipated losses on contracts.  
+
+  We record sales under cost-reimbursement-type contracts as we incur the
+costs. Incentives or penalties and awards applicable to performance on contracts
+are considered in estimating sales and profits, and are recorded when there is
+sufficient information to assess anticipated contract performance. Incentive
+provisions that increase or decrease earnings based solely on a single
+significant event are not recognized until the event occurs. We have accounting
+policies in place to address these and other complex issues in accounting for
+long-term contracts.  
+
+   Sales of products are recorded when a firm sales agreement is in place,
+delivery has occurred and collectibility of the fixed or determinable sales
+price is reasonably assured. Sales of services are recorded when performed in
+accordance with contracts or service agreements.   Sales and profits on contracts that
+specify multiple deliverables are allocated to separate units of accounting
+when there is objective evidence that each accounting unit has value to the
+customer on a stand-alone basis.  
+
+   Income Taxes     Significant judgment is required in determining our income tax provisions and in evaluating our tax return positions. We establish reserves when, despite our belief that our tax return positions are fully supportable, we believe that certain positions are likely to be challenged and that we may not prevail. We adjust these reserves in light of changing facts and circumstances, such as the progress of a tax audit.    Tax regulations require items to be included in the tax return at different times than the items are reflected in the financial statements and are referred to as timing differences. In addition, some expenses are not deductible on our tax return and are 
+referred to as permanent differences. Timing differences create deferred tax assets and liabilities. Deferred tax assets generally represent items that can be used as a tax  
+   29     
+
+deduction or credit in future years for which we have already recorded the benefit in our income statement. We establish valuation allowances for our deferred tax assets when the amount of expected future taxable income is not likely to support the use of the deduction or credit. Deferred tax liabilities generally represent deductions we have taken on our tax return but have not yet recognized as expense in  our financial statements. We have not recognized any United States tax expense on undistributed earnings of our foreign subsidiaries since we intend to reinvest the earnings outside the United States for the foreseeable future. These undistributed earnings totaled approximately $37.3 million at September 30, 2006.    Valuation of Goodwill   
+
+  We evaluate our
+recorded goodwill balances for potential impairment annually by comparing the
+fair value of each reporting unit to its carrying value, including recorded
+goodwill. We have not yet had a case where the carrying value exceeded the fair
+value; however, if it did, impairment would be measured by comparing the
+derived fair value of goodwill to its carrying value, and any impairment
+determined would be recorded in the current period. To date there has been no
+impairment of our recorded goodwill. Goodwill balances by reporting unit are as
+follows:  
+
+Determining the
+fair value of a reporting unit for purposes of the goodwill impairment test is
+judgmental in nature and often involves the use of significant estimates and
+assumptions. These estimates and assumptions could have a significant impact on
+whether or not an impairment charge is recognized and also the magnitude of any
+such charge. We currently perform internal valuation analysis and consider
+other market information that is publicly available. Estimates of fair value
+are primarily determined using discounted cash flows and comparisons with
+recent transactions. These approaches use significant estimates and assumptions
+including projected future cash flows, discount rate reflecting the inherent
+risk in future cash flows, perpetual growth rate and determination of
+appropriate market comparables . 
+
+  For fiscal 2006, the discounted cash flows for each reporting unit were
+based on discrete three-year financial forecasts developed by management for
+planning purposes. Cash flows beyond the three-year discrete forecasts were
+estimated based on projected growth rates and financial ratios, influenced by
+an analysis of historical ratios, and by calculating a terminal value at the
+end of ten years. The compound annual growth rates for sales ranged from 4.0%
+to 8.0% and for operating profit margins ranged from 6.5% to 8.0% for the
+reporting units, beyond the discrete forecast period. The future cash flows
+were discounted to present value using a discount rate of 9%. We did not
+recognize any goodwill impairment as a result of performing this annual test. A
+variance in the discount rate, the estimated sales growth rate or the operating
+profit margin could have a significant impact on the estimated fair value of
+the reporting unit and consequently the amount of identified goodwill
+impairment. For example, a 3% decrease in the assumed operating profit margin
+in either the defense systems and products or the transportation systems
+reporting units would have resulted in an indication of impairment that would
+have led us to further quantify the possible impairment and potentially record
+a charge to write-down these assets.  
+
+   Pension Costs     The measurement of our pension obligations and costs is dependent on a variety of assumptions used by our actuaries. These assumptions include estimates of the present value of projected future pension payments to plan participants, taking into consideration the likelihood of potential future events such as salary increases and demographic experience. These assumptions may have an effect on the amount and timing of future contributions.  
+   30     
+
+The assumptions used in developing the required estimates include the following key factors:                          Discount rates                         Inflation                         Salary growth                         Expected return on plan assets                         Retirement rates                         Mortality rates   We base the discount rate assumption on investment yields available at year-end on high quality corporate long-term bonds. Our inflation assumption is based on an evaluation of external market indicators. The salary growth assumptions reflect our long-term actual experience in relation to the inflation assumption. The expected return on plan assets reflects asset allocations, our historical experience, our investment strategy and the views of investment managers and large pension sponsors. Retirement and mortality rates are based primarily on actual plan experience. The effects of actual results differing from our assumptions are accumulated and amortized over future periods, and therefore, 
+generally affect our recognized expense in such future periods.    Changes in the above assumptions can affect our financial statements, although the relatively small size of our defined benefit pension plans in relation to the size of the Company limit the impact any individual assumption changes can have. For example, a 50 basis point change in the assumed rate of return on assets would have changed the pension expense recorded in 2006 by about $600 thousand, before applicable income taxes.  
+   31     
+
+Item 7a.           QUANTITATIVE AND
+QUALITATIVE DISCLOSURE ABOUT MARKET RISK   
+
+    Interest
+Rate Risk    
+
+  We invest in money
+market instruments and short-term marketable debt and equity securities that
+are tied to floating interest rates being offered at the time the investment is
+made. We maintain short-term borrowing arrangements in the U.S., U.K., New
+Zealand, which are also tied to floating interest rates (LIBOR and the U.S.
+prime rate and the U.K. and New Zealand base rates). We also have senior
+unsecured notes payable to insurance companies that are due in annual
+installments. These notes have fixed coupon interest rates. See Note 5 to the
+Consolidated Financial Statements for more information.  
+
+  Interest income
+earned on our short-term investments is affected by changes in the general
+level of U.S. and U.K. interest rates. These income streams are generally not
+hedged.  Interest expense incurred under
+the short-term borrowing arrangements is affected by changes in the general
+level of interest rates in the U.S., U.K., and New Zealand. The expense related
+to these cost streams is usually not hedged since it is either revolving,
+payable within three months and/or immediately callable by the lender at any
+time. Interest expense incurred under the long-term notes payable is not
+affected by changes in any interest rate because it is fixed.  However, we have in the past, and may in the
+future, use an interest rate swap to essentially convert this fixed rate into a
+floating rate for some or all of the long-term debt outstanding.  The purpose of a swap would be to tie the
+interest expense risk related to these borrowings to the interest income risk
+on our short-term investments, thereby mitigating our net interest rate risk.
+We believe that we are not significantly exposed to interest rate risk at this
+point in time.  There was no interest
+rate swap outstanding at September 30, 2006.  
+
+    Foreign
+Currency Exchange Risk    
+
+  In the ordinary
+course of business, we enter into firm sale and purchase commitments
+denominated in many foreign currencies. 
+We have a policy to hedge those commitments greater than $20,000 by
+using foreign currency exchange forward and option contracts that are
+denominated in currencies other than the functional currency of the subsidiary
+responsible for the commitment, typically the British pound, Canadian dollar,
+Euro, New Zealand dollar and Australian dollar. 
+These contracts are designed to be effective hedges regardless of the
+direction or magnitude of any foreign currency exchange rate change, because
+they result in an equal and opposite income or cost stream that offsets the
+change in the value of the underlying commitment.  See Note 1 to the Consolidated Financial
+Statements for more information on our foreign currency translation and
+transaction accounting policies.  We also
+use balance sheet hedges to mitigate foreign exchange risk.  This strategy involves incurring British
+pound denominated debt (See Interest Rate Risk above) and having the option of
+paying off the debt using U.S. dollar or British pound funds. We do not believe
+that we are significantly exposed to foreign currency exchange rate risk at
+this point in time.  
+
+  Investments in our
+foreign subsidiaries in the U.K., Australia, New Zealand, and Canada are not
+hedged because we consider them to be invested indefinitely.  In addition, we generally have control over
+the timing and amount of earnings repatriation and expect to use this control
+to mitigate foreign currency exchange risk.  
+
+32     
+
+Item 8.                 FINANCIAL
+STATEMENTS AND SUPPLEMENTAL DATA .  
+
+  CUBIC CORPORATION  
+
+  CONSOLIDATED BALANCE SHEETS  
+
+See accompanying notes.  
+
+33     
+
+See accompanying
+notes.  
+
+34     
+
+CUBIC CORPORATION  
+
+  CONSOLIDATED STATEMENTS
+OF INCOME  
+
+See
+accompanying notes.  
+
+35     
+
+CUBIC
+CORPORATION  
+
+  CONSOLIDATED
+STATEMENTS OF CHANGES IN SHAREHOLDERS  EQUITY  
+
+See accompanying notes.  
+
+36     
+
+CUBIC CORPORATION  
+
+  CONSOLIDATED STATEMENTS
+OF CASH FLOWS  
+
+See accompanying notes.  
+
+37  
+
+CUBIC CORPORATION  
+
+  NOTES TO
+CONSOLIDATED FINANCIAL STATEMENTS  
+
+  September 30, 2006  
+
+  NOTE 1 SUMMARY OF
+SIGNIFICANT ACCOUNTING POLICIES  
+
+   Organization and
+Nature of the Business:   
+Cubic Corporation ( Cubic  or  the Company ) designs, develops and
+manufactures products which are mainly electronic in nature, provides
+government services and services related to products previously produced by
+Cubic and others. The Company s principal lines of business are defense
+electronics and transportation fare collection systems. Principal customers for
+defense products and services are the United States and foreign governments.
+Transportation fare collection systems are sold primarily to large local
+government agencies in the United States and worldwide. 
+
+   Principles of
+Consolidation:    The
+consolidated financial statements include the accounts of Cubic Corporation,
+its majority-owned subsidiaries and a 50% owned joint venture of which the
+Company is the primary beneficiary. All significant intercompany balances and
+transactions have been eliminated in consolidation. The consolidation of
+foreign subsidiaries requires translation of their assets and liabilities into
+U.S. dollars at year-end exchange rates. Statements of income and cash flows
+are translated at the average exchange rates for each year. 
+
+   Cash Equivalents:    The Company considers highly liquid
+investments with maturity of three months or less when purchased to be cash
+equivalents. 
+
+   Concentration of
+Credit Risk:    The
+Company has established guidelines pursuant to which its cash and cash
+equivalents are diversified among various money market instruments and
+investment funds. These guidelines emphasize the preservation of capital by
+requiring minimum credit ratings assigned by established credit organizations.  Diversification is achieved by specifying
+maximum investments in each instrument type and issuer. The majority of these
+investments are not on deposit in federally insured accounts. 
+
+   Fair Value of Financial Instruments:     Financial instruments, including
+cash equivalents, accounts receivable, accounts payable and accrued
+liabilities, are carried at cost, which management believes approximates the
+fair value because of the short-term maturity of these instruments.  The fair value of long-term debt is based
+upon quoted market prices for the same or similar debt instruments and
+approximates the carrying value of the debt. 
+Receivables consist primarily of amounts due from U.S. and foreign
+governments for defense products and local government agencies for
+transportation systems.  Due to the
+nature of its customers, the Company generally does not require
+collateral.  The Company has limited
+exposure to credit risk as the Company has historically collected substantially
+all of its receivables from government agencies.  The Company generally requires no allowance
+for doubtful accounts for these customers unless specific contractual
+circumstances warrant it.  
+
+   Short-term investments:    Short-term investments include highly liquid, investment grade,
+institutional money market debt and preferred stock instruments and are
+stated at fair market value. The net excess of fair market value over cost is
+included in Accumulated Other Comprehensive Income (Loss) on the Consolidated
+Balance Sheets. 
+
+   Inventories:    Inventories are stated at the lower of cost
+or market. Cost is determined using primarily the first-in, first-out (FIFO)
+method, which approximates current replacement cost. Work in process is stated
+at the actual production and engineering costs incurred to date, including
+applicable overhead, and is reduced by charging any amounts in excess of
+estimated realizable value to cost of sales. Although costs incurred for
+certain government contracts include general and administrative costs as
+allowed by government cost accounting standards, the amounts remaining in
+inventory at September 30, 2006 and 2005 were immaterial. 
+
+38     
+
+Property, Plant
+and Equipment:   
+Property, plant and equipment are carried at cost. Depreciation is
+provided in amounts sufficient to amortize the cost of the depreciable assets
+over their estimated useful lives. Generally, straight-line methods are used
+for real property over estimated useful lives ranging from 15 to 39 years or
+the term of the underlying lease for leasehold improvements.  Accelerated methods (declining balance and sum-of-the-years-digits)
+are used for machinery and equipment over estimated useful lives ranging from
+five to seven years.  Provisions for
+depreciation of plant and equipment and amortization of leasehold improvements
+amounted to $7,648,000, $8,096,000, and $6,979,000 in 2006, 2005 and 2004,
+respectively. 
+
+   Goodwill:    Goodwill is evaluated for potential
+impairment annually by comparing the fair value of a reporting unit to its
+carrying value, including recorded goodwill. If the carrying value exceeds the
+fair value, impairment is measured by comparing the derived fair value of
+goodwill to its carrying value, and any impairment determined would be recorded
+in the current period. To date there has been no impairment of the Company s
+recorded goodwill.  The changes in the
+carrying amount of goodwill for the two years ended September 30, 2006 are as
+follows: 
+
+Impairment of
+Long-Lived Assets:    The
+carrying values of long-lived assets other than goodwill are generally
+evaluated for impairment only if events or changes in facts and circumstances
+indicate that carrying values may not be recoverable. Any impairment determined
+would be recorded in the current period and would be measured by comparing the
+fair value of the related asset to its carrying value. Fair value is generally
+determined by identifying estimated undiscounted cash flows to be generated by
+those assets.  No impairments have been
+recorded for the years ended September 30, 2006, 2005, and 2004. 
+
+   Deferred
+Compensation:    Deferred
+compensation includes amounts due under an arrangement under which certain
+members of management may elect to defer receiving payment for a portion of
+their compensation until periods after their respective retirements.  Interest on such accrued compensation accrues
+at market rates, 5.1% at September 30, 2006, until such time as it is paid in
+full. 
+
+39     
+
+Comprehensive
+Income:    Comprehensive
+income and its components are presented in the statement of changes in
+shareholders  equity.  Accumulated
+comprehensive income (loss) consisted of the following: 
+
+The minimum
+pension liability is shown net of tax benefits of $4,650,000 and $5,961,000 at
+September 30, 2006 and 2005, respectively. 
+Deferred income taxes are not recognized for translation-related
+temporary differences of foreign subsidiaries whose undistributed earnings are
+considered to be permanently invested. 
+The net unrealized gain from cash flow hedges is shown net of tax
+liabilities of $0 and $4,000 in 2006 and 2005, respectively.  
+
+   Gain on Sale of
+Assets:    During the
+first quarter of fiscal year 2006, the Company sold real estate that had been
+held for investment purposes for approximately $8 million, resulting in a gain
+before applicable income taxes of $7.2 million. 
+
+   Revenue
+Recognition:    Sales and
+profits under the Company s long-term fixed-price contracts, which generally require
+a significant amount of development effort in relation to total contract value,
+are recognized using the cost-to-cost percentage of completion method of
+accounting. Sales and profits are recorded based on the ratio of costs incurred
+to estimated total costs at completion. In the early stages of contract
+performance, profit is not recognized until progress is demonstrated or
+contract milestones are reached. 
+
+  Sales under
+cost-reimbursement type contracts are recorded as costs are incurred.
+Applicable estimated profits are included in earnings based on the ratio of
+costs incurred to the estimated total costs at completion. Sales of products
+are recorded when a firm sales agreement is in place, delivery has occurred and
+collectibility of the fixed or determinable sales price is reasonably assured.
+Sales of services are recorded when performed in accordance with contracts or
+service agreements.  
+
+  Amounts
+representing contract change orders, claims or other items are included in the
+contract value only when they can be reliably estimated and realization is
+considered probable. Incentives or penalties and awards applicable to
+performance on contracts are considered in estimating sales and profits, and
+are recorded when there is sufficient information to assess anticipated
+contract performance. Incentive provisions that increase or decrease earnings
+based solely on a single significant event are not recognized until the event
+occurs.  
+
+  Sales and profits
+on contracts that specify multiple deliverables are allocated to separate units
+of accounting when there is objective evidence that each accounting unit has
+value to the customer on a stand-alone basis.  
+
+  Provisions are
+made on a current basis to fully recognize any anticipated losses on
+contracts.  Cash received prior to
+revenue recognition is classified as customer advances on the balance sheet.  
+
+40     
+
+Income taxes  :  The provision for income taxes includes federal, state, local, and foreign taxes.  Tax credits, primarily for research and development and export programs are recognized as a reduction of the provision for income taxes in the year in which they are available for tax purposes.  Deferred income taxes are provided on temporary differences between assets and liabilities for financial reporting and tax purposes as measured by enacted tax rates expected to apply when the temporary differences are settled or realized.  Valuation allowances are established for deferred tax assets when the amount of expected future taxable income is not likely to support the use of the deduction or credit. Deferred tax liabilities generally represent deductions that have been taken on tax returns but have not yet been recognized as expense in th
+e financial statements. The Company has not recognized any United States tax expense on undistributed earnings of its foreign subsidiaries since it intends to reinvest the earnings outside the United States for the foreseeable future. Such undistributed earnings totaled approximately $37.3 million at September 30, 2006. 
+
+   Earnings Per Share:    Per share amounts are based upon the weighted
+average number of shares of common stock outstanding. 
+
+   Derivative Financial Instruments   :   The Company s use of derivative
+financial instruments is limited to foreign exchange forward and option
+contracts used to hedge significant contract sales and purchase commitments
+that are denominated in currencies other than the functional currency of the
+subsidiary responsible for the commitment and to hedge net advances to foreign
+subsidiaries.  The purpose of the Company s
+foreign currency hedging activities is to fix the dollar value of specific
+commitments and payments to foreign vendors, and the value of foreign currency
+denominated receipts from customers. At September 30, 2006, the Company had
+foreign exchange contracts with a notional value of $100.5 million outstanding.  
+
+  The Company
+accounts for derivatives pursuant to SFAS 133,  Accounting
+for Derivative Instruments and Hedging Activities , as amended. This
+standard requires that all derivative instruments be recognized in the
+financial statements and measured at fair value regardless of the purpose or
+intent for holding them. The classification of gains and losses resulting from
+changes in the fair values of derivatives is dependent on the intended use of
+the derivative and its resulting designation. The change in fair value of the ineffective
+portion of a hedge, and changes in fair values of derivatives that are not
+considered highly effective hedges are immediately recognized in earnings. If
+the derivative is designated as a fair value hedge, the changes in the
+estimated fair value of the derivative and the underlying hedged item are
+recognized in earnings. If the derivative is designated as a cash flow hedge,
+the effective portions of changes in the fair value of the derivative are
+recorded in other comprehensive income and are subsequently recognized in
+earnings when the hedged item affects earnings. Ineffectiveness between the
+change in fair value of the derivatives and the change in fair value of hedged
+items was immaterial for the years ended September 30, 2006, 2005 and 2004.  
+
+   Accounting
+Standards   :   On
+July 13, 2006, the Financial Accounting Standards Board issued Interpretation
+No. 48,  Accounting for Uncertainty in Income
+Taxes  (FIN 48), which is effective for fiscal years beginning after
+December 31, 2006. The purpose of FIN 48 is to clarify and set forth consistent
+rules for accounting for uncertain tax positions in accordance with FAS 109,  Accounting for Income Taxes . The
+cumulative effect of applying the provisions of this interpretation are
+required to be reported separately as an adjustment to the opening balance of
+retained earnings in the year of adoption. Management is in the process of
+reviewing and evaluating FIN 48, and therefore the ultimate impact of its adoption
+is not yet known. 
+
+41     
+
+In September 2006, the Financial Accounting
+Standards Board published FASB Statement of Financial Accounting Standards
+(SFAS) No. 158 (SFAS 158),    Employers  Accounting for Defined Benefit Pension and
+Other Postretirement Plans,    to require an employer to fully
+recognize the obligations associated with single-employer defined benefit
+pension, retiree healthcare, and other postretirement plans in their financial
+statements. The new standard is effective for fiscal years ending after December
+15, 2006. Previous standards required an employer to disclose the complete
+funded status of its plan only in the notes to the financial statements.
+Moreover, because those standards allowed an employer to delay recognition of
+certain changes in plan assets and obligations that affected the costs of
+providing benefits, employers reported an asset or liability that almost always
+differed from the plan s funded status. Under SFAS 158, a defined benefit
+postretirement plan sponsor that is a public or private company or a
+nongovernmental not-for-profit organization must (a) recognize in its statement
+of financial position an asset for a plan s overfunded status or a liability
+for the plan s underfunded status, (b) measure the plan s assets and its
+obligations that determine its funded status as of the end of the employer s
+fiscal year (with limited exceptions), and (c) recognize, as a component of
+other comprehensive income, the changes in the funded status of the plan that
+arise during the year but are not recognized as components of net periodic
+benefit cost pursuant to SFAS 87,    Employers  Accounting for Pensions,    or
+SFAS 106,    Employers 
+Accounting for Postretirement Benefits Other Than Pensions.    SFAS
+158 also requires an employer to disclose in the notes to financial statements
+additional information on how delayed recognition of certain changes in the
+funded status of a defined benefit postretirement plan affects net periodic
+benefit cost for the next fiscal year. 
+We are in the process of reviewing and evaluating SFAS 158, and
+therefore the ultimate impact of its adoption in not yet known.  
+
+  In May 2005, the FASB issued SFAS No. 154,  Accounting
+Changes and Error Corrections  (SFAS 154). This Statement replaces APB Opinion
+No. 20,  Accounting Changes,  and SFAS 3,  Reporting Accounting Changes in
+Interim Financial Statements.  SFAS 154 sets forth new guidelines on accounting
+for voluntary changes in accounting principle and requires certain disclosures.
+It also applies to the unusual situation in which an accounting pronouncement
+is issued but does not include specific transition guidelines. This Statement
+requires such accounting principle changes to be applied retrospectively to all
+prior periods presented and an adjustment to the balance of assets or liabilities
+affected along with an offsetting adjustment to retained earnings for the
+cumulative effect on periods prior to those presented. This Statement carries
+forward without change the guidance in APB Opinion No. 20 for reporting the
+correction of an error and a change in accounting estimate. SFAS 154 will be
+effective for the Company beginning with fiscal year 2007.  
+
+   Use of Estimates:    The preparation of financial statements in
+conformity with U.S. generally accepted accounting principles requires
+management to make estimates and assumptions that affect the amounts reported
+in the financial statements and accompanying notes. Significant estimates
+include the estimated total costs at completion of the Company s long-term
+contracts, estimated discounted cash flows of reporting units used for goodwill
+impairment testing, and the estimated rates of return and discount rates
+related to the Company s defined benefit pension plans. Actual results could
+differ from those estimates. 
+
+   Risks and
+Uncertainties:    The
+Company is subject to the normal risks and uncertainties of performing large,
+multiyear, often fixed-price contracts. In addition, the Company is subject to
+audit of incurred costs related to many of its U.S. Government contracts. These
+audits could produce different results than the Company has estimated; however,
+the Company s experience has been that its costs are acceptable to the
+government. 
+
+   Reclassifications:    Deferred tax assets amounting to
+approximately $6.0 million as of September 30, 2005 were reclassified from
+current to noncurrent assets to conform to the current year classification. 
+
+42     
+
+NOTE
+2 INVESTMENTS IN JOINT VENTURES  
+
+  The
+Company is party to a 50/50 joint venture arrangement with the U.S. subsidiary
+of Rafael Armament Development Authority Ltd. (Rafael), an Israeli company, to
+manufacture certain of their products for sale to the U.S. and Israeli defense
+forces. The agreement requires the Company to invest up to $15 million in the
+joint venture over the first three years of operation, which commenced in 2005,
+while Rafael will provide certain of its intellectual property to the joint
+venture in a royalty-free arrangement. As of September 30, 2006 the Company had
+invested $4 million in the joint venture. In 2006 the agreement was amended to
+allow the joint venture to borrow up to $1 million each from Rafael and Cubic.
+As of September 30, 2006 outstanding borrowings under this arrangement amounted
+to $800 thousand from each party. In 2006, the joint venture was awarded its
+first contract and generated sales of approximately $1.0 million. It incurred
+operating losses of $2.0 million and $1.3 million in 2006 and 2005,
+respectively.  
+
+  Under the provisions of FIN 46   Consolidation
+of Variable Interest Entities,   the Company consolidates the above
+joint venture, as it is the primary beneficiary of the joint venture
+arrangement. Minority interest in the net loss from this business is reflected
+in the consolidated income statements and minority interest in the net assets
+of the joint venture is included in the consolidated balance sheets.  
+
+  The Company owns
+37.5% of the common stock of Transaction Systems Limited (TranSys), an
+unconsolidated joint venture company in the United Kingdom. This joint venture
+company was formed to bid on a contract called  PRESTIGE  (Procurement of
+Revenue Services, Ticketing, Information, Gates and Electronics), the purpose
+of which is to outsource most of the functions of the Transport for London
+(TfL) fare collection system for a period of seventeen years. In August 1998,
+TranSys was awarded the contract and began operations. Cubic and the other
+parties to the joint venture participate in the PRESTIGE contract solely
+through subcontracts from TranSys. All of the work to be performed by TranSys
+is subcontracted to the joint venture partners and the joint venture provides
+for the pass-through of virtually all revenues from TfL to the joint venture
+partners. As a result, TranSys has operated on a break-even basis and is
+expected to continue to do so. If TranSys were to eventually generate a net
+income or loss, the joint venture partners would share in this income or loss
+in accordance with their percentage ownership in the joint venture. The Company s
+investment in the joint venture is immaterial.  
+
+  TfL
+elected to finance the project through private financing rather than incurring
+public debt. Financing for the project was provided by a syndicate of banks
+which participated in creating the project s financial structure. During the
+first four years of the project, through August 2002, the banks provided
+financing to TranSys totaling 200 million British Pounds (approximately $374
+million). Debt servicing began in 2003 and will continue until the debt is
+fully paid in 2013. This debt is guaranteed by TfL and is nonrecourse to the
+joint venture partners.  
+
+  The
+Company has also provided certain performance guarantees to various parties
+related to the PRESTIGE contract and the TranSys joint venture, including TfL,
+the banks and the joint venture partners. The joint venture partners have also
+provided similar performance guarantees to the same parties and to Cubic.  
+
+43     
+
+Summarized
+unaudited financial information for this unconsolidated joint venture is as
+follows:  
+
+NOTE 3 ACCOUNTS
+RECEIVABLE  
+
+  The components of
+accounts receivable under long-term contracts are as follows:  
+
+A portion of
+recoverable costs and accrued profits on progress completed is billable under
+progress payment provisions of the related contracts. The remainder of these
+amounts is billable upon delivery of  
+
+44     
+
+products or furnishing of
+services, with an immaterial amount subject to retainage provisions of the
+contracts.  It is anticipated that
+substantially all of the unbilled portion of receivables identified as current
+assets will be billed and collected under progress billing provisions of the
+contracts or upon completion of performance tests and/or acceptance by the
+customers during fiscal 2007.  
+
+  NOTE
+4 INVENTORIES  
+
+  Inventories
+are classified as follows:  
+
+At
+September 30, 2006 and 2005, work in process and inventoried costs under
+long-term contracts included approximately $7.7 million and $5.8 million,
+respectively, in costs incurred outside the scope of work on several contracts
+in the defense segment. Management believes it is probable these costs, plus a
+profit margin, will be recovered under contract change orders within the next
+year.  
+
+45     
+
+NOTE
+5 FINANCING ARRANGEMENTS  
+
+  Long-term debt
+consists of the following:  
+
+The terms of the
+notes payable and other financial instruments include provisions that require
+and/or limit, among other financial ratios and measurements, the permitted
+levels of working capital, debt and tangible net worth and coverage of fixed
+charges. The Company has also provided certain performance guarantees to
+various parties related to the PRESTIGE contract and the TranSys joint venture.
+As consideration for the performance guarantee, the Company has agreed to
+certain financial covenants including limits on working capital, debt, tangible
+net worth and cash flow coverage. At September 30, 2006, the most restrictive
+covenant under these agreements leaves consolidated retained earnings of $124.0
+million available for the payment of dividends to shareholders, purchases of
+the Company s common stock and other charges to shareholders  equity. To date,
+there have been no covenant violations and the Company believes it will be able
+to meet the covenant financial performance obligations described above.  
+
+  The Company
+maintains a short-term borrowing arrangement totaling 10 million British pounds
+(equivalent to approximately $18.7 million) with a U.K. financial institution
+to help meet the short-term working capital requirements of its subsidiary,
+Cubic Transportation Systems Ltd. Any outstanding balances are guaranteed by
+Cubic Corporation, are repayable on demand, and bear interest at the bank s
+base rate, as defined, plus one percent. At September 30, 2006, no amounts were
+outstanding under this borrowing arrangement.  
+
+  The Company
+maintains a short-term borrowing arrangement in New Zealand totaling $2 million
+New Zealand dollars (equivalent to approximately $1.3 million) to help meet the
+short-term working capital requirements of its subsidiary in that country.  At September 30, 2006, no amounts were
+outstanding under this borrowing arrangement.  
+
+46     
+
+The Company has a $150 million revolving line of credit arrangement with
+a group of U.S. banks which expires in March 2010. As of September 30, 2006 the
+Company had $10 million of short-term debt outstanding under this line of
+credit at an interest rate of 6.2% and $9.9 million in letters of credit.  
+
+  Maturities of
+long-term debt for each of the five years in the period ending September 30,
+2011, are as follows: 2007   $6.0 million; 
+2008   $6.0 million; 2009   $6.0 million; 2010   $4.6 million; 2011  
+$4.6 million.  
+
+  Interest paid
+amounted to $4.7 million, $5.5 million, and $4.6 million in 2006, 2005, and
+2004, respectively.  
+
+  As of September
+30, 2006 the Company had letters of credit and bank guarantees outstanding
+totaling $67.5 million, which guarantee either the Company s performance or
+customer advances under certain contracts. In addition, the Company had
+financial letters of credit outstanding totaling $6.2 million as of September
+30, 2006, which primarily guarantee the Company s payment of certain
+self-insured liabilities. The Company has never had a drawing on a letter of
+credit instrument, nor are any anticipated; therefore, the fair value of these
+instruments is estimated to be zero.  
+
+  The Company s
+self-insurance arrangements are limited to certain workers  compensation plans,
+automobile liability, and product liability claims primarily related to a
+business the Company sold in 1993. Under these arrangements, the Company
+self-insures only up to the amount of a specified deductible for each
+claim.  Self-insurance liabilities
+included in other current liabilities on the balance sheet amounted to $3.0
+million and $3.1 million as of September 30, 2006 and 2005, respectively.  
+
+  NOTE 6 COMMITMENTS  
+
+  The Company leases
+certain office, manufacturing and warehouse space, and miscellaneous computer
+and other office equipment under noncancelable operating leases expiring in
+various years through 2015.  These
+leases, some of which may be renewed for periods up to 10 years, generally
+require the lessee to pay all maintenance, insurance and property taxes.
+Several leases are subject to periodic adjustment based on price indices or
+cost increases. Rental expense, net of sublease income, for all operating
+leases amounted to $6.9 million, $6.8 million, and $5.4 million in 2006, 2005,
+and 2004, respectively.  
+
+  Future
+minimum payments, net of minimum sublease income, under noncancelable operating
+leases with initial terms of one year or more consist of the following at
+September 30, 2006 (in thousands):  
+
+47     
+
+NOTE 7 INCOME
+TAXES  
+
+  Significant
+components of the provision for income taxes are as follows:  
+
+48     
+
+Deferred tax
+assets and liabilities are determined based on differences between financial
+reporting and tax bases of assets and liabilities, and are measured using the
+enacted tax rates and laws that will be in effect when the differences are
+expected to reverse. Significant components of the Company s deferred tax
+assets and liabilities are as follows:  
+
+49  
+
+The reconciliation
+of income tax computed at the U.S. federal statutory tax rate to income tax
+expense is as follows:  
+
+The Company is subject to ongoing audits from various taxing authorities
+in the jurisdictions in which it does business. 
+As of September 30, 2006, the Company s open tax years in significant
+jurisdictions include 2004-2006 in both the U.S. and the U.K. The Company
+believes it has adequately provided for uncertain tax issues not yet resolved
+with federal, state and foreign tax authorities. Although not probable, the
+most adverse resolution of these issues could result in additional charges to
+earnings in future periods. Based upon a consideration of all relevant facts
+and circumstances, the company does not believe the ultimate resolution of
+uncertain tax issues for all open tax periods will have a materially adverse
+effect upon its results of operations or financial condition. As of September
+30, 2006 and 2005 the Company had income tax reserves of $5.6 million and $8.8
+million, respectively, included in Income Taxes Payable.  
+
+  As indicated in the table above, in 2006 and 2005 the Company was able
+to reverse $1.1 and $2.8 million, respectively, of tax reserves established in
+previous years due to the resolution of uncertain tax issues.  
+
+  The Company made income tax
+payments, net of refunds, totaling $11.6 million, $6.9 million, and $18.7
+million in 2006, 2005, and 2004, respectively.  
+
+  Income before
+income taxes includes the following components:  
+
+50     
+
+In December 2004, Financial Accounting Standards Board Position
+109-2 was issued and established standards for how an issuer accounts for a
+special one-time dividends received deduction on the repatriation of certain
+foreign earnings to a U.S. taxpayer pursuant to the American Jobs Creation Act
+of 2004 (the Act). The Financial Accounting Standards Board (FASB) staff
+believes that the lack of clarification of certain provisions within the Act
+and the timing of the enactment necessitated a practical exception to the
+Statement of Financial Accounting Standards No. 109,  Accounting for Income Taxes  (SFAS 109),
+requirement to reflect in the period of enactment the effect of a new tax law.
+Accordingly, an enterprise was allowed time beyond the financial reporting
+period of enactment to evaluate the effect of the Act on its plan for
+reinvestment or repatriation of foreign earnings for purposes of applying
+SFAS 109. During the third fiscal quarter of 2006 management determined
+that the Company had sufficient information to make an informed decision on the
+impact of the Act on its repatriation plans and a provision of $1.5 million was
+recorded at that time. In the fourth quarter, an extraordinary dividend, as
+defined by the Act, was paid by the Company s U.K. subsidiary amounting to
+$48.3 million.  
+
+  In light of this extraordinary
+dividend and changing market conditions, management reevaluated the Company s
+capital requirements in Europe to determine what portion of its investment can
+be considered indefinitely reinvested. Management s analysis determined that
+the level of investment the Company currently has in Europe will be required
+for the foreseeable future and is considered indefinitely reinvested;
+therefore, no additional provision for taxes due upon repatriation has been
+provided. However, the Company currently has no firm plans to invest further
+capital in Europe, so management has concluded that a provision for U.S. taxes
+on any future earnings in Europe will me made until such time as the Company s
+plans for investment in Europe become solidified.  
+
+  Undistributed
+earnings of all the Company s foreign subsidiaries amounted to approximately
+$37.3 million at September 30, 2006. Those earnings are considered to be
+indefinitely reinvested, and accordingly, no provision for U.S. federal and
+state income taxes has been provided thereon. Upon distribution of those
+earnings in the form of dividends or otherwise, the Company would be subject to
+both U.S. income taxes and withholding taxes payable to the foreign countries,
+but would also be able to offset unrecognized foreign tax credit carryforwards.
+Determination of the total amount of unrecognized deferred U.S. income tax
+liability is not practicable because of the complexities associated with its
+hypothetical calculation; however, the Company does not believe the amount would
+be material.  
+
+51     
+
+NOTE
+8 PENSION, PROFIT SHARING AND OTHER RETIREMENT PLANS  
+
+  The Company has
+profit sharing and other defined contribution retirement plans that provide
+benefits for most employees in the U.S. An employee is eligible to participate
+in these plans after six months to one year of service, and may make additional
+contributions to the plans from their date of hire. These plans provide for
+full vesting of benefits over five years. A substantial portion of Company
+contributions to these plans is discretionary with the Board of Directors.
+Company contributions to the plans aggregated $11.6 million, $11.5 million and
+$9.9 million in 2006, 2005 and 2004, respectively.  
+
+  Approximately
+one-half of the Company s nonunion employees in the U.S. are covered by a
+noncontributory defined benefit pension plan. The Company and its Board of
+Directors have approved an amendment to freeze plan benefits ( curtailment ).
+The effect of the curtailment is that no new benefits will be accrued after
+December 31, 2006. The financial impact of this curtailment is reflected in the
+following disclosures. Approximately one-half of the Company s European
+employees are covered by a contributory defined benefit pension plan. The
+Company s funding policy provides that contributions will be at least equal to
+the minimum amounts mandated by statutory requirements. The following table
+sets forth changes in the benefit obligation and plan assets for these defined
+benefit plans and the net amount recognized in the Consolidated Balance Sheets:  
+
+52     
+
+53     
+
+Additional
+information   
+
+   Assumptions:   
+
+The Company s
+pension plans weighted average asset allocations by asset category as of
+September 30 were as follows:  
+
+The Company has the
+responsibility to formulate the investment policies and strategies for the
+plans  assets. The overall policies and strategies include: maintain the
+highest possible return commensurate with the level of assumed risk, preserve
+the benefit security for the plans  participants, and minimize the necessity of
+Company contributions by maintaining a ratio of plan assets to liabilities in
+excess of 1.0.  
+
+  The Company does not involve itself with the day-to-day operations and
+selection process of individual securities and investments, and, accordingly,
+has retained the professional services of investment management organizations
+to fulfill those tasks. The investment management organizations have investment
+discretion over the assets placed under their management. The Company provides
+each investment manager with specific investment guidelines relevant to its
+asset class. The table below presents the ranges for each major category of the
+plans  assets at September 30, 2006:  
+
+Asset Category 
+
+Allocation 
+  Range   
+
+Equity
+  securities  
+
+50% to 85%  
+
+Debt securities  
+
+10% to 60%  
+
+Other, primarily cash
+  and cash equivalents  
+
+0% to 15%  
+
+The pension plans
+held no positions in Cubic Corporation common stock as of September 30, 2006
+and 2005.  
+
+  The Company
+expects to contribute a minimum of $6.3 million to its pension plans in 2007.  
+
+54     
+
+Estimated
+future benefit payments   
+
+  The following
+pension benefit payments, which reflect expected future service, as
+appropriate, are expected to be paid:  
+
+NOTE 9 LEGAL
+MATTERS  
+
+  In 1991, the government of
+Iran commenced an arbitration proceeding against the Company seeking $12.9
+million for reimbursement of payments made for equipment that was to comprise
+an Air Combat Maneuvering Range pursuant to a sales contract and an
+installation contract executed in 1977, and an additional $15 million for
+unspecified damages. The Company contested the action and brought a counterclaim
+for compensatory damages of $10.4 million. 
+In May 1997, the arbitral tribunal awarded the government of Iran $2.8
+million, plus simple interest at the rate of 12% per annum from September 21,
+1991 through May 5, 1997. In December 1998, the United States District Court
+granted a motion by the government of Iran confirming the arbitral award but
+denied Iran s request for additional interest and costs. Both parties have
+appealed. In October 2004, the 9  th   Circuit Court of Appeals issued a decision in
+the case of two interveners who are attempting to claim an attachment on the
+amount that was awarded to Iran in the original arbitration. The Court denied
+one of the intervener s liens but confirmed the second one s lien. Iran asked
+the U.S. Supreme Court to review the 9  th   Circuit decision and to void the initial
+judgment against it. In 2006, the Supreme Court returned the case to the 9  th   Circuit for reconsideration,
+suggesting that the claimed lien cannot be enforced. The dispute between Iran
+and Cubic is on hold in the 9  th   Circuit and the obligation upon Cubic to pay
+is stayed. Under current United States law and policy, any payment to the
+Revolutionary Government of Iran must first be licensed by the U.S. government.
+The Company is unaware of the likelihood of the U.S. government granting such a
+license. The Company is continuing to pursue its appeal in the 9  th   Circuit case against Iran, and
+management believes that a license from the U.S. government would be required
+in any case to make payment to or on behalf of Iran. However, in light of the 9  th   Circuit Court s decision in the
+related intervener s case, in 2004 the Company established a reserve of $6
+million for the estimated potential liability and will continue to accrue
+interest on this amount until the ultimate outcome of the case is determined.  
+
+  In January 2005, a bus fare collection system customer in North America
+issued a  cure notice  to the Company, alleging that its performance was not in
+accord with the contract. After unsuccessful negotiations with the customer, in
+March 2005, the Company filed for a temporary restraining order requesting that
+the customer be restrained from further interfering with the Company s
+performance and from issuing a termination notice. The next business day, the customer
+issued a letter terminating the contract for default. In April 2005, the
+customer filed a claim for breach of contract, seeking damages for  all actual,
+consequential and liquidated damages sustained  as well as attorney s fees. The
+contract limits liability to the contract value of $8.2 million, but the
+customer appears to be attempting to avoid that limitation. In May 2005, the
+Company filed an answer and general denial and subsequently filed a verified
+petition alleging breach of contract and other substantive claims, claiming the
+amount owed under the contract of $4.2 million, plus interest and attorney s
+fees. Management believes that both the customer s default notice and claim for
+damages are unsupported and the Company is vigorously  
+
+55     
+
+defending against the allegations. Based on
+the advice of counsel, management believes the Company had substantially
+completed the contract prior to termination and that the remaining contract
+value is due and that the Company will prevail at trial; therefore, no liability
+has been recorded for the former customer s claim as of September 30, 2006.
+However, due to the uncertainty of collecting the outstanding receivable
+balance an allowance for doubtful accounts of $4.2 million was established and
+all costs incurred in the performance of the contract and costs incurred
+outside the scope of the contract were expensed in the year ended September 30,
+2005.  
+
+  In June 2005, a company
+that Cubic had an alleged agreement with to potentially bid on a portion of
+automated fare collection contracts filed a court claim for breach of contract,
+fraud, negligent misrepresentation, theft of trade secrets, and other related
+allegations. The claim seeks $15.0 million in compensatory damages, punitive
+damages, disgorgement of profits and a permanent injunction. In accordance with
+the underlying contract arbitration clause, in July 2005 the Company filed a
+claim with the American Arbitration Association and requested the court case be
+stayed or dismissed. The Court denied the Company s motion to transfer the case
+to arbitration. The Company has appealed that decision to the California Court
+of Appeals. Based on information currently available, management believes there
+is no merit to the claim and that it will prevail in this matter. Therefore, no
+liability has been recorded as of September 30, 2006.  
+
+  From time-to-time, agencies of the U.S. and foreign governments may
+investigate whether the Company s operations are being conducted in accordance
+with applicable regulatory requirements. Such investigations, whether relating
+to government contracts or conducted for other reasons, could result in
+administrative, civil or criminal liabilities, including repayments, fines or
+penalties being imposed upon the Company, or could lead to suspension or debarment
+from future government contracting. 
+Government investigations often take years to complete and most result
+in no adverse action against the Company.  
+
+  The Company is not a party to any other material
+pending proceedings and management considers all other matters to be ordinary
+proceedings incidental to the business. Management believes the outcome of
+these proceedings and the proceedings described above will not have a
+materially adverse effect on the Company s financial position.  
+
+  NOTE 10 BUSINESS SEGMENT
+INFORMATION  
+
+   Description of the types of products and
+services from which each reportable segment derives its revenues:   
+
+  The Company has two primary business segments:
+transportation systems and defense. The transportation systems segment designs,
+produces, installs and services electronic revenue collection systems for mass
+transit projects, including railways and buses. The defense segment performs
+work under U.S. and foreign government contracts relating to electronic defense
+systems and equipment, computer simulation training, development of training
+doctrine, and field operations and maintenance. Products include customized
+range instrumentation and training systems, simulators, communications and
+surveillance systems, avionics systems, power amplifiers and receivers.  
+
+   Measurement of segment profit or loss and
+segment assets:   
+
+  The Company
+evaluates performance and allocates resources based on total segment operating
+profit or loss. The accounting policies of the reportable segments are the same
+as those described in the summary of significant accounting policies.
+Intersegment sales and transfers are immaterial.  
+
+56     
+
+Factors management used to identify the
+Company s reportable segments:   
+
+  The Company s reportable segments are business units
+that offer different products and services. The reportable segments are each
+managed separately because they develop and manufacture distinct products with
+different customer bases.  
+
+  Business
+segment financial data is as follows:  
+
+57     
+
+(a) Sales are attributed to
+countries or regions based on the location of customers.  
+
+Defense segment sales
+include $427.2 million, $426.9 million and $360.3 million in 2006, 2005, and
+2004, respectively, of sales to U.S. Government agencies.  No other single customer accounts for 10% or
+more of the Company s revenue.  
+
+58     
+
+NOTE 11 SUMMARY OF
+QUARTERLY RESULTS OF OPERATIONS (UNAUDITED)  
+
+  The following is a summary of the quarterly results of operations for
+the years ended September 30, 2006 and 2005:  
+
+59     
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM   
+
+  The Board of Directors and
+Stockholders of Cubic Corporation  
+
+  We have audited the accompanying consolidated
+balance sheets of Cubic Corporation as of September 30, 2006 and 2005, and the
+related consolidated statements of income, changes in shareholders  equity and
+cash flows for each of the three years in the period ended September 30, 2006.
+These financial statements are the responsibility of the Company s management.
+Our responsibility is to express an opinion on these financial statements based
+on our audits.  
+
+  We conducted our audits in accordance with the
+standards of the Public Company Accounting Oversight Board (United States).
+Those standards require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.  
+
+  In our opinion, the financial statements referred to
+above present fairly, in all material respects, the consolidated financial
+position of Cubic Corporation at September 30, 2006 and 2005, and the
+consolidated results of its operations and its cash flows for each of the three
+years in the period ended September 30, 2006, in conformity with U.S. generally
+accepted accounting principles.  
+
+  We also have audited, in accordance with the
+standards of the Public Company Accounting Oversight Board (United States), the
+effectiveness of Cubic Corporation s internal control over financial reporting
+as of September 30, 2006, based on criteria established in Internal
+Control-Integrated Framework issued by the Committee of Sponsoring Organizations
+of the Treadway Commission and our report dated November 29, 2006 expressed an
+unqualified opinion thereon.  
+
+60     
+
+Item 9.                 DISAGREEMENTS ON ACCOUNTING AND FINANCIAL
+DISCLOSURE   .  
+
+  None.  
+
+   Item 9a.           CONTROLS AND PROCEDURES   .  
+
+    Evaluation of Disclosure Controls and
+Procedures      The
+Company s management conducted an evaluation, under the supervision and with
+the participation of the Company s Chief Executive Officer and Chief Financial
+Officer, of the effectiveness of the design and operation of the Company s
+disclosure controls and procedures as of September 30, 2006. Based on this
+evaluation, the Company s management, including the
+Chief Executive Officer and Chief Financial Officer, concluded that the Company s disclosure
+controls and procedures are effective in providing reasonable assurance that
+information required to be disclosed in the reports the Company files and
+submits under the Securities Exchange Act of 1934 is recorded, processed,
+summarized and reported as and when required. 
+
+  In designing and evaluating
+the Company s disclosure controls and procedures, the Company s management
+recognizes that any controls, no matter how well designed and operated, can
+provide only reasonable assurance of achieving the desired control objectives.  
+
+    Management s Report on Internal Control over Financial Reporting    
+
+  Management
+is responsible for establishing and maintaining adequate internal control over
+financial reporting for the Company. In order to evaluate the effectiveness of
+internal control over financial reporting, as required by Section 404 of the
+Sarbanes-Oxley Act, management has conducted an assessment, including testing,
+using the criteria in Internal Control   Integrated Framework, issued by the
+Committee of Sponsoring Organizations of the Treadway Commission (COSO). The
+Company s system of internal control over financial reporting is designed to
+provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles. Because of its inherent
+limitations, internal control over financial reporting may not prevent or
+detect misstatements. Also, projections of any evaluation of effectiveness to
+future periods are subject to the risk that controls may become inadequate
+because of changes in conditions, or that the degree of compliance with the
+policies or procedures may deteriorate.  
+
+  Based on its assessment,
+management has concluded that the Company maintained effective internal control
+over financial reporting as of September 30, 2006, based on criteria in
+Internal Control   Integrated Framework, issued by the COSO. Management s
+assessment of the effectiveness of the Company s internal control over
+financial reporting as of September 30, 2006, has been audited by Ernst  
+Young LLP, an independent registered public accounting firm, as stated in their
+report which follows.  
+
+61  
+
+REPORT OF
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM   
+
+  The Board of Directors and
+Stockholders of Cubic Corporation  
+
+  We have audited management s assessment, included in
+the accompanying Management s Report on Internal Control Over Financial
+Reporting, that Cubic Corporation maintained effective internal control over
+financial reporting as of September 30, 2006, based on criteria established in
+Internal Control Integrated Framework issued by the Committee of Sponsoring
+Organizations of the Treadway Commission (the COSO criteria). Cubic Corporation s
+management is responsible for maintaining effective internal control over
+financial reporting and for its assessment of the effectiveness of internal
+control over financial reporting. Our responsibility is to express an opinion
+on management s assessment and an opinion on the effectiveness of the Company s
+internal control over financial reporting based on our audit.  
+
+  We conducted our audit in accordance with the
+standards of the Public Company Accounting Oversight Board (United States).
+Those standards require that we plan and perform the audit to obtain reasonable
+assurance about whether effective internal control over financial reporting was
+maintained in all material respects. Our audit included obtaining an understanding
+of internal control over financial reporting, evaluating management s
+assessment, testing and evaluating the design and operating effectiveness of
+internal control, and performing such other procedures as we considered
+necessary in the circumstances. We believe that our audit provides a reasonable
+basis for our opinion.  
+
+  A company s internal control over financial
+reporting is a process designed to provide reasonable assurance regarding the
+reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with generally accepted accounting
+principles. A company s internal control over financial reporting includes
+those policies and procedures that (1) pertain to the maintenance of records
+that, in reasonable detail, accurately and fairly reflect the transactions and
+dispositions of the assets of the company; (2) provide reasonable assurance
+that transactions are recorded as necessary to permit preparation of financial
+statements in accordance with generally accepted accounting principles, and
+that receipts and expenditures of the company are being made only in accordance
+with authorizations of management and directors of the company; and (3) provide
+reasonable assurance regarding prevention or timely detection of unauthorized
+acquisition, use, or disposition of the company s assets that could have a
+material effect on the financial statements.  
+
+  Because of its inherent limitations, internal
+control over financial reporting may not prevent or detect misstatements. Also,
+projections of any evaluation of effectiveness to future periods are subject to
+the risk that controls may become inadequate because of changes in conditions,
+or that the degree of compliance with the policies or procedures may
+deteriorate.  
+
+  In our opinion, management s assessment that Cubic
+Corporation maintained effective internal control over financial reporting as
+of September 30, 2006, is fairly stated, in all material respects, based on the
+COSO criteria. Also, in our opinion, Cubic Corporation maintained, in all
+material respects, effective internal control over financial reporting as of
+September 30, 2006, based on the COSO criteria.  
+
+  We also have audited, in accordance with the
+standards of the Public Company Accounting Oversight Board (United States), the
+consolidated balance sheets of Cubic Corporation as of September 30, 2006 and
+2005, and the related statements of income, shareholders  equity, and cash
+flows for each of the three years in the period ended September 30, 2006 of
+Cubic Corporation and our report dated November 29, 2006 expressed an
+unqualified opinion thereon.  
+
+62     
+
+Changes in Internal Controls Over Financial
+Reporting      There
+were no changes in the Company s internal control over financial reporting that
+occurred during the fourth fiscal quarter of 2006 that have materially
+affected, or are reasonably likely to materially affect the Company s internal
+control over financial reporting. 
+
+    PART III    
+
+   Item 10.  DIRECTORS AND
+EXECUTIVE OFFICERS OF THE REGISTRANT    .  
+
+  Certain information regarding directors and
+executive officers is incorporated herein by reference from our definitive
+Proxy Statement, which will be filed no later than 30 days prior to the date of
+the Annual Meeting of Shareholders.  
+
+  The Company has adopted a code of ethics that
+applies to its principle executive officer, principle financial officer, and
+its principle accounting officer.  Such
+code of ethics appears on our web site at:
+http://www.cubic.com/corp1/invest/governance.html.  
+
+   Item 11.  EXECUTIVE
+COMPENSATION    .  
+
+  Information regarding executive compensation is
+incorporated herein by reference from our definitive Proxy Statement, which
+will be filed no later than 30 days prior to the date of the Annual Meeting of
+Shareholders.  
+
+   Item 12.  SECURITY OWNERSHIP OF
+CERTAIN BENEFICIAL OWNERS AND MANAGEMENT    .  
+
+  Information regarding security ownership of
+certain beneficial owners and management is incorporated herein by reference
+from our definitive Proxy Statement, which will be filed no later than 30 days
+prior to the date of the Annual Meeting of Shareholders.  
+
+   Item 13.  CERTAIN RELATIONSHIPS
+AND RELATED TRANSACTIONS    .  
+
+  Information regarding certain relationships and
+related transactions is incorporated herein by reference from our definitive
+Proxy Statement, which will be filed no later than 30 days prior to the date of
+the Annual Meeting of Shareholders.  
+
+   Item 14.  PRINCIPAL ACCOUNTANT
+FEES AND SERVICES.    
+
+  Information regarding principal accountant fees
+and services is incorporated herein by reference from our definitive Proxy
+Statement, which will be filed no later than 30 days prior to the date of the
+Annual Meeting of Shareholders.  
+
+63     
+
+PART IV    
+
+   Item 15.  EXHIBITS, FINANCIAL
+STATEMENT SCHEDULES    
+
+  (a)               Documents filed as part of this Report:  
+
+  (1)               The following consolidated financial statements of
+Cubic Corporation, as referenced in Item 8:  
+
+  Consolidated Balance Sheets  
+
+  September 30, 2006 and 2005  
+
+  Consolidated Statements of Income  
+
+  Years ended September 30, 2006,
+2005 and 2004  
+
+  Consolidated Statements of Changes in Shareholders 
+Equity  
+
+  Years ended September 30, 2006,
+2005 and 2004  
+
+  Consolidated Statements of Cash Flows  
+
+  Years ended September 30, 2006,
+2005 and 2004  
+
+  Notes to Consolidated Financial Statements  
+
+  September 30, 2006  
+
+  (2)               The following consolidated financial statement
+schedules of Cubic Corporation and subsidiaries, as referenced in Item 15(d):  
+
+  None are required under
+the applicable accounting rules and regulations of the Securities and Exchange
+Commission.  
+
+  (b)               Exhibits:  
+
+(c)               Financial Statement Schedules  
+
+  None  
+
+64     
+
+SIGNATURES    
+
+  Pursuant to the requirements of Sections 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized:  
+
+(Registrant) 
+
+CUBIC
+  CORPORATION  
+
+12/5/06   
+
+/s/ Walter J. Zable  
+
+Date  
+
+WALTER J. ZABLE, President  
+
+Pursuant to the requirements of
+the Securities Exchange Act of 1934, this report has been signed below by the
+following persons on behalf of the Registrant and in the capacities and on the
+dates indicated:  
+
+12/5/06   
+
+/s/ Walter J. Zable  
+
+12/5/06   
+
+/s/ Raymond E. Peet  
+
+Date  
+
+WALTER J. ZABLE,  
+
+Date  
+
+RAYMOND E. PEET,  
+
+President, Chief Executive Officer  
+
+Director  
+
+and Chairman of the Board of   
+
+Directors  
+
+12/5/06   
+
+/s/ Robert S. Sullivan  
+
+12/5/06   
+
+/s/ Walter C. Zable  
+
+Date  
+
+ROBERT S. SULLIVAN,  
+
+Date  
+
+WALTER C. ZABLE,  
+
+Director  
+
+Vice President and Vice Chairman   
+
+of the Board of Directors  
+
+12/5/06   
+
+/s/ Robert D. Weaver  
+
+Date  
+
+ROBERT D. WEAVER,  
+
+Director  
+
+12/5/06   
+
+/s/ Richard C. Atkinson  
+
+Date  
+
+RICHARD C. ATKINSON,   
+
+Director  
+
+12/5/06   
+
+/s/ William W. Boyle  
+
+Date  
+
+WILLIAM W. BOYLE,  
+
+12/5/06   
+
+/s/ Raymond L. deKozan  
+
+Director, Senior Vice President and   
+
+Date  
+
+RAYMOND L. deKOZAN,   
+
+Chief Financial Officer  
+
+Director, Senior Group Vice   
+
+President  
+
+12/4/06   
+
+/s/ Mark A. Harrison  
+
+Date  
+
+MARK A. HARRISON,  
+
+Vice President and Corporate  
+   Controller (Principal Accounting  
+   Officer)  
+
+65  
+
+<EX-21.1>
+ 2
+ a06-25105_1ex21d1.htm
+ EX-21
+
+EXHIBIT 21.1   
+
+   SUBSIDIARY CORPORATIONS OF CUBIC
+CORPORATION   
+
+    PLACE OF
+INCORPORATION AND PERCENTAGE OWNED    
+
+Place of   
+
+Percentage   
+
+Subsidiary   
+
+Incorporation   
+
+Owned   
+
+CONSOLIDATED CONVERTING CO.    
+  Whittier, California 
+
+California  
+
+100  
+
+%  
+
+CUBIC APPLICATIONS, INC.    
+  Lacey, Washington 
+
+California  
+
+100  
+
+%  
+
+CUBIC COMMUNICATIONS, INC.    
+  San Diego, California 
+
+California  
+
+100  
+
+%  
+
+CUBIC DE MEXICO    
+  Tijuana, Mexico 
+
+Mexico  
+
+100  
+
+%  
+
+CUBIC DEFENSE APPLICATIONS, INC.    
+  San Diego, California 
+
+California  
+
+100  
+
+%  
+
+CUBIC FOREIGN SALES, INC.    
+  San Diego, California 
+
+St.
+  Thomas 
+  U.S. Virgin Islands  
+
+100  
+
+%  
+
+CUBIC HOLDINGS LTD.    
+  Aukland, New Zealand 
+
+New
+  Zealand  
+
+100  
+
+%  
+
+CUBIC LAND, INC.    
+  San Diego, California 
+
+California  
+
+100  
+
+%  
+
+CUBIC ADVANCED TACTICAL SYSTEMS, LLC    
+  Orlando, Florida 
+
+Delaware  
+
+50  
+
+%  
+
+CUBIC SIMULATION SYSTEMS, INC.    
+  Orlando, Florida 
+
+Delaware  
+
+100  
+
+%  
+
+CUBIC TRANSPORTATION SYSTEMS,
+  INC.    
+  San Diego, California 
+
+California  
+
+100  
+
+%  
+
+Place of   
+
+Percentage   
+
+Subsidiary   
+
+Incorporation   
+
+Owned   
+
+CUBIC TRANSPORTATION SYSTEMS LIMITED    
+  London, England 
+
+England  
+
+100  
+
+% *  
+
+*(100% owned subsidiary of Cubic (U.K.) Limited)  
+
+CUBIC TRANSPORTATION SYSTEMS (AUSTRALIA) PTY
+  LIMITED    
+  New South Wales, Australia 
+
+Australia  
+
+100  
+
+% *  
+
+* (50% owned subsidiary of Cubic Corporation and 
+     50% owned subsidiary of Cubic Transportation Systems, Inc.)  
+
+CUBIC (U.K.) LIMITED    
+  London, England 
+
+England  
+
+100  
+
+%  
+
+CUBIC WORLDWIDE TECHNICAL SERVICES, INC.    
+  San Diego, California 
+
+Delaware  
+
+100  
+
+%  
+
+OSCMAR INTERNATIONAL LIMITED    
+  Auckland, New Zealand 
+
+New
+  Zealand  
+
+100  
+
+% *  
+
+*(100% owned
+  subsidiary of Cubic Holdings Ltd.)  
+
+</EX-21.1>
+
+<EX-23.1>
+ 3
+ a06-25105_1ex23d1.htm
+ EX-23
+
+EXHIBIT 23.1   
+
+   CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM   
+
+  We consent to the
+incorporation by reference in the Registration Statements (Form S-8 No,
+333-12749) pertaining to the Cubic Corporation Employees  Profit-Sharing Plan,
+the Cubic Applications, Inc. 401(k) Retirement Plan and the Cubic
+Corporation 1998 Stock Option Plan of our reports dated November 29, 2006, with
+respect to the consolidated financial statements of Cubic Corporation,
+management s assessment of the effectiveness of internal control over financial
+reporting, and the effectiveness of internal control over financial reporting
+of Cubic Corporation included in the Annual Report (Form 10-K) for the
+year ended September 30, 2006.  
+
+</EX-23.1>
+
+<EX-31.1>
+ 4
+ a06-25105_1ex31d1.htm
+ EX-31
+
+Exhibit 31.1   
+
+    CERTIFICATION of CEO    
+
+  I, Walter J. Zable, certify that:  
+
+  1.      I have
+reviewed this annual report on Form 10-K of Cubic Corporation; 
+
+  2.      Based on my
+knowledge, this report does not contain any untrue statement of a material fact
+or omit to state a material fact necessary to make the statements made, in
+light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; 
+
+  3.      Based on my
+knowledge, the financial statements, and other financial information included
+in this report, fairly present in all material respects the financial
+condition, results of operations and cash flows of Cubic Corporation as of, and
+for, the periods presented in this report; 
+
+  4.      Cubic s other
+certifying officers and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) for Cubic Corporation and have: 
+
+  a)      designed such
+disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material
+information relating to Cubic, including its consolidated subsidiaries, is made
+known to us by others within those entities, particularly during the period in
+which this report is being prepared; 
+
+  b)     designed such
+internal controls over financial reporting or caused such internal controls
+over financial reporting to be designed under our supervision, to provide
+reasonable assurance regarding the reliability of financial reporting and the
+preparation of the financial statements for external purposes in accordance
+with generally accepted accounting principles; 
+
+  c)      evaluated the
+effectiveness of Cubic s disclosure controls and procedures and presented in
+this report our conclusions about the effectiveness of the disclosure controls
+and procedures as of the end of the period covered by this report based on such
+evaluation; and 
+
+  d)     disclosed in
+this report any change in Cubic s internal control over financial reporting
+that occurred during Cubic s fourth fiscal quarter that has materially
+affected, or is reasonably likely to materially affect, Cubic s internal
+control over financial reporting; 
+
+  5.      Cubic s other
+certifying officers and I have disclosed, based on our most recent evaluation
+of internal control over financial reporting, to Cubic s auditors and the audit
+committee of Cubic s board of directors: 
+
+  a)      all
+significant deficiencies and material weaknesses in the design or operation of
+internal control over financial reporting which are reasonably likely to
+adversely affect Cubic s ability to record, process, summarize and report
+financial information; and 
+
+  b)     any fraud,
+whether or not material, that involves management or other employees who have a
+significant role in Cubic s internal control over financial reporting. 
+
+  December 5, 2006  
+
+/s/ Walter J. Zable 
+
+W. J. Zable  
+
+President and Chief Executive Officer  
+
+CERTIFICATION of CFO    
+
+  I, William W. Boyle, certify that:  
+
+  1.      I have
+reviewed this annual report on Form 10-K of Cubic Corporation; 
+
+  2.      Based on my
+knowledge, this report does not contain any untrue statement of a material fact
+or omit to state a material fact necessary to make the statements made, in
+light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; 
+
+  3.      Based on my
+knowledge, the financial statements, and other financial information included
+in this report, fairly present in all material respects the financial
+condition, results of operations and cash flows of Cubic Corporation as of, and
+for, the periods presented in this report; 
+
+  4.      Cubic s other
+certifying officers and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) for Cubic Corporation and have: 
+
+  a)      designed such
+disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material
+information relating to Cubic, including its consolidated subsidiaries, is made
+known to us by others within those entities, particularly during the period in
+which this report is being prepared; 
+
+  b)     designed such
+internal controls over financial reporting or caused such internal controls
+over financial reporting to be designed under our supervision, to provide
+reasonable assurance regarding the reliability of financial reporting and the
+preparation of the financial statements for external purposes in accordance
+with generally accepted accounting principles; 
+
+  c)      evaluated the
+effectiveness of Cubic s disclosure controls and procedures and presented in
+this report our conclusions about the effectiveness of the disclosure controls
+and procedures as of the end of the period covered by this report based on such
+evaluation; and 
+
+  d)     disclosed in
+this report any change in Cubic s internal control over financial reporting
+that occurred during Cubic s fourth fiscal quarter that has materially
+affected, or is reasonably likely to materially affect, Cubic s internal
+control over financial reporting; 
+
+  5.      Cubic s other
+certifying officers and I have disclosed, based on our most recent evaluation
+of internal control over financial reporting, to Cubic s auditors and the audit
+committee of Cubic s board of directors: 
+
+  a)      all
+significant deficiencies and material weaknesses in the design or operation of
+internal control over financial reporting which are reasonably likely to
+adversely affect Cubic s ability to record, process, summarize and report
+financial information; and 
+
+  b)     any fraud,
+whether or not material, that involves management or other employees who have a
+significant role in Cubic s internal control over financial reporting. 
+
+  December 5, 2006  
+
+/s/ William W. Boyle 
+
+W. W. Boyle  
+
+Chief Financial Officer  
+
+</EX-31.1>
+
+<EX-32.1>
+ 5
+ a06-25105_1ex32d1.htm
+ EX-32
+
+Exhibit 32.1    
+
+    CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002    
+
+  Each of the undersigned, in his capacity as an officer of Cubic
+Corporation hereby certifies pursuant to Section 906 of the Sarbanes-Oxley Act
+of 2002 that:  
+
+  1.                   The annual report of Cubic Corporation (the  Registrant )
+on Form 10-K for the year ended September 30, 2006 (the  Report ), which
+accompanies this certification, fully complies with the requirements of Section
+13(a) or 15(d) of the Securities Exchange Act of 1934.  
+
+  2.                   The information contained in the Report fairly
+presents, in all material respects, the financial condition of the Registrant
+at the end of such year and the results of operations of the Registrant for
+such year.  
+
+/s/ W. J. Zable 
+
+/s/ W.W. Boyle  
+
+W. J. Zable  
+
+W. W. Boyle  
+
+Chief Executive
+  Officer  
+
+Chief Financial Officer  
+
+Date: December
+  5, 2006  
+
+</EX-32.1>
+

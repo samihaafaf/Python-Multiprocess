@@ -1,0 +1,1267 @@
+<Header>
+<FileStats>
+    <FileName>20061120_10-K_edgar_data_92284_0000092284-06-000010_1.txt</FileName>
+    <GrossFileSize>432398</GrossFileSize>
+    <NetFileSize>108160</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>220732</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>49</N_Tables>
+    <N_Exhibits>2</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000092284-06-000010.hdr.sgml : 20061120
+<ACCEPTANCE-DATETIME>20061120075253
+ACCESSION NUMBER:		0000092284-06-000010
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20031231
+FILED AS OF DATE:		20061120
+DATE AS OF CHANGE:		20061120
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOUTHERN SCOTTISH INNS INC
+		CENTRAL INDEX KEY:			0000092284
+		STANDARD INDUSTRIAL CLASSIFICATION:	PATENT OWNERS & LESSORS [6794]
+		IRS NUMBER:				720711739
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-07107
+		FILM NUMBER:		061228369
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1726 MONTREAL CIRCLE
+		CITY:			TUCKER
+		STATE:			GA
+		ZIP:			30084
+		BUSINESS PHONE:		7709385966
+
+	MAIL ADDRESS:	
+		STREET 1:		1726 MONTREAL CIRCLE
+		CITY:			TUCKER
+		STATE:			GA
+		ZIP:			30084
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Mi10gc0RpP5LkR1zcg+YJ5DpaaSSwM+TNFBH8BkTaGruLGFNIkGqkWYS/HOOVZi0
+ YKo1RPfiaUhL5+sN5hfPsQ==
+
+ 0000092284-06-000010.txt : 20061120
+
+10-K
+ 1
+ k2003ssi.htm
+ SSI 10K 2003
+
+UNITED STATES 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+
+Annual Report pursuant to section 13 or 15 (d) of 
+ the Securities Exchange Act of 1934 
+ for the fiscal year ended December 31, 2003 
+  
+ Commission File number 0-7107 
+ Southern Scottish Inns, Inc. 
+  
+ A Louisiana Corporation 
+ IRS No.  72-0711739 
+ 1726 Montreal Circle 
+ Tucker, Georgia 30084 
+ (770) 938-5966 
+
+Securities registered pursuant to Section 12 (b) of the Act: 
+  None 
+  
+  Securities registered pursuant to Section 12 (g) of the Act: 
+  Common stock, No Par Value 
+  
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such report(s), and (2) has been subject to such filing requirements for the past 90 days.    Yes [     ]       No [  X  ]         
+ 
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this form 10-K or any amendment to this Form 10-K.     X   
+ 
+ The aggregate market value of the voting stock held by nonaffiliated of the registrant on December 31, 2003 was $712,014.  The aggregate market value shall be computed by reference to the closing price of the stock on the New York Stock Exchange on such date.  For the purposes of this response, executive officers and directors are deemed to be the affiliates of the Registrant and the holding by nonaffiliated was computed as 942,368 shares. 
+
+ The number of shares outstanding of the Registrant's Common Stock as of December 31, 2003, was 2,366,395 shares. 
+
+ Indicate by a check mark whether the registrant is an accelerated filer (as defined in Rule 12B-2 of the Exchange Act). 
+ Yes [     ]       No [  X  ]         
+ 
+  DOCUMENTS INCORPORATED BY REFERENCE 
+  None 
+
+   Definitions:  The "Company", the "Registrant" and the "Fiscal Year" 
+  
+ When used in this Annual Report, the "Company," unless the context indicates otherwise, refers to Southern Scottish Inns, Inc. and its subsidiaries on a consolidated basis.  The "Registrant" refers to Southern Scottish Inns, Inc. as a separate corporate entity without reference to its subsidiaries.  The "Fiscal Year" refers to the year ended December 31, 2003, which is the year for which this Annual Report is filed.  The items, numbers and letters appearing herein correspond with those contained in Form 10-K of the Securities and Exchange Commission, as amended through the date hereof, which specifies the information required to be included in Annual reports on such Form.  In accordance with General Instructions C (2) to Form 10-K, the information contained herein is, unless indicated herein being given as of a specified date or for a specified period, given as of December 31, 2003 and referred to "as of this writing". 
+
+Forward-Looking Statements 
+  
+   Certain statements in this Annual Report that are not historical facts constitute "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. Words such as "believes," "anticipates," "expects," "intends," "estimates," "projects," and other similar expressions, which are predictions of or indicate future events and trends, typically identify forward-looking statements. These forward looking statements that involve risks and uncertainties. Statements contained in this Form l0-K that are not historical facts are forward looking statements that are subject to the safe harbor created by the Private Securities Litigation Reform Act of 1995. The Company's actual results may differ significantly from the results indicated by such forward-looking statements. 
+
+   The Company is subject to a number of risks, including the general risks of investing in real estate, the liquidity of real estate, environmental risks, possible uninsured or under insured losses, fluctuations in property taxes, hotel operating risks, the impact of competition, the difficulty of managing growth, seasonality, the risks inherent in operating a hotel franchise business and hotel management business, and the risks involved in hotel renovation and construction, and the uncertainty of obtaining additional financing or extensions of existing credit facilities as needed. Also see " Liquidity and Capital  Resources  section of " Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations" and "Item 7 A. Quantitative and Qualitative Disclosures About Market Risk. "  
+  
+  Given the risks and uncertainties, you are cautioned not to place undue reliance on the forward-looking statements that may be made in this Annual Report. We disclaim any intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. 
+
+  PART I 
+  
+   Item 1.  Business 
+
+General 
+ 
+ Due to the Company's development and finance division's acquiring and selling properties, the number of properties owned, operated, leased and the number of wrap around mortgages held fluctuates constantly.  Additionally, starting as of January 1, 2003, the Company applied FIN 46 and consolidated for financial reporting purposes the Houma Building Partnership (HBP), of which Registrant owns a fifty (50%) percent interest (See Item 7).  HBP owns and operates the Houma Atrium Building, an office building in Houma, Louisiana. 
+  
+ The following table shows the various different business holdings for the last five years: 
+
+Note 1:   Sundowner Inn  Trademarks, Registration No. 1,280,236 and No. 1,280,237, United States Patent and Trademark office, were registered May 29, 1984.  In 1994, Joe W. Hudgins, the owner of the corporation to which said marks were then registered, transferred ownership of said corporation, Sundowner Reservations, Inc., a Tennessee corporation, to Hospitality International, Inc. in consideration of cancellation of inter-company debt and promise to pay the assigned corporation's debt to Red Carpet Inns International, Inc.  On April 30, 1995, Sundowner Reservations, Inc. transferred title to the subject marks to Hospitality International, Inc.  As of December 31, 1996, Hospitality International, Inc. transferred ownership of the subject marks to Red Carpet Inns International, Inc. for consideration of $360,000.  The Sundowner Inn' mark as found to be impaired in 2002 under a discounted cash flow analysis and was written down $206,000 (See Item 7). 
+
+   Note 2.  One property leased from a third party in 1999 was being operated as a restaurant by the Company's sub-lessee.  The Company's lease expired at the end of 1999 and management decided not to renew the lease. 
+
+Segment Information  
+
+The Company identifies its significant industry segments as set forth in the table below.  All revenue items represent sales to unaffiliated customers, as sales or transfers between industry segments are negligible.  In the past, the Company included in the Financing   Investing Revenues and Operating Income (Loss) 50% of the gain or loss from the Houma Building Partnership as the results of the operation of the Houma Atrium Building.  In 2003, with the application of FIN 46 (See Item 7), HBP is shown on the chart below separately.  In the future, HBP Revenues and Operating Income (Loss) will be incorporated into the Leasing and Lodging segment. 
+
+Segment Information 
+ for the Year Ended Dec 31, 
+
+Description of Business 
+
+    Products and Services 
+
+The Company's franchise division offers advertising, reservation, group sales, quality assurance and consulting services to motel owner/operators. 
+
+ The Company's Financing division offers owner financing to persons acquiring motel properties previously operated and/or owned by the Company. 
+
+ The Company's Leasing   Lodging revenue is derived from the leasing of real and personal properties, i.e. motels, restaurants, the operation of Company owned motels, part of Hospitality International, Inc.'s office building belonging to the Company and Houma Building Partnership's office building. 
+
+Status of Products and Segments 
+
+Each of the Company's industry segments is fully developed with an operational history of several years under Company's direction. 
+
+Raw Materials 
+ 
+  Not Applicable. 
+
+Patents, Trademarks, Licenses, Franchises, and Concessions 
+ 
+ The Company has no patents.  The Company does own the trade names "Master Hosts Inn , "Red Carpet Inn , "Scottish Inn, "Downtowner Inn , "Passport Inn",  Sundowner Inn  and related trademarks, etc. used in operating lodging facilities or reservation services under these names. 
+
+Seasonality 
+
+The Company's financing and leasing businesses by their nature are not subject to seasonal fluctuations except, perhaps, as to mortgagors and lessees' ability to meet payment schedules due to seasonality of their businesses.  The revenues from the Company's franchising division tend to be greater in the spring and summer months during peak travel periods than during slower business months. 
+
+Working Capital 
+
+The Company's financing receipts are comprised primarily of interest which does not become reflected on its balance sheet until after it is earned, whereas its payments on underlying debts are comprised primarily of principal reduction and the portion which will be returned over the next twelve months is reflected on the balance sheet as a current liability.  Because of this, the Company believes a current ratio of less than one to one is appropriate for its business.  However, the Company continues to attempt to, among other things, (1) reduce and contain overhead costs, (2) seek to dispose of under-productive assets, and (3) seek the most advantageous financing terms available. 
+
+  From 1995 to 2003, in particular, the Company aggressively pursued its legal rights to its trademarks.  Largely, it has been successful in stopping motel operations from illegally using its trademarks as well as in enforcing compliance to its franchisee agreements.  Settlements were reached on a number of lawsuits in most years that significantly increased the revenues of the Company.  Attorney fees related to those settlements also increased in those same years. 
+
+Customers 
+
+The Company's business of franchising motels is contingent upon its being able to locate qualified property owner-operators who are seeking national affiliation.  Through use of its franchise sales force, the Company has not experienced insurmountable difficulty in locating independent motel owner-operators or owner-operators seeking to change national affiliation nor does it anticipate any such difficulty in the future.  However, more franchisors are offering multi-level brands, resulting in more downscaling conversions into the economy lodging sector and, therefore, providing more competition.  Likewise, the Company's financing division requires that it locate qualified owner-operators or investors for its properties.  Because of its franchise affiliations the financing division has not experienced, nor does it anticipate experiencing too much difficulty in locating qualified investors to purchase its developed properties.  However, due to the Company's desire to limit the loans it holds to a manageable
+ number and because third party or institutional financings for used motel properties are difficult to arrange, once a property is sold the Company carries the entire financing package and accordingly, each individual loan represents a larger portion of portfolio than it does with traditional lending institutions.  Therefore, the continued performance of each existing loan may be material to the operation of the financing division. 
+
+Backlogs 
+  
+    Not Applicable. 
+
+Government Contracts 
+
+The Company is not involved in, nor does it anticipate becoming involved in, any government contracts. 
+
+Competition 
+
+The Company's franchising, leased lodging and leased food service divisions each compete with other similar businesses, many of which are larger and have more national recognition than the Company.  Each of these divisions competes on the basis of service and price/value relationship. 
+
+ The Company's financing division competes with other, more traditional sources of long-term financing, most of which have greater financial resources than does the Company. 
+
+ Developing and financing lodging properties is being significantly affected by over-development in many areas and is somewhat adversely affected by the area's and the country's general economic downturn.  
+
+Research and Development 
+
+No significant research activities were conducted by the Company during the Fiscal year and the Company does not expect to expend sums on research activities during the next Fiscal Year. 
+
+Environmental Protection 
+
+The Company is not directly affected by environmental protection measures of federal, state or local authorities to any extent which would reasonably be expected to cause material capital expenditures for compliance, so far as in known.  However, it is possible that an approximately five and three-tenths (5.09) acre tract of land held as an investment and acquired as a possible motel site, located on I-10 in Ocean Springs, Mississippi, may under the new guidelines, be determined to be in part "wetlands."  If so, its use and value would be adversely affected.  On January 27, 1995, 3.2 acres contiguous to said tract were sold at a consideration undiminished by the wetlands issue; the value of the remaining 5.09 acres, therefore, may not be diminished.  The 5.09 acre tract is carried on the Company's books at $55,647. 
+
+ In late 2003, an environmental matter allegedly existing in an office building in South Louisiana resulted in the filing of an action for damages by some employees of some tenants of the building.  The Registrant owns a one-half interest in building's partnership entity (see Litigation herein). 
+
+Employees 
+
+Note 3:  These are employees of the Management Co. that is a wholly owned subsidiary of Registrant, except for two (2), which are employees of Houma Building Partnership's Atrium Building, an office building in Houma, Louisiana. 
+
+Foreign Operations 
+
+The Company is not currently involved in any business operations outside of the United States of America, except through its franchising division, which does do limited business in Canada and has one franchise in the Bahamas. 
+
+Item 2.  Properties 
+
+Properties Secured by Financing Instruments 
+
+  The following table sets forth certain information, as of this writing, concerning properties on which the Company holds notes secured by mortgages and other types of financing instruments held by the Company: 
+
+Hotel Properties Owned and Leased 
+  
+  The following table sets forth certain information, as of this writing, concerning hotel properties owned by the Company and under management contract or leased to Operators. 
+
+The following table sets forth certain 2003 information for each of the Company's owned and leased hotels: 
+
+Note 4:  For 2003, Southern Properties Management, Inc., formed by the Registrant on January 1, 2002, operated the Houma, Louisiana property for the entire year, the Columbus, Mississippi property after its May, 2003 acquisition date and the Greenville, North Carolina property after its acquisition in October, 2003.  In 2003, the Registrant's other properties were each leased to different operators; Registrant is not privy to said Lessees' financial and occupancy data. 
+
+Other Owned Properties 
+
+The following table sets forth certain information, as of this writing, concerning other properties owned by the Company.  
+
+Location   
+ 
+   Description   
+
+Mortgage Balance   
+
+Abbeville, Louisiana  
+ 
+  19 Unit motel, not yet operational  
+ 
+  $  
+ 
+  10,000  
+
+Atlanta, GA  
+ 
+  Warehouse, on two parcels of land. (1.2 Acres), 22,220 square feet, heated   air-conditioned, including 1,300 square feet of showroom/office. 
+ This property is leased out for $4,373.  
+
+135,502  
+
+Gulfport, MS  
+ 
+  Unimproved Land (4) lots in city of Gulfport  
+
+0  
+
+Houma, LA  
+ 
+  An office building containing approximately 60,000 square feet of rentable office spaces.  Registrant owns one-half (1/2) interest in the partnership which owns this building.  Registrant corporately guaranteed the entire refinancing loan of $2,500,000 on loan closed 2-27-03.  Therefore, the total of the outstanding note is consolidated for reporting purposes with the application of FIN 46. 
+  
+ On 2-27-03, when the Partnership refinanced with Regions Bank, the loan previously held by South Louisiana Bank (SLB). The amount due was approximately $2,850,000; the refinancing loan, at a lower interest rate and for a longer period, was for $2,500,000.  SLB held mortgages on the Atrium Building and on the Red Carpet Inn in Houma.  SLB agreed to release its lien on the Atrium Building and to cast a new note of $340,200 executed by the Houma Building Partnership and collateralized by a mortgage on the Red Carpet Inn.  Previously, and originally, the loan at SLB was for approximately $3,250,000 and both pieces of collateral were mortgaged for said amount.  The Partnership had serviced the debt to SLB and presently services the debt on the smaller Red Carpet Inn note; the Company has not had to pay any on either of said notes.  Houmas Hospitality (HHC) acted as a gratuitous collateralizer in these instances with SLB and not as a Maker; HHC is a wholly owned subsidiary of Registrant.  This $320,208.54 was n
+ot and is not a debt of HHC but the amount thereof does constitute a lien.  
+
+2,421,617 
+
+320,209  
+
+Jackson County, MS  
+ 
+  Two parcels of land, unimproved, held for investment  
+
+0  
+
+Pass Christian, MS  
+ 
+  Partially improved water-front property  
+
+48,505  
+
+Register, GA  
+ 
+  Partial interest in land  
+
+0  
+
+Register, GA  
+ 
+  Partial interest in 66.34 acre tract of land  
+
+118,364  
+
+Tucker, GA  
+ 
+  Office Building and Company headquarters  
+ 
+  $  
+ 
+  0  
+
+Item 3.  Legal Proceedings 
+ 
+ The Company is named as a defendant for damages in an unspecified amount, reasonable attorney fees, interest and costs as a result of the Company's alleged violation of a patent.  The Company filed a motion for summary judgment in 1994 and the Company's motion was granted on March 3, 2004.  However, the time for the plaintiff to appeal that grant of summary judgment has not yet expired and it is unknown whether the plaintiff will appeal.  It is counsel's opinion that the summary judgment granted in favor of the Company would be affirmed on appeal. 
+  
+ In 2001, Registrant's management made preliminary inspections of a closed motel property in Muddy, Illinois, and began negotiations with a real estate broker and with lender/owner.  The senior management of an independent motel management company, which at that time operated all of Registrant's subsidiaries' motels, entered upon the property for further inspections, began some clean up work and installed a Great Sign identifying the property with a trademark belonging to Registrant's affiliate, all before a  Contract To Buy and Sell  was signed.  Seller or Seller's Broker had prepared and afforded a Contract for approval.  Some negotiations concerning the same were had.  For various reasons, Registrant's management decided not to further pursue acquisition and notified the management company to quit the premises.  Subsequently, suit was filed by owner and owner's broker against Registrant for a sum in excess of $100,000 plus costs of suit.  No contract was ever signed.  The prope
+rty was subsequently sold to an unrelated party.  All parties have counsel and the matter is proceeding toward trial. 
+  
+ In 2003, suit was filed by or on behalf of three (3) persons, two of whom were employees of a tenant of the Atrium Building, an office building in Houma, Louisiana, against two nominal defendants and the Houma Building Partnership, a Louisiana General Partnership, in which Registrant is a 50% interest holder, Bobby E. Guimbellot, Registrant's CEO, is a 25% interest holder and Yvonne Zodum (formerly Guimbellot) is a 25% interest holder.  The suit is for unspecified damages and for recognition as a class action matter.  Damage allegations are for excessive illnesses, including but not limited to sinus and allergy problems, debilitating headaches, skin irritations, watery eyes and fatigue caused by presence of fungal substances, such as mold, mold spores and the by-products of same, the presence of which Plaintiffs attribute to water intrusion and high humidity; and Plaintiffs claim Defendants were operating a dangerous building and with their failing to warn of dangerous conditions and defec
+ts.  Partnership's carrier is providing defense.  As of December 31, 2003, no decision has been made as to class action status; therefore, Registrant's management has no present opinion as to the adequacy of or inadequacy of the insurance coverage.  Registrant views this action as a potentially significant matter. 
+
+Item 4.   Submission of Matters to a Vote of Security Holders 
+  
+   Not Applicable 
+  
+  PART II 
+  
+ Item 5.  Market for Registrant's Common Equity Securities and Related Matters 
+ 
+   Common Stock 
+
+The common stock, no par value, of the Registrant is traded on the Over-the-Counter market.  The following table sets forth the range of per share bid and asked price quotations during the periods indicated.  The following represents quotations between dealers, and do not include retail mark-ups, markdowns, or other fees or commissions, and do not represent actual transactions. 
+
+Number of Shareholders 
+
+   As of this writing, there are approximately 760 shareholders of the Registrant's common stock, plus those held in brokerage houses. 
+
+Cash dividends 
+
+No cash dividends have been paid on the Company's common stock during the two most recent Fiscal Years and none are anticipated to be paid in the foreseeable future. 
+
+  Item 6.  Selected Financial Data 
+
+  The following table summarizes selected financial data of the Company for the past five Fiscal Years.  It should be read in conjunction with the more detailed consolidated financial statements of the Company appearing elsewhere in this Annual report.  Since the Company has applied FIN 46 to HBP in 2003 and consolidated it for financial reporting purposes, HBP is stated separately on this chart. 
+
+Item 7.  Management's Discussion and Analysis of Financial Conditions and Results of Operations 
+ 
+   Results of Operation 
+
+The Company's operations are comprised of three main components:  Franchising, financing and investments, and leasing and lodging.  The following discussion presents an analysis of results of operations of the Company for the years ended December 31, 2003, 2002, and 2001. 
+
+Franchising 
+
+Franchising revenues in 2003 increased 4.7% over 2002.  In 2002, franchising revenues were flat compared to 2001.  In 2001, franchising revenues increased slightly from 2000.  These slow increases are due to increased competition from other franchisors offering multi-level brands, resulting in more down-scaling conversions into the economy lodging sector.  The Company has become more stringent in its requirements relating to franchises in the areas of quality assurance.  A major source of revenue for the franchising area is legal settlements.  The Company vigorously asserts its legal rights in the area of franchise infringements and violations of the franchise agreements.  Gross revenues generated in this area were $93,449 in 2003, $197,726 in 2002 (reclassified from $258,050) and $388,294 in 2001. 
+
+The franchising division on August 11, 2003 paid off the acquisition loan on its office building in Tucker, Georgia. 
+
+One trademarks' value was decreased in 2002.  The Company wrote down the mark that cost $360,000 and had an accumulated amortization of $54,000 by $206,000 to a value of $100,000.  Hospitality International, Inc., the mark owner's licensee for franchise sales and service functions, will attempt through renewed sales efforts to prevent further deterioration of this mark's value. 
+
+Financing and Investments 
+
+Financing revenues continue to drop because the interest amount on the notes receivable is declining as the notes move toward maturity, coupled with two notes paying off in 2003. 
+  
+ In 2002, the note receivable, which Registrant held on the Bald Knob Arkansas motel, through the mortgagor's refinancing, paid off.  In 2003, the notes receivable on the Natchez Mississippi and on the Lane Avenue, Jacksonville, Florida properties were paid off, through a refinancing by the Natchez mortgagor and a sale by mortgagor and a tax-free exchange by mortgagor's buyer on the Jacksonville property. 
+  
+ On January 8, 2002, a note and second mortgage which Registrant held on a motel at Register, Georgia, on which the 2002 audited balance of $202,090.46 was owed, was written off as a result of a foreclosure on the property by the first mortgage holder. 
+  
+ Also, on September 3, 2002, Registrant foreclosed on a warehouse building in Gulfport, Mississippi, on which it held a first mortgage, resulting in an increase in fixed assets of $178,693.00. 
+  
+ The Company's subsidiary, Red Carpet Inns International, Inc. holds a note and mortgage receivable on a motel property.  This note is non-performing.  In addition to the motel property, Holder also has a first mortgage on an approximately eleven acre commercial tract and a second mortgage on a rural thirty-eight acre tract.  In 2003 it was necessary to pay one year's delinquent taxes to prevent a tax sale, which would otherwise have occurred. Additional collateral of two second mortgages on two different houses and the conveyance of a vacant residential lot was obtained.  It is believed, between the mortgage on the motel, the conveyed lot and the other mortgages; that the Holder is adequately secured. 
+  
+ In the past several years, in an effort to expand the scope of our presence and offerings in the hospitality entertainment industry, the Company has made investments in and non-reoccurring loans to entities engaged in  cruises to nowhere  gambling ventures.  While the investments have not yielded a cash return, it is probable that all or a significant part of the investments are adequately secured and collectable.  Most of the loans have been deemed to be un-collectible and those were written off in 2002; the total of these loans constituted a sizable sum to write off in 2002 but their being deemed un-collectible left no choice.  Registrant has no intentions of making loans for such purpose again.  In 2003 Registrant marginally increased its percentage of ownership in the gaming vessel, which is not a working entity at this time. 
+
+Leasing and Lodging 
+
+Leasing revenue rose significantly in 2003 after a modest increase in 2002 due to the restructuring of the lease agreements.  In 2001, leasing revenues dropped dramatically because no accruals were made for rent income due from the lessee because of the pending termination of the leases and the lack of probability of collection.  The Company was more aggressive in collecting lease income in the first half of 2002 and as of July 1, 2002, executed new and more profitable leases with new lessees.  Also in 2003, the Company's management added an allowance account based on a percentage of outstanding lease accounts.  The allowance account for doubtful accounts at the end of 2003 was $23,808.  Our present and future lease income, as well as sales prices, are limited due to the ages of most of the properties, the presence of new motels near to all of our properties and our failure to refurnish and upgrade. 
+
+ In January 2003 and amended in December 2003, the Financial Accounting Standards Board (FASB) issued interpretation No. 46 (FIN 46) which clarifies the application of Accounting Research Bulletin No 51,  Consolidated Financial Statements .  FIN 46 specifically addresses the consolidation of Variable Interest Entities (VIE's).  The Company determined that the Houma Building Partnership (HBP) has one or both of the characteristics of a VIE.  FIN 46 required that, upon consolidation, the Company initially measure the VIE's assets, liabilities and minority interest at their carrying amounts under existing GAAP as if the entity had been consolidated from the time the Company was considered its primary beneficiary.  Any difference between the net amount added to the balance sheet of the consolidating enterprise and the amount of any previously recognized interest in the newly consolidated entity should be recognized as the cumulative effect of an accounting change.  The consolidation a
+s of January 1, 2003 of Houma Building Partnership resulted in an addition of non-cash loss of $540,767 recorded as the accumulated effect of an accounting change. 
+
+Liquidity: 
+
+Management believes that our current sources of capital including cash on hand, operating cash flow, and expected proceeds from sales of assets, were adequate to finance our operating and commitments through 2003. The question of liquidity should not be an issue in the near future.  In 2003 and 2002, the non-affiliated entity formerly leasing properties from the Company was in arrears in its past lease payments; collection was doubtful.   In mid 2002, the Company cancelled the old leases, resulting in the assumption of some of said lessee's obligations, the transfer of certain of lessee's assets to Registrant, acknowledgment of the credit to lessee's payables account to Registrant and writing off the sizable and remaining balance of this receivable.  If cash requirements become an issue, any of the notes could be sold at a discount or some free and clear properties could be hypothecated.  We do not believe these measures will be required. 
+  
+  Capital Resources 
+
+Expenditures 
+
+No material commitments for capital expenditures are planned for 2004 other than possible purchases of properties through the financing division.  One 100-room motel in Columbus, Mississippi was purchased in May of 2003 with bank financing and a 140-room motel in Greenville, North Carolina was purchased in October of 2003 largely as an assumption of existing debt.  In January of 2003, a 19 unit partially destroyed motel was acquired for $53,000 near Abbeville, Louisiana.  It cost approximately $125,000 to renovate in 2004.  Also, in 2003 a commitment was made to purchase 214,913 shares of Registrant's stock from a holder over about a three year scheduled period; said stock will be held as Treasury Stock.  In July of 2004, the Company liquidated this stock purchase obligation. 
+  
+ As discussed in the Notes to Consolidated Financial Statements included in Item 8 of this Form 10-K, the Company has certain contractual obligations and other commitments consisting of the following:   
+
+Trends 
+
+The trend in capital resources had resulted in a gradual tightening of credit with regard to new motel construction and continues tighter with regard to older properties, but now seems to have loosened somewhat as to new construction.  This has forced more sellers of older properties into the seller-financed arena creating more competition for the Company in its Finance and Development Division.  This fact, coupled with somewhat less available loan money on the new property construction side, has meant less profitable opportunities for the Company.  Although the economy for the past two years has not been good, fewer foreclosures have resulted than in recent prior periods of economic downturns and therefore there are not a lot of bank REO properties available.  Individual sellers are asking multiples of sales of pre-downturn years rather than of more current years. These events and tendencies shorten the supply of motel inventory while increasing the cost of acquiring the same.  
+
+D.  Subsequent Events 
+
+On October 15, 2004, Registrant sold one dry lot and 10 contiguous wetland lots located on Portage Bayou at Pass Christian, Mississippi, for $275,000. 
+  
+ On July 30, 2004, Registrant liquidated the promissory note given for the purchase of 214,913 shares of its stock and is holding as treasury stock. 
+  
+ On September 8, 2004, the Company accepted a Deed in Lieu of Foreclosure from the defaulted Mortgagors of the motel property at 747 Arlington Road, Jacksonville, Florida.  The Company immediately applied for a $100,000 loan for a five-year term and will use some of the proceeds to pay the delinquent ad valorem taxes for 2003. 
+  
+ Realizing that both Bobby E. Guimbellot, Registrant's CEO and Jack M. Dubard, Registrant's President, have reached the age where they are experiencing health problems and realizing that the Company is thin on experienced senior level management, Management and the Board of Directors made a preliminary determination at a Meeting of the Board held on May 15, 2004 to sell Registrant's interest in Hospitality International, Inc. Registrant's partially owned franchising subsidiary.  Later, through several telephonic Board Meetings, the Company's Board of Directors authorized the sale of the  Scottish Inn  Trademark to Hospitality International, Inc. on July 1, 2004 for the sum of $500,000, with a down payment of $50,000 and Buyer's corporate promissory note for $450,000 at five percent (5%) interest over a period of twenty-five (25) years.  The Board also authorized Registrant's sale of its one-half stock interest in Hospitality International, Inc. to Red Carpet Inns International, In
+c., the owner of the other one-half interest, for the sum of $800,000 with a down payment of $80,000 and twenty-five year promissory note at five percent (5%) interest for $720,000 on July 1, 2004.  Furthermore, the Board authorized the sale of the Red Carpet Inns International, Inc. stock held by Registrant, being 5,629,637 shares of Red Carpet's common stock, which was slightly less than seventy-five percent (75%) of the outstanding common stock, and 265,950 shares of Red Carpet's preferred stock held by Registrant, being slightly more an eighty-five percent (85%) of the outstanding preferred stock for $1,359,846 to Tim David Blalock, an attorney from Natchez, Mississippi, with $135,985 down and a twenty-five year promissory note at five percent (5%) interest for $1,223,861. 
+
+Item 8.  Financial Statements and Supplemental Data 
+
+The financial statements and financial statement schedules filed as part of the Annual report are listed in Part IV, Item 15 below. 
+
+Item 9.  Disagreements of Accounting and Financial Disclosures 
+
+   None 
+
+  Item 9A.  Controls   Procedures 
+ 
+   Evaluation of Disclosure 
+
+As required by Rule 13a-15 under the Securities Exchange Act of 1934 (the "Exchange Act"), as of December 31, 2003, we carried out an evaluation under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures. In designing and evaluating our disclosure controls and procedures, we and our management recognize that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. Based upon the required evaluation, the Chief Executive Officer and Chief Financial Officer believe that, as of the date of completion of the evaluation, our disclosure controls and procedures were reasonably effective to ensure that information required to be disclosed by us in the reports we file or submit under the Exchange Act is recorded, processed, summarized and r
+eported, within the time periods specified in the Securities and Exchange Commission's rules and forms. In connection with the rules, we are continuing the process of reviewing and documenting our disclosure controls and procedures, including our internal controls and procedures for financial reporting, and may from time to time make changes aimed at enhancing their effectiveness and to ensure that our systems evolve with our business. 
+
+Changes in Internal Controls 
+
+There has been no change in our internal controls over financial reporting during our most recent fiscal year that has been materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+  Code of Ethics 
+ 
+ The Board of Directors and management have relied on the oversight and control inherent in the function and purpose of the Board of Directors to ensure the Company's officers, directors and employees maintain an ethical business standard.  The Board of Directors will adopt a formal written code of ethics in 2004. 
+
+Part III 
+ 
+  Item 10.  Directors and Executive Officers of the Registrant 
+
+The Board of Directors of the Company held two regularly scheduled meetings and six telephonic meetings in 2003. 
+
+Director Harry C. McIntire resigned in July of 2004, after 27 years as a Director and 9 years as Chairman, due to poor and failing health.  
+  
+ The term of office for all directors expires at the close of the next annual meeting of shareholders.  Officers serve at the pleasure of the Board of Directors. 
+
+The Following persons are the directors and the executive officers of the Registrant. 
+
+Bobby E. Guimbellot  has been CEO of the Registrant since January of 1976 and served as President of the Registrant from January of 1976 through 1994.  Mr. Guimbellot is also the principal shareholder and Chairman of the Board of Western Wireline Services, Inc. ("Western Wireline"), an oil well service company headquartered in Belle Chasse, Louisiana.  Mr. Guimbellot has been Chairman of Red Carpet Inns, International, Inc. a subsidiary of the registrant, since 1982, and has been President of Red Carpet since January 1, 1992.  Since 1995, Mr. Guimbellot has also served as CEO of Hospitality International, the Company's franchising subsidiary. 
+  
+  Jack M. Dubard  since 1994 has been the Registrant's President, after having served as the Vice President for several years, and was previously an independent consultant to the Registrant and its affiliates.  Prior to that, he held an administrative position with Red Carpet Inns International, Inc.  In 1994 - 1995, Mr. Dubard served as CEO of Hospitality International, Inc., the Company's franchising subsidiary. 
+  
+  C. Guy Lowe, Jr.  is a self-employed real estate developer and also provides office building management services.  He has been so engaged for more than 12 years. 
+  
+  Harry C. McIntire  is a retired senior captain (pilot) with Delta Air Lines, Inc. and was a captain for more than 25 years prior to his retirement.  He has served as Vice Chairman of registrant's Board of Directors and as a Vice President since 1976.  Upon Dr. Hotho's resignation in 1993, Captain McIntire was elected as Chairman of the Registrant's Board. 
+  
+  Gretchen W. Nini  was a Director, Corporate Secretary, and treasurer of Western Wireline Services, Inc., an oil well service company headquartered in Bell Chasse, Louisiana, a position she held for more than 9 years (See Bobby E. Guimbellot, supra). 
+   
+ George O. Swindell  formerly owned Diamond Realty Construction, Gretna Louisiana; he has been a real estate broker since 1970 and was a general contractor for over 17 years. 
+  
+  Richard A. Johnson  has had prior experience in construction, manufacturing, health care, agriculture, recreational facilities, apartments and real estate.  Since June of 1992, Mr. Johnson served as Franchise Development Coordinator for Hospitality International, Inc., a subsidiary of the Registrant.  He resigned in July of 1995 from his employment with Hospitality International, Inc. 
+  
+  Melanie Campbell   Hanemann  is the current Corporate Secretary and Treasurer of Western Wireline Services, Inc.  She has been with this company for more than nine years and during that time has held the position of Office Administrator for Western.  (See Bobby E. Guimbellot, supra). 
+  
+  Melinda P. Hotho  - Dr. Vincent W. Hotho, after being a Director of the Registrant for over twenty-two (22) years, the last eighteen (18) of which he served with distinction as Chairman, due to some imprudent personal investments and a potentially ruinous malpractice suit went through a Chapter 7 Bankruptcy proceeding.  He felt it to be in the best interest of the Registrant and of the Company that he resign as Director and Chairman.  The Board of Directors, pending action of the Stockholders, selected Melinda P. Hotho, his daughter, to serve on an interim basis. 
+  
+  John L. Snyder, Jr.  is recently retired from his position as manager of engineering at Mid-America Transportation Company.  Mr. Snyder had more than thirty years experience in marine operations.  He previously held administrative or managerial positions with Wisconsin Barge Line, Walker Boat Yard and Mid-South Towing Company. 
+  
+  Anil N. Patel  is a motel owner and operator.  He owns a Sleep Inn, a Days Inn, a Best Western and leases a Scottish Inn.  He previously held partial ownership of four (4) properties franchised with the Company.  
+
+Committees of the Board of Directors 
+
+The Board of Directors of the Registrant appointed as the audit committee, Joe Fountain, an independent, non-Director who is an accountant and an Enrolled Agent, Bobby E. Guimbellot and Melanie Campbell Hanemann.  The Committee met to pre-approve all audit and non-audit services provided by R.J. Clark   Associates, P.C. for the year 2003 and 2004.  The Audit Committee reviews the scope and results of the audit effort. 
+
+Item 11.  Executive Compensation 
+
+For services rendered in all capacities to the Company and its subsidiaries during the Fiscal Year ended December 31, 2003, the Company paid aggregate cash compensation in the amount of $ 97,500 to Mr. Guimbellot, the Registrant's. Chief Executive Officer.  In 2003, the Company paid aggregate cash compensation in the amount of $ 77,476, to Mr. Dubard, who for said period was Registrant's president.  In 2003, the Company paid aggregate cash compensation in the amount of $ 55,00, to Mr. Ingram, who for said period was Registrant's vice president.  The Company provides Messrs. Guimbellot and Dubard with automobiles and does not require them to account for the personal use, if any, of the automobiles.  The personal uses are not included in the compensations reported above.  However, the Company estimates that the amount, which cannot be specifically or precisely ascertained, does not exceed 10% of the aggregate compensation, paid and unpaid, reported above. 
+
+The following table sets for the compensation paid by the Company to the Company's Executive Officers during 2003, 2002 and 2001.  No executive officer of the Company was paid more than $100,000 during fiscal year 2003. 
+
+SUMMARY COMPENSATION TABLE 
+
+Item 12       Security Ownership of Certain Beneficial Owners and Management 
+ 
+   Principal Holders 
+
+The following table sets forth, as of this writing, information with respect to each person who, to the knowledge of the Registrant, might be deemed to own beneficially 5% or more of the outstanding Southern Scottish Inns, Inc. common stock, which is the only class of voting securities of the Registrant.  Except, as otherwise indicated, the named beneficial owners possess sole voting power and sole investment power with respect to the shares set forth opposite their respective names. 
+
+Note 5 : Based on 2,366,395 shares outstanding. 
+
+Note 6:  Includes 470,750 shares owned by Bobby Guimbellot d/b/a Coastal Companies, and 35,238 owned by Industrial Funds, an entity of Western Wireline Services, Inc.  Mr. Guimbellot's shares also include 17,713 and 1,664 shares owned by Lift Boats, Inc. and Tri Delta Dredge, Inc., respectively and 361,405 shares owned by Shelly Plantation.  Ms. Campbell shares voting rights as to Industrial Funds shares with Mr. Guimbellot. Mr. Snyder shares voting rights as to Shelly Plantation with Mr. Guimbellot. 
+
+   Note 7 : Voting and investment power on 113,331 shares are shared with his wife. 
+
+   Management Ownership 
+
+The following table sets forth, as of this writing, information concerning the ownership of Southern Scottish Inns, Inc. common stock by all directors and by all directors and officers as a group.  Southern Scottish Inns, Inc. common stock is the only class of equity securities of the registrant.  Except as otherwise indicated, the named beneficial owners possess sole voting power and sole investment power with respect to the shares set forth opposite their respective names. 
+
+Note 8:  Based on 2,366,395 shares outstanding. 
+    
+   Note 9:  Includes 513 shares in the name of his wife. 
+
+Note 10:  Includes 470,750 shares owned by Bobby Guimbellot d/b/a Coastal Companies, and 35,238 owned by Industrial Funds, an entity of Western Wireline Services, Inc.  Mr. Guimbellot's shares also include 17,713 and 1,664 shares owned by Lift Boats, Inc. and Tri Delta Dredge, Inc., respectively and 361,405 shares owned by Shelly Plantation.  Melanie Campbell, the Secretary of Western Wireline Services, Inc., shares voting and investment powers with respect to the 35,238 shares owned by Industrial Funds.  John L. Snyder Jr. shares voting and investment powers with respect to the 361,405 shares owns by Shelly Plantation  
+  
+   Note 11 : Voting and investment powers on 113,331 shares are shared with his wife. 
+
+Note 12 : Includes 639 shares in the name of her minor child. 
+
+  Item 13.  Certain Relationships and Related Transactions 
+
+Concerning the third unnumbered paragraph of Section P - Related Party Transaction of the Consolidated Financial Statements, Years Ended December 31, 2003, 2002 and 2001, Management asserts that it believed and continues to believe that the subject motel property purchased in 2000 from a corporation in which the CEO is a 50% owner is worth more than the total of the consideration paid and of the debt forgiven.   The property is presently leased for four hundred ($400.00) dollars per day, with ad valorem taxes and liability insurance premiums paid by Lessee.  
+
+PART IV  
+
+SOUTHERN SCOTTISH INNS, INC. 
+ CONSOLIDATED FINANCIAL STATEMENTS 
+ YEARS ENDED DECEMBER 31, 2003, 2002 AND 2001 
+   
+  TABLE OF CONTENTS 
+
+PAGE NO. 
+
+INDEPENDENT AUDITOR'S REPORT           2 
+
+ FINANCIAL STATEMENTS  
+
+CONSOLIDATED BALANCE SHEETS      3-6 
+
+ CONSOLIDATED STATEMENTS OF INCOME       7-8 
+
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY        9 
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS  10-12 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   13-34 
+
+Board of Directors 
+ Southern Scottish Inns, Inc. 
+
+INDEPENDENT AUDITOR'S REPORT 
+  
+  We have audited the accompanying consolidated balance sheets of Southern Scottish Inns, Inc. and subsidiaries as of December 31, 2003 and 2002, and the related consolidated statements of income, stockholders' equity and cash flows for each of the three years in the period ended December 31, 2003.  These financial statements are the responsibility of the Company's management.  Our responsibility is to express an opinion on these financial statements based on our audits. 
+  
+ We conducted our audits in accordance with auditing standards generally accepted in the United States of America.  Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial statements are free of material misstatement.  An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation.  We believe that our audits provide reasonable basis for our opinion. 
+  
+ In our opinion, the financial statements referred to above present fairly, in all material respects, the consolidated financial position of Southern Scottish Inns, Inc. and subsidiaries as of December 31, 2003 and 2002, and the consolidated results of their operations and their cash flows for each of the three years in the periods ended December 31, 2003, in conformity with accounting principles generally accepted in the United States of America. 
+
+ As discussed in Notes B1 and J to the Consolidated Financial Statements, the Company in 2003 changed its method of accounting for variable interest entities.  As discussed in Note J to the Consolidated Financial Statements, the Company in 2002 changed its method of accounting for intangible assets. 
+
+R J CLARK AND ASSOCIATES, PC 
+  Certified Public Accountants 
+ Roswell, Georgia 
+ August 31, 2004 
+  
+  SOUTHERN SCOTTISH INNS, INC. 
+ CONSOLIDATED BALANCE SHEETS 
+ DECEMBER 31, 2003 AND 2002 
+   
+  ASSETS  
+
+SOUTHERN SCOTTISH INNS, INC. 
+ CONSOLIDATED BALANCE SHEETS (Continued) 
+ DECEMBER 31, 2003 AND 2002 
+   
+  ASSETS (Continued) 
+
+SOUTHERN SCOTTISH INNS, INC. 
+ CONSOLIDATED BALANCE SHEETS (Continued) 
+ DECEMBER 31, 2003 AND 2002 
+
+LIABILITIES AND STOCKHOLDERS' EQUITY 
+
+SOUTHERN SCOTTISH INNS, INC. 
+ CONSOLIDATED BALANCE SHEETS (Continued) 
+ DECEMBER 31, 2003 AND 2002 
+
+LIABILITIES AND STOCKHOLDERS' EQUITY (Continued) 
+
+SOUTHERN SCOTTISH INNS, INC. 
+ CONSOLIDATED STATEMENTS OF INCOME 
+ YEARS ENDED DECEMBER 31, 2003, 2002 AND 2001 
+
+SOUTHERN SCOTTISH INNS, INC. 
+ CONSOLIDATED STATEMENTS OF INCOME (Continued) 
+ YEARS ENDED DECEMBER 31, 2003, 2002 AND 2001 
+
+SOUTHERN SCOTTISH INNS, INC. 
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY 
+ YEARS ENDED DECEMBER 31, 2003, 2002 AND 2001 
+
+SOUTHERN SCOTTISH INNS, INC. 
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ YEARS ENDED DECEMBER 31, 2003, 2002 AND 2001 
+
+SOUTHERN SCOTTISH INNS, INC. 
+ CONSOLIDATED STATEMENTS OF CASH FLOWS (Continued) 
+ YEARS ENDED DECEMBER 31, 2003, 2002 AND 2001 
+
+SOUTHERN SCOTTISH INNS, INC. 
+ CONSOLIDATED STATEMENTS OF CASH FLOWS (Continued) 
+ YEARS ENDED DECEMBER 31, 2003, 2002 AND 2001 
+
+SOUTHERN SCOTTISH INNS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ YEARS ENDED DECEMBER 31, 2003, 2002 AND 2001 
+
+ NOTE 
+
+  A - HISTORY 
+   
+ The Company was incorporated on November 8, 1971, under the laws of the State of Louisiana. 
+
+  The Company has consolidated the operations of two corporations, Red Carpet Inns International, Inc. and Hospitality International, Inc. The Company owns a 50 percent interest in Hospitality International, Inc. and Red Carpet Inns International, Inc. owns the other 50 percent; therefore, all of its operations are included in these financial statements and it is noted as the franchising division.  The Company owns 74.9 percent of Red Carpet Inns International, Inc.  
+ 
+ The Company's financing and investing division provides owner financing to persons acquiring motel properties previously operated and/or owned by the Company.  The Company seeks to acquire available properties for development and/or future sale.  The Company also invests in companies whose business operations include property development.  These activities primarily occur in the Southeast. 
+
+ The Company's franchise division offers advertising, reservation, group sales, quality assurance and consulting services to motel owner/operators.  It is the exclusive franchiser for Red Carpet Inn, Master Host Inn, Scottish Inn, Downtowner Inn, Passport Inn and Sundowner Inn trade names.  Its market has historically been the contiguous United States; however, in 1994 the Company began to explore international markets.  As of December 31, 2003 the Company had one franchise in the Bahamas and two in Canada. The Company also provides a nationwide central reservation service for its franchisees. This service was provided in-house until the end of 2001. In 2002, the Company engaged an outside service. 
+
+  B - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+ B1 - CONSOLIDATION AND BASIS OF PRESENTATION 
+   
+  The consolidated financial statements include the accounts of the Company and all subsidiaries except where control is temporary or does not rest with the Company.  Additionally, starting as of January 1, 2003, the Company applied FIN 46 and consolidated for financial reporting purposes the Houma Building Partnership (HBP) of which the Company owns a fifty (50%) percent interest (See Accounting Pronouncements).  The Company's investments in companies in which it has the ability to exercise significant influence over operating and financial policies are accounted for by the equity method.  Accordingly, the Company's share of the net earnings of these companies is included in consolidated net income.  The Company's investments in other companies are carried at cost or fair value, as appropriate.  All significant inter-company accounts and transactions are eliminated.  
+   
+ Certain amounts in the prior year's financial statements have been reclassified to conform to the current year presentation.  These reclassifications had no effect on previously reported net income or total equity. 
+
+  B2 - ESTIMATES IN FINANCIAL STATEMENTS 
+
+  The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes. Although these estimates are based on management's knowledge of current events and actions the Company may undertake in the future, they may ultimately differ from actual results. 
+   
+ B - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+
+ B3 - REVENUE AND EXPENSE RECOGNITION 
+ 
+  I.  Accrual Basis 
+  The accrual basis of accounting is used for both book and tax records.  Revenue is recognized when it is earned.  Expenses are recognized when incurred. 
+   
+ II. Franchise Fees 
+  Revenue from franchise sales is recognized when all material conditions of the sale have been substantially performed.  Substantial performance by the franchiser occurs when: 1) the franchiser is not obligated in any way to excuse payment of any unpaid notes or to refund any cash already received, 2) initial services required by the franchiser by contract or otherwise have been substantially performed, and 3) all other conditions have been met which affect the consummation of the sale. 
+
+  B4 - ACCOUNTING POLICY - STATEMENT OF CASH FLOWS 
+   
+ For purposes of the cash flow statement, the Company considers all highly liquid debt instruments with maturity of three months or less to be cash equivalents. 
+
+ The following non-cash transaction took place in 2003: 
+
+The Company earned $27,183 in note discounts as interest income.  $25,399 of the earned discount was due to the early payoff of a mortgage held by the Company.  $319 was the earned discount from a new note receivable purchased from an attorney and the remaining amount was principal payments received on previous notes. 
+ The Company realized $2,648 in interest income as the result of a loan assumption of the Morgan City mortgage held by the Company.  The closing attorney added the accrued interest to the principal of the new owner. 
+ The Company realized $3,373 in interest income as a result of a capital lease being assumed by a lessee. 
+ The Company purchased a $87,223 note receivable for $69,778 from an attorney previously held by an affiliated corporation as a note payable.  This resulted in a $17,445 note discount. 
+ The Company expensed an $800 note receivable from an employee as compensation to the employee for accounting work done for an affiliated corporation. 
+ The purchase of $4,237 of fixed assets for one of the Company's hotels was credited to a lessee as lease payments. 
+ The Company agreed to purchase as treasury stock 214,913 shares of the Company's stock from a shareholder.   The Company purchased 79,366 shares for $127,501 in 2003 leaving $215,982 of the $343,483 equity in accounts payable. 
+ The Company disposed two vehicles with a book value of $5,488 at a loss for the same. 
+ The Company disposed three fully depreciated vehicles with original costs totaling $41,175. 
+ The Company converted trade receivables in the amount of $13,804 to notes receivable. 
+ The Company wrote off $65,661 in notes receivable to bad debt. 
+ The Company reclassified 1,100 shares of Company stock with a historical cost of $2,089 to treasury stock.  
+
+B - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+
+ B4 - ACCOUNTING POLICY - STATEMENT OF CASH FLOWS - (Continued) 
+ 
+ The following non-cash transactions took place in 2002: 
+
+The Company purchased a vehicle for $22,149 with $2,619 cash and a note payable for the balance of $19,530.  
+
+The Company purchased computer equipment for $11,938 under a capital lease agreement.  
+ The Company purchased a tug for $20,318 with a note payable. 
+ The Company applied the balance of a note receivable in the amount of $60,193 and accrued interest receivable in the amount of $70,940 due from an affiliated corporation against a note payable and interest payable due to an affiliated corporation, both of which are owned by the CEO.  
+
+The Company converted trade receivables in the amount of $12,361 to notes receivable. 
+ The Company wrote off receivables in the amount of $518,938 due from an insolvent affiliate (See Related Party). 
+ Assets with a book value of $423,034 and liabilities in the same amount that belonged to the company that formerly leased the Company's properties were assumed by the Company to continue its motel operations. Included in the assets was title to a barge in which the CEO also had invested monies (See Related Party). 
+ A payable in the amount of $20,417 due to an officer was converted to a note. 
+ A payable in the amount of $2,159 was converted to a note. 
+ The partnership in which the Company has a 50% ownership (See Investments in Unconsolidated Affiliates) made principal note payments in the amount of $9,792 on one of the Company's loans. 
+ The balance of a note in the amount of $4,975 and of $25,199 in accrued interest receivable due from the CEO was applied against a note payable and accrued interest payable due to him. 
+ The Company foreclosed a mortgage with a principal balance due of $154,975 interest receivable due of $60,092 and a receivable due of $3,785 for the underlying property.  
+ Note Receivables totaling $239,090 were written off to bad debt. 
+ Part of an investment in land with a basis of $10,820 was sold for a note receivable in the amount of $22,222, yielding an $11,402 gain.  
+
+The following non-cash transactions took place in 2001: 
+
+The Company purchased four vehicles for $69,807 with notes payables for the lack of consideration.  
+
+The Company sold a vehicle for $3,200 to an employee in exchange for the employee's auto allowance.   
+
+The Company disposed equipment with original costs of $18,388 and accumulated depreciation of $17,441. 
+ The Company sold a parcel of land with an adjusted basis of $13,289 held for investment in exchange for notes and interest totaling $39,389 due to the buyer. The gain on the exchange was $26,100. 
+ The Company foreclosed a mortgage with a principal balance due of $1,473,990, interest receivable due of $185,102 and related discount of $876,446 for the underlying property. The property was subsequently sold for $20,000 in cash, payment of accrued property taxes of and expenses of $73,365 and a new note receivable in the amount of $739,785 that included an accrual for property taxes in the amount of $21,028. The gain recognized on the sale was $50,504. 
+ The Company took back property in lieu of foreclosure of a note in the amount of $265,312. The property was booked in the same amount. Interest receivable of $474 due on the note was written off.  
+
+B - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+
+ B4 - ACCOUNTING POLICY - STATEMENT OF CASH FLOWS - (Continued) 
+
+The Company donated two barges and a boat with original costs of $58,560 and accumulated depreciation of $54,520 to charity. 
+ The partnership in which the Company has a 50% ownership (See Investments in Unconsolidated Affiliates) made principal note payments in the amount of $6,994 on one of the Company's loans. 
+ The Company wrote off prior year receivables of $352,902 to bad debt that were due from the company that leases the Company's properties. This decision was made because this company went out of business on June 30, 2002. The Company will manage the properties in-house beginning in the year 2002.  
+ The Company converted a trade receivable in the amount of $3,500 to a note.  
+
+In 2003, the Company paid $37,563 in income taxes and $515,319 in interest 
+  
+ In 2002, the Company paid $13,338 in income taxes and $140,623 in interest. 
+  
+ In 2001, the Company paid $7,471 in income taxes and $162,237 in interest. 
+
+   C - INVENTORY 
+  
+  Inventory is valued at the lower of cost or market and consists of consumables used in the operations of lounges and a coffee shop in the Company's lodging operations.  The method used in determining cost is the average cost paid for the items. 
+
+ Listed below are sales and cost of inventory sold: 
+
+The gross profit for 2002 represents only the period that the Company operated the lounge and coffee shop at the Houma, Louisiana Red Carpet Inn from July 2002 through December 2002. 
+ 
+ D - REAL ESTATE SALES 
+ 
+ Gains on real estate transactions on which substantial down payments are not received are deferred and recognized as income only as the principal amount of the obligation is received.  This deferred income is shown on the balance sheet as a deferred income installment.  Deferred income recognized was $161,087 in 2003, $121,496 in 2002, and $33,839 in 2001. 
+
+E - DEFERRED DEBT ISSUE COSTS 
+ 
+ Deferred debt costs (primarily commitment fees) are being amortized over the original term of the long-term debt to which they relate. 
+  
+  F - NET INCOME (LOSS) PER SHARE 
+ 
+ Basic net income (loss) per share is computed by dividing net income by the weighted average number of shares outstanding during the period.  The weighted average number of shares outstanding for the year ending December 31, 2003 is 2,206,126, which is 2,366,395 weighted by 216,013 shares of treasury stock owned.  The weighted average number of shares outstanding for the years ending December 31, 2002 and 2001 was 2,366,395 
+ 
+ G - ACCOUNTS, MORTGAGES AND NOTES RECEIVABLE 
+ 
+ In Accounts Receivable - Trade for franchise sales, an allowance account is provided based on a percentage of the outstanding accounts.  During the year, trade receivable bad debt write-offs were made to the allowance account.  Accounts Receivables - Trade for franchise sales for 2003 and 2002 are presented net of allowance for doubtful accounts of $61,715 and $46,234 respectively. 
+  
+ In 2003, the Company's management added in Accounts Receivable - Net an allowance account based on a percentage of outstanding lease accounts.  Accounts Receivable - Net for 2003 are presented net of allowance for doubtful accounts of $23,808. 
+  
+ In 2002, several new Accounts Receivable - Net were added and accruals were made for rent income due from these lessees.  No allowance for bad debt was deemed necessary at that time. 
+  
+ Prior to 2001, Accounts Receivable-Net also included amounts due for the Company's operating leases. In the year 2001, no accruals were made for rent income due from lessee because of the pending termination of the leases and the lack of probability of collection. All lease payments received in 2001 were applied against prior year receivables. Since no accruals were made, lease income dropped significantly. Furthermore, the remaining balance due for the leases was written off to bad debt.  Management made this decision in view of the financial failure of the lessee (See Cash Flow and Operating Leases).   
+
+ The Company extends credit to individuals and companies in the normal course of its operations.  These loans relate to motel properties located throughout the Southeast.  The Company requires these advances to be secured by mortgages on the related property.  The Company's exposure to loss on these notes is dependent on the financial performance of the property and the fair value of the property. 
+  
+  No reserves for uncollectible mortgages and notes receivable are maintained.  Any non-performing note is secured by assets with values greater than the principal and accrued interest. Payments on delinquent loans are applied against accrued interest and then against principal. 
+   
+ Management wrote off trade notes with principal balances of $65,661 when management and legal counsel deemed them un-collectible.  
+
+G - ACCOUNTS, MORTGAGES AND NOTES RECEIVABLE (Continued) 
+   
+ Included in the mortgages and notes receivable are notes the Company has with franchisees for initial franchise fees, royalty fees, sign rental and room reservation income.  The notes are either non-interest bearing or convey an interest rate of up to 12 percent.  These notes total $357,761 in 2003 and $454,525 in 2002.  All are originally due within one year. However, certain notes have been extended and have been outstanding for over one year.  Those notes due over one year are interest bearing. 
+
+ Mortgages and notes receivable are stated net of associated discounts.  In 2003 and 2002, the discounts totaled $55,551 and $65,290 respectively. 
+ 
+  The weighted average interest rate of the mortgage notes held by the Company is 10.3 percent, and they range from 8.75 percent to 12 percent. Interest is computed or compounded monthly or quarterly. 
+  
+ The Company plans to hold the notes until maturity. 
+  
+ Maturities over the next five (5) years are as follows: 
+
+H - INVESTMENTS 
+ 
+  H1 - INVESTMENTS IN UNCONSOLIDATED AFFILIATES 
+   
+ The Company has investments in unconsolidated affiliates that are accounted for under the equity method.  Under the equity method, original investments are recorded at cost and adjusted by the Company's share of earnings, losses and distributions of these companies.  Investments in unconsolidated affiliates consist of the following: 
+
+H - INVESTMENTS - (Continued) 
+   
+  H1 - INVESTMENTS IN UNCONSOLIDATED AFFILIATES - (Continued) 
+   
+ Hospitality International Real Estate, Inc. is 55% owned by one individual. The CEO and two other individuals own the remaining stock of Extasea Casino Cruises of North Florida, Inc. 
+  
+ In 2003, the Company consolidated the operations of Houma Building Partnership (See Accounting Pronouncements).  The CEO and another individual own the remaining 50% of Houma Building Partnership (See Related Party).  The Company's share of losses in 2002 was $74,846 and $31,388 in 2001.  Losses on the investment have been recognized up to the Company's at-risk amount. In 2001, the management company that collected lease payments for its properties advanced monies to the partnership.   The Company increased its investment in the partnership for these payments in 2001. 
+  
+ Negative investments reflect losses in excess of investment. The Company is at-risk up to at least the amount indicated. 
+  
+ ExtaSea Casino Cruises of No. Florida, Inc. owns the M/V FantaSea, which was originally named the M/V Commonwealth.  The CEO as well as some of the directors has interests in this investment (See Related Party). 
+  
+ All the Company's investments in unconsolidated affiliates operate with fiscal years ending on December 31.  Summarized balance sheet information of the unconsolidated affiliates as of December 31, 2003 and 2002 (with HBP included) are as follows: 
+
+H2 - UNDISTRIBUTED EARNINGS OF UNCONSOLIDATED AFFILIATES 
+  
+  Pursuant to SEC Rule 4-08, the Company discloses that consolidated retained earnings contains undistributed losses of $378,396 of 40 percent or less owned investments accounted for by the equity method as of December 31, 2003. 
+
+  H3 - MARKETABLE EQUITY SECURITIES 
+    
+  Marketable equity securities are available for sale.  Holding gains are presented in stockholder's equity.  Income taxes related to the gains are $5,306 in 2003, $4,859 in 2002, and $4,042 in 2001. 
+
+I - INTANGIBLE ASSETS - TRADEMARKS 
+   
+ Trademarks consist of $1,507,161, $510,000 of which represents the historical cost of acquiring the trade name  Master Hosts  and related service marks, $843,161 of which represents the marks of Downtowner/Passport International Hotel and $154,000 of which is the fair market value of the Sundowner Inns trademark. The Sundowner Inns' mark was found to be impaired in 2002 under a discounted cash flow analysis and was written down $206,000 from its historical cost of $360,000.  The carrying value of the trademarks, net of accumulated amortization of $503,131 was $1,004,030 as of December 31,2002 and December 31, 2003. 
+  
+ The Company owns the trade name  Red Carpet Inn .  A historical cost basis in excess of $600,000 was carried on the books of the old Red Carpet Inn Company prior to its acquisition by the Company.  This amount was apparently written off prior to the acquisition.  The Company also owns the trade name  Scottish Inn  and its value is not reflected in the financial statements.  Management believes the current value of both marks far exceeds the historical cost to the old company and thus the Company has in its possession assets of substantial worth that have no recorded cost in the financial statements.  
+  
+ Trademarks are stated on the basis of cost and/or fair value whichever is lower and were being amortized on a straight-line method over a life of 40 years until the Company adopted Statement of Financial Accounting Standards (SFAS) No. 142 in 2002.  SFAS No.142 requires that goodwill and intangible assets with indefinite useful lives no longer be amortized, but instead be tested for impairment at least annually in accordance with the provisions of SFAS No.142.  As a result, the Company's amortization of its trademarks in the amount of $10,707 ($9,101 net of tax) per quarter ceased effective January 1, 2002.  The adoption of SFAS No. 142 required the Company to perform an initial impairment assessment on indefinite lived assets as of January 1, 2002 and each year thereafter. The Company compared the fair value of the trademarks to current carrying value. Fair value was derived using a discounted cash flow analysis. The Company found no indication of impairment on the trademarks in 2003.  In
+ 2002, the Company found impairment only of the Sundowner Inns mark.  The write-down of the mark was reported under operating expenses rather than as the result of a change in accounting principle since it had been the Company's policy to periodically assess the carrying value of its trademarks. 
+  
+ The following table summarizes and reconciles Net Income for the three years ended December 31, 2003, 2002 and 2001, adjusted to exclude amortization expense recognized in such periods related to the trademarks that are no longer amortized: 
+
+J - ACCOUNTING PRONOUNCEMENTS 
+   
+ In January 2003 and amended in December 2003, the Financial Accounting Standards Board (FASB) issued interpretation No. 46 (FIN 46) which clarifies the application of Accounting Research Bulletin No 51,  Consolidated Financial Statements .  FIN 46 specifically addresses the consolidation of Variable Interest Entities (VIE's) which have one or both of the following characteristics:  (i) the equity investment at risk is not sufficient to permit the entity to finance its activities without additional subordinated financial support from other parties, which is provided through other interests that will absorb some or all of the expected losses of the entity; and (ii) the equity investors lack the direct or indirect ability to make decisions about the entity's activities through voting rights or similar rights, the obligation to absorb the expected losses of the entity if they occur or the right to receive the expected residual returns of the entity if they occur.  In October 2003, th
+e FASB issued FASB Staff Position (FSP) 46-6 which encourages early application of FIN 46. 
+  
+ The Company determined that the Houma Building Partnership (HBP) has one or both of the characteristics of a VIE as defined above.  The Company therefore has applied FIN 46 to HBP in 2003 and consolidated it for financial reporting purposes.  
+  
+ FIN 46 required that, upon consolidation, the Company initially measure the VIE's assets, liabilities and minority interest at their carrying amounts under existing GAAP as if the entity had been consolidated from the time the Company was considered its primary beneficiary.  Any difference between the net amount added to the balance sheet of the consolidating enterprise and the amount of any previously recognized interest in the newly consolidated entity should be recognized as the cumulative effect of an accounting change.  The consolidation as of January 1, 2003 of Houma Building Partnership resulted in an additional non-cash loss of $540,767 recorded as the accumulated effect of an accounting change. 
+  
+ In May 2003, the FASB issued SFAS No. 150,  Accounting for Certain Financial Instruments with Characteristics of both Liabilities and Equity.   This statement did not have any impact on the Company's financial statements.  This statement establishes standards for the classification of measurement of certain financial instruments with the characteristics of both liabilities and equity.  The adoption of SFAS No. 150 is effective for financial statements issued after May 2003. 
+
+K - INCOME TAX 
+  
+  The components of the provision for income taxes are as follows: 
+
+The reconciliation of the difference between the federal statutory tax rate and the Company's effective tax rate is as follows: 
+
+K - INCOME TAX (Continued) 
+   
+  The income tax effects of temporary differences between financial and income tax reporting that gave rise to deferred income tax assets and liabilities are as follows: 
+
+The amounts and expected timing of the reversals of these temporary differences cannot be determined with accuracy at the present time. 
+   
+ Hospitality International, Inc. (HI) had a net operating loss (NOL) of $14,678 in 1998, $7,479 in 1999 and $23,874 in 2000 for federal income tax purposes.  The entire NOL was utilized against taxable income in the year 2001. HI had further net operating losses of $40,451 in 2002.  In 2003, HI utilized $37,093 of the NOL against taxable income leaving a $3,358 NOL balance that expires in the year 2022.  
+  
+ Southern Scottish Inns, Inc. (SSI) had a net operating loss of $ 221,997 in 2002 that expires in 2022 and an (NOL) of $378,283 in 2001 that expires in 2021. SSI also has NOL carryovers still available from 1996 in the amount of $35,337 and from 1998 in the amount of $67,462 that expire in the years 2011 and 2013 respectively.  In 2003, SSI utilized $205,135 of the NOL against taxable income leaving a $497,944 NOL balance.  Of that remaining balance, $275,947 will expire in 2021 and 221,997 will expire in 2022. 
+  
+  Red Carpet Inns International, Inc. (RCII) had a net operating loss of $513,134 in 2002.  In 2003, RCII utilized $112,504 of the NOL against taxable income and carried back $292,630 of the NOL five years leaving a carry forward loss of $108,000 that expires in 2022.  
+
+K - INCOME TAX - (Continued) 
+ 
+ Listed below are the years, amounts and tax benefits of the net loss carryover used: 
+
+The Company and its wholly owned subsidiaries file consolidated tax returns.  The Company's partially owned subsidiaries file unconsolidated tax returns. The entities are not subject to IRC SEC. 1563. 
+    
+ L - DEBT OBLIGATIONS 
+ 
+ The Company has incurred debt obligations principally through public and private offerings and bank loans.  Debt obligations (including capital leases) consist of the following: 
+
+Maturities of debt for the five years succeeding December 31, 2003 are as follows: 
+
+L - DEBT OBLIGATIONS (Continued) 
+   
+ The notes include various restrictions, none of which are presently significant to the Company. Of this total, notes to banks are $4,648,002, to affiliates $432,511 and to others $794,266. 
+  
+ The debt obligations are secured by assets on the consolidated balance sheet with a book value of $7,941,909 and an estimated fair value of $11,648,174. 
+  
+ There are no compensating cash balance requirements attached to any of the debt instruments. 
+   
+ M - OPERATING LEASES 
+  
+ M1 - OPERATING LEASES - COMPANY AS LESSOR 
+   
+ The Company leases out as office space a portion of the corporate headquarters it owns.  The terms of lease agreements vary by tenant and circumstance; however, all current lease agreements are for one year or less.  The allocated cost of the portion leased for 2003 and 2002 is $348,629 and $346,712 respectively and its allocated accumulated depreciation is $151,884 in 2003 and $140,864 in 2002. 
+  
+ The Company also leases properties it owns in various states.  These properties are recorded in Property and Equipment with a cost of $2,799,861 in 2003 with accumulated depreciation of $443,728 and a cost of $1,843,972 in 2002 with accumulated depreciation of $309,451.  In 2002, the Company operated three properties and leased two to different individuals.  In 2003, the Company leased two properties it previously operated to individuals for a total of four leased properties.  Therefore, the associated values increased in 2003 from 2002.  In 2003, the Company still operated three properties since it acquired two new properties.  The income and expense for these leased properties are on the income statement along with the Company operated properties as  Leasing   Lodging Revenues  and  Leasing   Lodging Expenses . 
+  
+  The Company also leases office space through the Houma Building Partnership (See Accounting Pronouncements).  This property is recorded for the first time in 2003 in Property and Equipment with a cost of $3,979,348 and accumulated depreciation of $1,731,246.  The income and expense for this property are on the income statement as  Leasing Revenues - HBP  and  Leasing Expenses - HBP.  
+    
+ M2 - OPERATING LEASES - COMPANY AS LESSEE 
+   
+ The Company leased two copiers under a non-cancelable operating lease with a term of five years in the year 2003. This lease replaced on old lease obtained in 2000. Rent expense that included maintenance, insurance and taxes was $13,403 in 2003, $13,951 in 2002 and $15,005 in 2001. The following is a schedule by years of future minimum rentals (equipment rent only) under the lease at December 31, 2003:  
+
+M - OPERATING LEASES (Continued) 
+   
+  M2 - OPERATING LEASES - COMPANY AS LESSEE (Continued) 
+   
+ The present value of the minimum lease payments is $36,784. 
+
+N - INDUSTRY SEGMENTS 
+ 
+ Our operations consist of three reportable segments each of which are based on similar products or services.  Information on segments is as follows: 
+
+N - INDUSTRY SEGMENTS (Continued) 
+
+In the Financing   Investing Segment, the Company has included net income/(loss) from unconsolidated equity investments totaling $(130,932) in 2003, $(109,157) in 2002, and $(71,382) in 2001.  The $206,000 write-down of the trademark in 2002 is also included in the net income/(loss) in 2002. 
+
+O - PROPERTY AND EQUIPMENT 
+ 
+ Property and equipment are recorded at cost.  Depreciation is provided on a straight-line basis over the estimated useful lives of the respective assets.  Maintenance and repairs are charged to expense as incurred.  Major renewals and betterments are capitalized.  When items of property or equipment are sold or retired, the related cost and accumulated depreciation are removed from the accounts and any gain or loss is included in the statement of income. 
+
+Depreciation and amortization expense was $326,866 in 2003, $155,918 in 2002, and $188,817 in 2001. 
+
+P - RELATED PARTY TRANSACTIONS 
+   
+ The CEO of the Company is an owner in two of the investments in which there have been losses (See Investments in Unconsolidated Affiliates). 
+  
+ The Company had invested in a barge in which the CEO also had interests.  The Company's investment totaled $128,834 as of December 31, 2001. Full title to the barge was obtained in 2002 with the acquisition of the assets and liabilities of the company that formerly leased the Company's motels (See Cash Flow). Since the debt related to the investment exceeded its fair value, the Company wrote off the $128,834 in 2002.  Expenses related to the investment totaling $36,805 were written off in 2002.  
+  
+  Due To Affiliates  are expenses in the amount of $3,300 that the CEO paid on behalf of the Company for its share of M/V FantaSea expenses. 
+  
+ Included in Accounts Receivable-Affiliates are expenses totaling $199,940 in both 2003 and 2002 for expenses the Company paid on behalf of two prior operating companies for M/V FantaSea, which is owned by ExtaSea Casino Cruises of No. Fla, Inc., an investment in which the CEO and some of the directors also have interests (See Investments in Unconsolidated Affiliates.)  In 2002, $518,938 of the receivable, due from the first operating company that had become insolvent, was written off to bad debt.  
+  
+  In 2002, a receivable in the amount of $41,339 was expensed as income to the CEO. 
+   
+ The CEO's ownership of the Company's common stock was 50.85% as of December 31, 2003. 
+  
+ Other amounts included in Accounts Receivable-Affiliates are matching capital contributions due from the other 25% partner in the partnership in which the Company is a 50% owner totaling $27,853 at the end of 2003 and 2002 and expenses paid on behalf of one affiliate totaling $13,635 in 2003 and $11,952 in 2002. 
+
+P - RELATED PARTY TRANSACTIONS - (Continued) 
+   
+ The following is a schedule of loans to related parties: 
+
+The following is a schedule of loans from related parties: 
+
+Maturities of Long-Term Notes - Affiliates: 
+
+Interest paid to related parties was $137,511 in 2003, $7,650 in 2002 and $ 0 in 2001. 
+
+Q - CAPITAL LEASES 
+ 
+ Computer equipment was purchased under a four-year lease agreement in 2002. The lease was capitalized and equipment in the amount of $11,938 was recorded.  The Company also has computer equipment purchased under two and three year capital lease agreements made in 1997.  Capital leases from the Company's former management company were assumed in 2002. These included leases of air conditioners with a book value of $18,130 and remaining 3 year lease, telephone equipment with a book value of $10,097 and remaining 1 year lease being paid by a lessee and micro-fridges with a book value of $31,789 and remaining 2 year lease. 
+  
+ The equipment valuation (the same as its fair value) is as follows: 
+
+R - LITIGATION, CLAIMS AND ASSESSMENTS 
+  
+   The Company is named as a defendant for damages in an unspecified amount, reasonable attorney fees, interest and costs as a result of the Company's alleged violation of a patent.  The Company filed a motion for summary judgment in 1994 and the Company's motion was granted on March 3, 2004.  However, the time for the plaintiff to appeal that grant of summary judgment has not yet expired and it is unknown whether the plaintiff will appeal.  It is counsel's opinion that the summary judgment granted in favor of the Company would be affirmed on appeal. 
+
+ In 2001, the Company's management made preliminary inspections of a closed motel property in Muddy, Illinois, and began negotiations with a real estate broker and with lender/owner.  The senior management of an independent motel management company, which at that time operated all of the Company's subsidiaries' motels, entered upon the property for further inspections, began some clean up work and installed a Great Sign identifying the property with a  
+
+R - LITIGATION, CLAIMS AND ASSESSMENTS (Continued) 
+ 
+ trademark belonging to the Company's affiliate, all before a  Contract To Buy and Sell  was signed.  Seller or Seller's Broker had prepared and afforded a Contract for approval.  Some negotiations concerning the same were had.  For various reasons, the Company's management decided not to further pursue acquisition and notified the management company to quit the premises.  Subsequently, owner and owner's broker filed suit against the Company for a sum in excess of $100,000 plus costs of suit.  No contract was ever signed.  The property was subsequently sold to an unrelated party.  All parties have counsel and the matter is proceeding toward trial. 
+   
+ In 2003, suit was filed by or on behalf of three (3) persons, two of whom were employees of a tenant of the Atrium Building, an office building in Houma, Louisiana, against two nominal defendants and the Houma Building Partnership, a Louisiana General Partnership, in which the Company is a 50% interest holder, Bobby E. Guimbellot, Company's CEO, is a 25% interest holder and Yvonne Zodum (formerly Guimbellot) is a 25% interest holder.  The suit is for unspecified damages and for recognition as a class action matter.  Damage allegations are for excessive illnesses, including but not limited to sinus and allergy problems, debilitating headaches, skin irritations, watery eyes and fatigue caused by presence of fungal substances, such as mold, mold spores and the by-products of same, the presence of which Plaintiffs attribute to water intrusion and high humidity; and Plaintiffs claim Defendants were operating a dangerous building and with their failing to warn of dangerous conditions and defects
+.  Partnership's carrier is providing defense.  As of December 31, 2003, no decision has been   made as to class action status; therefore, the Company's management has no present opinion as to the adequacy of or inadequacy of the insurance coverage.  The Company views this action as a potentially significant matter. 
+  
+ The Company also has claims against it related to incidents at franchise locations. However, these are covered under the insurance of the franchisee. 
+  
+ Legal fees paid during 2003, 2002 and 2001 were $85,316, $262,487 and $256,539 respectively. 
+   
+ S - STOCK ISSUANCE  
+   
+ In 2003, 2002 and 2001 no stocks were issued. 
+   
+ T - LITIGATION SETTLEMENTS 
+   
+ From 1995 to 2003, the Company aggressively pursued its legal rights to its trademarks.  It has been successful in stopping motel operations from illegally using its trademarks as well as in enforcing compliance to its franchisee agreements.  
+  
+  U - ADVERTISING COSTS 
+   
+ The franchising division collects advertising income to fund advertising services that are provided to benefit franchisees. Advertising costs are expensed as incurred with the exception of its semi-annual directories, which are amortized on a monthly basis.  The Company had prepaid advertising costs in the amount of $10,000 for the 2004 directory in 2003, $29,812 for the 2003 directory in the year 2002. 
+  
+ Advertising expense and rental income from advertising barter transactions were $52,290 in 2003, $45,721 in 2002, and $44,173 in 2001. 
+
+U - ADVERTISING COSTS- (Continued) 
+   
+ Following is a summary of advertising income and advertising costs for the years ended December 31: 
+
+V - CONTINGENCIES 
+ 
+ The amounts of accounts receivable in litigation or collections were $124,838 at the end of 2003 and $11,322 at the end of 2002.  It is management and counsel's opinion that the chances for collection are good. 
+  
+ The Company's franchising division pays commissions to its sales representatives on franchises sold.  The Company policy is to pay the salesperson based on receipts of royalties from the franchisee.  The commissions are recognized as earned when the franchisee pays the royalty fees.  Estimated contingent commissions for future years are approximately $57,330. The turnover of franchises makes the likelihood of payment only reasonably possible; therefore, this amount has not been accrued. 
+  
+ The Company is the defendant in various legal actions.  In the opinion of management and counsel such actions will not materially affect the financial position or results of operations of the Company (See Litigation, Claims, and Assessments). 
+  
+  W - FINANCIAL INSTRUMENTS 
+
+ W1 - MARKET AND OFF BALANCE SHEET RISK 
+ 
+ The Company holds financial instruments that relate to real estate located throughout the Southeast.  If these properties decline significantly in market value, the valuation of the associated receivable could become impaired.  No such decline is foreseen at the present time. 
+  
+ In 2001, the Company foreclosed on non-performing mortgage note that totaled $1,473,990 with accrued interest of $185,102 at December 31, 2000.  The Company sold the land and motel taken back (See Cash Flow). 
+  
+  In 1998, the Company pledged one of its properties, in an agreed amount of $560,000 by second mortgage as additional collateral on a refinancing loan on a building owned by the partnership in which the Company has a 50% ownership (See Accounting Pronouncements).  The book value and market value of the pledged property was $531,742 and $1,645,000 respectively at December 31, 2002.  All of the partners, including the Company, guaranteed the refinancing loan.  The sum (principal and interest) of the balances secured by the mortgage was $2,794,927 at December 31, 2002 with a maturity date of February 2012.  On February 27, 2003, the partnership refinanced the $2,794,927 with a new loan of $2,500,000. As a result of the refinancing the amount secured by the pledge against the Company property was reduced to $340,200. 
+
+W - FINANCIAL INSTRUMENTS - (Continued) 
+   
+ W2 - FAIR VALUE OF FINANCIAL INSTRUMENTS 
+   
+   I.  INVESTMENTS 
+   It is not practicable to estimate the fair value of investments because there are no quoted market prices for its untraded common stock investments, and a reasonable estimate of fair value could not be made without incurring excessive costs.  
+   
+   II.  MORTGAGES AND NOTES RECEIVABLE 
+   The fair value of the mortgage and notes receivable was determined by management estimates of the property values that secure the mortgage notes.  The fair value of these instruments is $3,196,058 at December 31, 2003 and $4,913,925 at December 31, 2002, the carrying values on the balance sheet. 
+  
+   III.  MORTGAGES AND NOTES PAYABLE 
+   The fair value of long-term debt equals the carrying value. Fair values for these instruments are $5,874,779 in 2003 and $1,494,297 in 2002. 
+   
+   W3 - ENVIRONMENTALLY SENSITIVE PROPERTY 
+
+  The Company is not directly affected by environmental protection measures of federal, state or local authorities to any extent, which would reasonably be expected to cause material capital expenditures for compliance, so far as is known.  However, it is possible that an approximately five and one-tenths (5.09) acre tract of land held as an investment and acquired as a possible motel site, located on I-10 in Ocean Springs, Mississippi, may under the new guidelines, be determined to be in part  wetlands.   If so, its use and value would be adversely affected. 
+
+ On January 27, 1995, 3.2 acres of said tract were sold at a consideration undiminished by the Wetlands issue; the value of the remaining 5.09 acres, therefore, may not be diminished.  The remaining land is carried at $55,647.   
+   
+ X - LONG-TERM LIABILITIES AND DEFERRED AMOUNTS 
+   
+ Deferred Severance Pay   reflects amounts due to officers of the corporation, which have been earned to date for continued service.  Since the arrangement is not a qualified plan for federal income taxes, the expense recognized for financial statement purposes is not deductible for tax until paid.  The deferral of this tax deduction is recognized as deferred tax asset (See Income Tax). 
+ 
+ Y - SUBSEQUENT EVENTS 
+  
+  On October 15, 2004, the Company sold one dry lot and 10 contiguous wetland lots located on Portage Bayou at Pass Christian, Mississippi, for $275,000. 
+  
+ On July 30, 2004, the Company liquidated the promissory note given for the purchase of 214,913 shares of its stock and is holding as treasury stock. 
+  
+ On September 8, 2004, the Company accepted a Deed in Lieu of Foreclosure from the defaulted Mortgagors of the motel property at 747 Arlington Road, Jacksonville, Florida.  The Company immediately applied for a $100,000 loan  
+
+Y - SUBSEQUENT EVENTS - (Continued) 
+   
+ for a five-year term and will use the proceeds to pay the delinquent ad valorem taxes for 2003. 
+  
+  Realizing that both Bobby E. Guimbellot, the Company's CEO and Jack M. Dubard, the Company's President, have reached the age where they are experiencing health problems and realizing that the Company is thin on experienced senior level management, Management and the Board of Directors made a preliminary determination at a Meeting of the Board held on May 15, 2004 to sell the Company's interest in Hospitality International, Inc. - the Company's partially owned franchising subsidiary.  The Company's Board of Directors, through several telephonic Board Meetings, authorized the sale of the Scottish Inn Trademark to Hospitality International, Inc. on July 1, 2004 for the sum of $500,000, with a down payment of $50,000 and Buyer's corporate promissory note for $450,000 at five percent (5%) interest over a period of twenty-five (25) years.  The Board also authorized the Company's sale of its one-half stock interest in Hospitality International, Inc. to Red Carpet Inns International, Inc., the owner 
+of the other one-half interest, for the sum of $800,000 with a down payment of $80,000 and twenty-five year promissory note at five percent (5%) interest for $720,000.  Furthermore, the Board authorized the sale of the Red Carpet Inns International, Inc. stock held by the Company, being 5,629,637 shares of Red Carpet's common stock, which was slightly less than seventy-five percent (75%) of the outstanding common stock, and 265,950 shares of Red Carpet's preferred stock held by The Company, being slightly more an eighty-five percent (85%) of the outstanding preferred stock for $1,359,846 to Tim David Blalock, an attorney from Natchez, Mississippi, with $135,985 down and a twenty -five year promissory note at five percent (5%) interest for $1,223,861. 
+   
+ The Company had no basis in the Scottish Inn Trademark.  The book basis in the one-half stock interest in Hospitality International, Inc. was $908,294 at December 31, 2003 and the book basis in the stock of Red Carpet Inns International, Inc. was $1,295,340 at December 31, 2003. 
+
+QUARTERLY DATA (UNAUDITED) 
+
+Item 14.  Principal Accountant Fees and Services 
+
+The following table sets forth fees for professional audit services rendered and fees billed for other services rendered by R. J. Clark   Associates, P.C. (R.J. Clark) for the Registrant for the fiscal years ended December 31, 2003 and 2002. 
+
+Audit Fees 
+
+This category includes fees paid for the audit of the Registrant's annual financial statements and review of financial statements included in our quarterly reports of Form 10-Q.  This category also includes advice on audit and accounting matters that arose during or as a result of, the audit or the review of our interim financial statements. 
+
+Audit-Related fees 
+
+   R.J. Clark did not perform any services in this category for the Registrant in 2003 or 2002. 
+ 
+  Tax Fees 
+
+This category consists of professional services rendered for the Registrant by R.J. Clark for tax compliance and tax advice.  The services for the fees disclosed under this category include tax advisory services associated with our ongoing business and business ventures. 
+
+All Other Fees 
+
+   R.J. Clark did not perform any services in this category for the Registrant in 2003 or 2002. 
+
+Item 15.  Exhibits, Financial schedules and Reports on Form 8-K 
+
+Listed below are the following documents which are filed as a part of this Annual Report. 
+
+Financial statements 
+   Auditor's Report.   Note 13 
+   Consolidated balance sheets of the Company as of December 31, 2003, and 2002. 
+  Consolidated statement of income as of December 31, 2003, 2002 and 2001.  
+
+Consolidated statements of changes in cash flow of the Company for the Fiscal Years ended December 31, 2003, 2002 and 2001.  
+
+Notes to consolidated financial statements. 
+
+   Exhibits 
+
+The exhibits filed as part of the Annual report are listed on the exhibit index which immediately precedes and is bound with such exhibits. 
+
+Form 8K 
+
+No reports on Form 8-K have been filed by the Registrant during the last quarter of the period covered by this Annual Report. 
+
+Note 13 : For the Company's fiscal years of 1985 through 1990, our auditor was Robert M. Mosher, C.P.A. of Biloxi, Mississippi.  For the Company's fiscal years of 1991 through 1992, our auditor was the firm of Fountain, Seymour, Mosher   Associates of D'Iberville, Mississippi.  In February of 1994 (See Item 7, Capital Resources (I)), Registrant and Company moved to the Atlanta area.  About such time and in connection with future audits, the decision was made to change auditors and to employ R. J. Clark   Associates, P.C. of Roswell, Georgia.  R. J. Clark   Associates, P.C. had done the Company's audits for 1983 and 1984, the audits of Red Carpet Inns International, Inc., a partially owned subsidiary of Registrant for the years 1992 and 1993,and the audits for Hospitality International, Inc., another partially owned subsidiary of Registrant, continuously since 1982.  From 1994 and for the foreseeable future, R. J. Clark   Associates, P.C. has done and will d
+o the audits for Southern Scottish Inns, Inc., Red Carpet Inns International, Inc. and Hospitality International, Inc.  In accordance with the SEC Practice Section of the A.I.C.P.A., a partner other than the partner in charge must perform a concurring review of the audit report.  When the firm is a sole proprietorship, an outside-qualified professional must be utilized and one was so utilized. 
+
+SIGNATURES  
+
+(Originals on file) 
+
+ Pursuant to the requirements of Section 13 or 15 (d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+  SOUTHERN SCOTTISH INNS, INC. 
+  (Registrant) 
+
+By:                    
+   Bobby E. Guimbellot   Date  Jack M. Dubard    Date 
+  Chief Executive Officer   President   CFO 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated. 
+
+  FOR THE BOARD OF DIRECTORS: 
+
+Anil Patel    Date  Richard A. Johnson   Date 
+ Director    Director 
+
+Melanie C. Hanemann   Date  C. Guy Lowe, Jr.    Date 
+ Director    Director 
+
+Jack M. Dubard    Date  Harry C. McIntire   Date 
+ Director    Director 
+
+Bobby E. Guimbellot   Date  Gretchen Nini    Date 
+ Director    Director 
+
+George O. Swindell   Date  John Snyder    Date 
+ Director    Director 
+
+Melinda Hotho    Date 
+ Director 
+  
+  Exhibit 21 
+
+Wholly Owned Subsidiaries of Southern Scottish Inns, Incorporated 
+
+Name   
+ 
+   State of Corporation 
+
+Alabama Motel Corporation  
+ 
+  Alabama  
+
+Carriage Inn of Huntsville, Inc.  
+ 
+  Alabama  
+
+Golden Triangle Hospitality  
+ 
+  Mississippi  
+
+GTH, Inc.  
+ 
+  Mississippi  
+
+Greenville, RCI, LLC  
+ 
+  North Carolina  
+
+Gulfside Mortgage Company  
+ 
+  Mississippi  
+
+Hospitality Mortgage Company  
+ 
+  Mississippi  
+
+Houmas Hospitality Corporation  
+ 
+  Louisiana  
+
+Labove Apartment Company  
+ 
+  Texas  
+
+LAFLA, Inc.  
+ 
+  Louisiana  
+
+Mid. Continent Supply of Louisiana  
+ 
+  Louisiana  
+
+Morgan City Hospitality, Inc.  
+ 
+  Louisiana  
+
+Scottish Venture One, Inc.  
+ 
+  Mississippi  
+
+Scottish Ventures No. 2, LLC  
+ 
+  Georgia  
+
+Scottish Venture/Canton, Inc.  
+ 
+  Mississippi  
+
+Southern Inns of Arkansas, Inc.  
+ 
+  Arkansas  
+
+Southern Properties Management, Inc.  
+ 
+  Mississippi  
+
+Southern Scottish Inns No. 1, Inc.  
+ 
+  Georgia  
+
+Southern Scottish Inns No. 2, Inc.  
+ 
+  Florida  
+
+Southern Scottish Inns No. 4, Inc.  
+ 
+  Florida  
+
+Southern Scottish Inns of Miss, Inc.  
+ 
+  Mississippi  
+
+Spanish Trail Hospitality, Inc.  
+ 
+  Louisiana  
+
+Zane Enterprises  
+ 
+  Georgia  
+
+Partially Owned Subsidiaries of Southern Scottish Inns, Incorporated  
+
+Name   
+ 
+   State of Incorporation   
+ 
+   % Owned by Registrant   
+
+Houma Building Partnership  
+ 
+  Louisiana  
+ 
+  50%  
+
+Hospitality International Real Estate, Inc.  
+ 
+  Georgia  
+ 
+  45%  
+
+Hospitality International, Inc.  
+ 
+  Tennessee  
+ 
+  50%  
+
+Red Carpet Inns International, Inc.  
+ 
+  Colorado  
+ 
+  74 %  
+
+<EX-31>
+ 2
+ exhibit31bg.htm
+ CERTIFICATION
+
+exhibit31bg 
+
+Exhibit 31.1 
+  CERTIFICATION PURSUAN TO  
+ SECTION 302(a) OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Bobby E. Guimbellot, certify that:  
+
+1. I have reviewed this yearly report on Form 10-K of Southern Scottish Inns, Inc. for the period ended December 31, 2003; 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 3. Based on my knowledge, the financial statements and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(a)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+
+a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to proved reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and  
+
+5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions):  
+
+a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting.  
+
+Date:                   November 20, 2006 
+  Signature:           /s/ Bobby E. Guimbellot  
+  Title: Chief Executive Officer  
+
+</EX-31>
+
+<EX-31>
+ 3
+ exhibit31jmd.htm
+ CERTIFICATION
+
+exhibit31jmd 
+
+Exhibit 31.1 
+  CERTIFICATION PURSUAN TO  
+ SECTION 302(a) OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Jack M. Dubard, certify that:  
+
+1. I have reviewed this yearly report on Form 10-K of Southern Scottish Inns, Inc. for the period ended December 31, 2003; 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 3. Based on my knowledge, the financial statements and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(a)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+
+a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to proved reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and  
+
+5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions):  
+
+a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting.  
+
+Date:                   November 20,2006 
+  Signature:             /s/ Jack M. Dubard  
+  Title: Chief Financial Officer  
+
+</EX-31>
+

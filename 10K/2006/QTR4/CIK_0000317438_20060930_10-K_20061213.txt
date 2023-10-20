@@ -1,0 +1,1141 @@
+<Header>
+<FileStats>
+    <FileName>20061213_10-K_edgar_data_317438_0001262463-06-000184_1.txt</FileName>
+    <GrossFileSize>433204</GrossFileSize>
+    <NetFileSize>101584</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>180380</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>19</N_Tables>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001262463-06-000184.hdr.sgml : 20061213
+<ACCEPTANCE-DATETIME>20061213134900
+ACCESSION NUMBER:		0001262463-06-000184
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20060930
+FILED AS OF DATE:		20061213
+DATE AS OF CHANGE:		20061213
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CLX INVESTMENT COMPANY, INC.
+		CENTRAL INDEX KEY:			0000317438
+		IRS NUMBER:				840749623
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-00676
+		FILM NUMBER:		061273785
+
+	BUSINESS ADDRESS:	
+		STREET 1:		43180 BUSINESS PARK DRIVE SUITE 202
+		CITY:			TEMECULA
+		STATE:			CA
+		ZIP:			92590
+		BUSINESS PHONE:		951-587-9100
+
+	MAIL ADDRESS:	
+		STREET 1:		43180 BUSINESS PARK DRIVE SUITE 202
+		CITY:			TEMECULA
+		STATE:			CA
+		ZIP:			92590
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CLX ENERGY INC
+		DATE OF NAME CHANGE:	19930409
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CLX EXPLORATION INC
+		DATE OF NAME CHANGE:	19930115
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HmQG4PAAR4Y08VjH3EK6kXhfzgDgQsIAbrXv4sykf9NvRVxqcjMSHvgQQHVeyMl6
+ oeswpz7DtYkWXpgXnvoo7w==
+
+ 0001262463-06-000184.txt : 20061213
+
+10-K
+ 1
+ f10kclxfinal.htm
+ ANNUAL REPORT [SECTION 13 AND 15(D), NOT S-K ITEM 405]
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION   
+ Washington, D.C. 20549  
+   
+  FORM 10-K   
+   
+ [X] Annual Report Pursuant to Section 13 or 15(d) of The Securities Exchange Act  
+ of 1934 For the Fiscal Year Ended September 30, 2006 
+  
+ Commission File Number: 0-9392   
+   
+  CLX Investment Company, Inc.  
+ (Exact Name of Registrant as Specified in Its Charter) 
+
+Securities registered pursuant to Section 12(g) of the Exchange Act:  
+     
+  Common Stock, $0.01 par value  
+ (Title of Class) 
+   
+ Check whether the Issuer (1) filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+   
+ Yes [X] 
+ No [  ] 
+   
+ Check if there is no disclosure of delinquent filers in response to Item 405 of Regulation S-X contained in this form, and no disclosure will be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. [X] 
+   
+ APPLICABLE ONLY TO CORPORATE ISSUERS: 
+   
+ The aggregate market value of the voting stock held by non affiliates computed by reference to the price at which the stock was sold, or the average bid and asked prices of such stock as September 30, 2006 was $936,485 based on the last sale price of $0.008 as reported on the bulletin board. 
+   
+ The Registrant had 118,310,668 shares of common stock, $0.01 par value, outstanding as of December 7, 2006. 
+
+CLX Investment Company, Inc.  
+  TABLE OF CONTENTS  
+       
+   PART I 
+       
+   ITEM 1   BUSINESS 
+   3 
+  
+   ITEM 2.   PROPERTIES 
+   5 
+  
+   ITEM 3.  LEGAL PROCEEDINGS 
+   5 
+  
+   ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS 
+   5 
+  
+   PART II 
+   5 
+  
+   ITEM 5.  MARKET FOR COMPANY S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS 
+   5 
+  
+   ITEM 6. SELECTED FINANCIAL DATA 
+   6 
+  
+   ITEM 7.  MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+   6 
+  
+   ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK 
+   8 
+  
+   ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+   9 
+  
+   ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+   9 
+  
+   ITEM 9A. CONTROLS AND PROCEDURES 
+   9 
+  
+   ITEM 9B. OTHER INFORMATION 
+   9 
+  
+   PART III 
+       
+   ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT 
+   10 
+  
+   ITEM 11.  EXECUTIVE COMPENSATION 
+   10 
+  
+   ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+   12 
+  
+   ITEM 13.   CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS 
+   13 
+  
+   ITEM 14.   PRINCIPAL ACCOUNTANTS FEES AND SERVICES 
+   13 
+  
+   ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULE 
+   13 
+  
+   SIGNATURES 
+   
+  14 
+
+2 
+
+PART I  
+   
+  Forward Looking Statements  
+   
+ This document includes statements that may constitute forward-looking statements made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. The Company would like to caution certain readers regarding certain forward-looking statements in this document and in all of its communications to shareholders and others, on management s projections, estimates and all other communications.  Statements that are based on management s projections, estimates and assumptions are forward-looking statements. The words believe, expect, anticipate, intend and similar expressions generally identify forward-looking statements. While the Company believes in the veracity of all statements made herein, forward-looking statements are necessarily based upon a number of estimates and assumptions that, while considered reasonable by the Company, are inherently subject to significant business, economic and competitive uncertainties and contingenc
+ies and know and unknown risks. Many of the uncertainties and contingencies can affect events and the Company s actual results and could cause the Company s actual results to differ materially from those expressed in any forward-looking statements made by or on behalf of the Company.  
+  ITEM 1.     
+  DESCRIPTION OF BUSINESS   
+  CLX Investment Comp.  
+     
+ CLX Investment Company, Inc. ( the Company  or  CLXN ) is an investment company reporting under the Investment Company Act of 1940 as a    Business Development Company . The Company was incorporated on December 12, 1977 under the laws of the State of Colorado as Calvin Exploration Company, Inc. to engage in any lawful activity as should be appropriate under laws of the State of Colorado. The Company was organized to engage in on-shore oil and gas exploration, development and production in the continental United States. The Company's oil and gas activities were concentrated primarily in Colorado, Kansas, Oklahoma and Wyoming. In 1993 the name of the Company was changed to CLX Energy, Inc. Until September 1, 2004 the Company engaged in only one industry segment and line of business; the acquisition, exploration, development and operation of oil and gas properties on its own account.  
+   
+ On May 24, 2004 the Company appointed new management and moved its headquarters to Temecula, CA. At the same time the Company formed CLX Oil   Gas, LLC (a wholly owned subsidiary of CLX Energy, Inc.) and transferred all of the oil and gas operations of the Company (including the assets and liabilities pertaining to such operations) into CLX Oil   Gas, LLC. On September 1, 2004 the Company sold 100% of its interest in CLX Oil   Gas, LLC to certain shareholders of the Company in exchange for shares of CLX Energy, Inc. The shareholders returned 1,433,552 shares in exchange for 100% interest in CLX Oil   Gas, LLC. The Board of Directors approved the  Securities Purchase and Sale Agreement  and also obtained a fairness opinion from Lehrer Financial and Economic Advisory Service indicating that the Securities Purchase and Sale Agreement was a fair and equitable exchange. The sale of the subsidiary has been accounted for as an asset sale transaction and 
+all gas and oil operations are reported as discontinued operations on the financial records. 
+   
+ On September 13, 2004, the Company filed with the Securities and Exchange Commission to become a Business Development Corporation as defined under the Investment Act of 1940. Additionally, on September 13, 2004, the Company filed an offering circular with the SEC for up to $5,000,000 of common stock under Regulation E of the Investment Act to raise capital and to make investments in eligible emerging or early-stage companies in various fields of business by arranging for and contributing capital and providing management assistance. In anticipation of the election to become a BDC, the Company changed its name to CLX Investment Company, Inc. on September 1, 2004 to properly reflect the nature of its business.  
+   
+ On October 2, 2006, CLX Investment Company, Inc. (the  Company ), received repayment of the credit line and accrued interest due from eStrategy Solutions, Inc. ( ESS ) which totaled $189,233.  The Company also agreed to sell its stock position in ESS to John R. Matthews, President of ESS, in exchange for $62,080.    
+   
+ The Company presently has two portfolio investments:  ActionView International, Inc. and Zonda, Inc.  
+   
+   Investment Strategy    
+   
+ CLX Investments Company, Inc. intends to make strategic investments in developing companies with perceived growth potential. The Investment Committee has adopted a charter wherein these two criteria will be weighed against other criteria including strategic fit, investment amount, management ability, etc. In principle, the Company prefers to make investments in companies where the Company can acquire at least a 51% ownership interest in the outstanding capital of the portfolio company or exert some other managerial control. 
+   
+ As a Business Development Company, the Company is required to have at least 70% of its assets in  eligible portfolio companies.  It is stated in the Investment Committee Charter that the Company will endeavor to maintain this minimum asset ratio.  
+
+3 
+
+Portfolio Investments   
+   
+ The Company presently has two portfolio investments:  ActionView International, Inc. and Zonda, Inc.  
+   
+   ActionView International, Inc.   
+   
+ On July 15, 2005, the Company entered into a financing agreement with ActionView International, Inc. ( AVWI ) wherein the Company will provide a line of credit to AVWI in the amount of $350,000. The line of credit accrues interest at 8% per annum and is to be repaid in an amount equal to the greater of 25% of net monthly income (EBIT) or $25,000 per month commencing on the earlier of nine months from the date of the final draw down, or the month following the third consecutive month in which AVWI generates net income (EBIT) of at least $50,000. In consideration AVWI shall issue CLXN a total of 2,000,000 shares of AVWI restricted common stock, the shares will be issued in proportion with the line of credit being drawn upon. 
+   
+ AVWI custom-designs, develops and manufactures  smart  scrolling advertising billboards.  AVWI attempts to place its signs into high traffic locations and then markets advertising space on the signs.  Advertising revenues generated from the billboards will be shared with advertising agencies, the local business partner and the location owner.  The benefit to advertisers is big, bold exposure at top tier locations at very reasonable costs. AVWI s plan for proceeds is manufacturing the remaining billboards at the  Guangzhous airport just outside of Hong Kong and general working capital purposes.  With all 150 airport signs in place, advertising revenue is expected to be $3.9mm for the calendar year 2006.   
+   
+   Zonda, Inc.   
+   
+ On August 30, 2005, the Company entered into a financing agreement with Zonda, Inc. ( Zonda ) wherein the Company will provide a line of credit to Zonda in the amount of $500,000.  The line of credit accrues interest at 8% per annum, in consideration for the line of credit Zonda shall issue an equity position of 20% to the Company. 
+   
+ Zonda, Inc. is a privately held company that specializes in test products that serve the medical diagnostic (IVD), food safety, and sanitation testing markets.  Zonda is currently expanding the distribution of its product lines into broader markets around the world.  The first product that has been targeted for accelerated marketing and distribution efforts is an innovative, rapid, self-contained diagnostic device for the detection of Chlamydia.  The device, which is marketed under the HandiLab name, is superior to its competition due to its comparable accuracy, ease of use, compact design, long shelf life, rapid results and cost effectiveness. 
+
+Employees   
+   
+ CLX Investment Company, Inc. has one employee Robert McCoy, the Company s Interim Chief Executive Officer and Interim Chief Compliance Officer.  On May 15, 2006, the Board of Directors determined not to renew Tammy Dunn s contract and relieve her of her responsibilities as Chief Executive Officer.  To fill the vacancy created by Tammy Dunn, the Board of Directors appointed Robert McCoy to be the Company s Interim Chief Executive Officer and Interim Chief Compliance Officer.  The Company currently compensates Mr. McCoy an annual salary of $30,000 for the positions he holds.  Management of the Company expects to use consultants, attorneys, and accountants as necessary and does not anticipate a need to engage any full-time employees as long as business needs are being identified and evaluated. The need for employees and their availability will be addressed in connection with a decision concerning whether or not to acquire or participate in a
+ specific business venture. 
+   
+  Compliance with the Sarbanes-Oxley Act of 2002  
+   
+ On July 30, 2002, President Bush signed into law the Sarbanes-Oxley Act of 2002 (the  Sarbanes-Oxley Act ). The Sarbanes-Oxley Act imposes a wide variety of new regulatory requirements on publicly held companies and their insiders.  Many of these requirements will affect us.  For example: 
+   
+  -  
+  Our chief executive officer and chief financial officer must now certify the accuracy of the financial statements contained in our periodic reports;  
+  -  
+  Our periodic reports must disclose our conclusions about the effectiveness of our controls and procedures;  
+  -  
+  Our periodic reports must disclose whether there were significant changes in our internal controls or in other factors that could significantly affect these controls subsequent to the date of their evaluation, including any corrective actions with regard to significant deficiencies and material weaknesses; and  
+  -  
+  We may not make any loan to any director or executive officer and we may not materially modify any existing loans.  
+   
+ The Sarbanes-Oxley Act has required us to review our current policies and procedures to determine whether we comply with the Sarbanes-Oxley Act and the new regulations promulgated thereunder.  We will continue to monitor our compliance with all future regulations that are adopted under the Sarbanes-Oxley Act and will take actions necessary to ensure that we are in compliance therewith. 
+
+4 
+
+Code Of Ethics, Audit Committee Charter And Investment Committee Charter  
+   
+ The Board of Directors of the Company adopted a Code of Ethics, an Audit Committee Charter and an Investment Committee Charter.  
+   
+ The Code of Ethics in general prohibits any officer, director or advisory person (collectively,   Access Person ) of the Company from acquiring any interest in any security which the Company (i) is considering a purchase or sale thereof,  (ii) is being purchased or sold by the Company, or (iii) is being sold short by the Company.  The Access Person is required to advise the Company in writing of his or her acquisition or sale of any such security.  
+   
+ The primary responsibility of the Audit Committee is to oversee the Company's financial reporting process on behalf of the Company's Board of Directors and report the result of its activities to the Board.  Such responsibilities shall include but not be limited to the selection, and if necessary the replacement of, the Company's independent auditors; the review and discussion with such independent auditors and the Company's internal audit department  (i) the overall scope and plans for the audit, (ii) the adequacy and effectiveness of the accounting and financial controls, including the Company's system to monitor and manage business risks, and legal and ethical programs, and (iii) the results of the annual audit, including the financial statements to be included  in  the  Company's  annual  report  on Form 10-K.  
+   
+ The Investment Committee shall have oversight responsibility with respect to reviewing and overseeing the Company's contemplated investments and portfolio companies on behalf of the Board and shall report the results of their activities to the Board.  Such Investment Committee shall (i) have the ultimate authority for and responsibility to evaluate and recommend investments, and (ii) review and discuss with management (a) the performance of portfolio companies, (b) the diversity and risk of the Company's investment portfolio, and, where appropriate, make recommendations respecting the role or addition of portfolio investments and (c) all solicited and unsolicited offers to purchase portfolio companies. 
+  ITEM 2.   
+  DESCRIPTION OF PROPERTY   
+ The Company does not own any real estate or other physical properties materially important to our operation.  Our offices are located at 43180 Business Park Drive, Suite 202, Temecula, CA 92590, where the Company occupies office space of approximately 2,337 square feet pursuant to its Management Agreement with Javelin Advisory Group.  Management believes these office facilities are suitable and adequate for our present business needs. 
+  ITEM 3.   
+  LEGAL PROCEEDINGS   
+ The Company is neither currently subject to any legal proceedings nor, to our knowledge, is any material legal action threatened against us. 
+  ITEM 4.   
+  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS   
+ Not applicable. 
+  PART II  
+  ITEM 5.   
+  MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDERS MATTERS   
+        Market Information       
+   
+ The Company s Common Stock is traded on the OTCBB (Over-The-Counter Bulletin Board) under the symbol  CLXN . The following table sets forth the trading history of the Common Stock on the Bulletin Board for each quarter from September 2004 to September 30, 2006, as reported by Dow Jones Interactive. The quotations reflect inter-dealer prices without retail mark-up, markdown or commission and may not represent actual transactions.   
+
+5 
+
+Holders of record            
+   
+ As of September 30, 2006 there were approximately 573 shareholders of the Company s common stock.   
+   
+  Dividends  
+   
+ The Company paid a stock dividend based on a 1-for-3 distribution where it distributed one share of restricted common stock for each three share of common stock held on September 30, 2005.  This was done to increase the market capitalization of the Company as well as reward shareholders for their continued support. 
+  Recent Sales of Unregistered Securities  
+ Except as otherwise noted, the securities described in this Item 5 were issued pursuant to the exemption from registration provided by Section 4(2) of the Securities Act of 1933.  Each such issuance was made pursuant to individual contracts, which are discrete from one another and are made only with persons who were sophisticated in such transactions and who had knowledge of and access to sufficient information about the Company to make an informed investment decision.    No commissions were paid in connection with the transactions described below unless specifically noted. 
+ As of September 30, 2006, CLX Investment Company, Inc had 118,060,668 shares of common stock outstanding.  
+  ITEM 6.  
+  SELECTED FINANCIAL DATA  
+
+(1) The Company began operating as a Business Development Company on September 13, 2004, all prior period figures are based on prior operations. 
+  ITEM 7.   
+  MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS   
+ The following information should be read in conjunction with the financial statements and notes thereto appearing elsewhere in this Form 10-K.  
+  OVERVIEW  
+ On September 13, 2004, the Company s Board of Directors elected to be regulated as a business investment company under the Investment Company Act of 1940.  As a business development company ( BDC ), the Company is required to maintain at least 70% of its assets invested in  eligible portfolio companies  which are loosely defined as any domestic company that is not publicly traded or has assets of less than $4 million. 
+
+6 
+
+In September 2004, management recognized a deficiency in liquidity. Such deficiency has been noted in the notes to the financial statements and the audit opinion of the Form 10-K for the period ending September 30, 2004 filed with the Securities Exchange Commission on January 14, 2005.  To remedy this situation, the Board of Directors authorized management to file Form 1-E with the Commission notifying it of the Company s intent to sell up to $5 million of the Company s common stock under a Regulation E exemption.   
+ CLX Investment Company, Inc. presently has three portfolio investments: eStrategy Solutions, Inc, ActionView International, Inc. and Zonda, Inc.  Management anticipates making additional portfolio investments as opportunities present themselves in the coming year. 
+ Currently, there are no commitments for material expenditures. It should be noted the Company s auditors HJ Associates   Consultants, L.L.P. have expressed in their audit opinion letter there is substantial doubt about the Company s ability to continue as a going concern.  
+  Managerial Assistance  
+ As a business development company we will offer and provide upon request managerial assistance to certain of our portfolio companies.  As defined under the 1940 Act, managerial assistance means providing  significant guidance and counsel concerning the management, operations, or business objectives and policies of a portfolio company.    
+  Management Agreement  
+ On June 1, 2006, the Company entered into a management agreement with Javelin Advisory Group, Inc. to furnish the Company with office facilities, equipment, clerical and record keeping services.  Javelin Advisory Group, Inc. will perform or oversee the performance of the Company s required administrative services.  Under the terms of the contract, Javelin will be compensated a monthly fee of $12,500. The contract expires June 1, 2007.  Javelin does not perform any investment analysis or portfolio valuation on behalf of the Company. 
+  
+ Result of Operations  
+ General and Administrative expenses were $138,816 for year ended September 30, 2006 compared to $20,039 for year ended September 30, 2005.  This increase of $118,777 was primarily due to an increased investor relation services and website development, as well the addition of an officer salary. 
+ Marketing and Promotions for the year ended September 30, 2006 were $2,811 compared to $51,500 for the year ended September 30, 2005.  This decrease of $48,689 was primarily the result of decreasing Media services and email blasts. 
+ Interest Expense for the year ended September 30, 2006 was $24,298 compared to $608,808 for the year ended September 30, 2005.  This decrease of $584,510 was primarily due to the Company no longer issuing debentures, which resulted in beneficial conversion and interest expenses in 2005. 
+ Revenues for the year ended September 30, 2006 were $97,611 compared to $64,652 for the year ended September 30, 2005.  This increase of $32,959 was primarily due to the receipt of additional shares of ActionView stock issued as consideration for extending their credit line. 
+ For the year ended September 30, 2006 the Company had a net loss of $304,465 compared to a net loss of $1,064,644 for the year ended September 30, 2005.  The net loss is primarily interest expense due to the beneficial conversion feature of convertible debentures. 
+  Liquidity and Capital Resources   
+ The Company s financial statements present an impairment in terms of liquidity. As of September 30, 2006 the Company had $306,549 in current liabilities, which exceeded current assets by $298,370.  The Company has accumulated $2,056,807 of net operating losses through September 30, 2006, which may be used to reduce taxes in future years through 2025. The use of these losses to reduce future income taxes will depend on the generation of sufficient taxable income prior to the expiration of the net operating loss carry forwards.  The potential tax benefit of the net operating loss carry forwards have been offset by a valuation allowance of the same amount. The Company has not yet established revenues to cover its operating costs.  Management believes the Company will soon be able to generate revenues sufficient to cover its operating costs through the acquisition of operating subsidiaries.   In the event the Company i
+s unable to do so and if suitable financing is unavailable, there is substantial doubt about the Company s ability to continue as a going concern. 
+
+7 
+
+ITEM 7A.  QUAANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISKS  
+   
+  RISK FACTORS  
+
+We are subject to various risks that may materially harm our business, financial condition and results of operations.  You should carefully consider the risks and uncertainties described below and other information in this filing before deciding to purchase our common stock.  If any of these risks or uncertainties actually occurs, our business, financial condition or operating results could be materially harmed.  In that case, the trading price of our common stock could decline and you could lose all or part of your investment.  
+   
+  RISKS RELATED TO OUR BUSINESS  
+   
+  We Have Historically Lost Money and Losses May Continue in the Future  
+   
+ We have historically lost money.   The loss for the 2006 fiscal year was $304,465 and future losses are likely to occur.  Accordingly, we may experience significant liquidity and cash flow problems if we are not able to raise additional capital as needed and on acceptable terms.  No assurances can be given we will be successful in reaching or maintaining profitable operations.  
+
+There is Substantial Doubt About Our Ability to Continue as a Going Concern Due to Recurring Losses and Working Capital Shortages, Which Means that We May Not Be Able to Continue Operations Unless We Obtain Additional Funding   
+   
+ Our September 30, 2006 financial statements included an explanatory paragraph indicating there is substantial doubt about our ability to continue as a going concern due to recurring losses and working capital shortages.  Our ability to continue as a going concern will be determined by our ability to obtain additional funding.  Our financial statements do not include any adjustments that might result from the outcome of this uncertainty.  
+   
+  Our Common Stock May Be Affected By Limited Trading Volume and May Fluctuate Significantly  
+   
+ Prior to this offering there has been a limited public market for our common stock and there can be no assurance an active trading market for our common stock will develop.  This could adversely affect our shareholders' ability to sell our common stock in short time periods or possibly at all.  Our common stock has experienced and is likely to experience significant price and volume fluctuations that could adversely affect the market price of our common stock without regard to our operating performance.  We also believe that factors such as quarterly fluctuations in our financial results and changes in the overall economy or the condition of the financial markets could cause the price of our common stock to fluctuate substantially. Substantial fluctuations in our stock price could significantly reduce the price of our stock. 
+   
+  Our Common Stock is Traded on the  Over-the-Counter Bulletin Board,  Which May Make it More Difficult For Investors to Resell Their Shares Due to Suitability Requirements  
+   
+ Our common stock is currently traded on the Over the Counter Bulletin Board (OTCBB) where we expect it to remain in the foreseeable future. Broker-dealers often decline to trade in OTCBB stocks given the market for such securities is often limited, the stocks are more volatile, and the risk to investors is greater.  These factors may reduce the potential market for our common stock by reducing the number of potential investors.  This may make it more difficult for investors in our common stock to sell shares to third parties or to otherwise dispose of their shares.  This could cause our stock price to decline.  
+   
+  We Could Fail to Retain or Attract Key Personnel  
+   
+ Our future success depends in significant part on the continued services of Tammy Dunn, our Chief Executive.  We cannot assure you we would be able to find an appropriate replacement for key personnel.  Any loss or interruption of our key personnel's services could adversely affect our ability to develop our business plan.  We have no employment agreements or life insurance on Ms. Dunn.   
+   
+  California Law and Our Charter May Inhibit a Takeover of Our Company That Stockholders May Consider Favorable  
+   
+ Provisions of California law, such as its business combination statute, may have the effect of delaying, deferring or preventing a change in control of our company.  As a result, these provisions could limit the price some investors might be willing to pay in the future for shares of our common stock.  
+   
+ 8 
+
+Our Officers and Directors Have the Ability to Exercise Significant Influence Over Matters Submitted for Stockholder Approval and Their Interests May Differ From Other Stockholders   
+   
+ Our executive officers and directors have the ability to appoint a majority to the Board of Directors.  Accordingly, our directors and executive officers, whether acting alone or together, may have significant influence in determining the outcome of any corporate transaction or other matter submitted to our Board for approval, including issuing common and preferred stock, appointing officers, which could have a material impact on mergers, acquisitions, consolidations and the sale of all or substantially all of our assets, and the power to prevent or cause a change in control.  The interests of these board members may differ from the interests of the other stockholders. 
+   
+  RISKS RELATED TO OUR OPERATION AS A  
+  BUSINESS DEVELOPMENT COMPANY  
+   
+  We May Change Our Investment Policies Without Further Shareholder Approval  
+   
+ Although we are limited by the Investment Company Act of 1940 with respect to the percentage of our assets that must be invested in qualified investment companies, we are not limited with respect to the minimum standard that any investment company must meet, neither are we limited to the industries in which those investment companies must operate.  We may make investments without shareholder approval and such investments may deviate significantly from our historic operations.  Any change in our investment policy or selection of investments could adversely affect our stock price, liquidity, and the ability of our shareholders to sell their stock. 
+   
+  Our Investments May Not Generate Sufficient Income to Cover Our Operations  
+   
+ We intend to make investments in qualified companies that will provide the greatest overall return on our investment.  However, certain of those investments may fail, in which case we will not receive any return on our investment.  In addition, our investments may not generate income either in the immediate future or at all.  As a result, we may have to sell additional stock or borrow money to cover our operating expenses.  The effect of such actions could cause our stock price to decline or, if we are not successful in raising additional capital, we could cease to continue as a going concern. 
+  ITEM 8.   
+  FINANCIAL STATEMENTS   
+ See the financial statements annexed to this report.  
+  ITEM 9.   
+  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE   
+ Not applicable.  
+  ITEM 9A.  
+  CONTROLS AND PROCEDURES  
+  Evaluation of Disclosure Controls and Procedures . Based on an evaluation under the supervision and with the participation of the our management as of a date within 90 days of the filing date of this Annual Report on Form 10-K, our principal executive officer and principal financial officer have concluded our disclosure controls and procedures (as defined in Rules 13a-14(c) and 15d-14(c) under the Securities Exchange Act of 1934 are effective to ensure that information required to be disclosed in reports we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms.  
+  Changes in Internal Controls . There were no significant changes in our internal controls or in other factors that could significantly affect these controls subsequent to the date of their evaluation. There were no significant deficiencies or material weaknesses and therefore there were no corrective actions taken. However, the design of any system of controls is based in part upon certain assumptions about the likelihood of future events and there is no certainty that any design will succeed in achieving its stated goal under all potential future considerations, regardless of how remote.   
+  ITEM 9B.  
+  OTHER INFORMATION  
+ Not applicable. 
+
+9 
+
+PART III  
+
+ITEM 10.   
+  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT  
+ The executive officers and directors of the Company as of September 30, 2006 are as follows:  
+           
+          Name   
+     Age   
+     Position   
+  
+        Robert McCoy 
+   58 
+   Interim Chief Executive Officer, Chief Compliance Officer and Chairman of the Board of Directors  
+  
+        Kenneth C. Wiedrich            
+   60 
+   Chief Financial Officer and Secretary 
+  
+        James Bickel 
+   66 
+   Director 
+  
+        Arthur Stone 
+   63 
+   Director 
+
+The business experience of each of the persons listed above is as follows:  
+ Robert McCoy, Interim Chief Executive and Chief Compliance Officer, Chairman of the Board of Directors    Mr. McCoy is an experienced senior executive.  As president of Marquis Elevator, Inc. from 1975 to 1990, he built and later sold the largest independent elevator company in Nevada.  Subsequent to selling Marquis Elevator, Mr. McCoy was the General Manager of Canyon Investments, Inc. in Las Vegas, NV from 1990 to 1996.  Since 1996, Mr. McCoy has served as Facilities Manager for the Church of Jesus Christ of Latter Day Saints, responsible for 487,000 square feet of facilities in the Las Vegas area.  Mr. McCoy is a graduate of the University of Tennessee and also currently serves on the Board of Directors of GTREX Capital, Inc. 
+ Ken Wiedrich, CFO and Secretary -   Mr. Wiedrich has over 33 years of experience in operational accounting and finance functions in a variety of businesses within the service, construction and manufacturing industries. Mr. Wiedrich has experience in the use of several automated accounting systems including MAS90, Peachtree, and QuickBooks. Mr. Wiedrich has experience with governmental cost accounting methods and all related government acquisition regulations. In his capacity as the Chief Financial Officer for RI-Tech, Inc. (1990-2003), he was responsible for the day to-day administrative functions of the company as well as all accounting and financial aspects of the business. Mr. Wiedrich was involved in raising money through private placement and long-term financing for Ri-Tech.  From 2003 to 2006, Mr. Wiedrich has served as Controller for Javelin Advisory Group, Inc., where he now serves as President.  Mr. Wiedrich currently serves as Chief Finan
+cial Officer and Secretary for GTREX Capital, Inc., and Chief Financial Officer and Secretary of CLX Investment Company, Inc., and Secretary of Entertainment Capital Corporation, as well as the Chief Financial Officer and Secretary of S3 Investment Company, Inc.  
+ James Bickel, Director     - Mr. Bickel has over 40 years of experience in sales and senior management positions with manufacturing-based companies: Allison Spring and Manufacturing (1968-1973), Bicor Machinery and Manufacturing (1974-1979), and Keel Corporation (1980-1986), all California based manufacturing companies of high-tech metal parts and assemblies. From 1986 to 2002 Mr. Bickel served as vice president of Uniglobe USA and president of Uniglobe Midpacific and assisted in building a national travel franchise system with over 900 locations.  He later built a golf retail franchise system. Since 2002 Mr. Bickel has acted as vice president and secretary of the World Health and Education Foundation and as vice chairman of MedChannel LLC, a medical device company serving radiology and surgical markets.  Mr. Bickel is currently the Chief Executive Officer of S3 Investment Company, Inc., a publicly-traded holding company wit
+h businesses in China.  He also serves on the Board of Directors of GTREX Capital, Inc. 
+ Arthur Stone, Director - Mr. Stone is a seasoned entrepreneur and business executive with a strong background in product engineering and development.  He is currently the President and Chief Executive Officer of Stone Technologies Corporation in Austin, TX, a position he has held since 1991.  Stone Technologies develops, engineers and brings to market new products in the security and RF data transmission industries. Prior to entering the business field, Mr. Stone served six years in law enforcement.  He has a degree in electrical engineering from the University of Texas. 
+  Meetings  
+ During the year ended September 30, 2006 the Board of Directors met informally on six occasions, all actions were taken by resolution of unanimous consent in lieu of board meetings.   
+  Compensation of Directors  
+ Our independent directors are compensated $1,000 each per month for services provided as a Director.  Our directors received no other consideration in exchange for their services to the company, nor did they perform any service that would fall outside the scope of their duties as directors.  Mr. McCoy, while serving as Interim CEO and CCO, will receive $2,500 per month as remuneration for his services. 
+  ITEM 11.   
+  EXECUTIVE COMPENSATION   
+
+10 
+
+Summary Compensation Table  
+ The following table contains compensation data for our named executive officers for the fiscal years ended September 30, 2006, 2005 and 2004. 
+
+(1) Mr. E.J. Henderson served as Chief Executive Officer from inception to May 2004. 
+ (2) Mr. Traveller served as Chief Executive Officer from May 2004 to July 2005. 
+ (3) Mr. Peacock served as Secretary from May 2004 to July 2005. 
+ (4) Ms. Dunn served as President and Chief Executive Officer from July 2005 to May 2006.  
+ (5) Mr. Wiedrich was named Secretary in March 2005 and Chief Financial Officer in July 2005. 
+ (6) Mr. McCoy was named Interim Chief Executive Officer and Chief Compliance Officer on May 15, 2006. 
+  Employment Agreements  
+ Tammy Dunn, the Company s former Chief Executive Officer and President entered into an employment contract with the Company effective July 1, 2005.  The terms of the agreement provide for an annual salary of $60,000 and the agreement is effective through July 2006.  The Board determined not to renew Ms. Dunn s contract and relieved her of her responsibilities as CEO and President on May 1, 2006, though she was paid through the end of the contract period.  Mr. McCoy, Chairman of the Board, was voted interim Chief Executive Officer and Chief Compliance Officer during the Company s search for a new Chief Executive.  Mr. McCoy does not have an employment agreement.  Each of the Company s Directors has a Director Agreement that outlines the scope of director services to be provided and the monthly remuneration. 
+   
+      Management Agreement  
+ On June 1, 2006, the Company entered into a management agreement with Javelin Advisory Group, Inc. to furnish the Company with office facilities, equipment, clerical and record keeping services.  Javelin Advisory Group, Inc. will perform or oversee the performance of the Company s required administrative services.  Under the terms of the contract, Javelin will be compensated a monthly fee of $12,500. The contract expires June 1, 2007.  Javelin does not perform any investment analysis or portfolio valuation on behalf of the Company. 
+
+11 
+
+Indemnification  
+ As permitted by the provisions of the General Corporation Law of the State of Colorado, the Company has the power to indemnify any officer or director who was or is a party to or threatens to become a party to any threatened, pending or completed action, suit or proceeding whether civil, criminal, administrative or investigative, by reason of the fact that the officer or director of the corporation acted in good faith and in a manner reasonably believed to be in or not opposed to the best interest of the Company.  Any such person may be indemnified against expenses, including attorneys  fees, judgments, fines and settlements in defense of any action, suit or proceeding.  The Company does not maintain directors and officers  liability insurance. 
+  Compliance With Section 16(a) of the Securities Act of 1934  
+ Section 16(a) of the Securities Exchange Act of 1934 requires CLX Investment Company's executive officers, directors, and persons who own more than ten percent (10%) of a registered class of CLX Investment Company's equity securities to file an initial report of ownership on Form 3 and changes in ownership on Form 4 or 5 with the Securities and Exchange Commission (the  SEC ). Such officers, directors and ten percent (10%) shareholders are also required by the SEC rules to furnish CLX Investment Company with copies of all Section 16(a) forms they file.  
+ Based solely on review of copies of such forms received by the Company, or written representations from certain reporting persons that no Forms 5 were required for such persons, CLX Investment Company believes its executive officers, directors and ten percent (10%) shareholders complied with all Section 16(a) filing requirements applicable to them through the fiscal year ended September 30, 2006, except for the following: 
+ Robert McCoy filed a Form 4 report on October 30, 2006 to report ownership of 500,000 shares of CLXN s common stock. 
+  ITEM 12.   
+  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTER  
+ The following table sets forth information, to the best knowledge of the Company, as of December 7, 2006 with respect to each person known by CLX Investment Company, Inc. to own beneficially more than 5% of the outstanding Common Stock, each director and officer, and all directors and officers as a group.  
+
+Name and Address  (1)                 
+   Number of Shares  Beneficially Owned  
+     
+  Class  
+    Percentage of Class   (2)                 
+  
+   Robert McCoy 
+ Interim CEO, Interim CCO and Chairman of the Board of Directors 
+   500,000 
+   Common 
+ 
+   * 
+  
+   Kenneth Wiedrich 
+ CFO and Secretary 
+   -0- 
+   Common 
+ 
+   * 
+  
+   James Bickel              
+  Director 
+   250,000 
+   Common 
+   * 
+  
+   Arthur Stone               
+ Director 
+   250,000 
+   Common 
+   * 
+  
+   All directors and executive officers  
+(4 persons) 
+    1,000,000  
+   Common 
+ 
+    1%  
+  
+   Sequoia International, Inc  Leeward Hwy, Providenciales Turks   Caicos Islands 
+   2,185,425 
+   Common 
+   2% 
+  
+   *Denotes less than 1% 
+
+(1) Unless indicated otherwise, the address for each of the above listed is c/o CLX Investment Company, Inc at 43180 Business Park Dr., Suite 202, Temecula, CA 92590. 
+ (2) The above percentages are based on 118,310,668 shares of common stock outstanding as of December 7, 2006. 
+
+12 
+
+ITEM 13.   
+  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS   
+ The Company s officers and directors are subject to the doctrine of corporate opportunities only insofar as it applies to business opportunities in which the Company has indicated an interest, either through its proposed business plan or by way of an express statement of interest contained in the Company s minutes. If directors are presented with business opportunities that may conflict with business interests identified by the Company, such opportunities must be promptly disclosed to the Board of Directors and made available to the Company. In the event the Board shall reject an opportunity that was presented to it and only in that event, any of the Company s officers and directors may avail themselves of such an opportunity. Every effort will be made to resolve any conflicts that may arise in favor of the Company. There can be no assurance, however, that these efforts will be successful.  
+  ITEM 14.   
+  PRINCIPAL ACCOUNTANTS FEES AND SERVICES   
+  Audit Fees   
+ The aggregate fees billed by the Company's auditors for the professional services rendered in connection with the audit of the Company's annual financial statements for fiscal 2006 and reviews of the financial statements included in the Company's Forms 10-K for fiscal 2005 were approximately $20,600 and  $22,163 , respectively.  
+  Audit Related Fees   
+   
+ None 
+   
+  Tax Fees   
+ None 
+  All Other Fees   
+ The aggregate fees billed by the Company's auditors for all other non-audit services rendered to the Company, such as attending meetings and other miscellaneous financial consulting in fiscal 2006 and 2005 were $0 and $0, respectively.  
+  ITEM 15.         EXHIBITS, FINANCIAL STATEMENT SCHEDULES   
+   
+ (a)(1)(2) 
+  Financial Statements.   See index to financial statements and supporting schedules. 
+   
+ (a)(3) 
+  Exhibits.  
+ The following exhibits are filed as part of this statement: 
+   
+ The exhibits listed below are required by Item 601 of Regulation S-X.  Each management contract or compensatory plan or arrangement required to be filed as an exhibit to this Form 10-K has been identified. 
+
+Exhibit No.  
+    Description  
+    Location  
+  
+   3.1 
+   Articles of Incorporation 
+   Incorporated by reference to corresponding Exhibit previously filed. 
+  
+   3.2 
+   Bylaws 
+   Incorporated by reference to corresponding Exhibit previously filed. 
+  
+   4.1 
+   Form of Common Stock Certificate 
+   Incorporated by reference to corresponding Exhibit previously filed. 
+  
+   14 
+   Code of Ethics 
+   Incorporated by reference to corresponding Exhibit previously filed. 
+  
+   31.1 
+   Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+   Filed herewith 
+  
+   31.2 
+   Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+   Filed herewith 
+
+32.1 
+   Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+   Filed herewith 
+  
+   32.2 
+   Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+   Filed herewith 
+  
+   99(i) 
+   Audit Committee Charter adopted December 7, 2004 
+   Incorporated by reference to corresponding Exhibit previously filed. 
+  
+   99.2(ii) 
+   Investment Committee Charter adopted December 7, 2004 
+   Incorporated by reference to corresponding Exhibit previously filed. 
+
+13 
+
+SIGNATURES   
+ In accordance with Section 13 or 15 (d) of the Exchange Act. The Registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.  
+  CLX INVESTMENT COMPANY, INC.  
+
+By: /s/ Robert McCoy   
+      Robert McCoy 
+       Interim Chief Executive Officer    
+
+Dated: December 12, 2006 
+ In accordance with the Exchange Act, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated.  
+
+14 
+
+EXHIBIT 31.1  
+   
+  SECTION 302  
+  CERTIFICATION OF INTERIM CHIEF EXECUTIVE OFFICER  
+   
+ I, Robert McCoy, certify that: 
+   
+ (1)   I have reviewed this annual report on Form 10-K of CLX Investment Company, Inc.; 
+   
+ (2)  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+   
+ (3)  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+   
+ (4)  The registrant's other certifying officer(s) and I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+   
+      (a)  Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its unconsolidated investments, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+      (b)  Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+      (c)  Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+      (d)  Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+   
+ (5)  The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+   
+      (a)  All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+      (b)  Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: December 12, 2006 
+    By: /s/    Robert McCoy   
+  
+        Robert McCoy, Interim Chief Executive Officer 
+
+EXHIBIT 31.2  
+   
+  SECTION 302  
+  CERTIFICATION OF CHIEF FINANCIAL OFFICER  
+   
+ I, Kenneth Wiedrich, certify that: 
+   
+ (1)   I have reviewed this annual report on Form 10-K of CLX Investment Company; 
+   
+ (2)  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+   
+ (3)  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+   
+ (4)  The registrant's other certifying officer(s) and I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+   
+      (a)  Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its unconsolidated investments, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+      (b)  Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+      (c)  Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+      (d)  Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+   
+ (5)  The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+   
+      (a)  All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+      (b)  Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: December 12, 2006 
+    By: /s/    Kenneth Weidrich   
+  
+        Kenneth Weidrich, Chief Financial Officer 
+
+EXHIBIT 32.1  
+   
+  CERTIFICATION PURSUANT TO  
+  18 U.S.C. SECTION 1350,  
+  AS ADOPTED PURSUANT TO  
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002  
+   
+ In connection with the Annual Report of CLX Investment Company, Inc. (the  Company ) on Form 10-K for the period ending September 30, 2006, as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Robert McCoy, Interim Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to the best of my knowledge and belief: 
+   
+ (1) 
+ the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+   
+ (2) 
+ the information contained in the Report fairly presents, in all material respects, the financial condition and results of the operation of the Company. 
+
+/s/    Robert McCoy   
+ Robert McCoy 
+ Interim Chief Executive Officer 
+ December 12, 2006 
+
+EXHIBIT 32.2  
+   
+  CERTIFICATION PURSUANT TO  
+  18 U.S.C. SECTION 1350,  
+  AS ADOPTED PURSUANT TO  
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002  
+   
+ In connection with the Annual Report of CLX Investment Company, Inc. (the  Company ) on Form 10-K for the period ending September 30, 2006, as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Kenneth Weidrich, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to the best of my knowledge and belief: 
+   
+ (1) 
+ the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+   
+ (2) 
+ the information contained in the Report fairly presents, in all material respects, the financial condition and results of the operation of the Company. 
+   
+  /s/    Kenneth Weidrich   
+ Kenneth Weidrich 
+ Chief Financial Officer 
+ December 12, 2006 
+
+CLX INVESTMENT COMPANY, INC.  
+   
+  FINANCIAL STATEMENTS  
+  September 30, 2006, 2005 and 2004  
+
+F-1 
+
+C O N T E N T S  
+
+Report of Independent Registered Public Accounting Firm 
+ F-3 
+   
+ Balance Sheets 
+ F-4 
+   
+ Statements of Changes in Net Assets                                                                                                                                       F-5 
+   
+ Schedule of Investments 
+ F-6 
+   
+ Statements of Operations 
+ F-8 
+   
+ Statements of Stockholders  Equity (Deficit) 
+ F-9 
+   
+ Statements of Cash Flows 
+ F-10 
+   
+ Financial Highlights                                                                                                                                                                   F-11 
+
+Notes to the Financial Statements 
+ F-12 
+
+F-2 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM  
+
+To the Board of Directors 
+ CLX Investment Company, Inc. 
+ Temecula, CA 
+
+We have audited the accompanying balance sheets of CLX Investment Company, Inc.   (the Company) as of September 30, 2006 and 2005 and the related statements of operations, stockholders  equity, cash flows and changes in net assets and financial highlights for the years ended September 30, 2006, 2005 and 2004.  These financial statements are the responsibility of the Company s management.  Our responsibility is to express an opinion on these financial statements based on our audit. 
+   
+ We conducted our audit in accordance with standards of the Public Company Accounting Oversight Board (United States).  Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement.  An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements.  An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation.  We believe that our audit provide a reasonable basis for our opinion. 
+   
+ As discussed more fully in Note 2 to the financial statements, investments and advances amounting to $700,615 (99% of net assets at September 30, 2006 and $299,010 (46% of net assets) at September 30, 2005 have been valued at fair value as determined by the Board of Directors.  We have reviewed the procedures applied by the directors in valuing such securities and have inspected underlying documentation; while in the circumstances the procedures appear to be reasonable and the documentation appropriate, determination of fair values involves subjective judgment which is not susceptible to substantiation by auditing procedures. 
+   
+ In our opinion, the financial statements referred to above present fairly, in all material respects, the financial position of the Company as of September 30, 2006 and 2005 and the results of its operations and its cash flows for the years ended September 30, 2006, 2005 and 2004 in conformity with accounting principles generally accepted in the United States of America. 
+   
+ The accompanying financial statements have been prepared assuming that the Company will continue as a going concern.  As discussed in Note 7 to the financial statements, the Company has no significant operating results to date, which raises substantial doubt about its ability to continue as a going concern.  Management s plans in regard to these matters are also described in Note 7.  The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+   
+ As further discussed in Note 9 to the financial statements, the Company has restated the financial statements for the year ended September 30, 2006 to account for a derivative liability, to change the valuation of certain stock issuances, also to change an investment value. 
+   
+  /s/ HJ Associates   Consultants, LLP  
+ HJ Associates   Consultants, LLP 
+ Salt Lake City, Utah 
+ December 7, 2006 
+
+F-3 
+
+F-4 
+
+F-5 
+
+CLX Investment Company, Inc.   
+  
+    Schedule of Investments  
+  
+    September 30, 2006  
+  
+    EQUITY INVESTMENTS:  
+                                               
+        Description 
+        Percent 
+                                
+   Company 
+   of Business 
+        Ownership 
+        Investment 
+             Fair Value 
+       
+    Non affiliated companies:  
+                                               
+   ActionView International, Inc. 
+   Advertising 
+        3% 
+                  128,570  
+      
+                     64,285  
+   (1) 
+  
+   Total non affiliated companies 
+                  $ 
+             128,570  
+        $ 
+                64,285  
+       
+    Affiliated Companies:  
+                                               
+   eStrategy Solutions, Inc. 
+   e-Learning 
+        49% 
+   $ 
+               62,080  
+         $  
+                62,080  
+   (2) 
+  
+   Zonda, Incorporated 
+   Medical diagnostic 
+        31% 
+                            -    
+                        104,820  
+   (3) 
+  
+     Total affiliated companies 
+                                   62,080  
+                        166,900  
+       
+   Total Investments 
+                  $ 
+             190,650  
+        $ 
+              231,185  
+
+COMMERCIAL LOANS:  
+                                               
+        Description 
+        Percent 
+                                
+   Company 
+   of Business 
+        Ownership 
+        Type of Credit 
+                      
+    Non affiliated companies:  
+                                               
+   Action View International, Inc. 
+   Advertising 
+        3% 
+        Credit Line 
+        $ 
+                      -  
+     (1) 
+  
+      Total loans to non affiliates 
+                                 $ 
+                        -    
+       
+    Affiliated Companies:  
+                                               
+   eStrategy Solutions, Inc. 
+   e-Learning 
+        49% 
+        Credit Line 
+        $ 
+              188,935  
+     (2) 
+  
+   Zonda, Incorporated 
+   Medical diagnostic 
+        31% 
+        Credit Line 
+                        280,563  
+     (3) 
+  
+      Total loans to affiliates 
+                                                 469,498  
+       
+   Total Loans 
+                                                 469,498  
+       
+    TOTAL INVESTMENTS AND LOANS  
+                                 $ 
+              700,683  
+
+(1) The Company agreed to extend a credit line of $350,000 To AVWI and was to receive up to 2,000,000 shares of restricted AVWI common stock of AVWI as consideration for providing a $350,000 line of credit.  The shares are delivered to the Company on a pro-rata basis as the credit line is drawn down.  The line of credit bears interest at an eight percent (8%) per annum and the principal and interest are due on December 31, 2008.  The due date for repaying the line of credit, plus accrued interest, shall be accelerated following the third consecutive month in which ActionView International generates net income (EBIT) of at least $50,000.  The Company has only extended $221,693 on the line of credit and added $17,484 of  interest for a total due of $239,177 as of  September 30, 2006.   As a result, ActionView has only issued 1,285,700 shares of its restricted common stock, 
+which has been recorded at fair value of $0.05 per share as of September 30, 2006 based on the closing bid price on September 30, 2006.  The fair value of the shares of AVWI at the date of the financing agreement was executed was $0.10 per share; therefore the Company has recorded a cost basis of all shares received from AVWI at $128,570 (1,285,700 at $0.10).  This value was recognized as interest income on the operating statement with subsequent changes to fair value being recorded as unrealized gains or losses.  During the quarter ending September 30, 2006 the Company was appraised of the fact that certain of the AVWI sales contracts on which financial projections had been based were invalid.  While AVWI is trying to get valid sales contracts in place, we believe that there is substantial doubt that AVWI will continue as a going concern  The value of the credit line of $239,177 has therefore been valued at $0.00 to reflect the uncertainty that the debt will be repaid. 
+
+F-6 
+
+(2) The Company purchased 4,900 shares (49%) of eStrategy restricted common stock for $62,080.  As of September 30, 2006 the Company has advanced eStrategy $176,824 under an operating line of credit and added $12,111 of interest for a total of $188,935.  The line of credit bears interest at eight percent (8%) per annum and the principal and interest are due on December 31, 2007.  Subsequent to September 30, 2006 Company was repaid all principal and interest owed.  In addition, the Company agreed to sell its equity position in eStrategy to John Matthews, President of eStrategy, for $62,080, which represented the fair value of the investment at that time. 
+  
+   (3) The Company received 615,385 shares of restricted common stock of Zonda, Inc. for providing a $500,000 line of credit. The Company valued the original investment of Zonda at $0.00 based on its start up nature.  As of September 30, 2006 the Company has advanced Zonda $275,592 under an operating line of credit and added $4,971 of QE interest for a total of $280,563.  The line of credit bears interest at an eight percent (8%) per annum and the principal and interest are due on December 31, 2007.  The repayment of the line of credit, plus acrued interest, shall be accelerated following the third consecutive month in which Zonda generates net income (EBIT) of at least $50,000.  The line of credit was not deemed impaired since the obligation is collateralized by intangible assets of Zonda including patents, FDA submissions, product formulations, etc.  At September 30, 2006, the Company es
+timates the fair value of Zonda to be $104,820 based on 31% of Zonda's annual revenues of $338,133.  Based on these factors, the Company believes that the presentation of its Zonda investments represent the fair value at September 30, 2006.   
+
+The accompanying notes are an integral part of these financial statements.  
+
+F-7 
+
+F-8 
+
+F-9 
+
+F-10 
+
+F-11 
+
+CLX INVESTMENT COMPANY, INC. 
+ Notes to the Financial Statements 
+ September 30, 2006, 2005 and 2004 
+   
+ NOTE 1 - NATURE OF ORGANIZATION  
+   
+ This summary of significant accounting policies of CLX Investment Company, Inc. is presented to assist in understanding the Company's financial statements. The financial statements and notes are representations of the Company's management who are responsible for their integrity and objectivity. In the opinion of management, all adjustments which are necessary for a fair presentation of the financial statements have been included.  These accounting policies conform to accounting principles generally accepted in the United States of America and have been consistently applied in the preparation of the financial statements.  
+   
+ a) 
+ Organization and Business Activities  
+   
+ The Company was incorporated on December 12, 1977 under the laws of the State of Colorado as Calvin Exploration Company, Inc. to engage in any lawful activity as shall be appropriate under laws of the State of Colorado. The Company was organized to engage in on-shore oil and gas exploration, development and production in the continental United States. In 1993 the name of the Company was changed to CLX Energy, Inc. Until 2004, the Company engaged solely in the acquisition, exploration, development and operation of oil and gas properties for its own account.  
+   
+  On May 24, 2004 the Company appointed new management and moved its headquarters to Temecula, CA. At the same time the Company formed CLX Oil   GAS, LLC a wholly owned subsidiary of CLX Energy, Inc. and transferred all of the oil and gas operations of the Company (including the assets and liabilities pertaining to such operations) into CLX Oil   Gas, LLC. On September 1, 2004 the Company sold 100% of its interest in CLX Oil   Gas, LLC to certain shareholders of the Company in exchange for shares of CLX Energy, Inc. The shareholders returned 1,433,552 shares in exchange for 100% interest in CLX Oil   GAS, LLC. The Board of Directors approved the  Securities purchase and Sale Agreement  and also obtained a fairness opinion from Lehrer Financial and Economic Advisory Service indicating that the Securities Purchase and Sale Agreement was a fair and equitable exchange. The sale of the subsidiary has been accou
+nted for as an asset sale transaction and all gas and oil operations are being reported as discontinued operations on the financial records.  
+   
+  On September 13, 2004, the Company filed with the Securities and Exchange Commission to become a Business Development Corporation as defined under the Investment Act of 1940. Additionally, on September 13, 2004, the Company registered an offering circular with the SEC for up to 500,000,000 shares of common stock under Regulation E of the Investment Act to raise capital and to make investments in eligible emerging or early-stage companies in various fields of business.  In anticipation of the election to become a BDC, the Company on September 1, 2004 changed its name to CLX Investment Company, Inc. to properly reflect the nature of its business.   
+   
+ As a business development company ( BDC ), the Company is required to maintain at least 70% of its assets invested in  eligible portfolio companies , which are loosely defined as any domestic company which is not publicly traded or that has assets less than $4 million. 
+   
+ b) 
+ Revenue Recognition 
+   
+ Prior to the discontinuation of operations on September 1, 2004 (See Note 6), the Company's revenue was created primarily from the sale of oil and gas. The Company recognized revenues the time of sale. Revenue was recorded at the completion of the sale and as the amounts were determined to be receivable. 
+   
+ The Company recognizes income and expense on the accrual basis of accounting.  As a business development company, the Company will recognize revenues from several sources. Management fees will be recognized when earned, dividends from portfolio investments will be recognized when declared and interest income on loans to portfolio companies will be accrued and compounded quarterly. Fair value of investments based on stock received from financing agreements will be recognized as interest income.  Increases and decreases in the market value of the Company's portfolio investments will be recognized as unrealized gains or losses until the time of disposition. See Note 2 for a discussion on the recognition methods of the Company for increases and decreases in the market value of the portfolio companies. 
+
+F-12 
+
+c) 
+ Cash  
+   
+ The Company considers all highly liquid investments purchased with a maturity of three months or less to be cash equivalents. As of September 30, 2006 the company had $8,179 cash deposited in our checking account. 
+   
+ d) 
+ Estimates  
+   
+ The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from the estimates.  
+   
+ e) 
+ e)     Fixed Assets 
+
+None 
+   
+ f) 
+ Basic Loss Per Share  
+   
+ The computation of basic loss per share of common stock is based on the weighted average number of shares outstanding during the period of the financial statements. Fully diluted loss per share is not presented as any common stock equivalents are antidilutive in nature. Common stock equivalents consisting of convertible debt and preferred stock have not been included in the calculation of loss per share.    
+
+g) 
+ Income Taxes  
+   
+ Deferred taxes are provided on a liability method whereby deferred tax assets are recognized for deductible temporary differences, operating losses, tax credit carryforwards and deferred tax assets are recognized for taxable temporary differences. Temporary differences are the differences between the reported amounts of assets and liabilities and their tax bases. Deferred tax assets are reduced by a valuation allowance when, in the opinion of management, it is more likely than not that some portion or all of the deferred tax assets will not be realized. Deferred tax assets and liabilities are adjusted for the effects of changes in tax laws and rates on the date of enactment.  
+   
+ Net deferred tax assets consist of the following components as of September 30, 2006 and 2005:  
+
+The income tax provision differs from the amount of income tax determined by applying the U.S. federal income tax rates of 39% to pretax income from continuing operations for the years ended September 30, 2006 and 2005 due to the following:  
+
+F-13 
+
+At September 30, 2006, the Company had net operating loss carryforwards of approximately $540,000 that may be offset against future taxable income from the years 2006 through 2026.  No tax benefit has been reported in the September 30, 2006 financial statements since the potential tax benefit is offset by a valuation allowance of the same amount. Due to the change in ownership provisions of the Tax Reform Act of 1986, net operating loss carryforwards for Federal income tax reporting purposes are subject to annual limitations. Should a change in ownership occur, net operating loss carryforwards may be limited as to use in future years. 
+   
+ h) 
+ Recent Accounting Pronouncements  
+   
+ During the year ended September 30, 2006, the Company adopted the following accounting pronouncements:  
+   
+  SFAS No. 123  -- In December 2004, FASB issued a revision to SFAS 123  Share-Based Payment . This Statement is a revision of FASB Statement No. 123,  Accounting for Stock-Based Compensation.  This Statement supersedes APB Opinion No. 25,  Accounting for Stock Issued to Employees,  and its related implementation guidance. This Statement establishes standards for the accounting for transactions in which an entity exchanges its equity instruments for goods or services. It also addresses transactions in which an entity incurs liabilities in exchange for goods or services that are based on the fair value of the entity s equity instruments or that may be settled by the issuance of those equity instruments. This Statement focuses primarily on accounting for transactions in which an entity obtains employee services in share-based payment transactions. This Statement does not change the accounting guidance for share-based payment transactions with par
+ties other than employees provided in Statement 123 as originally issued and EITF Issue No. 96-18,  Accounting for Equity Instruments That Are Issued to Other Than Employees for Acquiring, or in Conjunction with Selling, Goods or Services.  This Statement does not address the accounting for employee share ownership plans, which are subject to AICPA Statement of Position 93-6,  Employers  Accounting for Employee Stock Ownership Plans.  The adoption of this revision did not have a material impact on the Company s financial statements. 
+   
+  SFAS No. 153  -- In December 2004, FASB issued SFAS 153  Exchanges of Nonmonetary Assets an amendment of APB Opinion No. 29 .  The guidance in APB Opinion No. 29,  Accounting for Nonmonetary Transactions,  is based on the principle that exchanges of nonmonetary assets should be measured based on the fair value of the assets exchanged. The guidance in that Opinion, however, included certain exceptions to that principle. This Statement amends Opinion 29 to eliminate the exception for nonmonetary exchanges of similar productive assets and replaces it with a general exception for exchanges of nonmonetary assets that do not have commercial substance. A nonmonetary exchange has commercial substance if the future cash flows of the entity are expected to change significantly as a result of the exchange. The adoption of SFAS 153 did not have any impact on the Company s financial statements. 
+   
+  SFAS No. 152  -- In December 2004, FASB issued SFAS 152  Accounting for Real Estate Time-Sharing Transactions an amendment of FASB Statements No. 66 and 67 . This Statement amends FASB Statement No. 66,  Accounting for Sales of Real Estate,  to reference the financial accounting and reporting guidance for real estate time-sharing transactions that is provided in AICPA Statement of Position (SOP) 04-2,  Accounting for Real Estate Time-Sharing Transactions.  This Statement also amends FASB Statement No. 67,  Accounting for Costs and Initial Rental Operations of Real Estate Projects,  to state that the guidance for (a) incidental operations and (b) costs incurred to sell real estate projects does not apply to real estate time-sharing transactions. The accounting for those operations and costs is subject to the guidance in SOP 04-2. This Statement is effective for financial statements for fiscal years beginning after June 15, 2005. The Compa
+ny does not believe adoption of SFAS 152 will have any impact on the Company s financial statements. 
+   
+  SFAS No. 151  -- In November 2004, the FASB issued SFAS 151  Inventory Costs an amendment of ARB No. 43 . This Statement amends the guidance in ARB No. 43, Chapter 4,  Inventory Pricing,  to clarify the accounting for abnormal amounts of idle facility expense, freight, handling costs, and wasted material (spoilage).  Paragraph 5  
+
+F-14 
+
+of ARB 43, Chapter 4, previously stated that  . . . under some circumstances, items such as idle facility expense, excessive spoilage, double freight, and re-handling costs may be so abnormal as to require treatment as current period charges. . . .   This Statement requires that those items be recognized as current-period charges regardless of whether they meet the criterion of  so abnormal.   In addition, this Statement requires that allocation of fixed production overheads to the costs of conversion be based on the normal capacity of the production facilities. The provisions of this Statement shall be effective for inventory costs incurred during fiscal years beginning after June 15, 2005. The Company does not believe adoption of SFAS 151 will have any impact on the Company s financial statements. 
+   
+  SFAS No. 150  -- In May 2003, the FASB issued SFAS 150,  Accounting for Certain Financial Instruments with characteristics of both Liabilities and Equity.   This new statement changes the accounting for certain financial instruments that, under previous guidance, issuers could account for as equity or classifications between liabilities and equity in a section that has been know as  mezzanine capital.   It requires that those certain instruments be classified as liabilities in balance sheets.  Most of the guidance in SFAS 150 is effective for all financial instruments entered into or modified after May 31, 2003.  The adoption of SFAS 150 did not have any impact on the Company s financial statements. 
+   
+  SFAS No. 149  -- In April 2003, the FASB issued SFAS 149,  Amendment of Statement 133 on Derivative Instruments and Hedging Activities.   SFAS 149 amends and clarifies financial accounting and reporting for derivative instruments, including certain derivative instruments embedded in other contracts (collectively referred to as derivatives) and for hedging activities under SFAS 133,  Accounting for Derivative Instruments and Hedging Activities .  This Statement is effective for contracts entered into or modified after June 30, 2003, with certain exceptions, and for hedging relationships designated after June 30, 2003, with certain exceptions.  The adoption of SFAS 149 did not have any effect on the Company s financial statements. 
+   
+  SFAS No. 46  -- In January 2003, the FASB issued Interpretation 46,  Consolidation of Variable Interest Entities  (FIN 46), which addresses consolidation by business enterprises of variable interest entities.  FIN 46 clarifies the application of Accounting Research Bulletin No. 51,  Consolidated Financial Statements , to certain entities in which equity investors do not have the Characteristics of a controlling financial interest or do not have sufficient equity at risk for the entity to finance its activities without additional subordinated financial support from other parties.  FIN 46 applies immediately to variable interest entities created after January 31, 2003, and to variable interest entities in which an enterprise obtains an interest after that date.  It applies in the first fiscal year or interim period beginning after June 15, 2003, to variable interest entities in which an enterprise holds a variable interest that it acq
+uired before February 1, 2003.  The Company has not identified and does not expect to identify any variable interest entities that must be consolidated. 
+   
+  FASB Interpretation No. 45  --   Guarantor s Accounting and Disclosure Requirements for Guarantees, Including Indirect Guarantees of Indebtedness of Others   an Interpretation of FASB Statements No. 5, 57 and 107 .  The initial recognition and initial measurement provisions of this Interpretation are to be applied prospectively to guarantees issued or modified after December 31, 2002.  The disclosure requirements in the Interpretation were effective for financial statements of interim or annual periods ending after December 15, 2002.  The adoption of FASB Interpretation No. 45 did not have a material effect on the financial statements of the Company. 
+   
+ During the year ended September 30, 2004, the Company adopted the following Emerging Issues Task Force Consensuses:  EITF Issue No. 00-21  Revenue Arrangements with Multiple Deliverables , EITF Issue No. 01  8   Determining Whether an Arrangement Contains a Lease , EITF Issue No. 02-3  Issues Related to Accounting for Contracts Involved in Energy Trading and Risk Management Activities , EITF Issue No. 02-9  Accounting by a Reseller for Certain Consideration Received from a Vendor , EITF Issue No. 02-17,   Recognition of Customer Relationship Intangible Assets Acquired in a Business Combination ,  EITF Issue No. 02-18  Accounting for Subsequent Investments in an Investee after Suspension of Equity Method Loss Recognition , EITF Issue No. 03-1,  The Meaning of Other Than Temporary and its Application to Certain Instruments , EITF Issue No. 03-5,  Applicability of AICPA Statement of
+ Position 9702,  Software Revenue Recognition  to Non-Software Deliverables in an Arrangement Containing More Than Incidental Software , EITF Issue No. 03-7,  Accounting for the Settlement of the Equity Settled Portion of a Convertible Debt Instrument That Permits or Requires the Conversion Spread to be Settled in Stock , EITF Issue No. 03-10,  Application of EITF Issue No. 02-16 by Resellers to Sales Incentives Offered to Consumers by Manufacturers.  These newly issued accounting pronouncements had no effect on the Company s current financial statements and did not impact the Company. 
+   
+ NOTE 2 - FAIR VALUE OF FINANCIAL INSTRUMENTS 
+
+F-15 
+
+As of September 30, 2006, the Company had investments in three portfolio companies.  Each of the portfolio companies qualifies as an  eligible  portfolio investment as defined by the Investment Company Act of 1940.   As a result, the Company s investment portfolio meets the Act s requirement that at least 70% of the Company s assets be invested in eligible companies. 
+   
+ As required by ASR 118, the Board of Directors of the company is required to assign a fair value to all investments. To comply with Section 2(a)(41) of the Investment Company Act and Rule 2a-4 under the Investment Company Act, it is incumbent upon the board of directors to satisfy themselves that all appropriate factors relevant to the value of securities for which market quotations are not readily available have been considered and to determine the method of arriving at the fair value of each such security. To the extent considered necessary, the board may appoint persons to assist them in the determination of such value, and to make the actual calculations pursuant to the board's direction. The board must also, consistent with this responsibility, continuously review the appropriateness of the method used in valuing each issue of security in the company's portfolio. The directors must recognize their responsibilities in this matter and whenever technical assistance is re
+quested from individuals who are not directors, the findings of such intervals must be carefully reviewed by the directors in order to satisfy themselves that the resulting valuations are fair.  
+   
+ No single standard for determining  fair value...in good faith  can be laid down, since fair value depends upon the circumstances of each individual case. As a general principle, the current  fair value  of an issue of securities being valued by the board of directors would appear to be the amount which the owner might reasonably expect to receive for them upon their current sale. Methods which are in accord with this principle may, for example, be based on a multiple of earnings, or a discount from market of a similar freely traded security, or yield to maturity with respect to debt issues, or a combination of these and other methods. Some of the general factors which the directors should consider in determining a valuation method for an individual issue of securities include: 1) the fundamental analytical data relating to the investment, 2) the nature and duration of restrictions on disposition of the securities, and 3) an evaluation of the force
+s which influence the market in which these securities are purchased and sold. Among the more specific factors which are to be considered are: type of security, financial statements, cost at date of purchase, size of holding, discount from market value of unrestricted securities of the same class at time of purchase, special reports prepared by analysis, information as to any transactions or offers with respect to the security, existence of merger proposals or tender offers affecting the securities, price and extent of public trading in similar securities of the issuer or comparable companies, and other relevant matters.  
+
+The board has arrived at the following valuation methodology for its portfolio investments: 
+   
+ All portfolio investments shall be carried on the books at  fair market value.  
+   
+ Where market values can be readily determined via stock quotations in a reasonably liquid market, the fair market shall be based on the quoted bid price on the day of calculation.   
+   
+ Fair market value shall be determined on at least a quarterly basis.  Where there are material changes in portfolio operations, fair market value shall be re-examined as such material changes occur.  In the event the stock trading price is within 10% of Net Book Value, and the Company wishes to sell stock, fair market value shall be calculated on a monthly basis to ensure that stock is not sold below NBV. 
+   
+ Where there is not a readily available source for determining the market value of any investment, either because the investment is not publicly traded, or is thinly traded, the Board of Directors shall analyze the following factors, where available, for determining fair market value: 
+
+Total amount of the Company s actual investment. This amount shall include all loans, purchase price of securities, and fair value of securities given at the time of exchange.  
+     
+  Total revenues for the preceding twelve months   
+     
+  Total revenues for the preceding five years  
+     
+  Historic earnings before interest, taxes and depreciation for each of the past five years  
+     
+  Estimate of likely sale price of investment  
+     
+  Bona fide purchase offers from third parties  
+     
+  Net assets of investment  
+     
+  Likelihood of investment generating positive returns (going concern)  
+     
+  Financial projections for coming 24 months  
+     
+  Independent appraisal reports  
+
+F-16 
+
+Budget to actual performance reports  
+   
+ The value of the loans and lines of credit shall be adjusted down if there is a reasonable expectation that the Company will not be able to recoup the investment or if there is reasonable doubt about the investment s ability to continue as a going concern.  In order to assess impairment of loan value, the portfolio investment s budget to actual performance criteria shall be evaluated along with 12 month financial projections.  Additionally, where available, the Board shall review other relevant factors affecting repayment including historical cash flows, material contracts, collateral, debt maturity, alternate financing resources, etc. 
+   
+ NOTE 3   RELATED PARTY TRANSACTIONS 
+   
+ The Company executed a note payable on June 21, 2005 with Stone Investment Group for $60,000.  The note bears interest at eight percent (8%) per annum and is due on June 21, 2006.   
+   
+   Line of Credit   
+ During the year ended September 30, 2006, the Company received $64,000 under a credit line provided by Sequoia International, Inc.  The line of credit is for $100,000 and bears interest at 8% per annum.  The line and accrued interest are due on December 31, 2006.  Sequoia could be deemed an affiliated entity by virtue of the 22,888,800 shares of common stock being held in escrow for their benefit; though, since Sequoia can neither liquidate nor vote such shares, they are not deemed to be beneficial owners of the stock.  The Company received the unanimous consent of the Board of Directors prior to accepting the credit line from Sequoia. 
+   
+ NOTE 4 - CONVERTIBLE DEBENTURES  
+   
+ During the year ended September 30, 2006, the Company eliminated all of its convertible debentures by restructuring $200,000 of its convertible debentures into promissory notes payable.  The Promissory note is due October 1, 2006 and bears interest at the rate of eight percent (8%) per annum.  The balance of the debentures, $225,888, were converted into 22,888,800 shares of free trading common stock of which 22,588,800 shares were placed in an escrow account in the name of Sequoia International.  These escrow shares are voted by the Company s board of directors and cannot be resold while in escrow.  Shares in escrow are released to Sequoia International upon notice to and consent of the escrow agent. 
+    
+ NOTE 5 - EQUITY TRANSACTIONS  
+   
+  Common Stock :  
+   
+ During the year ended September 30, 2006, the Company issued 35,900,000 shares of free trading common stock for cash of $361,360.  These shares were issued pursuant to the Company s offering circular under Regulation E and were sold by the Company s chief executive officer without the assistance of any broker dealers. The Company relied on Regulation E in making these sales. No advertising or general solicitation was employed in offering these shares. Each purchaser received a copy of the Company s offering circular. The shares sold in reliance on Regulation E are not restricted securities.  In addition, the Company issued 6,250,000 shares of restricted common stock for cash of $25,000.  The Company relied on section 4(2) of the Securities Act of 1933 in making the sales of securities. No advertising or general solicitation was employed in offering the shares. Each purchaser received disclosure information concerning the Company. Each purchaser also had the
+ opportunity to investigate the Company and ask questions of its chief executive officer and board of directors. The securities sold were offered for investment purposes only and not for the purpose of resale or distribution. The transfer of the shares sold was appropriately restricted by the Company. 
+
+Preferred Stock : 
+   
+ On February 1, 2005, the Company issued 9,000,000 shares of preferred stock designated Series A Preferred to an unaffiliated third party as part of a $500,000 debt financing commitment.  The Series A Preferred stock was convertible into common stock on a 1:1 basis and had the ability to appoint two Directors to the Company s Board.  On August 8, 2005, the Company and the Series A Preferred holder mutually agreed to cancel the Series A Preferred since there was concern that the convertible nature of the Series A could violate certain provisions of the Investment Company Act of 1940.  As a result, 8,900,000 shares of Series A Preferred stock were cancelled.  The remaining 100,000 shares of Series A Preferred were converted into 100,000 shares of designated Series B Preferred that had, as its only preference, the ability to appoint two Directors to the Company s Board.  On all other matters, the Series B Preferred votes were with the common 
+stock on a share for share basis.  The Series B Preferred was not convertible. On May 30, 2006, the Company s board of directors elected to cancel the 100,000 shares of Series B preferred stock outstanding.  The sole Series B preferred shareholder agreed to this action.  By canceling these shares, the common stock shareholders are now able to elect all members of the Board of Directors.  
+
+F-17 
+
+NOTE 6 - DISCONTINUED OPERATIONS  
+   
+ Effective September 1, 2004, the Company spun off the oil and gas portion of its business. The financial statements have been retroactively restated to reflect this event. No tax benefit has been attributed to the discontinued operations.  
+
+The following is a summary of the transaction and the effect to the outstanding shares of the Company:  
+
+The following is a summary of the profit and loss from discontinued operations resulting from the elimination of all operations:  
+
+F-18 
+
+NOTE 7 - GOING CONCERN  
+   
+ The Company's financial statements are prepared using accounting principles generally accepted in the United States of America applicable to a going concern, which contemplates the relation of assets and liquidation of liabilities in the normal course of business. The Company has generated a loss of $304,465 for the year ended September 30, 2006.  
+   
+ The accompanying financial statements have been prepared assuming that the Company will continue as a going concern.  The Company s current liabilities exceed their current assets and the Company has been dependent upon financing to continue operations.  The financial statements do not include any adjustments that might result from the outcome of this uncertainty.  In addition, approximately $220,000 in short-term debt was converted into common stock. As a result, subsequent to September 30, 2006, the Company s current assets exceeded current liabilities.  
+   
+ On September 13, 2004, the Company elected to report as a business development company under the Investment Company Act of 1940. As a Business Development Company, the Company can sell up to $5,000,000 in common stock every twelve months under an exemption from registration. Also on September 14, 2004, the Company filed a notification with the SEC that it intends to sell all $5 million of this Regulation E exemption.  
+   
+ The ability of the Company to continue as a going concern is dependant upon its ability to successfully seek out and consummate investments, or to secure other sources of financing such that it may commence profitable operations. The accompanying financial statements do not include any adjustments that might be necessary if the Company is unable to continue as a going concern. 
+   
+ NOTE 8- COMMITMENTS AND CONTINGENCIES  
+   
+ The Company signed a management agreement with Javelin Advisory Group to provide administrative support and facilities for a flat fee of $12,500 per month. The following table identifies the minimum financial obligation of these contracts for the next five years: 
+
+The Company has advanced money against lines of credit to its portfolio companies.   The Company has committed to advance a total of $1,100,000 on these lines of credit of which it had advanced $184,626 as of September 30, 2006.  Subsequent to September 30, 2006, an additional $198,218 was advanced leaving a balance of $717,156 that can be drawn against.   The Company s obligation to provide further advances are based on the portfolio companies cash requirements, meeting certain operational milestones, and adhering to budgets.   
+   
+   NOTE 9  PRIOR PERIOD ADJUSTMENTS 
+   
+   Application of EITF 00-19   
+ During the year ended September 30, 2006, the Company determined that the accounting treatment of convertible debentures previously issued had failed to consider the impact of applying EITF 00-19 in recording the liability associated with certain derivative instruments. 
+   
+ Because the convertible debentures previously issued by the Company were convertible into such number of shares of common stock of the Company equal to the amount of debt being converted divided by some pre-determined fraction of the closing bid price of the stock on the date of conversion, the number of shares to be issued on conversion was variable.  As a result, the embedded conversion option required liability classification under EITF 00-19.  The Company previously recorded all convertible debentures under EITF 00-27, where a beneficial conversion cost associated with the convertibility feature of the security that equals the value of any discount to market available at the time of conversion was recorded at the time the convertible security was first issued. 
+   
+ In accounting for derivatives under EITF 00-19, the Company is required to record a liability representing the estimated present value of the conversion feature considering the historic volatility of the Company s stock, and a discount representing the imputed interest associated with the beneficial conversion feature.  The discount is then amortized over the life of the debentures and the derivative liability is adjusted periodically according to stock price fluctuations.  
+
+F-19 
+
+The accompanying financial statements for the year ended September 30, 2005 have been restated to effect the changes described above.  The impact of the adjustments related to the classification of and accounting for the conversion features are as follows: 
+   
+ Balance Sheet:   A derivative liability of $495,073 was added to current liabilities.  Additional Paid-In Capital was reduced $396,888 and a discount on convertible debentures of $162,538 was recorded. 
+   
+ Statement of Operations:  A loss on derivative liability of $98,185 and interest expense of $333,350 were recorded.  
+   
+   Write off of Bad Debt   
+   
+ During 2006, the Company became appraised that one of its portfolio investments, ActionView, Inc., had material purchase order contract that was fraudulent.  The basis of this contract had formed the primary motivation behind the Company s decision to invest in ActionView.  Without this contract, the Company is doubtful of ActionView s ability to repay the credit line extended.  As a result, the Company has written off the credit line receivable from ActionView and eliminated the interest income for all periods presented.  This resulted in a reduction of Advances on Credit Lines and an increase in Retained Deficit of $101,153 as of September 30, 2005. 
+   
+   Interest Expense   
+   
+ During the year ended September 30, 2005, the Company converted out certain debentures at a discount slightly higher than that prescribed in the debenture agreements.  Originally, the Company recorded the discount on debentures as Beneficial Conversion Cost at the time the debentures were issued; however, no adjustment was made at the time of conversion based on the actual number of shares issued on conversion.  The Company recorded additional expense of $42,170 at September 30, 2005 to account for this discrepancy. 
+   
+   Reclassifications   
+   
+ The Company previously reported Advances on Credit Lines   Non Affiliates of $280,933 as a current asset as of September 30, 2005.  Of this amount, $101,153 was written off to bad debt as described above.  The balance of $179,780 was reclassified as Advances on Credit Lines   Affiliates and moved to the Investments section of the Balance Sheet.  Further, Investments-Non Affiliates of $62,080 was reclassified as Investments-Affiliates. 
+   
+   Summary Impact   
+   
+  Collectively, the impact of the adjustments and reclassifications had the following impact on the financial statements as of September 30, 2005: 
+   
+ Balance Sheet: 
+ Current Assets were reduced $280,933 
+ Discount on Debt was increased $162,538 
+ Current Liabilities increased $495,073 
+ Additional Paid-in Capital decreased $354,718 
+ Retained Deficit increased $78,970 
+ Income Statement: 
+ Derivative Loss recorded of $98,185 
+ Interest Expense recorded of $376,520 
+ Beneficial Conversion reduced $496,888 
+ Bad Debt Expense recorded of $101,153 
+   
+ NOTE 10 - SUBSEQUENT EVENTS  
+   
+ Subsequent to the year ended September 30, 2006, the Company issued 250,000 restricted shares of stock in exchange for cash of $1,000. 
+
+Subsequent to September 30, 2006, the Company made additional investment into its portfolio companies.  Details of such additional investment are as follows: 
+
+Company 
+          
+ Nature of Investment 
+          
+ Amount of new investment 
+  
+   Zonda, Inc.  
+        Line of credit 
+       
+   $60,553 
+
+On October 2, 2006, CLX Investment Company, Inc. (the  Company ), received repayment of the credit line and accrued interest due from eStrategy Solutions, Inc. ( ESS ) which totaled $189,233.  The Company also agreed to sell its stock position in ESS to John R. Matthews, President of ESS, in exchange for $62,080.    
+
+F-20 
+

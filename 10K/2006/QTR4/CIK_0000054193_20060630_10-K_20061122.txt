@@ -1,0 +1,3146 @@
+<Header>
+<FileStats>
+    <FileName>20061122_10-K_edgar_data_54193_0001104659-06-077383_1.txt</FileName>
+    <GrossFileSize>1244706</GrossFileSize>
+    <NetFileSize>126460</NetFileSize>
+    <NonText_DocumentType_Chars>249</NonText_DocumentType_Chars>
+    <HTML_Chars>773372</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>31</N_Tables>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-06-077383.hdr.sgml : 20061122
+<ACCEPTANCE-DATETIME>20061122130803
+ACCESSION NUMBER:		0001104659-06-077383
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		8
+CONFORMED PERIOD OF REPORT:	20060630
+FILED AS OF DATE:		20061122
+DATE AS OF CHANGE:		20061122
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TEL INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000054193
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHONOGRAPH RECORDS & PRERECORDED AUDIO TAPES & DISKS [3652]
+		IRS NUMBER:				410946588
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07115
+		FILM NUMBER:		061235479
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2605 FERNBROOK LN N
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55447-4736
+		BUSINESS PHONE:		6125596800
+
+	MAIL ADDRESS:	
+		STREET 1:		2605 FERNBROOK LANE N
+		STREET 2:		15525 MEDINA ROAD
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55447
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Rw50c8FNdMy264Nj6T7DCbISNDFlH9yDEKqCfwjSwa52aVDRtbHtMuwLmtYdtqzz
+ t+hY2cFRnIiEAbvuWOcGpg==
+
+ 0001104659-06-077383.txt : 20061122
+
+10-K
+ 1
+ a06-24410_110k.htm
+ ANNUAL REPORT PURSUANT TO SECTION 13 AND 15(D)
+
+UNITED STATES   
+
+   SECURITIES AND EXCHANGE COMMISSION   
+
+   Washington, D.C. 20549   
+
+FORM 10-K   
+
+(MARK ONE)  
+
+   x                                  ANNUAL
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended  June 30,
+2006   
+
+OR  
+
+o                                     TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from                
+to                  
+
+Commission file number  1-07115   
+
+K-TEL INTERNATIONAL, INC.   
+
+  (Exact name of registrant as specified in its charter)  
+
+Minnesota  
+
+41-0946588   
+
+(State or other
+  jurisdiction of  
+
+(I.R.S. Employer
+  Identification No.)  
+
+incorporation or
+  organization)  
+
+2491
+  Xenium Lane North, Plymouth, Minnesota   
+
+55441   
+
+(Address of
+  principal executive offices)  
+
+(Zip Code)  
+
+Registrant s
+  telephone number, including area code:  (763) 559-5566   
+
+Securities
+  registered pursuant to Section 12(b) of the Act:  
+
+None   
+
+Securities
+  registered pursuant to Section 12(g) of the Act:  
+
+Common
+  Stock, par value $0.01   
+
+(Title of class)  
+
+Indicate by check mark if the registrant is a
+well-known seasoned issuer, as defined in Rule 405 of the Securities Act.   Yes   o       No  x  
+
+  Indicate by check mark if
+the registrant is not required to file reports pursuant to Section 13 or 15(d)
+of the Act.   Yes   o       No  x  
+
+  Indicate by check mark
+whether the registrant (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding
+12 months (or for such shorter period that the registrant was required to file
+such reports), and (2) has been subject to such filing requirements for the
+past 90 days.    Yes  o       No  x  
+
+  Indicate by check mark if
+disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not
+contained herein, and will not be contained, to the best of registrant s
+knowledge, in definitive proxy information statements incorporated by reference
+in Part III of this Form 10-K or any amendment to this Form 10-K.     x  
+
+  Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, or a non-accelerated filer. See definition of  accelerated
+filer and large accelerated filer   in
+Rule 12b-2 of the Exchange Act.  
+
+Large Accelerated Filer  o  
+
+Accelerated
+  Filer   o  
+
+Non-Accelerated
+  Filer   x  
+
+Indicate by check mark
+whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act).   Yes   o       No  x  
+
+  As of November 17, 2006, the aggregate
+market value of voting stock held by non-affiliates of the registrant based on
+the last sale price as reported by the Over-the-Counter Bulletin Board on such
+date was $211,189.  
+
+  As of November 17, 2006, the registrant had
+13,653,738 shares of Common Stock outstanding.  
+
+  DOCUMENTS
+INCORPORATED BY REFERENCE  
+
+  None.  
+
+TABLE OF CONTENTS   
+
+PART I   
+
+Item 1.   
+
+Business   
+
+Item
+  1A.   
+
+Risk
+  Factors   
+
+Item 1B.   
+
+Unresolved Staff Comments   
+
+Item 2.   
+
+Properties   
+
+Item
+  3.   
+
+Legal
+  Proceedings   
+
+Item 4.   
+
+Submission of Matters to a Vote of Security Holders   
+
+PART II   
+
+Item 5.   
+
+Market for Registrant s Common Equity, Related
+  Stockholder Matters and Issuer Purchases of Equity Securities   
+
+Item
+  6.   
+
+Selected
+  Financial Data   
+
+Item 7.   
+
+Management s Discussion and Analysis of Financial
+  Condition and Results of Operations   
+
+Item 7A.   
+
+Quantitative and Qualitative Disclosures about Market
+  Risk   
+
+Item 8.   
+
+Financial Statements and Supplementary Data   
+
+Item 9.   
+
+Changes in and Disagreements with Accountants on
+  Accounting and Financial Disclosure   
+
+Item 9A.   
+
+Controls and Procedures   
+
+Item
+  9B.   
+
+Other
+  Information   
+
+PART III   
+
+Item 10.   
+
+Directors and Executive Officers of the Registrant   
+
+Item 11.   
+
+Executive Compensation   
+
+Item 12.   
+
+Security Ownership of Certain Beneficial Owners and
+  Management and Related Stockholder Matters   
+
+Item 13.   
+
+Certain Relationships and Related Transactions   
+
+Item 14.   
+
+Principal Accountant Fees and Services   
+
+PART IV   
+
+Item 15.   
+
+Exhibits and Financial Statement Schedules   
+
+Signatures   
+
+Index to Consolidated Financial Statements   
+
+Exhibit
+  Index   
+
+SAFE HARBOR
+STATEMENT UNDER THE 
+PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995   
+
+  Certain statements of a
+non-historical nature under the caption  Management s Discussion and Analysis
+of Financial Condition and Results of Operations  and elsewhere in this Form
+10-K constitute  forward-looking statements  within the meaning of the Private
+Securities Litigation Reform Act of 1995. Such forward-looking statements may
+be identified by the use of terminology such as  may,   will,   expect,   anticipate, 
+ estimate,   should,  or  continue  or the negative thereof or other variations
+thereon or comparable terminology. Such forward-looking statements are subject
+to certain risks and uncertainties that could cause actual results to differ
+materially from historical results or from those results currently anticipated
+or projected. Such factors include, among other things, the following: changes
+in consumer purchasing; demand for and market acceptance of new and existing
+products; the impact from competition for recorded music; the outcome of legal
+proceedings; dependence on suppliers and distributors; success of marketing and
+promotion efforts; technological changes and difficulties; availability of
+financing; foreign currency variations; general economic, political and
+business conditions; and other matters. See  Risk Factors  in Item 1A for
+additional information.  We undertake no
+obligation to release publicly the result of any revisions to these
+forward-looking statements, except as required by law.  
+
+3  
+
+PART I      
+
+   ITEM 1:                BUSINESS     
+
+  K-tel International, Inc.
+(the  Company ,  K-tel  or the  registrant ) was incorporated in 1968 and
+currently has its corporate offices located in Plymouth, Minnesota. Through its
+operating subsidiaries, K-tel licenses its music catalog internationally and
+markets entertainment products mainly derived from its catalog through retail
+and direct response marketing channels in the United States and Europe. The
+Company has a focused method of distribution that targets the strengths of selected
+individual retailers and supplies products suited to each retailer s needs.
+These products are derived mainly from the Company s master recordings music
+catalog with the objective of realizing more competitive profit margins. K-tel
+seeks to license its name and trademarks to other companies.  Licenses are granted for a royalty or fee,
+with no cost to the Company.  
+
+   Description of
+Businesses   
+
+   Music Licensing and Sales   
+
+  K-tel s primary activity is licensing music to other record companies
+and to other segments of the entertainment industry. K-tel owns a proprietary
+master music catalog of approximately 6,000 titles consisting of original
+recordings and re-recordings of music from the 1950 s through today. The
+Company licenses the rights to its master recordings to third parties worldwide
+for use in albums.  The Company also
+licenses its master recordings for films, television programs, commercials and
+electronic downloads to various media formats, for either a flat fee or a
+royalty based on the number of units sold. Licensing of its proprietary music
+rights to third parties has historically been an important revenue source for
+K-tel.  
+
+  The Company also markets and distributes pre-recorded compact discs
+utilizing the Company s master recordings in its music catalog. Customers
+include retailers, wholesalers and rack service distributors. These products
+are also sold through subsidiaries and licensees in the United States, United
+Kingdom and elsewhere in Europe. The principal entertainment products that
+K-tel markets and sells consist primarily of pre-recorded thematic music
+packages in a compilation format featuring various artists. These thematic
+music selections, which cover nearly all music genres, are targeted at a
+variety of age groups. K-tel provides marketing support for its music sales
+through cooperative advertising with retailers, print media, radio and
+television advertising, and in-store promotions and displays.  
+
+  One customer, I Tunes, accounted for approximately 15.2% of K-tel s
+revenue for the year ended June 30, 2006. The loss of, or a substantial
+reduction in, business from this customer could have a material adverse effect
+on the Company.  
+
+  K-tel delivers music
+products through licensing its master music catalog to other music companies,
+through electronic downloads of the Company s master music catalog and sales of
+CDs through traditional wholesale and retail distribution channels. Digital
+music distribution provides both significant risks and opportunities for K-tel.
+The risks include K-tel s uncertain ability to compete with other music
+companies from a marketing and technological standpoint. The Company believes
+there are additional opportunities to license its owned library of master
+recordings and is pursuing alternative licensing and distribution opportunities.  
+
+  The Company s ability to
+continue its present operations and implement future expansion plans
+successfully is contingent mainly upon its ability to maintain its line of
+credit arrangements with K-5 Leisure Products, Inc., the Company s largest
+shareholder which is controlled by Philip Kives, the Chairman of the Board,
+President and Chief Executive Officer of K-tel (see Note 3 to the consolidated
+financial statements), increase its revenues and profit margins, and ultimately
+attain and sustain profitable operations. Without increased revenues and
+sustained profitability, the cash generated from the Company s current
+operations will likely be inadequate to fund operations and service the Company s
+indebtedness on an ongoing basis. Management is focusing its efforts on music
+licensing and music distribution. However, there can be no assurance that the
+Company will achieve profitable operations through these efforts or be able to
+continue operations. The financial statements do not include any adjustments
+that might result from the outcome of these uncertainties.  
+
+   Competition   
+
+  The music business is
+highly competitive.  K-tels competitors
+include national and regional companies; certain of these competitors (Sony BMG
+Corp., Time Warner, Inc. and EMI) dominate the market for licensing and pre-recorded
+music. K-tel does not have the financial resources, nor does it have the depth
+or breadth of catalog, distribution capabilities or current repertoire of these
+companies. K-tel s ability to compete in the future depends upon a number of
+factors, including its ability to:  
+
+4     
+
+obtain
+licenses with independent music labels and manufacturers; 
+
+                        expand
+the customer base for the Company s master music catalog for digital downloads;
+and 
+
+                        build
+upon and maintain its reputation for 
+licensing,  producing, marketing
+and distributing high quality music. 
+
+  The major pre-recorded
+music companies, either directly or through subsidiaries, now manufacture and
+distribute pre-recorded music compilations in direct competition with K-tel s
+music compilation products. With this competition, the Company relies on its
+own Dominion master music catalog for the production of music compilations.  
+
+   Intellectual
+Property   
+
+  The
+Company believes that the K-tel  name and mark are well recognized and are
+therefore valuable assets of the Company. The Company pursues the registration
+of its trademarks and service marks in the U.S. and internationally. Effective
+trademark, service mark and copyright protection may not be available in every
+country in which the Company s products and services are made available.
+Federal and state trademark registrations continue indefinitely, so long as the
+trademarks are in use and periodic renewals and other required filings are
+made.  
+
+  The
+Company regards its copyrights, service marks, trademarks, trade dress, trade
+secrets and similar intellectual property as critical to its success, and
+relies on trademark and copyright law, trade secret protection and
+confidentiality and/or license agreements with its employees, customers,
+partners and others to protect its proprietary rights. K-tel believes strongly
+in protecting its intellectual property and will seek protection for new
+products and marks whenever the Company believes it is advisable.   K-tel cannot assure you that any trademarks held by it will
+be valid, enforceable or otherwise of value to the Company in relation to its
+competitors or the market in general, or that any trademark for which it has
+applied or may apply will be granted.  
+
+  In
+addition to trademark protection, the Company generally obtains copyrights in
+music works, compilations and sound recordings.  
+
+   Employees   
+
+  On June 30, 2006,
+K-tel employed 10 full time and 3 part time people worldwide.  
+
+   Financial and Geographic Information   
+
+  For financial
+information about the Company s business segment and geographic area operations
+for each of the three fiscal years ended June 30, 2006 (see Note 9 to the
+consolidated financial statements).  
+
+   ITEM 1A:             RISK FACTORS     
+
+  The following are
+certain risk factors that could affect the Company s business, financial
+condition, operation results and cash flows. 
+These risk factors should be considered in connection with evaluating
+the forward-looking statements contained in this Annual Report on Form 10-K because
+these risk factors could cause actual results to differ materially from those
+expressed in any forward-looking statement. 
+The risks highlighted below are not the only ones the Company  faces. 
+If any of these events actually occur, the Company s business, financial
+condition, operating results or cash flows could be negatively affected.  The Company cautions you to keep in mind
+these risk factors and to refrain from attributing undue certainty to any
+forward-looking statements, which speak only as of the date of this report.  
+
+   Continuing
+losses could affect the Company s ability to obtain additional working capital.   
+
+  The Company has incurred losses in recent fiscal years
+and expects to continue incurring losses for the foreseeable future.
+Continuation of the Company s operations will require additional working
+capital and continued access to financing to meet working capital requirements
+and develop new business opportunities which may not be available on acceptable
+terms or at all.  
+
+  In addition, the report of the Company s independent
+registered public accounting firm for fiscal year 2006 includes an explanatory
+paragraph expressing doubt about the Company s ability to continue as a going
+concern.  
+
+5     
+
+The
+level of the Company s indebtedness could adversely affect financial condition.   
+
+  The Company has primarily funded its recent operations
+through secured loans from K-5 Leisure Products, Inc. ( K-5 ), the Company s
+largest shareholder which is controlled by Philip Kives, the Chairman of the
+Board, President and Chief Executive Officer of K-tel.  Although K-5 continues to advance funds
+sufficient to meet the Company s needs at this time, there can be no assurance
+that K-5 will continue to advance funds sufficient to meet the Company s needs
+or that the Company will be able to obtain additional financing upon favorable
+terms or at all when required.  
+
+   A
+substantial portion of total net sales are from a small group of customers. A
+reduction in sales to any of these customers could have a material adverse
+effect on net sales and profitability.   
+
+  The Company
+believes that sales to a small group of customers will continue to represent a
+significant percentage of total net sales. Substantially all of the products
+the Company distributes to these customers are supplied on a non-exclusive
+basis under arrangements that may be cancelled without cause and upon short
+notice, and retail customers generally are not required to make minimum
+purchases. If the Company is unable to continue to sell products to this select
+group of customers or is unable to maintain sales to these customers at current
+levels and cannot find other customers to replace these sales, there would be
+an adverse impact on net sales and profitability. There can be no assurance
+that the Company will continue to recognize a significant amount of revenue
+from sales to any specific customer.  
+
+   The
+Company may not have the resources necessary to successfully compete in the
+music industry.   
+
+  The music business
+is highly competitive and dominated by several major record companies that have
+greater financial resources than the Company and have a larger depth and
+breadth of catalog, distribution capabilities and current repertoire than the
+Company, making it difficult to compete in this market.    The major pre-recorded music
+companies, either directly or through subsidiaries, now manufacture or
+distribute pre-recorded music compilations in direct competition with the
+Company s music compilation products.  
+
+   Technology
+developments may adversely affect net sales, margins and results of operations.   
+
+  Home entertainment
+products have traditionally been marketed and delivered on a physical delivery
+basis. If, in the future, these products are increasingly marketed and
+delivered through technology transfers, such as electronic downloading through
+the Internet or similar delivery methods, then the Company s retail and
+wholesale distribution business could be negatively impacted. As electronic
+downloading grows through Internet retailers, competition between suppliers to
+electronic retailers in traditional ways will intensify and likely negatively
+impact net sales and margins. If the Company is unable to develop the necessary
+vendor and customer relationships to facilitate additional electronic
+downloading or if the terms of these arrangements differ from those related to
+physical product sales the Company s business may be materially harmed.  
+
+   Increased
+counterfeiting or piracy may negatively affect the demand for entertainment
+products.   
+
+  The recorded music
+industry has been adversely affected by counterfeiting of CDs and DVDs and also
+by websites and technologies that allow consumers to illegally download and
+access music.  Increased proliferation of
+these alternative access methods could impair the Company s ability to generate
+sales.  
+
+   The
+Company may not be able to successfully protect its intellectual property
+rights.   
+
+  The Company
+regards its copyrights, service marks, trademarks, and similar intellectual
+property critical to its success, and relies on trademark and copyright law to
+protect the intellectual property the Company licenses.  Infringement on the Company s intellectual
+property may lead to litigation to protect the Company s intellectual property
+rights which could result in substantial costs and diversion of resources and
+could have a material effect on the Company s business.  
+
+   Product
+returns or inventory obsolescence could reduce sales and profitability or
+negatively impact liquidity.   
+
+  The Company
+maintains a significant investment in product inventory. Like other companies
+operating in the music industry, product returns from retail customers are
+significant when expressed as a percentage of revenues.  Weakening market conditions could lead to
+increased product returns, increasing the Company s inventory and increasing
+the need for higher obsolescence reserve. 
+Adverse financial conditions could cause a significant decline in the
+value and marketability of products, possibly making it difficult to recover
+initial product acquisition costs. Under such circumstances, the Company s
+business, financial condition, operating results and cash flows, could be
+adversely affected. The Company maintains a sales return reserve based on
+historical product line experience rates. The Company can not assure that
+reserves will be adequate to cover potential returns.  
+
+   If the
+Company is unable to successfully remediate the material weaknesses in its
+internal controls, the Company s ability to report its financial results on a
+timely and accurate basis may be adversely affected.   
+
+  The Company has reported material weaknesses and the
+actions taken to address them.  Such
+remediation may not prove effective. 
+Further, should any material weaknesses develop, there are no assurances
+that the Company will be able to remediate them in a manner satisfactory to
+outside parties.  This could result in
+the Company not being able to report its financial results on a timely basis,
+harm our operating results, or result in material misstatements in our
+financial statements.  In addition, the
+Company may be unable to have its internal controls over financial reporting
+attested to by our independent registered public accounting firm when required.  
+
+   ITEM 1B:             UNRESOLVED STAFF COMMENTS     
+
+  None  
+
+6     
+
+ITEM 2:                  PROPERTIES   
+
+  K-tel s corporate
+offices and U.S. operations are located in leased facilities in Plymouth, a
+suburb of Minneapolis, Minnesota, consisting of approximately 3,000 square feet
+of office space and approximately 4,500 square feet of warehouse. K-tel s
+foreign subsidiaries lease a total of approximately 1,350 square feet of office
+space.   See Note 6 to the consolidated financial
+statements for a summary of the lease agreements.  
+
+   ITEM 3:                LEGAL PROCEEDINGS     
+
+   K-tel
+International, Inc. vs. Tristar Products, Inc.    
+
+  On March 14, 2000,
+K-tel and its subsidiary in Germany commenced an action in U.S. District Court
+for the District of Minnesota for breach of express and implied warranties
+against Tristar Products, Inc. This action arose out of Tristar s sale to K-tel
+of a defective home exercise product called the  BunBlaster  for resale in
+Germany, Austria and Switzerland. By written contract, Tristar agreed to
+indemnify K-tel for injuries and damages arising out of the resale of those
+goods.  
+
+  On April 30, 2001, Tristar asserted a patent and
+trademark/ trade-dress counterclaim against K-tel for allegedly passing off a
+product called the  K-tel Hook and Hang  while allegedly a distributor of the
+original patented Tristar Hook and Hang product. The Company denied the
+allegation because it never was a distributor of this or any similar product.  
+
+  On December 30, 2004, a Mutual General Release and
+Settlement Agreement was signed by K-tel and Tristar,  whereby both companies agreed to mutual
+releases and Tristar agreed to pay K-tel $350,000.  The payment of $350,000 was received on
+February 18, 2005.  
+
+   Other Litigation and Disputes   
+
+  K-tel and its subsidiaries
+are also involved in other legal proceedings in the ordinary course of their
+business. With all litigation matters, management considers the likelihood of
+loss based on the facts and circumstances. If management determines that a loss
+is probable and the amount of loss can be reasonably estimated, such amount is
+recorded as a liability. Although the outcome of any such legal proceedings
+cannot be predicted, in the opinion of management there is currently no legal
+proceeding pending or asserted against or involving K-tel for which the outcome
+is likely to have a material adverse effect on the consolidated financial
+position or results of operations of K-tel.  
+
+   Subsidiary s
+Liquidation   
+
+  In November 2000,
+the Company s consumer products subsidiary in the United Kingdom, K-tel
+Marketing Ltd., ceased operations and began voluntary liquidation proceedings.
+At the initial meeting of the creditors on November 24, 2000, the creditors
+voted for the liquidation to become a creditors  liquidation under English law.
+The Company has not been informed by the liquidators or their counsel of any
+plan to attempt to hold it or any of its subsidiaries liable for any of the
+commitments of K-tel Marketing Ltd. Management believes the Company will have
+no ongoing material liability related to K-tel Marketing Ltd. as a result of
+the liquidation proceeding. As the only secured creditor, the Company received
+distributions of approximately $138,000 on March 1, 2004 and $76,000 on May 14,
+2004.  
+
+  In June 2004, the
+Company received funds for the sale of assets and the collections of accounts
+receivables related to the March 2001 bankruptcy of K-tel International (USA),
+Inc., the Company s music distribution subsidiary in the United States. The
+Company received approximately $220,000 for assets sold by a third party and
+received approximately $113,000 in account receivable collections.  
+
+   ITEM 4:                       SUBMISSION OF
+MATTERS TO A VOTE OF SECURITY HOLDERS   
+
+  No matters were
+submitted to a vote of K-tel s security holders during the fourth quarter of
+fiscal 2006.  
+
+   Executive
+officers of the registrant   
+
+  Each of our Company s
+executive officers is appointed to serve until his or her successor is duly
+appointed or his or her earlier removal or resignation from office.  
+
+7     
+
+The following
+table sets forth certain information with respect to the executive officers of
+K-tel at November 22, 2006.  
+
+Name of
+  Officer   
+
+Age   
+
+Positions and Offices Held   
+
+Philip Kives  
+
+77  
+
+Chairman of the Board, Chief Executive Officer,
+  President and Director  
+
+Kimmy Lockwood  
+
+50  
+
+Controller, Principal Financial Officer and
+  Principal Accounting Officer  
+
+Philip
+Kives   ,   age 77, has held various offices and/or managerial
+positions with K-tel for more than thirty-five years. Mr. Kives is currently
+the Company s Chairman of the Board, Chief Executive Officer, President and
+Director.  
+
+   Kimmy
+Lockwood  , age 50, served as the Company s Controller from
+1997 until July 2005, and from July 2006 until present.  From July 2005 to
+July 2006, Ms. Lockwood was Assistant Controller for Heritage Development,
+Inc., a land development company based in Little Canada, Minnesota.  She
+was appointed Principal Financial Officer and Principal Accounting Officer in
+September 2006. 
+
+    PART II      
+
+ITEM 5:  
+
+MARKET FOR REGISTRANT S COMMON STOCK, RELATED
+  STOCKHOLDER MATTERS  
+  AND ISSUER PURCHASES OF EQUITY SECURITIES   
+
+On November 13,
+2006, there were 1,388 record holders of K-tel s common stock and 13,653,738
+shares outstanding. The Company s common stock is traded on the
+Over-the-Counter Bulletin Board under the symbol  KTEL .  
+
+  The following
+table shows the range of high and low closing prices per share of K-tel s
+common stock for the fiscal year periods indicated. Such over-the-counter
+market quotations reflect inter-dealer prices, without retail mark-up,
+mark-down or commission, and may not necessarily represent actual transactions.  
+
+No cash dividends were
+declared on K-tel s common stock during fiscal year 2006 or 2005 and K-tel does
+not expect to pay cash dividends in the foreseeable future. The declaration or
+payment by K-tel of dividends, if any, on its common stock in the future is
+subject to the discretion of the Board of Directors and will depend on K-tel s
+earnings, financial condition, capital requirements and other relevant factors.
+The declaration or payment by K-tel of dividends is also subject to the terms
+of its credit facility.  
+
+   Equity
+Compensation Plan Information   
+
+  The
+following table provides information as of June 30, 2006 with respect to
+compensation plans under which the Company s equity securities are authorized
+for issuance.  
+
+8     
+
+(1)                Consists
+of 46,000 shares issuable pursuant to options granted under the Company s 1997
+Stock Option Plan. 
+
+  (2)                Represents
+shares of common stock remaining available for future issuance under the Company s
+1997 Stock Option Plan, as amended. 
+
+  (3)                Includes
+non-qualified stock options to purchase 95,000 shares of  common stock issued outside the Company s
+1997 Stock Option Plan to each of Jay William Smalley, Richard R. Marklund and
+Wesley C. Hayne in connection with such non-employee directors  appointment to
+the Company s Compensation/ Stock Option Committee and a non-qualified stock
+option to purchase 15,000 shares of common stock issued outside the Company s
+1997 Stock Option Plan to Jay William Smalley in consideration of his past and
+continued service on the Company s board of directors. See  Director
+Compensation  in Item 11. Includes an aggregate of 1,882,939 shares of common
+stock issued pursuant to a stock option exchange program approved on March 18,
+2003 by a committee of the Company s board of directors comprised solely of
+independent directors. Under the program, three optionees agreed to the
+cancellation of previously awarded options under the Company s 1997 Stock
+Option Plan and the Company agreed to issue options to purchase an equal number
+of shares outside the Company s stock option plan not earlier than six months
+and one day after the date of cancellation of the previously awarded options,
+such options to be issued at an exercise price per share equal to the then fair
+market value of the Company s common stock and to expire ten years after the
+new date of grant. On November 18, 2003, the replacements options were issued
+at a price per share of $.08. There was no compensation expense recognized as a
+result of this exchange. 
+
+   ITEM 6:                SELECTED FINANCIAL DATA     
+
+  The following
+summary of consolidated operations and certain balance sheet information
+includes the consolidated results of operations of K-tel and its subsidiaries
+as of and for each of the five years in the period ended June 30, 2006. This
+summary should be read in conjunction with the consolidated financial
+statements and notes thereto appearing elsewhere in this report. All share and
+per share amounts are based on the weighted average shares issued. All amounts
+are in thousands of dollars, except per share data.  
+
+(1)                The
+income (loss) from discontinued operations reflects the operations of the
+Company s consumer products business, net of any income taxes allocated to it.
+The Company discontinued its consumer products operations in Germany in June
+2000, in the United Kingdom in November 2000, and in the United States in
+January 2001. The income in fiscal 2005 also includes the $350,000 lawsuit
+settlement received from Tristar that had originated in the discontinued
+consumer products business. 
+
+  (2)                The
+extraordinary items reflect activity related to subsidiary liquidations and are
+shown net of any income taxes allocated to them.  The activity in fiscal 2004 relates to distributions
+received from the liquidation of K-tel Marketing, Ltd. in the United Kingdom
+and proceeds from the sale of assets and collections on accounts receivable
+related K-tel International, (USA), Inc. that had filed for bankruptcy in March
+2001. The extraordinary item in fiscal 2002 relates to the net liability that
+existed on K-tel Marketing, Ltd. when it filed for voluntary liquidation and
+was subsequently removed when the Company received assurances that it would not
+be held liable for any of K-tel Marketing, Ltd. s debts. 
+
+9     
+
+I  TEM 7:  
+
+MANAGEMENT S DISCUSSION AND ANALYSIS OF
+  FINANCIAL CONDITION AND RESULTS OF   OPERATIONS   
+
+General    
+
+  Through its operating
+subsidiary, Dominion Entertainment, Inc. ( Dominion ), K-tel licenses its master
+music catalog internationally and has entered into licensing agreements with
+several companies that offer electronic downloads via their internet sites of
+many of Dominion s owned masters.  K-tel
+and Dominion have also entered into agreements with BCI to market and sell
+entertainment products derived from Dominion s master music catalog under the
+K-tel logo in the United States and Canada.  
+
+  Through another
+subsidiary, K-tel Entertainment, Inc., K-tel has a focused method of
+distribution that targets the strengths of selected individual retailers and
+supplies products suited to each retailer s specific needs. These new products
+are primarily derived from the Company s master recordings music catalog with
+the objective of realizing more competitive profit margins. The Company also
+seeks to license its name and marks to other businesses for a royalty or fee.  
+
+   A.                   RESULTS OF
+OPERATIONS 
+
+  The following sections
+discuss the results of operations by business segment. See Note 9 to the
+consolidated financial statements for additional segment information. General
+corporate expenses of $510,000 in the year ended June 30, 2006, $656,000 in the
+year ended June 30, 2005 and $869,000 in the year ended June 30, 2004 have been
+allocated to the segments.  
+
+   FISCAL
+2006 VERSUS FISCAL 2005   
+
+   Net
+sales for the year ended June 30, 2006 were $4,804,000, a decrease of 20.5%
+from fiscal 2005 sales of $6,041,000. This sales decrease was attributed to 
+reduced domestic music revenue. The net
+loss for fiscal 2006 was $1,211,000 or $.09 per share, compared to a net loss
+of $457,000, or $.03 per share in fiscal 2005.  
+
+  In fiscal 2005, the
+Company recorded and received $350,000 from the settlement of a lawsuit that
+involved the discontinued subsidiary, K-tel Consumer Products, Inc.  
+
+  The
+following sections discuss the results of continuing operations by business
+segment.  
+
+   BUSINESS
+SEGMENT RESULTS   
+
+   Licensing   
+
+  Licensing revenues were
+$2,748,000 for the year ended June 30, 2006 compared to $1,489,000 for the year
+ended June 30, 2005, an increase of 84.6%. The increase was primarily due to
+the increased domestic licensing revenue related to the Company s licensing
+agreements with BCI and the agreements with companies that offer electronic
+downloads of the Dominion master music catalog via their internet sites.  
+
+  Operating income in the
+licensing segment was $1,102,000 for the year ended June 30, 2006 and $326,000
+for the year ended June 30, 2005, an increase of $776,000.  
+
+10  
+
+Music   
+
+  Net
+sales in the music segment were $2,056,000 for the year ended June 30, 2006
+compared to $4,552,000 for the year ended June 30, 2005, a decrease of 54.8%.
+The decrease was primarily due to decreased domestic music sales related to the
+Company s transition from primarily a distribution business to a licensing
+business.  
+
+  Cost
+of goods sold in the music segment decreased to $1,467,000 or 71.3% of net
+sales for the year ended June 30, 2006 compared to $2,422,000 or 53.2% of net
+sales for the year ended June 30, 2005, primarily due to the decrease in
+domestic music sales.  The segment s
+advertising expenses, which consist primarily of co-operative advertising
+payments, trade advertising and promotions, increased to $209,000 for the year
+ended June 30, 2006 compared to $123,000 for the year ended June 30, 2005 due
+primarily to increased promotional programs in fiscal 2006 compared to fiscal
+2005.  
+
+  Selling,
+general and administrative expenses for the segment were $1,907,000 for the
+year ended June 30, 2006 compared to $2,423,000 for the year ended June 30,
+2005.  The primary reason for the
+decrease was the efforts to reduce the Company s overhead costs at the Company s
+offices in the United States and the United Kingdom. The music segment incurred
+an operating loss of $1,527,000 for the year ended June 30, 2006 compared to an
+operating loss of $416,000 for the year ended June 30, 2005.  
+
+   FISCAL
+2005 VERSUS FISCAL 2004   
+
+   Net
+sales for the year ended June 30, 2005 were $6,041,000, a decrease of 9.6% from
+fiscal 2004 sales of $6,679,000. This sales decrease was attributed to 
+reduced licensing activity. The net
+loss for fiscal 2005 was $457,000, or $.03 per share, compared to a net loss of
+$87,000, or $.01 per share, in fiscal 2004.  
+
+  In fiscal 2005, the
+Company recorded and received $350,000 from the settlement of a lawsuit that
+involved the discontinued subsidiary, K-tel Consumer Products, Inc.  
+
+  In fiscal 2004 the Company received approximately $214,000 from the
+liquidation of K-tel Marketing LTD., the Company s consumer products subsidiary
+in the United Kingdom, which ceased operations in November 2000, and
+approximately $333,000 from the sale of assets and account receivable
+collections related to the March 2001 bankruptcy of K-tel International, (USA),
+Inc., the Company s music distribution subsidiary in the United States (see
+Note 1 to the consolidated financial statements).  The $547,000 of distributions were recorded
+as extraordinary items, net of income taxes.  
+
+  The
+following sections discuss the results of continuing operations by business
+segment.  
+
+   BUSINESS
+SEGMENT RESULTS   
+
+   Licensing   
+
+  Licensing revenues were
+$1,489,000 for the year ended June 30, 2005 compared to $1,916,000 for the year
+ended June 30, 2004, a decrease of 22.3%. Both domestic and European revenue
+decreased due primarily to the overall decrease in sales of the retail music
+business.  Operating income in the
+licensing segment was $326,000 for the year ended June 30, 2005 and $959,000
+for the year ended June 30, 2004, a decrease of 66.1%.  
+
+   Music   
+
+  Net
+sales in the music segment were $4,552,000 for the year ended June 30, 2005
+compared to $4,763,000 for the year ended June 30, 2004, a decrease of 4.4%.
+The decrease was primarily related to the discontinued sales of unprofitable
+budget music DVDs.  
+
+  Cost
+of goods sold in the music segment decreased to 53.2% of net sales for the year
+ended June 30, 2005 compared to 67.6% of net sales for the year ended June 30,
+2004, due primarily to the higher cost as a percentage of sales of the budget
+music DVDs which were discontinued in fiscal 2005. Advertising expenses within
+the segment, which consist primarily of co-operative advertising payments,
+trade advertising and promotions, increased to $123,000 for the year ended June
+30, 2005 compared to $110,000 for the year ended June 30, 2004 due primarily to
+increased promotional programs in fiscal 2005 compared to fiscal 2004.  
+
+  Selling,
+general and administrative expenses for the segment remained flat at $2,423,000
+for the year ended June   
+
+11     
+
+30,
+2005 compared to $2,424,000 for the year ended June 30, 2004. The music segment
+incurred an operating loss of $416,000 for the year ended June 30, 2005
+compared to an operating loss of $992,000 for the year ended June 30, 2004.  
+
+   CRITICAL ACCOUNTING POLICIES   
+
+   Revenue Recognition  
+- - The Company derives its revenue mainly from two sources: license revenue from
+the licensing of Company-owned masters and the sale of music compilations
+(predominately compact discs) produced by the Company. License revenue is
+recognized when payment is received from customers or when known amounts are
+receivable, as prior to that date collection is not considered probable.
+Revenue from music sales is recognized at the time of shipment to the customer.
+Most music sales are made with a right of return of unsold goods. Estimated
+reserves for returns are established by management based upon historical
+experience and product mix and are subject to ongoing review and adjustment by
+the Company. These reserves are recorded at the time of sale and are reflected
+as a reduction in revenues. The Company s reserve for returns was $126,000 at
+June 30, 2006 and $221,000 at June 30, 2005. 
+
+   Rights to Use Music
+Product   - Certain of the Company s compilation products are
+master recordings under license from record companies and publishers. In most
+instances, minimum guarantees or non-refundable advances are required to obtain
+the licenses and are realized through future sales of the product. The amounts
+paid for minimum guarantees or non-refundable advances are capitalized
+and charged to expense as sales are made. The unrealized portion of guarantees
+and advances is included in royalty advances in the accompanying consolidated
+balance sheets. Licenses are subject to audit by licensors. When anticipated
+sales appear to be insufficient to fully recover the minimum guarantees or non-refundable
+advances, a provision against current operations is made for anticipated
+losses. 
+
+   Royalties  
+- - The Company has entered into license agreements with various record companies
+and publishers under which it pays royalties on units sold. The Company accrues
+royalties using contractual rates and certain estimated rates on applicable
+units sold. The contractual royalty liability is computed quarterly and the
+accrued royalty balance is adjusted accordingly. The royalty agreements are
+subject to audit by licensors. 
+
+   Inventory   -
+The Company  records lower of cost or
+market adjustments for  inventory based
+upon estimated market prices to sell identified inventory items that are slow
+moving. The Company reviews this estimate quarterly and the estimate is
+adjusted accordingly. 
+
+   RECENT
+ACCOUNTING PRONOUNCEMENTS   
+
+  In June 2006, the
+Financial Accounting Standards Board ( FASB ) issued Interpretation No. 48,  Accounting
+for Uncertainty in Income Taxes    an interpretation of FASB Statement No. 109,
+ Accounting for Income Taxes  ( FIN 48 ), which clarifies the accounting for
+uncertainty in income taxes. FIN 48 prescribes a recognition threshold and
+measurement attribute for the financial statement recognition and measurement
+of a tax position taken or expected to be taken in a tax return. The
+interpretation requires that the Company recognize in the financial statements
+the impact of a tax position.  Recognition is allowed if the tax position
+is more likely than not of being sustained on audit, based on the technical
+merits of the position. FIN 48 also provides guidance on derecognition,
+classification, interest and penalties, accounting in interim periods and
+disclosure. The provisions of FIN 48 are effective for fiscal years beginning after
+December 15, 2006 with the cumulative effect of the change in accounting
+principle recorded as an adjustment to opening retained earnings. The adoption
+of this statement is not expected to have a material impact on the Company s
+consolidated financial position or results of operations.  
+
+  In
+December 2004, the FASB issued SFAS No. 123R,  Share-Based
+Payment , which replaced SFAS No. 123 and superseded APB 25. SFAS No.
+123R addresses the accounting for share-based payment transactions in which a
+company receives employee services in exchange for either equity instruments of
+the company or liabilities that are based on the fair value of the company s
+equity instruments or that may be settled by the issuance of such equity
+instruments. Under SFAS No. 123R, companies will no longer be able to account
+for the share-based compensation transactions using the intrinsic method in
+accordance with APB 25 but will be required to account for such transactions
+using a fair-value method and recognize the expense in the consolidated
+statement of operations. SFAS No. 123R is effective beginning in the Company s
+first quarter of fiscal year 2007. Under SFAS 123R, the Company must determine
+the appropriate fair value model to be used for valuing share-based payments,
+the amortization method for compensation cost and the transition method to be
+used at date of adoption. The transition methods include prospective and
+retroactive adoption options. The Company has begun, but has not completed,
+evaluating the impact of the adoption of SFAS 123R on its results of
+operations. In connection with evaluating the impact of SFAS 123R, the Company
+is considering the potential implementation of different valuation methods to
+determine the fair value of share-based compensation. The Company believes the
+adoption of SFAS 123R will not  
+
+12     
+
+have
+a material impact on our results of operations, regardless of the valuation
+method used.  
+
+   CONTRACTUAL
+OBLIGATIONS   
+
+  The table below
+discloses a summary of the Company s specified contractual obligations at June
+30, 2006 (in thousands):  
+
+B.                    LIQUIDITY AND
+CAPITAL RESOURCES  
+
+  K-tel has a Line of
+Credit Agreement with K-5 Leisure Products, Inc. ( K-5 ), the Company s largest
+shareholder and an entity controlled by Philip Kives, the Chairman of the
+Board, President and Chief Executive Officer of K-tel. Under the terms of the
+agreement (the  K-5 Facility ), K-5 has agreed to make available up to
+$8,000,000 to K-tel on a revolving basis. The loan bears interest at a variable
+rate based upon the  base rate  of a nationally recognized lending institution
+(8.25% at June 30, 2006),  expires
+July 20, 2008, and is subordinated to the Foothill loan (see below). The K-5
+Facility contains the same covenants as the Foothill loan agreement.
+K-tel has pledged the stock of its foreign subsidiaries as collateral for the
+loan, and the loan carries a subordinated position to the Foothill loan on all
+other assets of the Company. K-tel had outstanding balances of $8,098,000 and
+$7,518,000 as of June 30, 2006 and 2005, respectively, under the K-5 Facility.
+At June 30, 2006, K-tel obtained a waiver from K-5 for its non-compliance under
+the covenants, limitations and restrictions of the credit agreement. 
+
+  In addition, K-tel
+has a second loan agreement with K-5, under which K-5 assumed rights and
+obligations under a loan from the Company s former banker (Foothill Capital
+Corporation) pursuant to an Assignment and Acceptance Agreement dated February
+27, 2001. This Foothill loan, which has been extended through July 20, 2008,
+provides for a $10,000,000 credit facility consisting of a $4,000,000 term loan
+due upon expiration, and a $6,000,000 revolving facility under which borrowings
+are limited to a percent of eligible receivables. Borrowings under the facility
+bear interest at a variable rate based on a  base rate    of a nationally
+recognized lending institution   plus 1% (9.25% at June 30, 2006) and are
+collateralized by the assets of certain Company subsidiaries in the United
+States, including accounts receivable, inventories, equipment, music library
+and general intangibles. The loan agreement contains certain financial and
+other covenants or restrictions, including the maintenance of a minimum
+shareholders  equity by K-tel, limitations on capital expenditures,
+restrictions on music library acquisitions, limitations on other indebtedness
+and restrictions on dividends paid by K-tel. As of June 30, 2006 and June 30,
+2005, K-tel had $4,000,000 outstanding under the term loan and there were no
+borrowings under the revolving facility. At June 30, 2006, K-tel obtained a
+waiver from K-5 for its non-compliance under the covenants, limitations and
+restrictions of the credit agreement.  
+
+  K-tel has primarily
+funded its recent operations through secured loans from K-5. Assuming K-5
+continues to advance funds sufficient to meet the Company s needs, management
+currently believes that K-tel has sufficient cash and borrowing capacity to
+ensure the Company will continue operations for the foreseeable future.
+Although K-5 continues to advance funds sufficient to meet the Company s needs
+at this time, there can be no assurance that this will be adequate or continue
+in the future or that K-tel will be able to obtain additional financing upon
+favorable terms when required.  
+
+  The Company s ability to
+continue its present operations is contingent mainly upon its ability to
+maintain its line of credit arrangements with K-5, increase its revenues and
+profit margins, and ultimately attain and sustain profitable operations.
+Without increased revenues and sustained profitability, the cash generated from
+the Company s current operations will likely be inadequate to fund operations
+and service the Company s indebtedness on an ongoing basis. Management is
+focusing its efforts on music licensing and limited music distribution.
+However, there can be no assurance that the Company will achieve profitable
+operations through these efforts. In the event the Company is unable to fund
+its operations and implement its current business plan properly, it may be
+unable to continue operations. The financial statements do not include any
+adjustments that might result from the outcome of these uncertainties.  
+
+   ITEM 7A: 
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK     
+
+  K-tel is exposed
+to various market risks, including changes in interest rates and foreign
+currency exchange rates. Market risk   
+
+13     
+
+is the potential
+loss arising from adverse changes in market rates and prices, such as interest
+rates and foreign currency exchange rates. K-tel does not enter into
+derivatives or other financial instruments for trading or speculative purposes.  
+
+  K-tel s exposure to
+market risk for changes in interest rates relates to K-tel s short-term
+borrowings. K-tel s short-term credit facilities carry a variable interest rate
+that does have an impact on future earnings and cash flows. At June 30, 2006,
+K-tel had variable rate debt of $12,098,000. If the interest rate were to
+change 100 basis points, or 1%, while K-tel was borrowing at this level under
+the credit facilities, annual interest expense would change by approximately
+$121,000.  
+
+  Approximately 45.1% of
+K-tel s revenues during the year ended June 30, 2006 were derived from
+operations in Europe. The results of operations and financial position of K-tel s
+operations in Europe were principally measured in their respective currencies
+and translated into U.S. dollars. The effect of foreign currency fluctuations
+in these European countries is somewhat mitigated by the fact that expenses are
+generally incurred in the same currencies in which the revenue is generated.  
+
+  The reported income of
+these subsidiaries will be higher or lower depending on the weakening or
+strengthening of the U.S. dollar against the respective foreign currency. If
+the U.S. dollar foreign currency rate were to change by 1%, the effect on
+income would have been approximately $5,000 for the year ended June 30, 2006.
+Additionally, approximately 68% of K-tel s assets at June 30, 2006 were based
+in its foreign operations and were translated into U.S. dollars at foreign
+currency exchange rates in effect as of the end of each accounting period, with
+the effect of such translation reflected as a separate component of
+consolidated shareholders  equity (deficit). Accordingly, K-tel s consolidated
+shareholders  equity (deficit) will fluctuate depending on the weakening or
+strengthening of the U.S. dollar against the respective foreign currency.  
+
+   ITEM 8:                FINANCIAL STATEMENTS AND
+SUPPLEMENTARY DATA     
+
+  The consolidated
+financial statements and related notes and schedules required by this Item are
+set forth in Part IV, Item 15, and identified in the Index to Consolidated
+Financial Statements.  
+
+   ITEM 9:                                                     CHANGES
+IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND   FINANCIAL DISCLOSURE 
+
+  There
+were no changes in or disagreements with accountants during the years ended
+June 30, 2006 and June 30, 2005.  
+
+   ITEM 9A:             CONTROLS AND PROCEDURES     
+
+  Under the supervision and
+with the participation of the Company s management, including the Company s
+Chief Executive Officer and Chief Financial Officer, the Company evaluated the
+effectiveness of the design and operation of its disclosure controls and
+procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the Exchange Act).
+Based on that evaluation, the Chief Executive Officer and Chief Financial
+Officer concluded that, as of the end of the period covered by this report, the
+Company s disclosure controls and procedures were not effective because of the
+continued inability of the Company to file its reporting on a timely basis.  The untimely filings have resulted in part
+from the follow up necessary to address the material weaknesses in internal
+control over financial reporting that had been noted in fiscal year 2004.  
+
+  The Company did not
+maintain effective controls over cash disbursements and payroll transactions at
+its UK subsidiary. In September 2004, the Company discovered that the former
+Chief Financial Officer of its UK subsidiary misappropriated funds from the
+subsidiary and one of its customers. Adjustments related to the reversal of
+overstated expenses and recovery of amounts misappropriated were included in
+the restatement of the Company s consolidated financial statements for periods
+prior to June 30, 2004 and for the years ended June 30, 2005 and 2004 and
+resulted in  the Company reporting a
+material weakness in internal control over financial reporting.  
+
+  In response to this
+material weakness, the Company terminated the employee, undertook a full-scale
+investigation of the matter, retained a forensic auditing firm and dismissed
+the accounting firm in the UK that audited the UK subsidiary s financial books
+and records. In addition, the Company hired a new Financial Controller and
+stringent internal control procedures were created and implemented for the
+Company s purchasing, accounts payable, check signing, payroll, petty cash and
+financial reporting policies. Management believes that these procedures,
+implemented upon the discovery of the misappropriation of funds, have allowed
+the Company to remediate this material weakness and to improve its internal
+control over financial reporting.  
+
+14     
+
+In fiscal 2005 and 2004,
+it was also determined that the segregation of duties in the U.S. office was
+limited due to the small number of employees. This segregation of duties became
+further limited by vacancies that occurred in the Company s finance department.
+In particular, customer orders were recorded by the same person who initiated
+shipments, checks were deposited by the accounts receivable clerk, and employee
+payroll and changes were entered by the Operations Manager, who also
+distributed the payroll checks.  
+
+  In response to this
+material weakness in the U.S. office, the former Controller was rehired in the
+period covered by this report and duties and responsibilities were revised to
+allow for improved segregation of duties and to increase the level of approvals
+and reviews. The foregoing remedial steps have allowed the Company to remediate
+its material weakness and to improve its internal control over financial
+reporting.  
+
+  Other than as set forth above, during the fourth
+quarter ended June 30, 2006, there was no change in the Company s internal
+control over financial reporting (as defined in Rule 13a-15(f) or 15d-15(f)
+under the Exchange Act) that has materially affected, or is reasonably likely
+to materially affect, the Company s internal control over financial reporting.  
+
+   ITEM 9B.              OTHER INFORMATION     
+
+  Not applicable.  
+
+15  
+
+PART III      
+
+   ITEM 10:              DIRECTORS AND EXECUTIVE OFFICERS
+OF THE REGISTRANT     
+
+  The following describes
+the business, the business experience and background of each current director
+and executive officer of K-tel at November 22, 2006. No family relationships
+exist between K-tel s directors and executive officers, except that Mr. Smalley
+is the brother-in-law of Mr. Kives.  
+
+  Each of our company s
+executive officers is appointed to serve until his or her successor is duly
+appointed or his or her earlier removal or resignation from office.  
+
+   Wesley C.
+Hayne  , age 58, was
+elected a director in November 2002. Since 2000, Mr. Hayne has been Chief
+Executive Officer of Biorefining, Inc., a company that develops, commercializes
+and licenses patented technologies capable of converting residual plant
+material into high-end, value-added products. From 1999 to 2000, Mr. Hayne was
+President of Cybrix Corporation, Inc., a company that provides solutions and
+leases staffing for computer security and disaster planning. From 1997 to 2000,
+Mr. Hayne was Chief Executive Officer of International Concept Development,
+Inc., a company that develops fast food restaurants in Europe. Mr. Hayne, one
+of our independent directors, serves as the  audit committee financial expert 
+as defined by Item 401(h) of Regulation S-K. 
+
+   Philip
+Kives  , age 77,
+founded K-tel in 1968 and has served as its Chairman of the Board since K-tel s
+inception. In addition, Mr. Kives has been the Chief Executive Officer and
+President for more than five years. 
+
+   Kimmy
+Lockwood,   age 50, served
+as the Company s Controller from 1997 until July 2005, and from July 2006 until
+present.  She was appointed
+Principal Financial Officer and Principal Accounting Officer in September 2006.
+From July 2005 to July 2006, Ms. Lockwood was Assistant Controller for
+Heritage Development, Inc., a land development company based in Little Canada,
+Minnesota. 
+
+   Richard
+Marklund  , age 61, was elected a director in November 2002.
+Since October 2006 Mr. Marklund
+has been Executive Vice President and Director of ASI Communications, Inc., an
+integrated marketing company. From 2002 until October 2006, he was Chairman and
+Chief Executive Officer of Phoenix Newcastle Holdings, Inc., a management
+consulting company. From 2000 until 2002, Mr. Marklund served as Executive Vice
+President of WAM!NET, Inc., a telecommunication company. From 1998 until 2000,
+Mr. Marklund served as Chief Executive Officer of Hyperport International,
+Inc., a real estate development company. 
+
+   Jay
+William Smalley  , age
+72, was elected a director in January 1999. From 1970 until 1998, Mr.
+Smalley served as Chief Executive Officer of JWS, Inc., a privately owned real
+estate development and sales company specializing in hotel, motel, industrial
+and residential properties. Since 1998, Mr. Smalley has been a broker and
+private contractor for Prudential California Realty. 
+
+   Audit
+Committee   
+
+  K-tel has a separate
+designated audit committee made up of Wesley C. Hayne, Richard Marklund and Jay
+William Smalley.  
+
+   Code of
+Ethics   
+
+  K-tel
+has adopted a code of ethics that applies to its principal executive officer,
+principal financial officer and principal accounting officer.  This code of ethics is available on K-tel s
+website at K-tel.com and in print upon written request to:  Code of Ethics, K-tel International, Inc.,
+2491 Xenium Lane North, Plymouth, Minnesota 55441.  Any amendment to, or waiver from, a provision
+of the code of ethics will be posted to the above referenced website.  
+
+   Section 16(a) Beneficial
+Ownership Reporting Compliance   
+
+  Section 16(a) of the
+Securities Exchange Act of 1934, as amended, requires K-tel s officers,
+directors and persons who own more than 10% of a registered class of K-tel s
+equity securities to file reports of ownership on Form 3 and changes in
+ownership on Form 4 or 5 with the Securities and Exchange Commission. Such
+officers, directors and 10% shareholders also are required by Securities and
+Exchange Commission s rules to furnish K-tel with copies of all Section 16(a)
+reports they file. Based solely on its review of the copies of such forms received
+by it, or written representations from certain reporting persons, the Company
+believes that during fiscal year 2006, its officers, directors and 10%
+shareholders filed all reports on a timely basis.  
+
+16     
+
+ITEM 11:              EXECUTIVE COMPENSATION     
+
+  The following table sets
+forth the aggregate cash compensation paid to or accrued for each of K-tel s
+executive officers for services rendered to K-tel during the fiscal years ended
+June 30, 2006, 2005 and 2004. K-tel has no written employment agreements with
+its executive officers.  
+
+   Summary Compensation Table   
+
+Annual Compensation   
+
+Long-Term 
+  Compensation 
+  Awards   
+
+Name and Principal Position   
+
+Fiscal Year   
+
+Salary   
+
+Bonus   
+
+Securities 
+  Underlying 
+  Options   
+
+All Other 
+  Compensation   
+
+Philip Kives  
+
+2006  
+
+$  
+
+$  
+
+$  
+
+Chief Executive Officer  
+
+2005  
+
+$  
+
+$  
+
+$  
+
+2004  
+
+$  
+
+$  
+
+$  
+
+During the fiscal
+years ended June 30, 2006, 2005 and 2004, the Company paid approximately
+$68,000 in annual management fees to K-5 for services provided to the K-tel
+International, Inc. Companies.  These
+management fees included payments for services provided by Mr. Kives to the
+Company.  
+
+  On March 18, 2003,
+a committee of the Company s board of directors comprised solely of independent
+directors, approved a  Stock Option Exchange Program.  The Program provided for
+a small number of optionees who were previously awarded options to purchase
+shares of common stock under the Company s 1997 Stock Option Plan to exchange
+them voluntarily for options to purchase an equal number of shares outside the
+Company s Stock Option Plan. Mr. Kives exchanged 1,702,939 options with a
+weighted average price per share of $5.95 under this Stock Option Exchange
+Program. Replacement options were proposed to be issued six months and one day
+after the date of cancellation of the existing options and were to be at an
+exercise price per share equal to the fair market value of the Company s common
+stock as quoted on the OTC Bulletin Board on the date of grant and expire ten
+years after the date of grant. On November 18, 2003, the replacement options
+were issued at a price per share of $.08. There was no compensation expense
+recognized as a result of this exchange.  
+
+   Option
+Grants in Last Fiscal Year   
+
+  No options were granted
+to directors or executive officers in fiscal year 2006.  
+
+   Aggregated Option
+Exercises in Last Fiscal Year 
+and FY-end Option Values   
+
+Shares 
+  Acquired   
+
+Value   
+
+Number of Securities 
+  Underlying Options at FY-End   
+
+Value of In-the Money 
+  Options at FY-End(1)   
+
+Name   
+
+On Exercise   
+
+Realized   
+
+Exercisable   
+
+Unexercisable   
+
+Exercisable   
+
+Unexercisable   
+
+Philip Kives  
+
+0  
+
+N/A  
+
+1,702,939  
+
+$  
+
+N/A  
+
+(1)                Market
+value of underlying securities at fiscal year end minus the exercise price. 
+
+   Director
+Compensation   
+
+  Directors
+who are employees of the Company receive no compensation for their services as
+director. Non-employee directors receive cash compensation of $10,000 per year
+(paid quarterly) and are entitled to receive non-qualified stock options for
+the             
+
+17     
+
+purchase
+of 5,000 shares of the Company s common stock at an exercise price equal to the
+fair market value of the common stock on the date of initial election and upon
+each re-election by the shareholders at an annual or special meeting. In
+connection with their appointment to the Company s Compensation/Stock Option
+Committee during the fiscal year ended June 30, 2003, Jay William Smalley,
+Richard R. Marklund and Wesley C. Hayne each also received a non-qualified
+stock option to purchase 95,000 shares of common stock issued outside the
+Company s 1997 Stock Option Plan. During the fiscal year ended June 30, 2003,
+Mr. Smalley also received a non-qualified stock option to purchase 15,000
+shares of common stock outside the Company s 1997 Stock Option Plan in
+consideration of his past and continued service on the Company s board of directors.
+All stock options issued to non-employee directors during the fiscal year ended
+June 30, 2003 are exercisable for a period of ten years from the date of grant
+and bear an exercise price of $.05 per share. No options were granted to
+directors during fiscal year 2006 or 2005.  
+
+ITEM 12:  
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+  AND MANAGEMENT AND  
+  RELATED STOCKHOLDER MATTERS   
+
+The following table
+contains certain information as of November 22, 2006, regarding the beneficial
+ownership of our common stock by (i) each person known to K-tel to own
+beneficially five percent or more of our common stock, (ii) each director of
+K-tel, (iii) each named executive officer, and (iv) the directors and executive
+officers as a group. The percentage of beneficial ownership is based on
+13,653,738 shares of common stock outstanding as of November 22, 2006. Any
+shares which are subject to an option or a warrant exercisable within 60 days
+are reflected in the following table and are deemed to be outstanding for the
+purpose of computing the percentage of common stock owned by the option or
+warrant holder but are not deemed to be outstanding for the purpose of
+computing the percentage of common stock owned by any other person. Unless
+otherwise indicated, each person in the table has sole voting and investment
+power as to the shares shown. Unless otherwise indicated, the address for each
+listed shareholder is c/o K-tel International, Inc., 2491 Xenium Lane North
+Plymouth, Minnesota 55441.  
+
+*                       Indicates
+ownership of less than 1% of the outstanding shares of Common Stock. 
+
+  (1)                The
+securities  beneficially owned  by a person are determined in accordance with
+the definition of  beneficial ownership  set forth in the regulations of the
+Securities and Exchange Commission and accordingly, may include securities
+owned by or for, among others, the spouse, children or certain other relatives
+of such person as well as other securities as to which the person has or shares
+voting or investment power or has the right to acquire within 60 days. More
+than one person may beneficially own the same shares. 
+
+  (2)                Consists
+of 8,048,678 shares held directly by K-5 Leisure Products Inc. (an affiliate of
+the Company controlled by Mr. Kives), 325,336 shares held by a wholly-owned
+subsidiary of K-5 and 1,702,939 shares purchasable upon the exercise of
+options. 
+
+  (3)                Represents
+shares purchasable upon the exercise of options. 
+
+  (4)                Includes
+2,022,939 shares purchasable upon the exercise of options. 
+
+  Information
+regarding common stock that may be issued under our existing equity
+compensation plans as of fiscal year end 2006 is set forth under Part II Item 5
+of this report.  
+
+18     
+
+ITEM 13:              CERTAIN RELATIONSHIPS AND RELATED
+TRANSACTIONS     
+
+   Loan
+Agreements with K-5 Leisure Products, Inc.   
+
+  K-tel has a Line of
+Credit Agreement with K-5 Leisure Products, Inc. ( K-5 ), the Company s largest
+shareholder and an entity controlled by Philip Kives, the Chairman of the
+Board, President and Chief Executive Officer of K-tel. Under the terms of the
+agreement (the  K-5 Facility ), K-5 has agreed to make available up to
+$8,000,000 to K-tel on a revolving basis. The loan bears interest at a variable
+rate based upon the  base rate  of a nationally recognized lending institution
+(8.25% at June 30, 2006),  expires
+July 20, 2008, and is subordinated to the Foothill loan (see below). The K-5
+Facility contains the same covenants as the Foothill loan agreement.
+K-tel has pledged the stock of its foreign subsidiaries as collateral for the
+loan, and the loan carries a subordinated position to the Foothill loan on all
+other assets of the Company. K-tel had outstanding balances of $8,098,000 and
+$7,518,000 as of June 30, 2006 and 2005, respectively, under the K-5 Facility.
+At June 30, 2006, K-tel obtained a waiver from K-5 for its non-compliance under
+the covenants, limitations and restrictions of the credit agreement. 
+
+  In addition, K-tel
+has a second loan agreement with K-5, under which K-5 assumed rights and
+obligations under a loan from the Company s former banker (Foothill Capital
+Corporation) pursuant to an Assignment and Acceptance Agreement dated February
+27, 2001. This Foothill loan, which has been extended through July 20, 2008,
+provides for a $10,000,000 credit facility consisting of a $4,000,000 term loan
+due upon expiration, and a $6,000,000 revolving facility under which borrowings
+are limited to a percent of eligible receivables. Borrowings under the facility
+bear interest at a variable rate based on a  base rate    of a nationally
+recognized lending institution   plus 1% (9.25% at June 30, 2006) and are
+collateralized by the assets of certain Company subsidiaries in the United
+States, including accounts receivable, inventories, equipment, music library
+and general intangibles. The loan agreement contains certain financial and
+other covenants or restrictions, including the maintenance of a minimum
+shareholders  equity by K-tel, limitations on capital expenditures,
+restrictions on music library acquisitions, limitations on other indebtedness
+and restrictions on dividends paid by K-tel. As of June 30, 2006 and June 30,
+2005, K-tel had $4,000,000 outstanding under the term loan and there were no
+borrowings under the revolving facility. At June 30, 2006, K-tel obtained a
+waiver from K-5 for its non-compliance under the covenants, limitations and
+restrictions of the credit agreement.  
+
+   Other
+Transactions with K-5 Leisure Products, Inc.   
+
+  The Company
+purchased approximately $61,000 in the year ended June 30, 2006, $400,000 in
+the year ended June 30, 2005 and $502,000 in the year ended June 30, 2004 of
+music entertainment and consumer convenience products from K-5, the Company s
+largest shareholder and an entity controlled by Philip Kives, the Chairman of
+the board, President and Chief Executive Officer of K-tel, which
+represented  3.0%, 16.0% and 17.1%  of cost of goods sold, respectively. There
+were trade payables to K-5 of $2,000 at June 30, 2006, $398,000 at June 30,
+2005, and $390,000 at June 30, 2004, or 0.2%, 23.1% and 27.2% of total trade
+payables, respectively.  
+
+  During the fiscal
+years ended June 30, 2006, 2005 and 2004, the Company paid approximately
+$68,000 in annual management fees to K-5 for services provided to the K-tel
+International, Inc. companies.  These
+management fees included payment for services provided by Mr. Kives to the
+Company.  
+
+  The Company had no
+sales of products to K-5 during fiscal years 2006, 2005, and 2004. There was no
+balance receivable from K-5 at June 30, 2006. 
+There was a balance receivable of $129,000 at June 30, 2005 and $113,000
+at June 30, 2004.  No interest was
+charged on the related outstanding balances during fiscal years 2006, 2005 and
+2004.  
+
+   General   
+
+  All future
+transactions between the Company, its officers, directors and principal
+shareholders and its affiliates will be approved by the audit committee of the
+Company s board of directors.  
+
+   ITEM 14.                PRINCIPAL
+ACCOUNTANT FEES AND SERVICES   
+
+   Fees and Services   
+
+  The following
+table shows the aggregate fees billed to the Company by Grant Thornton LLP for
+services rendered during fiscal years ended June 30, 2006 and June 30, 2005:  
+
+19     
+
+(1)                Audit
+fees consisted of fees for audit work of the Company s annual financial
+statements and review of the quarterly financial statements included in the
+Company s Quarterly Reports on Form 10-Q for the fiscal years 2006 and 2005 and
+related audit committee meeting attendance. 
+
+  (2)                Tax
+fees consisted of fees for federal, state and international tax return
+preparation and tax planning and tax advice related to various tax matters
+including state tax notices and other tax research related matters. 
+
+   Pre-Approval
+Policy and Procedures   
+
+  The audit
+committee requires that all audit and permissible non-audit services provided
+by our independent auditors be pre-approved by the audit committee or a designated
+member of the audit committee. These services may include audit services,
+audit-related services, tax services and other services. Any pre-approval is
+detailed as to the particular service or category of services. The audit
+committee reviews all non-audit services to be provided and assesses the impact
+of the services on the auditor s independence.  
+
+  The audit
+committee pre-approved 100% of the services described in the  Fees and Services 
+table pursuant to engagements that occurred in fiscal years 2006 and 2005.  
+
+20     
+
+PART IV      
+
+   ITEM 15:              EXHIBITS AND FINANCIAL STATEMENT
+SCHEDULES     
+
+  (a)                                      Financial
+Statements and Schedules  
+
+  The consolidated
+statements and schedules listed in the accompanying Index to Consolidated
+Financial Statements hereof are filed as part of this report.  
+
+  (b)                                     Exhibits  
+
+  Reference is made
+to the Exhibit Index.  
+
+  (c)                                      Excluded
+Financial Statements  
+
+  Not applicable.  
+
+21     
+
+SIGNATURES     
+
+  Pursuant to the
+requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the
+Company has duly caused this report to be signed on its behalf on November 22, 2006 by the undersigned,
+thereunto duly authorized.  
+
+K-TEL INTERNATIONAL, INC.  
+
+By  
+
+/s/ Philip
+  Kives  
+
+(Philip Kives -
+  Chairman of the Board,  
+
+Chief Executive
+  Officer and President)  
+
+Pursuant to the requirements of the Securities and
+Exchange Act of 1934, this report has been signed below by the following
+persons on behalf of the registrant and in the capacities indicated and on the
+dates indicated.  
+
+Signatures 
+
+Title   
+
+Date   
+
+/s/ Philip Kives  
+
+Chairman, Chief Executive Officer,  
+
+November 22, 2006  
+
+Philip Kives  
+
+(Principal Executive Officer)  
+
+President and Director  
+
+/s/Kimmy
+  Lockwood  
+
+Controller  
+
+November 22, 2006  
+
+Kimmy Lockwood  
+
+(Principal Financial and Accounting Officer)  
+
+/s/ Jay William
+  Smalley  
+
+Director  
+
+November 22, 2006  
+
+Jay William
+  Smalley  
+
+/s/ Wesley C.
+  Hayne  
+
+Director  
+
+November 22, 2006  
+
+Wesley C. Hayne  
+
+/s/ Richard
+  Marklund  
+
+Director  
+
+November 22, 2006  
+
+Richard Marklund  
+
+22  
+
+K-TEL INTERNATIONAL, INC. AND SUBSIDIARIES   
+
+   INDEX TO
+CONSOLIDATED FINANCIAL STATEMENTS     
+
+Report of Independent
+  Registered Public Accounting Firm   
+
+Consolidated Balance Sheets as of June 30, 2006 and
+  2005   
+
+Consolidated
+  Statements of Operations for each of the three years ended June 30, 2006   
+
+Consolidated Statements of Shareholders  Deficit for
+  each of the three years ended June 30, 2006   
+
+Consolidated Statements of Cash Flows for each of the
+  three years ended June 30, 2006   
+
+Notes to Consolidated Financial Statements   
+
+Supplemental Schedule to Consolidated Financial
+  Statements:  
+
+Schedule II - Valuation and Qualifying Accounts for
+  each of the three years ended June 30, 2006  
+
+All other
+schedules for which provision is made in the applicable accounting regulations
+of the Securities and Exchange Commission have been omitted as not required,
+not applicable or the information required has been included elsewhere in the
+consolidated financial statements and notes thereto.  
+
+23     
+
+REPORT OF
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM     
+
+   To the Board of
+Directors and Shareholders of K-tel International, Inc .  
+
+  We have audited
+the accompanying consolidated balance sheets of K-tel International, Inc. (a
+Minnesota corporation) and Subsidiaries as of June 30, 2006 and 2005 and the
+related consolidated statements of operations, shareholders  deficit, and cash
+flows for each of the three years in the period ended June 30, 2006. These
+financial statements are the responsibility of the Company s management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.  
+
+  We conducted our
+audits in accordance with the standards of the Public Company Accounting
+Oversight Board (United States). Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes consideration
+of internal control over financial reporting as a basis for designing audit
+procedures that are appropriate in the circumstances, but not for the purpose
+of expressing an opinion on the effectiveness of the Company s internal control
+over financial reporting.  Accordingly,
+we express no such opinion.  An audit
+also includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements, assessing the accounting principles
+used and significant estimates made by management, as well as evaluating the
+overall financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.  
+
+  In our opinion,
+the financial statements referred to above present fairly, in all material respects,
+the consolidated financial position of K-tel International, Inc. and
+Subsidiaries as of June 30, 2006 and 2005 and the consolidated results of their
+operations and their consolidated cash flows for the each of the three years in
+the period ended June 30, 2006 in conformity with accounting principles
+generally accepted in the United States of America.  
+
+  As discussed in
+Note 12 to the consolidated financial statements, the Company adopted FASB
+Interpretation 46 (Revised December 2003),  Consolidation of Variable
+Interest Entities , during the quarter ended March 31, 2004.  
+
+  The accompanying
+financial statements have been prepared assuming that the Company will continue
+as a going concern. As discussed in Note 1 to the financial statements, the
+Company has incurred significant recurring losses from operations and has a net
+working capital deficit that raises substantial doubt about the Company s
+ability to continue as a going concern. 
+Management s plans in regard to these matters are also described in Note
+1.  The financial statements do not
+include any adjustments that might result from the outcome of this uncertainty.  
+
+  Our audits were
+conducted for the purpose of forming an opinion on the basic consolidated
+financial statement taken as a whole. 
+The accompanying Schedule II of K-tel International, Inc. and
+Subsidiaries is presented for the purposes of additional analysis and is not a
+required part of the basic consolidated financial statements.  This schedule has been subjected to the
+auditing procedures applied in the audit of the basic consolidated financial
+statements and, in our opinion, is fairly stated in all material respects in
+relation to the basic consolidated financial statements taken as a whole.  
+
+  /S/ GRANT THORNTON
+LLP  
+
+  Minneapolis,
+Minnesota,  
+
+  October 30, 2006  
+
+24     
+
+K-TEL
+INTERNATIONAL, INC. AND SUBSIDIARIES   
+
+   CONSOLIDATED BALANCE SHEETS     
+
+   JUNE 30,   
+
+   (in
+thousands - except share and per share data)   
+
+The
+accompanying notes are an integral part of these financial statements.   
+
+25     
+
+K-TEL INTERNATIONAL,
+INC. AND SUBSIDIARIES   
+
+   CONSOLIDATED STATEMENTS OF OPERATIONS     
+
+   YEARS ENDED JUNE 30,   
+
+   (in
+thousands - except per share data)   
+
+The
+accompanying notes are an integral part of these financial statements.   
+
+26     
+
+K-TEL
+INTERNATIONAL, INC. AND SUBSIDIARIES   
+
+   CONSOLIDATED
+STATEMENTS OF SHAREHOLDERS  DEFICIT     
+
+   YEARS
+ENDED JUNE 30, 2006, 2005 AND 2004   
+
+   (in
+thousands)   
+
+The
+accompanying notes are an integral part of these financial statements.   
+
+27     
+
+K-TEL
+INTERNATIONAL, INC. AND SUBSIDIARIES   
+
+   CONSOLIDATED
+STATEMENTS OF CASH FLOWS     
+
+   YEARS
+ENDED JUNE 30,   
+
+   (in
+thousands)   
+
+The
+accompanying notes are an integral part of these financial statements.   
+
+28  
+
+K-TEL
+INTERNATIONAL, INC. AND SUBSIDIARIES   
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS    
+ JUNE 30, 2006, 2005 AND 2004  
+
+   1.                                           BUSINESS
+AND LIQUIDITY  
+
+  K-tel International, Inc. (the  Company  or  K-tel )
+was incorporated in 1968 and currently has its corporate offices located in
+Plymouth, Minnesota. Through its operating subsidiaries, K-tel licenses its
+music catalog internationally and markets entertainment products mainly derived
+from its catalog through retail and direct response marketing channels in the
+United States and Europe. The Company has a focused method of distribution that
+targets the strengths of selected individual retailers and supplies products
+suited to each retailer s needs. These products are derived mainly from the
+Company s master recordings music catalog with the objective of realizing more
+competitive profit margins. K-tel seeks to license its trademarks to other
+companies. Licenses are granted for a royalty or fee, with no cost to the
+Company.  
+
+   Subsidiary Liquidations   
+
+  In November 2000, the
+Company s consumer products subsidiary in the United Kingdom, K-tel Marketing
+Ltd., ceased operations and began voluntary liquidation proceedings. At the
+initial meeting of the creditors on November 24, 2000, the creditors voted for
+the liquidation to become a creditors  liquidation under English law. The
+Company has not been informed by the liquidators or their counsel of any plan
+to attempt to hold it or any of its subsidiaries liable for any of the
+commitments of K-tel Marketing Ltd. Management believes the Company will have
+no ongoing material liability related to K-tel Marketing Ltd. as a result of
+the liquidation proceeding. In fiscal 2002, the assets and liabilities of the
+subsidiary were removed from the books of the Company and the remaining net
+liability was shown as a gain on liquidation. As the only secured creditor, the
+Company subsequently received distributions of approximately $138,000 on March
+1, 2004 and $76,000 on May 14, 2004 and reflected these as gain on subsidiary
+liquidations, net of taxes. K-tel Marketing Ltd. had no operations during the
+fiscal years ended June 30, 2006, 2005 and 2004.  
+
+  In June 2004, the Company
+received funds for the sale of assets and the collections of accounts
+receivables related to the March 2001 bankruptcy of K-tel International, (USA),
+Inc., the Company s music distribution subsidiary in the United States. The
+Company received approximately $220,000 for assets sold by a third party and
+received approximately $113,000 in account receivable collections. These
+receipts were reflected as gain on subsidiary liquidations, net of taxes.  
+
+   Discontinued
+Operations   
+
+  The Company s
+consumer products business, which was concentrated in Europe, consisted
+primarily of housewares, consumer convenience items and exercise equipment. The
+Company discontinued its consumer products operations in Germany, the United
+Kingdom and the United States in June 2000, November 2000 and January 2001,
+respectively. Accordingly, these activities have been presented in the
+accompanying financial statements as discontinued operations. The accompanying
+condensed consolidated financial statements have been prepared to reflect the
+consumer products division as a discontinued operation. The net liabilities of
+discontinued operations at June 30, 2006 and 2005 and losses from discontinued
+operations relate primarily to legal matters and completion of statutory
+reporting requirements for the former operations in Germany (See Note 6).  
+
+  In fiscal 2005 the Company recorded and received
+$350,000 from the settlement of a lawsuit that involved the discontinued
+subsidiary, K-tel Consumer Products, Inc. Legal expenses relating to the
+lawsuit offset this amount.  
+
+   Going Concern   
+
+  During the years
+ended June 30, 2006, 2005 and 2004, the Company incurred net losses from
+continuing operations of $1,200,000, $608,000 and $382,000, respectively, and
+used $189,000, provided $882,000 and used $618,000 of cash in operating
+activities. Additionally, the Company had a working capital deficit of
+$12,373,000 at June 30, 2006.  
+
+  The
+Company s ability to continue its present operations and implement future
+expansion plans successfully is contingent mainly upon its ability to maintain
+its line of credit arrangements with K-5 Leisure Products, Inc. (See Note 3),
+increase its revenues and profit margins, and ultimately attain and sustain
+profitable operations. Without increased revenues and sustained profitability,
+the cash generated from the Company s current operations will likely be
+inadequate to fund operations and service its indebtedness on an ongoing basis.
+Management is focusing its efforts on music licensing and limited music
+distribution. However, there can be no assurance that the Company will achieve
+profitable operations  
+
+29     
+
+through
+these efforts. The financial statements do not include any adjustments that
+might result from the outcome of these uncertainties.  
+
+   2.                                           SUMMARY
+OF SIGNIFICANT ACCOUNTING POLICIES  
+
+   Principles of
+Consolidation   - The accompanying consolidated financial
+statements include the accounts of K-tel International, Inc. and its domestic
+and foreign subsidiaries, all of which are wholly owned. All significant
+intercompany accounts and transactions have been eliminated. During the quarter
+ended March 31, 2004, the company began to consolidate the financial statements
+of Lancaster Trading Ltd., a variable interest entity of which the company
+determined it was the primary beneficiary (see Note 12). 
+
+   Revenue
+Recognition   - The Company derives its revenue mainly from two
+sources: license revenue from the licensing                of
+Company-owned masters and the sale of music compilations (predominately compact
+discs) produced by the Company. License revenue is recognized when payment is
+received from customers or when known amounts are receivable, as prior to that
+date collection is not considered probable and revenue from music sales is
+recognized at the time of shipment to the customer. Most music sales are made
+with a right of return of unsold goods. Estimated reserves for returns are
+established by management based upon historical experience and product mix and
+are subject to ongoing review and adjustment by the Company. These reserves are
+recorded at the time of sale and are reflected as a reduction in revenues. The
+Company s reserve for returns was $126,000 at June 30, 2006 and $221,000 at
+June 30, 2005. 
+
+   Cost of Goods Sold  
+- - The Company expenses all product manufacturing, distribution and royalty
+costs associated with music sales as cost of goods sold. The Company also
+expenses royalties, commissions and amortization of its owned master recordings
+associated with its license revenue as costs of goods sold. 
+
+   Shipping and
+Handling Costs   - The Company expenses within cost of goods
+sold all shipping and handling costs incurred in the shipment of goods. 
+
+   Cash and Cash
+Equivalents   - Cash and cash equivalents consist principally
+of cash and short-term, highly liquid investments with original maturities of
+less than ninety days. At June 30, 2006 and 2005, $1,612,000 and $1,172,000,
+respectively, was held at various financial institutions in Europe. 
+
+   Accounts Receivable  
+- - Accounts receivable balances are presented net of allowances. The Company
+determines its allowances by considering a number of factors, including the
+length of time trade receivables are past due, the Company s previous history,
+and the customer s current ability to pay obligations to the Company. The
+Company writes off accounts receivables when they become uncollectible. 
+
+   Inventories  
+- - Inventories, which consists of finished goods that include all direct product
+costs, are valued at the lower of cost, determined on a first-in, first-out
+basis, or net realizable value. 
+
+   Owned Catalog
+Masters   - The Company capitalizes the costs to purchase owned
+master recordings at the time of acquisition. These costs are amortized over
+the estimated useful life of these master recordings, which is generally seven
+years and represents management s best estimate of the average period of value.
+Amortization expense for the years ended June 30, 2006, 2005 and 2004 was
+$163,000, $173,000, and $190,000, respectively. 
+
+  Estimated
+amortization expense for the owned catalog masters is as follows for the years
+ended June 30:  
+
+Rights to Use
+Music Product   - Certain of the Company s compilation products
+are master recordings under license from record companies and publishers. In
+most instances, minimum guarantees or non-refundable advances are required to
+obtain the licenses and are realized through future sales of the product. The
+amounts paid for minimum guarantees or non-refundable advances are
+capitalized and charged to expense as sales are made. The unrealized portion of
+guarantees  
+
+30     
+
+and advances is
+included in royalty advances in the accompanying consolidated balance sheets. Licenses
+are subject to audit by licensors. When anticipated sales appear to be
+insufficient to fully recover the minimum guarantees or non-refundable
+advances, a provision against current operations is made for anticipated
+losses.  
+
+   Property and
+Equipment   - Property and equipment are stated at cost.
+Depreciation and amortization is provided using straight line or declining
+balance methods over the estimated useful lives of the assets, which range from
+three to nine years. 
+
+   Long Lived-Assets  
+- - The Company evaluates its long-lived assets quarterly, or earlier if a
+triggering event occurs, to determine potential impairment by comparing the
+carrying value of those assets to the related undiscounted future cash flows of
+the assets. If an asset is determined to be impaired, it is written down to its
+estimated fair value. 
+
+   Royalties  
+- - The Company has entered into license agreements with various record companies
+and publishers under which it pays royalties on units sold. The Company accrues
+royalties using contractual rates and certain estimated rates on applicable
+units sold. The contractual royalty liability is computed quarterly and the
+accrued royalty balance is adjusted accordingly. The royalty agreements are
+subject to audit by licensors. 
+
+   Advertising  
+- - The Company expenses the costs of advertising when the advertising takes
+place, except for direct response advertising, which is capitalized and
+amortized over its expected period of future benefits (usually the period
+remaining under a related contract, which is generally less than one year).
+Direct response advertising consists primarily of television advertising
+whereby customers respond specifically to the advertising and where the Company
+can identify the advertising that elicited the response. Advertising expenses
+were $209,000, $123,000, and $110,000, for the years ended June 30, 2006, 2005
+and 2004, respectively. 
+
+   Foreign Currency  
+- - The operations of foreign subsidiaries are measured in local currencies.
+Assets and liabilities are translated into U.S. dollars at period-end exchange
+rates. Revenues and expenses are translated at the average exchange rates
+prevailing during the period. Adjustments resulting from translating the
+financial statements of foreign entities into U.S. dollars are recorded as a
+component of accumulated other comprehensive income or loss. 
+
+   Stock-based
+Compensation   - The Company accounts for stock-based awards to
+employees using the intrinsic value method, whereby the options are granted at
+market price, and therefore no compensation costs are recognized. If
+compensation expense for the Company s various stock option plans had been
+determined based on the projected fair values at the grant dates for awards
+under those plans, the Company s pro-forma net loss, basic and diluted loss per
+common share would have been as follows: 
+
+Income Taxes  
+- - Deferred income taxes are provided for temporary differences between the
+financial reporting basis and tax basis of the Company s assets and liabilities
+at currently enacted tax rates. A valuation allowance equal to the aggregate
+amount of deferred tax assets is established when realization is not likely. 
+
+   Net Income (Loss) Per Share   - Basic
+and diluted net income (loss) per share have been computed by dividing net
+income (loss) by the weighted average number of shares outstanding during the
+period. For all periods presented, common stock equivalents were excluded from
+the per share calculation as the net effect would be antidilutive. For the
+fiscal years ended June 30, 2006, 2005, and 2004, weighted average options to
+purchase 2,228,939, 2,564,839, and 2,574,839, shares of common stock, with
+weighted average exercise prices of $.19, $.36, and $.39, respectively, were
+excluded from the computation of common share equivalents for the respective
+periods as they were antidilutive. 
+
+   Use of Estimates  
+- - Preparing consolidated financial statements in conformity with accounting
+principles generally  
+
+31     
+
+accepted in the
+United States of America ( US GAAP ) requires management to make estimates and
+assumptions that affect the reported amounts of assets, liabilities, and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Principal estimates include allowances for bad debt,
+inventory valuation, return reserves, royalty obligations, purchase commitments
+and product replacement costs. Actual results could differ from those estimates
+used by management.  
+
+   3.                                           NOTES
+PAYABLE TO AFFILIATE AND OTHER  
+
+  K-tel has a Line
+of Credit Agreement with K-5 Leisure Products, Inc. ( K-5 ), the Company s
+largest shareholder and an entity controlled by Philip Kives, the Chairman of
+the Board, President and Chief Executive Officer of K-tel. Under the terms of
+the agreement (the  K-5 Facility ), K-5 has agreed to make available up to
+$8,000,000 to K-tel on a revolving basis. The loan bears interest at a variable
+rate based upon the  base rate  of a nationally recognized lending institution
+(8.25% at June 30, 2006),  expires
+July 20, 2008, and is subordinated to the Foothill loan (see below). The K-5
+Facility contains the same covenants as the Foothill loan agreement.
+K-tel has pledged the stock of its foreign subsidiaries as collateral for the
+loan, and the loan carries a subordinated position to the Foothill loan on all
+other assets of the Company. K-tel had outstanding balances of $8,098,000 and
+$7,518,000 as of June 30, 2006 and 2005, respectively, under the K-5 Facility.
+At June 30, 2006, K-tel obtained a waiver from K-5 for its non-compliance under
+the covenants, limitations and restrictions of the credit agreement. 
+
+  In addition, K-tel
+has a second loan agreement with K-5, under which K-5 assumed rights and
+obligations under a loan from the Company s former banker (Foothill Capital
+Corporation) pursuant to an Assignment and Acceptance Agreement dated February
+27, 2001. This Foothill loan, which has been extended through July 20, 2008,
+provides for a $10,000,000 credit facility consisting of a $4,000,000 term loan
+due upon expiration, and a $6,000,000 revolving facility under which borrowings
+are limited to a percent of eligible receivables. Borrowings under the facility
+bear interest at a variable rate based on a  base rate    of a nationally
+recognized lending institution   plus 1% (9.25% at June 30, 2006) and are
+collateralized by the assets of certain Company subsidiaries in the United
+States, including accounts receivable, inventories, equipment, music library
+and general intangibles. The loan agreement contains certain financial and
+other covenants or restrictions, including the maintenance of a minimum
+shareholders  equity by K-tel, limitations on capital expenditures,
+restrictions on music library acquisitions, limitations on other indebtedness
+and restrictions on dividends paid by K-tel. As of June 30, 2006 and June 30,
+2005, K-tel had $4,000,000 outstanding under the term loan and there were no
+borrowings under the revolving facility. At June 30, 2006, K-tel obtained a
+waiver from K-5 for its non-compliance under the covenants, limitations and
+restrictions of the credit agreement.  
+
+   4.                                           INCOME
+TAXES  
+
+  The Company
+operates in several countries and is subject to various tax regulations and tax
+rates. The provisions for income taxes are computed based on income reported
+for financial statement purposes in accordance with the tax rules and
+regulations of the taxing authorities where the income is earned.  
+
+  The provision for
+income taxes consists of the following for the years ended June 30 (in
+thousands):  
+
+32     
+
+A reconciliation
+of the U.S. Federal statutory rate to the effective tax rate for the years
+ended June 30 was as follows:  
+
+Deferred income
+taxes are provided for the temporary differences between the financial
+reporting basis and the tax basis of the Company s assets and liabilities.
+Temporary differences, which are all deferred tax assets, were as follows (in
+thousands):  
+
+A valuation
+allowance equal to the aggregate amount of deferred tax assets has been
+established until such time as realizability of these assets is more likely
+than not.  
+
+  For U.S. tax
+reporting purposes, the Company has net operating loss ( NOL ) carryforwards of
+approximately $43,200,000. However, of the amount available through 2013 and
+2020, $20,100,000 of the NOL relates to deductions associated with the exercise
+of stock options. The tax benefit of approximately $7,236,000 associated with
+this stock option deduction will be recorded as additional paid-in
+capital if and when realized. The NOL carryforwards may be reduced in future
+years, without financial statement benefit, to the extent of intercompany
+dividends received from foreign subsidiaries. Also, the NOL carryforwards are
+subject to review and possible adjustment by taxing authorities. In addition,
+the Company has approximately $439,000 in U.S. federal alternative minimum tax
+credits and $325,000 in foreign tax credits, which may be utilized in the
+future to offset any regular corporate income tax liability.  
+
+   5.                                           CAPITAL
+TRANSACTIONS  
+
+   Stock Option Plan   
+
+  The Company has a
+Stock Option Plan for officers, directors, and employees of the Company. Under
+the terms of this plan the Board of Directors has the sole authority to
+determine the employees to whom options and awards are granted, the type, size
+and terms of the awards, the timing of the grants, the duration of the exercise
+period and any other matters arising under the plan. The common stock
+incentives may take the form of incentive stock options and nonqualified stock
+options. In February 1997, the Company s Board of Directors approved a stock
+option plan covering a maximum of 600,000 shares of common stock, which was
+subsequently amended to 5,000,000 through shareholder amendments in February
+1999, January 2000 and November 2000. There were options for 2,037,605 net
+shares granted under this plan as of June 30, 2006, of which 1,011,111 have
+been exercised. Any options cancelled become available for future grants. No
+options granted have expired.  
+
+   Stock Option Exchange   
+
+  On March 18, 2003, a committee of the Company s board
+of directors comprised solely of independent directors, approved a  Stock
+Option Exchange Program.  The Program provided for a small number of optionees
+who were previously awarded options to purchase shares of common stock under
+the Company s 1997 Stock Option Plan to   
+
+33     
+
+exchange them voluntarily for options to purchase an
+equal number of shares outside the Company s Stock Option Plan. Mr. Kives
+exchanged 1,702,939 options with a weighted average price per share of $5.95
+under this Stock Option Exchange Program. Replacement options were proposed to
+be issued six months and one day after the date of cancellation of the existing
+options and were to be at an exercise price per share equal to the fair market
+value of the Company s common stock as quoted on the OTC Bulletin Board on the
+date of grant and expire ten years after the date of grant. On November 18,
+2003, the replacement options were issued at a price per share of $.08. There
+was no compensation expense recognized as a result of this exchange.  
+
+   Restricted and Non-Qualified
+Stock Options   
+
+  In addition to
+stock options granted under the terms of the Stock Option Plan, the Board of
+Directors has the sole authority to grant employees, officers and directors
+incentive stock options and non-qualified stock options outside the Stock
+Option Plan. The Board of Directors determines the type, size and terms of the
+grants, timing of the grants, the duration of the exercise period and any other
+matters pertaining to options or awards granted outside of the Stock Option
+Plan. There were options for 2,202,939 net shares granted outside the Stock
+Option Plan as of June 30, 2006. No options were granted outside the Stock
+Option Plan during fiscal 2006.  
+
+  The share
+information for all plans is summarized below:  
+
+(1)                               Adjustment
+reflects options disclosed previously as incentive that should have been recorded
+as non-qualified. 
+
+  The following
+tables summarize information concerning currently outstanding and exercisable
+stock options at June 30, 2006:  
+
+The weighted
+average fair value of options granted in fiscal 2004 was $.08. No options were
+granted in fiscal 2006 or 2005. Because the fair value provisions have not been
+applied to options granted prior to June 30, 1995, the resulting pro forma
+compensation cost (See Note 1) may not be representative of that to be expected
+in future years.  
+
+34  
+
+The fair value of
+each option is estimated on the date of grant using the Black-Scholes option
+pricing model. The following assumptions were used to estimate the fair value
+of options:  
+
+Risk-free interest rate 
+
+4.00%  
+
+Expected life  
+
+10 years  
+
+Expected volatility  
+
+220%  
+
+Expected dividend yield  
+
+None  
+
+6.                                           COMMITMENTS
+AND CONTINGENCIES  
+
+   K-tel
+International, Inc. vs. Tristar Products, Inc.    
+
+  On March 14, 2000,
+K-tel and its subsidiary in Germany commenced an action for breach of express
+and implied warranties against Tristar Products, Inc. This action arose out of
+Tristar s sale to K-tel of a defective home exercise product called the  BunBlaster 
+for resale in Germany, Austria and Switzerland. By written contract,
+Tristar  agreed to indemnify K-tel for
+injuries and damages arising out of the resale of those goods.  
+
+  On April 30, 2001, Tristar asserted a patent and
+trademark/ trade-dress counterclaim against K-tel for allegedly passing off a
+product called the  K-tel Hook and Hang  while allegedly a distributor of the
+original patented Tristar Hook and Hang product. The Company denies the
+allegation because it never was a distributor of this or any similar product.  
+
+  On December 30, 2004, a Mutual General Release and
+Settlement Agreement was signed by K-tel and Tristar,  whereby both companies agreed to mutual
+releases and Tristar agreed to pay K-tel $350,000. The Company recorded
+the  $350,000 in discontinued operations
+and  payment was received February 18,
+2005.  
+
+   Other Litigation and Disputes   
+
+  K-tel and its
+subsidiaries are involved in other legal actions in the ordinary course of
+their business. With all litigation matters, management considers the
+likelihood of loss based on the facts and circumstances. If management
+determines that a loss is probable and the amount of loss can be reasonably
+estimated, such amount is recorded as a liability. Although the outcome of any
+such legal actions cannot be predicted, in the opinion of management there is
+currently no legal proceeding pending or asserted against or involving K-tel
+for which the outcome is likely to have a material adverse effect upon the
+consolidated financial position or results of operations of K-tel.  
+
+   Leases   
+
+  The Company has
+entered into several office and warehouse leases which expire through calendar
+2009. Commitments under these leases are $38,000, $50,000, $50,000 and $13,000
+in fiscal 2007, 2008, 2009 and 2010, respectively.  Rental expense was $243,000 in 2006, $222,000
+in 2005, and $228,000 in 2004.  
+
+   7.                                           SIGNIFICANT
+CUSTOMERS AND RELATED PARTY TRANSACTIONS  
+
+  One customer
+accounted for approximately 15.2% of K-tel s revenue for the year ended June
+30, 2006 and had no accounts receivable balance at June 30, 2006. The loss of,
+or a substantial reduction in, business from this customer  could have a material adverse effect on the
+Company.  
+
+  In fiscal year
+2005, three customers accounted for approximately 18.4%, 15.3% and 13.2% of
+K-tel s revenue and had accounts receivable balances of $503,000, $403,000 and
+$22,000 respectively.  
+
+  See Note 3 for information
+regarding debt transactions with related parties.  
+
+  The Company
+purchased approximately $61,000 in the year ended June 30, 2006, $400,000 in
+the year ended June 30, 2005, and $502,000 in the year ended June 30, 2004 of
+music entertainment and consumer convenience products from  K-5, the Company s largest shareholder
+controlled by Philip Kives, Chairman of the Board, President and Chief
+Executive Officer of K-tel. There were trade payables to K-5 of $2,000 at June
+30, 2006, $398,000 at June 30, 2005, and $390,000 at June 30, 2004.  
+
+35     
+
+The Company had no
+sales of products to K-5 during the years ended June 30, 2006, 2005 and 2004.
+There was no balance receivable from K-5 at June 30, 2006.  There was a balance receivable at June 30,
+2005 of $129,000 and June 30, 2004 of $113,000. No interest was charged on the
+related outstanding balances during fiscal years 2006, 2005 or  2004.  
+
+  All future transactions
+between the Company, its officers, directors and principal shareholders and its
+affiliates will be approved by the audit committee of the Company s board of
+directors.  
+
+   8.                                              RETIREMENT  PLANS  
+
+   Pension Plan   
+
+  The Company has a
+pension plan for its U.K. employees. Contributions to the Plan by the Company
+on behalf of the eligible employees were terminated effective February 15, 2001
+and all benefit accruals under the Plan ceased. Summary plan information is as
+follows:  
+
+The
+employer is not expected to contribute to the plan in fiscal 2007.  
+
+  The
+Company s pension plan asset target allocation for 2006 and actual asset
+allocations are as follows at June 30:  
+
+The Company s investment
+strategy with respect to pension plan assets is to continue to hold the plan
+asset in a deposit administration fund, which is similar to a bank account.
+Interest is added to the fund at a rate declared by Swiss Life.  
+
+36     
+
+WEIGHTED-AVERAGE
+ASSUMPTIONS USED TO DETERMINE NET PERIODIC COST FOR THE YEARS ENDED JUNE 30:  
+
+WEIGHTED-AVERAGE ASSUMPTION USED TO DETERMINE
+BENEFIT OBLIGATIONS AS OF JUNE 30:  
+
+Money Purchase
+Plan   
+
+  The Company s U.K.
+subsidiaries contribute amounts for their employees to a money purchase defined
+contribution plan. The Company contributed $28,000, $53,000, and $77,000 for
+the years ended June 30, 2006, 2005 and 2004, respectively.  
+
+   9.                                           BUSINESS
+SEGMENT AND GEOGRAPHIC AREA DATA  
+
+  K-tel s
+businesses are organized, managed and internally reported as two segments:
+music licensing and retail music sales.  
+
+  These segments are
+based on differences in products, customer type and sales and distribution
+methods.  
+
+  The Company
+licenses the rights to its master music catalog, consisting of original
+recordings and re-recordings of music from the 1950 s through today, to
+third parties world-wide for use in albums, films, television programs,
+commercials and electronic downloads to various media formats, for either a
+flat fee or a royalty based on the number of units sold.  
+
+  The music segment
+of the Company markets and distributes entertainment products internationally
+and through its operating subsidiaries. The retail music segment consists
+primarily of the sales of pre-recorded music from the Company s master
+music catalog. The Company sells compact discs and DVD s directly to retailers,
+wholesalers and rack service distributors which stock and manage inventory
+within music departments for retail stores.  
+
+  The Company s
+consumer product and e-commerce operations have been discontinued, are
+presented in the accompanying financial statements as discontinued operations
+and are therefore not included in the segment information.  
+
+  Operating   profits  or losses of these segments
+include an allocation of general corporate expenses. Depreciation and
+amortization and capital additions are not significant and have therefore been
+excluded from the presentation. 
+
+37     
+
+Certain financial
+information on the Company s continuing operating segments is as follows:  
+
+  BUSINESS SEGMENT
+INFORMATION  (in thousands)   
+
+GEOGRAPHIC
+INFORMATION  (in thousands)   
+
+10.                                                    RECENT ACCOUNTING PRONOUNCEMENTS  
+
+  In June 2006, the
+Financial Accounting Standards Board ( FASB ) issued Interpretation No. 48,  Accounting
+for Uncertainty in Income Taxes    an interpretation of FASB Statement No. 109,
+ Accounting for Income Taxes  ( FIN 48 ), which clarifies the accounting for
+uncertainty in income taxes. FIN 48 prescribes a recognition threshold and
+measurement attribute for the financial statement recognition and measurement
+of a tax position taken or expected to be taken in a tax return. The
+interpretation requires that the Company recognize in the financial statements
+the impact of a tax position.  Recognition is allowed if the tax position
+is more likely than not of being sustained on audit, based on the technical
+merits of the position. FIN 48 also provides guidance on derecognition,
+classification, interest and penalties, accounting in interim periods and
+disclosure. The provisions of FIN 48 are effective for fiscal years beginning
+after December 15, 2006 with the cumulative effect of the change in accounting
+principle recorded as an adjustment to opening retained earnings. The adoption
+of this statement is not expected to have a material impact on the Company s
+consolidated financial position or results of operations.  
+
+  In
+December 2004, the FASB issued SFAS No. 123R,  Share-Based
+Payment , which replaced SFAS No. 123 and superseded APB 25. SFAS No.
+123R addresses the accounting for share-based payment transactions in which a
+company receives employee services in exchange for either equity instruments of
+the company or liabilities that are based on the fair value of the company s
+equity instruments or that may be settled by the issuance of such equity
+instruments. Under SFAS No. 123R, companies will no longer be able to account
+for the share-based compensation transactions using the intrinsic method in
+accordance with APB 25 but will be required to account for such transactions
+using a fair-value method and recognize the expense in the consolidated
+statement of operations. SFAS No. 123R is effective beginning in the Company s
+first quarter of fiscal year 2007. Under SFAS 123R, the Company must determine
+the appropriate fair  
+
+38     
+
+value
+model to be used for valuing share-based payments, the amortization method for
+compensation cost and the transition method to be used at date of adoption. The
+transition methods include prospective and retroactive adoption options. The
+Company has begun, but has not completed, evaluating the impact of the adoption
+of SFAS 123R on its results of operations. In connection with evaluating the
+impact of SFAS 123R, the Company is considering the potential implementation of
+different valuation methods to determine the fair value of share-based
+compensation. The Company believes the adoption of SFAS 123R will not have a
+material impact on our results of operations, regardless of the valuation
+method used.  
+
+   11.          INTERIM FINANCIAL DATA (UNAUDITED)   
+
+  In September 2004,
+the Company discovered that the former Chief Financial Officer of its UK
+subsidiary misappropriated funds from the Company s UK subsidiary and a
+customer of such subsidiary. The Company terminated the employee, undertook a
+full-scale investigation of the matter, retained a forensic auditing firm and
+dismissed the accounting firm in the UK that audited the UK subsidiary s
+financial books and records. Based upon the estimates of the Company s forensic
+auditor, it was determined that the former employee misappropriated
+approximately $924,000 from the Company s UK subsidiary and approximately
+$344,000 from a customer of such subsidiary beginning approximately in January
+2001 and continuing until September 2004. Further, the Company spent
+approximately $150,000 investigating the misappropriation. Through negotiations
+with the former employee, the Company s UK subsidiary and its customer have
+received an aggregate of approximately $1,495,000 including interest and an
+additional $100,000 is expected to be recovered. The Company s UK subsidiary
+has received a deed of guarantee in connection with this remaining obligation
+and it expects to collect the remaining amount owed on or before February 15,
+2008.  
+
+  For the fiscal
+year ending June 30, 2004, the misappropriation understated sales by $4,000 in
+the quarter ending September 30, 2003. 
+Product costs were overstated by $13,000, $2,000, $63,000 and $72,000
+and selling and general  and
+administrative expenses by $28,000, $43,000, $53,000 and $62,000 for the
+quarters ending September 30, 2003, December 31, 2003, March 31, 2004 and June
+30, 2004, respectively.  
+
+  The Company
+recorded account receivable amounts relating to the misappropriated funds of
+approximately $857,000 and $545,000 at June 30, 2004 and June 30, 2003,
+respectively, to the consolidated balance sheet.  At June 30, 2004 the consolidated balance
+sheet accounts receivable amount also includes approximately $324,000 from a
+Lancaster receivable relating to the misappropriated funds (see Note 12).  
+
+   Fiscal 2006
+Interim Financial Data   
+
+  Quarterly Financial Information (Unaudited)  
+
+39     
+
+Fiscal 2005
+Interim Financial Data   
+
+  Quarterly Financial Information (Unaudited)  
+
+12.                                       CONSOLIDATION OF VARIABLE
+INTEREST ENITITY   
+
+  The Company sells
+certain products to and buys from Lancaster, a company established in the
+U.K.  In accordance with FASB
+Interpretation 46 (Revised December 2003),  Consolidation of Variable
+Interest Entities  (FIN 46 (R)), the Company determined that
+Lancaster is a variable interest entity and that the Company is the primary
+beneficiary of this entity.  The Company
+was required to apply the guidance of FIN 46 (R) for periods ending after March
+15, 2004, and accordingly, during the quarter ended March 31, 2004, the
+financial statements of Lancaster were consolidated with those of the Company.  
+
+  As of June 30,
+2006, the consolidated financial statements included approximately $2,000 of
+current assets and $95,000 of current liabilities related to Lancaster.   Sales and purchases between Lancaster and
+the Company have been eliminated in consolidation, and the additional effects
+of Lancaster on the Company s operations were not material.  
+
+40  
+
+SCHEDULE
+II   
+
+   K-TEL
+INTERNATIONAL, INC. AND SUBSIDIARIES   
+
+   VALUATION
+AND QUALIFYING ACCOUNTS   
+
+  Years ended June
+30,  
+
+  (In thousands)  
+
+(1)               Exchange rate change 
+
+  (2)               Uncollectible accounts
+written off, net of recoveries 
+
+41     
+
+EXHIBIT
+INDEX     
+
+42     
+
+43  
+
+<EX-21>
+ 2
+ a06-24410_1ex21.htm
+ EX-21
+
+Exhibit
+21   
+
+   SUBSIDIARIES OF THE REGISTRANT   
+
+  As
+of June 30, 2006, subsidiaries of the Company and the jurisdiction in which
+each company was incorporated are listed below. Unless other wise indicated,
+all of the voting securities of each subsidiary are owned by K-tel
+International, Inc. or one of its subsidiaries.  
+
+  Dominion
+Entertainment, Inc.  
+
+  Minneapolis,
+Minnesota (a Minnesota corporation)  
+
+  K-tel Entertainment (CAN)
+Inc.  
+
+  Winnipeg,
+Manitoba (a Canada corporation)  
+
+  K-tel Entertainment
+(U.K.) Ltd.  
+
+  London,
+England (an England corporation)  
+
+  K-tel Direct Limited  
+
+  London,
+England (an England corporation)  
+
+  K-tel (Australia) Pty.
+Limited  
+
+  Forbes,
+N.S.W. Australia (an Australian corporation)  
+
+  K-tel TV, Inc.  
+
+  Minneapolis,
+Minnesota (a Minnesota corporation)  
+
+  K-tel Entertainment, Inc.  
+
+  Minneapolis,
+Minnesota (a Minnesota corporation)  
+
+  K-tel Services, Inc.  
+
+  Minneapolis,
+Minnesota (a Minnesota corporation)  
+
+  Dominion Vertriebs GmbH  
+
+  Frankfurt,
+Germany (a German corporation)  
+
+</EX-21>
+
+<EX-23>
+ 3
+ a06-24410_1ex23.htm
+ EX-23
+
+Exhibit
+23   
+
+   CONSENT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM   
+
+  We have issued our
+report dated October 30, 2006,
+accompanying the consolidated financial statements and schedule included in the
+Annual Report of K-tel International, Inc. on Form 10-K for the year ended June
+30, 2006. We hereby consent to the incorporation by reference of said report in
+the Registration Statements of K-tel International, Inc. on Forms S-8 (File No.
+33-18723 effective November 25, 1987, File No. 333-28815 effective June 9,
+1997, File No. 333-65755 effective October 15, 1998, File No. 333-74471
+effective March 16, 1999, File No. 333-31272 effective February 28, 2000, and
+File No. 333-39022 effective June 9, 2000).  
+
+</EX-23>
+
+<EX-31.1>
+ 4
+ a06-24410_1ex31d1.htm
+ EX-31
+
+Exhibit 31.1   
+
+   CERTIFICATIONS   
+
+  CHIEF EXECUTIVE OFFICER CERTIFICATION PURSUANT TO RULE 13a-14(a)  
+
+  I, Philip Kives, certify that:  
+
+  1.                  I
+have reviewed this Annual Report on Form 10-K of K-tel International, Inc.; 
+
+  2.                  Based
+on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; 
+
+  3.                  Based
+on my knowledge, the financial statements, and other financial information
+included in this report, fairly present in all material respects the financial
+condition, results of operations and cash flows of the registrant as of, and
+for, the periods presented in this report; 
+
+  4.                  The
+registrant s other certifying officer and I are responsible for establishing
+and maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+  a.                  Designed
+such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; 
+
+  b.                 Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; and 
+
+  c.                  Disclosed
+in this report any change in the registrant s internal control over financial
+reporting that occurred during the registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of an annual report) that has
+materially affected, or is reasonably likely to materially affect, the
+registrant s internal control over financial reporting; and 
+
+  5.                  The
+registrant s other certifying officer and I have disclosed, based on our most
+recent evaluation of internal control over financial reporting, to the
+registrant s auditors and the audit committee of the registrant s board of
+directors (or persons performing the equivalent functions): 
+
+  a.                  All
+significant deficiencies and material weaknesses in the design or operation of
+internal control over financial reporting which are reasonably likely to
+adversely affect the registrant s ability to record, process, summarize and
+report financial information; and 
+
+  b.                 Any
+fraud, whether or not material, that involves management or other employees who
+have a significant role in the registrant s internal control over financial
+reporting. 
+
+  Date:  November
+22, 2006  
+
+/s/ Philip Kives 
+
+Philip Kives  
+
+President and
+  Chief Executive Officer  
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ a06-24410_1ex31d2.htm
+ EX-31
+
+Exhibit
+31.2   
+
+   CERTIFICATIONS   
+
+  PRINCIPAL FINANCIAL OFFICER CERTIFICATION PURSUANT TO RULE 13a-14(a)  
+
+  I, Kimmy Lockwood, certify that:  
+
+  1.       I have reviewed this Annual Report on
+Form 10-K of K-tel International, Inc.;  
+
+  2.                        Based
+on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; 
+
+  3.                        Based
+on my knowledge, the financial statements, and other financial information
+included in this report, fairly present in all material respects the financial
+condition, results of operations and cash flows of the registrant as of, and
+for, the periods presented in this report; 
+
+  4.                        The
+registrant s other certifying officer and I are responsible for establishing
+and maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+  a.                                          Designed
+such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; 
+
+  b.                                         Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; and 
+
+  c.                                          Disclosed
+in this report any change in the registrant s internal control over financial
+reporting that occurred during the registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of an annual report) that has
+materially affected, or is reasonably likely to materially affect, the
+registrant s internal control over financial reporting; and 
+
+  5.                                          The
+registrant s other certifying officer and I have disclosed, based on our most
+recent evaluation of internal control over financial reporting, to the
+registrant s auditors and the audit committee of the registrant s board of
+directors (or persons performing the equivalent functions): 
+
+  a.                                          All
+significant deficiencies and material weaknesses in the design or operation of
+internal control over financial reporting which are reasonably likely to
+adversely affect the registrant s ability to record, process, summarize and
+report financial information; and 
+
+  b.                                         Any
+fraud, whether or not material, that involves management or other employees who
+have a significant role in the registrant s internal control over financial
+reporting. 
+
+  Date: November 22, 2006  
+
+/s/ Kimmy Lockwood 
+
+Kimmy Lockwood  
+
+Principal
+  Financial Officer  
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ a06-24410_1ex32d1.htm
+ EX-32
+
+Exhibit
+32.1   
+
+   CERTIFICATION PURSUANT TO   
+
+   18 U.S.C.
+SECTION 1350,  
+AS ADOPTED PURSUANT TO  
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+  In connection with
+the Annual Report of K-tel International, Inc. (the  Company ) on Form 10-K for
+the period ended June 30, 2006, as filed with the Securities and Exchange
+Commission on the date hereof (the  Report ), I, Philip Kives, certify,
+pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that:  
+
+  (1)             The Report fully
+complies with the requirements of Section 13(a) or 15(d) of the Securities
+Exchange Act of 1934; and 
+
+  (2)             The information
+contained in the Report fairly presents, in all material respects, the
+financial condition and results of operations of the Company. 
+
+  A signed original
+of this written statement required by Section 906 has been provided to the
+Company and will be retained by the Company and furnished to the Securities and
+Exchange Commission or its staff upon request.  
+
+By 
+
+/s/ PHILIP KIVES  
+
+Philip Kives  
+
+President and Chief Executive Officer   
+
+November 22, 2006  
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ a06-24410_1ex32d2.htm
+ EX-32
+
+Exhibit
+32.2   
+
+   CERTIFICATION
+PURSUANT TO  
+18 U.S.C. SECTION 1350,  
+AS ADOPTED PURSUANT TO  
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+  In
+connection with the Annual Report of K-tel International, Inc. (the  Company )
+on Form 10-K for the period ended June 30, 2006, as filed with the Securities
+and Exchange Commission on the date hereof (the  Report ), I, Kimmy Lockwood,
+certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that:  
+
+  (1)                                     The
+report fully complies with the requirement of Section 13(a) or 15(d) of the
+Securities Exchange Act of 1934; and 
+
+  (2)                                     The
+information contained in the Report fairly presents, in all material respects,
+the financial condition and results of operations of the Company. 
+
+  A signed original
+of this written statement required by Section 906 has been provided to the
+Company and will be retained by the Company and furnished to the Securities and
+Exchange Commission or its staff upon request.  
+
+By  
+
+/s/   KIMMY LOCKWOOD  
+
+Kimmy Lockwood  
+
+Principal Financial Officer   
+
+November 22, 2006  
+
+</EX-32.2>
+

@@ -1,0 +1,2848 @@
+<Header>
+<FileStats>
+    <FileName>20061013_10-K_edgar_data_28561_0000914317-06-002723_1.txt</FileName>
+    <GrossFileSize>171216</GrossFileSize>
+    <NetFileSize>141986</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>568</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>9</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000914317-06-002723.hdr.sgml : 20061013
+<ACCEPTANCE-DATETIME>20061013142747
+ACCESSION NUMBER:		0000914317-06-002723
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20060630
+FILED AS OF DATE:		20061013
+DATE AS OF CHANGE:		20061013
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DEWEY ELECTRONICS CORP
+		CENTRAL INDEX KEY:			0000028561
+		STANDARD INDUSTRIAL CLASSIFICATION:	ORDNANCE & ACCESSORIES, (NO VEHICLES/GUIDED MISSILES) [3480]
+		IRS NUMBER:				131803974
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-02892
+		FILM NUMBER:		061143984
+
+	BUSINESS ADDRESS:	
+		STREET 1:		27 MULLER RD
+		CITY:			OAKLAND
+		STATE:			NJ
+		ZIP:			07436
+		BUSINESS PHONE:		2013374700
+
+	MAIL ADDRESS:	
+		STREET 2:		27 MULLER ROAD
+		CITY:			OAKLAND
+		STATE:			NJ
+		ZIP:			07436
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DEWEY G C CORP
+		DATE OF NAME CHANGE:	19690428
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TtHkgtD3ROkiBCHmboUv8aYDiL3cXfu2yfpPopZJhQJjz3ztSfOF0/FPa3TKyzJO
+ Ec6bGNw4RFshFKsKpXMt5g==
+
+ 0000914317-06-002723.txt : 20061013
+
+10-K
+ 1
+ form10k-79614_dewey.txt
+ 10-K FYE JUNE 30, 2006
+
+UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+- ---
+|X|      ANNUAL REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES
+- ---      EXCHANGE ACT OF 1934
+
+         For the fiscal year ended June 30, 2006
+
+                                       or
+- ---
+| |      TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+- ---      SECURITIES EXCHANGE ACT OF 1934
+
+                          Commission file number 0-2892
+
+                        THE DEWEY ELECTRONICS CORPORATION
+               (Exact name of registrant as specified in charter)
+
+NEW YORK                                                              13-1803974
+(State of Incorporation)                    (I.R.S. Employer Identification No.)
+
+27 Muller Road, Oakland, New Jersey                                      07436
+(Address of principal executive offices)                               Zip Code
+
+                                  201-337-4700
+                         (Registrant's telephone number)
+
+           Securities registered pursuant to Section 12(b) of the Act:
+                                      None
+                                      ----
+
+           Securities registered pursuant to Section 12(g) of the Act:
+                          Common stock, $.01 par value
+                          ----------------------------
+                                (Title of class)
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act. Yes      No X
+                                               ---    ---
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. Yes     No  X
+                                                        ---    ---
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes X  No    .
+                                      ---    ---
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form l0-K __.
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of "accelerated
+filer and large accelerated filer" in Rule 12b-2 of the Exchange Act. (Check
+one):
+
+Large accelerated filer       Accelerated filer       Non-accelerated filer X .
+                        ---                     ---                        ---
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act). Yes    No  X .
+                                    ---    ---
+
+The aggregate market value of the voting and non-voting common equity held by
+non-affiliates of the registrant, computed by reference to the price at which
+the common stock was sold as of the close of business on December 30, 2005 was
+$3,201,689.
+
+The number of shares outstanding of the registrant's common stock, $.01 par
+value was 1,362,031 at October 6, 2006.
+
+                       Documents Incorporated by Reference
+
+Portions of the Company's definitive Proxy Statement for the 2006 Annual Meeting
+of Stockholders are incorporated herein by reference in Part III.
+
+THE DEWEY ELECTRONICS CORPORATION
+                                TABLE OF CONTENTS
+
+Item                                                                        Page
+- ----                                                                        ----
+                                     PART I
+
+1.   Business                                                                  3
+
+1A.  Risk Factors                                                              6
+
+1B.  Unresolved Staff Comments                                                 7
+
+2.   Properties                                                                7
+
+3.   Legal Proceedings                                                         8
+
+4.   Submission of Matters to a Vote of Security Holders                       8
+
+PART II
+
+5.   Market for Registrant's Common Equity, Related
+     Stockholder Matters and Issuer Purchases of Equity
+     Securities                                                                9
+
+6.   Selected Financial Data                                                  10
+
+7.   Management's Discussion and Analysis of Financial
+     Condition and Results of Operations                                      11
+
+8.   Financial Statements                                                     22
+
+9.   Changes in and Disagreements with Accountants on
+     Accounting and Financial Disclosure                                      42
+
+9A.  Controls and Procedures                                                  42
+
+9B.  Other Information                                                        42
+
+PART III
+
+10.  Directors and Executive Officers of the Registrant                       43
+
+11.  Executive Compensation                                                   43
+
+12.  Security Ownership of Certain Beneficial Owners and
+     Management and Related Stockholder Matters                               43
+
+13.  Certain Relationships and Related Transactions                           43
+
+14.  Principal Accounting Fees and Services                                   43
+
+PART IV
+
+15.  Exhibits, Financial Statement Schedules                                  44
+
+16.  Signatures                                                               45
+
+2
+
+PART I
+
+Item 1.  BUSINESS
+- -----------------
+
+The Dewey Electronics Corporation (the "Company") was incorporated in the State
+of New York in 1955. It is a systems oriented military electronics development,
+design and manufacturing organization based in Oakland, New Jersey. The Company
+is organized into two operating segments on the basis of the type of products
+offered. Each segment is comprised of separate and distinct businesses: the
+Electronics segment, primarily business with the Department of Defense, and the
+Leisure and Recreation segment, primarily business with ski areas and resorts.
+
+In the Electronics segment, the Company is a producer of electronic and
+electromechanical systems for the Armed Forces of the United States. The Company
+provides its products in this segment either as a prime contractor or as a
+subcontractor for the Department of Defense.
+
+The Electronics segment is comprised mostly of the 2kW generator product line,
+two research and development contracts, and other various spare parts sales
+orders, more limited in scope and duration. The 2kW generator product line is
+provided to the various branches of the Armed Forces of the United States.
+Production is under a long-term contract as well as short-term orders for
+limited quantities. The Company also provides speed and measurement
+instrumentation primarily for the U.S. Navy and other prime contractors such as
+shipbuilders. Orders are also received for replacement parts and equipment for
+previous Company contracts with the Department of Defense as well as other
+projects performed as a subcontractor. In past years, the Company had various
+long-term contracts to provide the U.S. Navy with various equipment.
+
+The Company has been the sole source producer of the 2kW diesel operated
+tactical generator set for the Department of Defense since 1997. Its initial
+contract was awarded by the U.S. Army in 1996 and final deliveries were made
+under that award in March 2002. Deliveries were made to the various branches of
+the Armed Forces of the United States.
+
+A new contract was awarded in September 2001 to provide the U.S. Army and other
+Department of Defense Agencies with this same 2kW diesel operated generator set.
+This contract is a ten-year indefinite delivery, indefinite quantity contract
+which replaces the initial contract awarded in 1996. The total amount of orders
+under the September 2001 contract placed through August 31, 2006 amount to
+approximately $19 million. Deliveries of orders currently in-house are scheduled
+to continue through fiscal year 2007. As with the initial contract mentioned
+above, this contract allows for the U.S. Army to place annual production orders
+and to place additional interim orders. However, no assurances can be made that
+further orders will be placed or, if they are placed, the timing and amount of
+such orders.
+
+On September 9, 2003, the Company was awarded a "cost plus fixed fee" research
+and development contract. This contract with the U.S. Army Communications -
+Electronic Command, CECOM Acquisition Center, Washington was in the amount of
+approximately $1.8 million. The contract was for the research and development of
+improvements to the current 2kW diesel operated generator set specifically at
+the request of the U.S. Army for lighter, quieter models. Work on this contract
+was performed at the Company's location in Oakland, New Jersey and continued
+through September 2005. On September 28, 2004, the Company was awarded a second
+"cost plus fixed fee" research and development contract by the U.S. Army, in the
+amount of approximately $1.5 million, for work to be performed towards similar
+objectives. Work on this project continued through September 2006. No assurances
+can be made that the Company will receive any future production orders as a
+result of these contracts or that the United States Government (the
+"Government") will award the Company any additional research and development
+contracts. However, both of the research and development contracts described
+above require the Company to present improvements to the Government.
+
+In the Leisure and Recreation segment, the Company, through its HEDCO Division,
+designs, manufactures and markets advanced, sophisticated snowmaking equipment.
+It
+
+3
+
+also supplies replacement parts for items no longer covered under warranty.
+
+The Company's primary sources of revenue include products with long
+manufacturing lead times. These products, in particular, are its 2kW generator
+sets, and its HEDCO snowmaking machines. Recognizing this, the Company has
+committed some of its resources to making a quantity of these products readily
+available by producing them for inventory and sales. The Government sector has
+been ordering limited quantities of 2kW generator sets for specific uses
+pursuant to short-term orders independent of the Company's 2kW contract.
+
+There are no intersegment sales.
+
+The sales and operating profit of each segment and the identifiable assets
+attributed to each segment for the last three fiscal years ended June 30, 2006
+are set forth in Note 12 - Operating Segments of the Notes to the Financial
+Statements.
+
+The Company expenses its research and development costs as incurred. These costs
+consist primarily of salaries and material costs. For the fiscal years ended
+June 30, 2006, 2005 and 2004, the Company expensed $66,791, $101,764 and
+$127,704, respectively, of research and development costs. As discussed above,
+the Company and the U.S. Army entered into a research and development contract
+in fiscal year 2004 and a second research and development contract in fiscal
+year 2005. The costs incurred under these contracts in fiscal years 2006, 2005
+and 2004 were billed to the customer.
+
+Compliance with Federal, state and local environmental provisions has had no
+material effect upon capital expenditures, income or the competitive position of
+the Company. In addition, there are no material capital expenditures anticipated
+for environmental compliance.
+
+As of August 31, 2006 , the Company had a work force of 36 employees, of whom 10
+were technical or professional personnel. As of August 31, 2005 there were 34
+employees, 11 of whom were professional or technical personnel. Fluctuations in
+the work force during the year sometimes result from the uneven delivery
+requirements of the Department of Defense as well as the seasonal nature of the
+Leisure and Recreation segment of business.
+
+ELECTRONICS SEGMENT
+- -------------------
+
+The Company's Electronics segment accounted for 98%, 97% and 94% of total
+revenues in fiscal years 2006, 2005 and 2004, respectively.
+
+In the Electronics segment, revenues are recorded under defense contracts
+(including research and development contracts) using the
+percentage-of-completion method of accounting. Revenues are recorded as work is
+performed based on the percentage that actual incurred costs bear in comparison
+to estimated total costs utilizing the most recent estimates of costs and
+funding. Since contracts typically extend over multiple reporting periods,
+revisions in costs and estimates during the progress of work have the effect of
+adjusting earnings applicable to performance in prior periods in the current
+period. When the estimated costs to complete a project indicate a loss,
+provision is made for the anticipated loss in the current period. For further
+information see Note 1-A of the Notes to Financial Statements.
+
+Virtually all of the Electronics segment revenues are attributable to business
+with the Department of Defense or with other Government contractors. Aside from
+replacement part sales and other short-term business, the Company's Electronics
+segment revenues have in recent years been dependent upon single programs. Thus,
+until 1997, the ADCAP torpedo program with the U.S. Navy was responsible for all
+of the Company's Electronics segment revenues from long-term projects. In 1997
+this program was replaced by the tactical generator set program with the U.S.
+Army.
+
+Since substantially all of the Company's electronics business is derived from
+contracts with various Government agencies or subcontracts with prime Government
+contractors, the loss of substantial Government business would have a material
+adverse effect on the business.
+
+4
+
+For the most part, working capital requirements for the Electronics segment of
+business are funded by progress payments provided by the Government and receipts
+of billings made for delivery of product.
+
+All of the Company's contracts with the Government are subject to the standard
+provision for termination at the convenience of the Government.
+
+Although raw materials are generally available from a number of suppliers, the
+Company is at times dependent upon a specific supplier or a limited number of
+suppliers of material for a particular contract and has occasionally experienced
+some delays in deliveries. Such delays have not had a material adverse effect on
+operations of this segment; however, the Company cannot provide any assurances
+that future delays, if any, will not have a material adverse effect.
+
+Reference is made to Item 7 - Management's Discussion and Analysis of Financial
+Condition and Results of Operations for additional information regarding this
+segment.
+
+LEISURE AND RECREATION SEGMENT
+- ------------------------------
+
+The Company's Leisure and Recreation segment accounted for 2%, 3% and 6% of
+total revenues in fiscal years 2006, 2005 and 2004, respectively.
+
+Snowmaking equipment is sold to ski areas as original equipment or as
+replacements for existing equipment. Most snowmaking equipment is paid for in
+full at delivery to the customer. In other cases, such equipment is sold under a
+sales contract that provides for a substantial down payment and retention of a
+security interest in the equipment until full payment is received. The Company
+has not experienced any losses due to resale of the equipment following default
+by customers. The Company services the equipment at the purchaser's expense
+after a warranty period that typically expires at the end of the snowmaking
+season in which the sale occurs. The Company's warranty reserves are not
+significant.
+
+The Company has sold snowmaking equipment to over three hundred different
+locations in the United States and abroad. Marketing has been performed by the
+Company's employees in the domestic market and by distributors and
+representatives in foreign markets. In the past several years, the foreign
+market represented a small amount of revenues, all from the sales of parts.
+
+For the most part, shipments are made and revenues recorded during the second
+fiscal quarter. Production usually takes place in the first and second quarters,
+and it is during this period that inventory has been generated and working
+capital demands have been the greatest. The sale of snowmaking machines are
+recorded when machinery has been delivered and title and risk of loss have been
+transferred to the customer and collection is probable.
+
+The market for snowmaking machines has changed in recent years. Rather than
+order machinery months ahead of time, customers are expecting product to be
+readily available for immediate use. In order to remain competitive in this
+market, the Company has produced some Snowcub models for inventory purposes. It
+has also enhanced the technical capabilities as optional items for these
+machines.
+
+After the end of fiscal year 2006, management completed a strategic review of
+the spare parts business. As a result, for the fourth quarter of fiscal year
+2006, the Company recorded an adjustment of $299,596 against inventory related
+to spares for old models of snowmakers. Starting in January 2007, the Company
+will focus on customers using the most recent model line, the Snowcub. The
+Company will continue to actively market and support the Snowcub line of
+machines and will cease to support past models. See Item 7 - Management's
+Discussion and Analysis of Financial Condition and Results of Operations -
+Leisure and Recreation for additional information.
+
+While there may be some temporary delays, problems regarding source and
+availability of raw materials have had no material adverse effect on operations
+of this segment.
+
+5
+
+Reference is made to Item 7 - Management's Discussion and Analysis of Financial
+Condition and Results of Operations for additional information regarding this
+segment.
+
+Item 1A. RISK FACTORS
+- ---------------------
+
+You should carefully consider the risks described below, together with all of
+the other information included in this Annual Report. The following risks and
+uncertainties are not the only ones we face. However, these are the risks our
+management believes are material. If any of the following risks actually
+materialize, our business, financial condition or results of operations could be
+harmed. This Annual Report contains statements that are forward-looking. These
+statements are based on current expectations and assumptions that are subject to
+risks and uncertainties such as those listed below and elsewhere in this Annual
+Report, which, among others, should be considered in evaluating our future
+performance.
+
+The Company's Dependence on Government Defense Business and the 2kW Program
+- ---------------------------------------------------------------------------
+
+Most of our revenues are derived from Government defense business, which is
+comprised of business with the U.S. Department of Defense or with other
+Government contractors. Our Government defense business consists of long-term
+contracts and short-term orders such as for replacement parts. The loss of
+substantial Government business (including a material reduction of orders under
+existing contracts) would have a material adverse effect on our business.
+
+Historically, our revenues from our Government defense business have been
+dependent upon single programs. Currently, our primary program is with the U.S.
+Army to provide diesel operated generator sets. On September 7, 2001, we were
+awarded a ten year indefinite delivery, indefinite quantity contract to provide
+the U.S. Army and other Department of Defense agencies with 2kW diesel operated
+generator sets. The amount of orders received under this contract is
+approximately $19 million through June 30, 2006. Our generator set contract with
+the U.S. Army allows the U.S. Army to place additional orders; however, we
+cannot give any assurances that the U.S. Army will do so, or if there are
+additional orders, the amount and timing of the orders. In addition, we
+experienced inflationary pressures in fiscal year 2006 and cannot give any
+assurances that the Government will agree to a price increase under the contract
+that would be equitable to the Company.
+
+We continue to explore additional sources of revenue to reduce our dependence on
+the 2kW program, but cannot give any assurances that these efforts will be
+successful or, if successful, when they will be achieved. See Item 7 -
+Management's Discussion and Analysis of Financial Condition and Results of
+Operations - Company Strategy for additional information regarding Company
+strategy.
+
+Supplier Concentration Risks
+- ----------------------------
+
+The Company is primarily dependent on three vendors to supply qualified
+components for its 2kW generator products. During fiscal year 2006, two of these
+suppliers accounted for 32.4% and 23.4% of material purchases, respectively. See
+Note 1-B of the Notes to Financial Statements. We purchase these components
+pursuant to purchase orders and do not have long-term contracts with any of
+these vendors. While there may be some temporary delays, problems regarding
+source and availability of raw materials have had no material adverse effect on
+operations of the Electronics segment. However, we cannot give any assurances
+that these three sources of supply will continue to be available to us or, if
+any or all of these sources are not available to us when we need them to be
+available, that the Company will be able to implement alternative sources of
+supply without undue delay or expense.
+
+Risks Associated with Government Defense Contracting; Competition
+- -----------------------------------------------------------------
+
+The Government defense business is subject to changes in military procurement
+policies and objectives and to Government budgetary constraints. Periods of
+heightened national security and war have often introduced new priorities and
+
+6
+
+demands, external delays, and increased uncertainty into the defense contracting
+marketplace. In addition, the Department of Defense budgeting process has an
+extended timeframe. The process of including expenditures in this budget could
+take a minimum of 12 to 24 months.
+
+Approval of the Department of Defense budget does not guarantee that budgeted
+expenditures will actually be made and, in particular, that we will receive an
+award or order for a product. Among other things, we bid for this business in
+competition with many defense contractors, including firms that are larger in
+size and have greater financial resources than we have. Moreover, we now believe
+that there has been competition in part of the market for generator sets, from a
+larger 3kW generator that operates more quietly than our 2kW model. However,
+this 3kW generator does not compete in the `man-portable' segment of the market
+since it is twice as heavy.
+
+All of our contracts with the Government are subject to the standard provision
+for termination at the convenience of the Government.
+
+Changes in the Market for Snowmaking Machines
+- ---------------------------------------------
+
+The market for snowmaking machines has changed in recent years. Rather than
+order machinery many months in advance of delivery, customers are expecting
+product to be readily available for immediate use. In order to remain
+competitive in this market, we have produced some Snowcub snowmaking machines
+for inventory purposes. We have also enhanced the technical capabilities as
+optional items for these machines.
+
+After the end of fiscal year 2006, management completed a strategic review of
+the spare parts business. As a result, for the fourth quarter of fiscal year
+2006, the Company recorded an adjustment against inventory related to spare
+parts for old models of snow makers. Starting in January 2007, the Company will
+focus on customers using the most recent model line, the Snowcub. The Company
+will continue to actively market and support the Snowcub model line and will
+cease to support past models. Reference is made to Item 7 - Management's
+Discussion and Analysis of Financial Condition and Results of Operations -
+Leisure and Recreation for additional information.
+
+Despite the inherent risks and uncertainties of investing in inventory,
+management believes that the existing investments in Snowcub related inventory
+and the elimination of spare parts inventory for older models described above
+are important to the Company's business and future growth.
+
+Item 1B. UNRESOLVED STAFF COMMENTS
+- ----------------------------------
+
+None.
+- -----
+
+Item 2.  PROPERTIES
+- -------------------
+
+The Company's 49,200 square foot facility at 27 Muller Road, Oakland, New
+Jersey, located on 90 acres of land owned by the Company, was constructed in
+1981. This facility houses executive offices and manufacturing operations and is
+used primarily for the Electronics segment of business. Approximately 90% of
+this facility is being utilized for production (one shift), staging and storage.
+
+On February 24, 2005, the Company and Sovereign Bank entered into a Term Loan
+Agreement that replaced, and restructured the remaining balance due on, the
+Company's previous Mortgage Note agreement with Sovereign Bank. This Term Loan
+Agreement matures on February 23, 2007. Neither the land nor the building is
+subject to a lien under this Term Loan Agreement, or under the Company's line of
+credit with Sovereign Bank.
+
+Reference is made to Item 7 - Management's Discussion and Analysis of Financial
+Condition and Results of Operations for additional information regarding
+financing activities.
+
+7
+
+Item 3.  LEGAL PROCEEDINGS
+- --------------------------
+
+There are no material pending legal or environmental proceedings against or in
+favor of the Company.
+
+Item 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+- ------------------------------------------------------------
+
+No matters were submitted to a vote of security holders during the fourth
+quarter of fiscal year 2006.
+
+8
+
+PART II
+
+Item 5.  MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED
+- -------------------------------------------------------
+         STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY
+         --------------------------------------------------
+
+The Company's common stock is traded over-the-counter under the symbol
+"DEWY.OB".
+
+The table below sets forth the high and low market prices of the Company's
+common stock for each quarter during the last two fiscal years.
+
+                       Quarterly Common Stock Price Range
+                       ----------------------------------
+
+                                  Fiscal Year 2006    Fiscal Year 2005
+                                  ----------------    ----------------
+
+                                    High     Low        High     Low
+                                    ----     ---        ----     ---
+       1st Quarter                  6.00     3.60       4.50    3.00
+       -----------
+       2nd Quarter                  4.75     3.19       7.50    3.20
+       -----------
+       3rd Quarter                  4.35     3.80       7.19    5.60
+       -----------
+       4th Quarter                  4.50     3.75       6.65    5.65
+       -----------
+
+Price information is based on over-the-counter market quotations, which reflect
+inter-dealer prices, without retail mark-up, mark-down or commissions, and may
+not necessarily represent actual transactions.
+
+There were no dividends declared or paid during fiscal years 2006, 2005 and
+2004. The Company has no plans to pay dividends in the foreseeable future.
+
+The number of holders of record of the Company's common stock as of September
+11, 2006 was 449.
+
+9
+
+Item 6.  Selected Financial Data
+- --------------------------------
+
+10
+
+Item 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+- --------------------------------------------------------------------
+         AND RESULTS OF OPERATIONS
+         -------------------------
+
+The following discussion should be read in conjunction with the "Selected
+Financial Data" and the Company's Financial Statements, including the related
+notes thereto, appearing elsewhere in this Annual Report. Certain statements in
+this report may be deemed "forward-looking statements" within the meaning of
+Section 21E of the Securities Exchange Act of 1934. All statements, other than
+statements of historical fact, that address activities, events or developments
+that the Company or management intends, expects, projects, believes or
+anticipates will or may occur in the future are forward-looking statements. Such
+statements are based upon certain assumptions and assessments made by management
+of the Company in light of its experience and its perception of historical
+trends, current conditions, expected future developments and other factors it
+believes to be appropriate. The forward-looking statements included in this
+report are also subject to a number of material risks and uncertainties,
+including but not limited to economic, governmental, competitive and
+technological factors affecting the Company's operations, markets, products,
+services and prices and specifically, the factors discussed below under "Company
+Strategy" and in Item 1A above (Risk Factors). Such forward-looking statements
+are not guarantees of future performance and actual results, developments and
+business decisions may differ from those envisaged by such forward-looking
+statements.
+
+The Company's operating cycle is long-term and includes various types of
+products and varying delivery schedules. Accordingly, results of a particular
+period or period-to-period comparisons of recorded revenues and earnings may not
+be indicative of future operating results. The following comparative analysis
+should be viewed in this context.
+
+The sales and operating profit of each segment and the identifiable assets
+attributed to each segment for the last three fiscal years ended June 30, 2006,
+are set forth in Note 12 - Operating Segments of the Notes to the Financial
+Statements.
+
+Results of Operations
+- ---------------------
+
+The Company's fiscal year ends on June 30. Accordingly, all references to years
+in this Management's Discussion refer to the fiscal year ended June 30 of the
+indicated year. Also, when referred to herein, operating profit means net sales
+less operating expenses. Some operating expenses, including general corporate
+expenses, have been allocated by specific identification or based on labor for
+items which are not specifically identifiable.
+
+Revenues
+- --------
+
+Revenues in fiscal year 2006 were 18% higher than fiscal year 2005. Revenues in
+fiscal year 2005 were 3% higher than fiscal year 2004. Revenues in 2006 were
+higher in the Electronics segment and lower in the Leisure and Recreation
+segment than in fiscal year 2005. Revenues in 2005 were higher in the
+Electronics segment and lower in the Leisure and Recreation segment than in
+fiscal year 2004. Information about the Company's operations in the two segments
+is set forth in Note 12 - Operating Segments of the Notes to the Financial
+Statements and is discussed in further detail below.
+
+Electronics Segment
+- -------------------
+
+In the Electronics segment, revenues are recorded under defense contracts using
+the percentage-of-completion method of accounting. Revenues are recorded as work
+is performed based on the percentage that actual incurred costs bear in
+comparison to estimated total costs utilizing the most recent estimates of costs
+and funding. Since contracts typically extend over multiple reporting periods,
+revisions in cost and estimates during the progress of work have the effect of
+adjusting earnings applicable to performance in prior periods in the current
+period. When the estimated costs to complete a project indicate a loss,
+provision is made for the anticipated loss in the current period. For further
+information see Note 1-A of the Notes to Financial Statements.
+
+                                       11
+
+Electronic product revenues accounted for 98% of total revenues in 2006, 97% of
+total revenues in 2005 and 94% of total revenues in 2004.
+
+Revenues in the Electronics segment in fiscal year 2006 were $1,175,936 higher
+when compared to fiscal year 2005 and in 2005 revenues were $348,052 higher when
+compared to fiscal year 2004.
+
+In fiscal year 2006, the Company experienced increased revenues in this segment
+compared to fiscal year 2005 due to increased efforts under the Company's
+generator set production contract and from various orders for replacement parts
+and other short-term orders. Revenues resulting from the Company's research and
+development contracts described below were lower this year compared to last year
+due to completion of work on the first of the Company's two contracts during the
+first quarter of fiscal year 2006. Work on the second research and development
+contract continued throughout fiscal year 2006. In fiscal year 2006, the Company
+added approximately $160,000 of material to its inventory of components for the
+2kW generator sets due to increased production demands.
+
+In fiscal year 2006, production efforts under the Company's contract to provide
+the Armed Forces with 2kW diesel operated generator sets provided approximately
+59% of the Electronic segment revenues compared to approximately 35% in fiscal
+year 2005 and approximately 57% in fiscal year 2004. The Company's research and
+development contracts provided approximately 13% of Electronics segment revenues
+in 2006, approximately 30% of such revenues in fiscal year 2005, and
+approximately 7% of such revenues in fiscal year 2004. Replacement parts and
+other short-term business provided approximately 28% of such revenues in fiscal
+year 2006, approximately 35% of such revenues in fiscal year 2005 and
+approximately 36% of such revenues in fiscal year 2004.
+
+In fiscal year 2005 the Company experienced increased revenues in this segment
+compared to fiscal year 2004 due to increased research and development efforts
+and an increase in orders for spare parts and other short-term orders. Revenues
+resulting from the Company's generator set production contract were lower when
+compared to the previous year due to reduced orders and the resulting reduction
+in production levels. In fiscal year 2005, the Company added approximately
+$570,000 of material to component inventory for 2kw generator sets. This was
+intended to supply orders of small quantities for immediate delivery and to
+facilitate production for long-term orders.
+
+During September 2003, the Company was awarded a "cost plus fixed fee" research
+and development contract in the amount of approximately $1.8 million. Work on
+this contract ended in September 2005. This contract was for the research and
+development of improvements to the current 2kW diesel operated generator set
+specifically at the request of the U.S. Army for lighter, quieter models. It
+included efforts similar to those that the Company had previously invested in
+specifically at the request of the U.S. Army. The Company earned from this
+contract approximately $0.2 million during fiscal year 2006, approximately $1.2
+million during 2005 and approximately $0.3 million during 2004. It incurred
+direct costs of approximately $0.1 million during fiscal year 2006,
+approximately $1.0 million during 2005 and approximately $0.3 million during
+2004, which were billed to the customer.
+
+During September 2004, the Company was awarded a second "cost plus fixed fee"
+research and development contract by the U.S. Army, in the amount of
+approximately $1.5 million, for work to be performed towards similar objectives.
+Work on this contract continued through September 2006. As a result of efforts
+towards this project, the Company earned approximately $0.9 million during
+fiscal year 2006 and approximately $0.6 million during fiscal year 2005. It
+incurred direct costs of approximately $0.7 million during fiscal year 2006 and
+approximately $0.5 million during fiscal 2005, which were billed to the
+customer. There was no activity on this project prior to 2005.For additional
+information, see Item 1 - Business above.
+
+The Company experiences variable amounts of material receipts from time to time
+during the normal course of business. Material receipts are dependent upon the
+receipt of orders, project requirements and vendor delivery schedules. As the
+Company uses the percentage-of-completion method of accounting to record
+revenues,
+
+12
+
+material costs have an impact upon recorded revenues (see Note 1-A, Revenue
+Recognition of the Notes to Financial Statements).
+
+The aggregate value of the Company's backlog of electronic products not
+previously recorded as revenues was $3.3 million on June 30, 2006, $2.9 million
+on June 30, 2005 and $3.2 million on June 30, 2004. It is estimated that most of
+the present backlog will be billed during the next 12 months and recognized as
+fiscal year 2007 revenues.
+
+Leisure and Recreation Segment
+- ------------------------------
+
+In the Leisure and Recreation segment, revenues in fiscal year 2006 decreased by
+approximately $39,823 when compared to fiscal year 2005. This is the result of a
+decrease in the sale of repair and replacement parts for machinery previously
+sold and no longer under warranty. When compared to fiscal year 2004, revenues
+in this segment in fiscal year 2005 decreased by approximately $164,580. This
+decrease is attributable to a decrease in sales of snowmaking machines as well
+as the sales of replacement parts for machinery previously sold and no longer
+under warranty. There were no export sales of snowmaking machines during the
+last three fiscal years.
+
+In fiscal years 2005 and 2004, the Company developed enhancements to its
+snowmaking machines that simplify the operation of the HEDCO snowmaker and
+provide remote control operations and monitoring capabilities. The costs of
+developing these enhancements were expensed as incurred. In addition, the market
+for snowmaking machines has changed in recent years. Rather than ordering
+machinery many months in advance of delivery, customers are expecting product to
+be readily available for immediate use. The last year in which the Company had a
+backlog of orders for snowmaking machines was in 2001. In order to remain
+competitive, the Company has produced some Snowcub snowmaking machines for
+inventory purposes.
+
+After the end of fiscal year 2006, management completed a review of the spare
+parts business. Since introducing the H-2d snowmaker in 1971 the Company has
+maintained the capacity to support all past models of snowmaking machines that
+are still in use. However, starting in January 2007, the Company will focus on
+customers using the most recent model line, the Snowcub. The Company will
+continue to actively market and support the Snowcub model line and will cease to
+support past models. As a result, for the fourth quarter of fiscal year 2006,
+the Company recorded an adjustment of $299,596 against inventory related to
+spares for old models of snow makers. The remaining segment inventory at the end
+of fiscal 2006 was either new Snowcub machines or spare parts for Snowcub
+models.
+
+Gross Profit
+- ------------
+
+The Company's gross profit was $838,302 in fiscal year 2006, $1,265,808 in 2005
+and $1,494,033 in 2004.
+
+Gross margin is the measure of gross profit as a percentage of revenues. Gross
+margin was 11%, 20%, and 25% in fiscal years 2006, 2005 and 2004, respectively.
+The Company's gross margin is affected by a variety of factors including, among
+other items, product mix, product pricing and other costs, such as inventory
+adjustments and internal research and development costs expensed in costs of
+goods sold. Fiscal year 2006 results are due primarily to an inventory
+adjustment with respect to the Company's Leisure and Recreation segment (see
+"Leisure and Recreation Segment" above) and a change in product mix as the
+Company has engaged in less research and development for the U.S. Army (see
+"Electronics Segment" above). This reduction in the research and development
+effort had the effect of shifting a greater proportion of overhead costs to
+other products thereby reducing the gross margin generated by these other
+product revenues when compared to fiscal year 2005.
+
+The revenues and operating profit of each segment and the identifiable assets
+attributed to each segment for the last three fiscal years ended June 30, 2006
+are set forth in Note 12 - Operating Segments of the Notes to the Financial
+Statements.
+
+Selling, General and Administrative Expenses
+- --------------------------------------------
+
+In fiscal year 2006, selling, general and administrative expenses of $1,345,757
+were 18% of revenues. In 2005, selling, general and administrative expenses of
+$1,299,863
+
+                                       13
+
+were 21% of revenues and in 2004 they were $1,213,192 or 20% of revenues. For
+the three year period, selling, general and administrative expenses as a
+percentage of revenues have remained relatively level.
+
+Interest Expense
+- ----------------
+
+Interest expense for the past three years amounted to $30,527 in fiscal year
+2006, $35,459 in 2005 and $45,165 in 2004. This reduction in interest expense is
+attributed to principal reduction payments made towards the Company's mortgage
+note as well as a restructured loan agreement in fiscal year 2005 replacing the
+Company's mortgage note with a term loan at a lower interest rate.
+
+Other Income - Net
+- ------------------
+
+Amounts reported as other income represent the net effect of interest and
+miscellaneous items such as the sale of scrap, bank transaction fees and other
+like items.
+
+Other income of $10,977 for fiscal year 2006 was comprised of interest income of
+$18,047, and the net expense of miscellaneous items and fees of $3,856 and the
+loss on the sale of assets of $3,214.
+
+In fiscal year 2005, other income of $11,956 was comprised of interest income of
+$11,252, and the net income of miscellaneous items and scrap sales of $704.
+
+Other income of $6,410 for fiscal year 2004 was comprised of interest income of
+$6,372, and the net expense of miscellaneous fees and discounts of $1,062 and
+the gain on the sale of assets of $1,100.
+
+Net (Loss)/Income before income taxes
+- -------------------------------------
+
+Net loss before income taxes for fiscal year 2006 was $527,005. For the year
+ended June 30, 2005 operating loss before income taxes was $57,558. For the year
+ended June 30, 2004, operating income before income taxes was $242,086.
+
+Fiscal year 2006 results decreased primarily due to an inventory adjustment with
+respect to the Company's Leisure and Recreation segment (see "Leisure and
+Recreation Segment" above) of approximately $300,000 and a change in product mix
+as the Company has engaged in less research and development for the U.S. Army
+(see "Electronics Segment" above) which had the effect of shifting a higher
+proportion of overhead costs to other product lines thereby reducing their
+profitability.
+
+Income Taxes
+- ------------
+
+Deferred tax assets and liabilities are recognized for the expected tax
+consequences of temporary differences between the tax bases of assets and
+liabilities and their financial statement reported amounts and for tax loss and
+credit carryforwards.
+
+A valuation allowance is provided against deferred tax assets when it is
+determined to be more likely than not that these amounts will not be realized.
+
+In fiscal year 2004, the Company determined that a portion of its deferred tax
+liability associated with plant, property and equipment was no longer necessary.
+
+The income tax liability for fiscal year 2006 was at an effective net tax rate
+of approximately 6.92%. The income tax benefit was at an effective net tax rate
+of approximately (45.84%) for fiscal year 2005. For 2004 the income tax benefit
+was at an effective net tax rate of approximately (219.4%), primarily as a
+result of a benefit from the expiration of a deferred tax liability.
+
+Inflation
+- ---------
+
+Historically, inflation and price changes have not had a material effect on net
+sales and revenues and on income from continuing operations. Management does not
+believe that inflation and price changes in fiscal year 2006 had a material
+effect on net
+
+14
+
+sales and revenues. However, in fiscal year 2006, the 2kW generator set business
+experienced increased costs related to metals, transportation and foreign
+sourced components. The 10-year prime contract for the generator sets with the
+Government, awarded in 2001, allows for a small annual increase in selling
+price. Profits have been reduced as a result of costs increasing faster than the
+selling price.
+
+In the last quarter of fiscal year 2006 the Company instituted price increases
+for future delivery of generators sold separately from the prime contract. No
+generator sales were made at the new price in fiscal year 2006. The Company is
+investigating an appropriate pricing modification under the prime contract,
+however no assurances can be made that the Government will agree to a
+modification, or that such a modification would be equitable to the Company.
+
+Liquidity and Capital Resources
+- -------------------------------
+
+The Company's principal capital requirements are to fund working capital needs
+and any debt servicing requirements and capital expenditures. The Company's
+borrowing capacity has remained above its use of outside financing. Management
+believes that the Company's future cash flow from operations, combined with its
+existing line of credit of $500,000, will be sufficient to support working
+capital requirements and capital expenditures at their current or expected
+levels.
+
+Management also believes that it can continue to meet the Company's short-term
+liquidity needs through a combination of progress payments on government
+contracts (based on costs incurred) and billings at the time of delivery of
+products.
+
+At June 30, 2006, the Company's working capital was $2,946,071 compared to
+$3,627,322 at June 30, 2005.
+
+The ratio of current assets to current liabilities was 4.38 to 1 at June 30,
+2006 and 4.89 to 1 at June 30, 2005.
+
+The following table is a summary of the Statements of Cash Flows in the
+Company's Financial Statements:
+
+                                            Years ended June 30,
+                                      2006         2005         2004
+Net Cash Provided by (used in)
+  Operating activities           $ 232,547    $ 171,305    $ 112,335
+  Investing activities            (192,767)    (299,816)    (436,625)
+  Financing activities            (354,606)     (85,638)     (60,938)
+
+Operating Activities:
+- ---------------------
+
+Adjustments to reconcile net (loss)/income to net cash provided by operations
+are presented in the Statements of Cash Flows in the Company's Financial
+Statements.
+
+Net cash provided by operating activities in fiscal year 2006 was comprised
+primarily of net loss before depreciation and amortization. Decreases in
+accounts receivable, inventories, prepaid expenses and deferred tax benefits
+were partly offset by an increase in contract costs and estimated related
+profits in excess of applicable billings. Increases in accrued expenses and
+accrued pension costs were partly offset by a decrease in accounts payable.
+
+Net cash provided by operating activities in fiscal year 2005 was comprised
+primarily of a net loss before depreciation and amortization. An increase in
+inventories was offset by a decrease in contract costs and related estimated
+profits in excess of applicable billings, a decrease in accounts receivable and
+an increase in accounts payable. Further information regarding inventory
+increases are discussed in the section entitled "Company Strategy".
+
+Net cash provided by operating activities in fiscal year 2004 consisted
+primarily of net income before depreciation and amortization. This was partially
+offset by an increase in inventories and the net effect of deferred income
+taxes.
+
+15
+
+Company sponsored research and development costs are expensed as incurred. These
+costs consist primarily of material and labor costs. The Company expensed
+$66,791 of these costs during fiscal year 2006, $101,764 of these costs during
+fiscal year 2005 and $127,704 of these costs during fiscal year 2004.
+
+Investing Activities:
+- ---------------------
+
+During fiscal year 2006, net cash of $192,767 was used in investing activities.
+This amount consisted of $164,466 used for capital expenditures, principally for
+the acquisition and implementation of a computerized business system, and
+$28,651 that was expended for costs related to land held for future sale. The
+Company realized $350 from the sale of an asset.
+
+During fiscal year 2005, net cash of $299,816 was used in investing activities.
+This amount consisted of $146,904 for capital expenditures for building
+improvements, tooling and equipment, and $53,586 for the Company's investment in
+the expansion of existing technologies as well as engineering related to the
+generator product line to satisfy specific customer needs. See "Company
+Strategy" below. The Company also expended $99,326 for costs related to land
+held for sale. Of land costs held for sale, $63,946 related to the agreement of
+sale was expensed. See "Financing Activities" below.
+
+During fiscal year 2004, net cash of $436,625 was used in investing activities.
+Of this amount, $285,559 was used for plant property and equipment including a
+new machining center and $152,166 was used by the Company to continue to invest
+in efforts to improve its products and existing technologies in its generator
+product line. These expenditures primarily include the acquisition of existing
+technology as well as engineering related to the generator to satisfy customer
+needs. The Company realized $1,100 upon the sale of an asset.
+
+Financing Activities:
+- ---------------------
+
+During fiscal year 2006, net cash used in financing activities amounted to
+$354,606. Of this amount, $86,046 was applied as repayment of the Company's
+long-term debt, consisting of the long-term portion of the Company's term loan
+described below, and $68,560 was used toward payment of the current portion of
+the Company's term loan. As of June 30, 2006 the Company had no long-term debt.
+The Company also used $200,000 of net cash to repay a demand note payable to
+Frances Dewey as discussed further in this section.
+
+Net cash used in financing activities in 2005 amounted to $85,638. Principal
+payments made toward the Company's long-term debt amounted to $87,083 and
+proceeds from the sale of treasury stock sold through the Company's employee
+stock option plan amounted to $1,445.
+
+Net cash of $60,938 used in financing activities during fiscal year 2004
+represents principal reduction payments made towards the Company's mortgage
+note.
+
+On February 24, 2005, the Company and Sovereign Bank (the "Bank") entered into a
+Term Loan Agreement (the "Loan Agreement") that replaced, and restructured the
+remaining balance due on, the Company's Mortgage Note agreement with the Bank,
+which matured in January 2005. Pursuant to the Loan Agreement, the Company
+borrowed $292,187 from the Bank for a term ending February 23, 2007, at a fixed
+annual interest rate of 5.56 percent. This loan, of which $86,047 was
+outstanding as of June 30, 2006, is secured by a first lien on all of the
+Company's accounts receivable, machinery, equipment and other personal property
+(the "Collateral") and is subject to customary representations, covenants and
+default provisions in favor of the Bank.
+
+The Company also has a line of credit agreement with the Bank in the amount of
+$500,000 at an annual interest rate equal to the Bank's prime rate (8.0 as of
+June 30, 2006) plus 0.25 percent. Effective November 9, 2005, this line of
+credit agreement was renewed through December 31, 2006. As of June 30, 2006,
+there were no outstanding borrowings against this line of credit facility. In
+the event that the Company borrows funds under this line of credit facility, the
+loan would be co-collateralized by the Collateral under the Loan Agreement.
+
+                                       16
+
+During 1988, Gordon C. Dewey, the Company's co-founder, lent the Company a total
+of $200,000, pursuant to an unsecured demand note bearing interest at the rate
+of 9 percent per annum. On June 30, 2006, the Company repaid the demand note
+payable to Frances D. Dewey, Mr. Dewey's widow.
+
+The Company owns approximately 90 acres of land and the building, which it
+occupies in Bergen County, New Jersey, adjacent to an interchange of Interstate
+Route 287.
+
+Previously, on December 29, 2004, the Company had agreed to sell approximately
+68 undeveloped and unused acres of this land to K. Hovnanian North Jersey
+Acquisitions, L.L.C. ("K. Hovnanian"), a wholly-owned subsidiary of Hovnanian
+Enterprises, Inc., a residential real estate developer and homebuilder. The
+Company's stockholders approved the sale of this land at the Annual Stockholders
+meeting which was held on March 8, 2005. Completion of the proposed land sale
+depended on, among other things, a number of conditions being satisfied,
+including extensive regulatory and rezoning approvals from New Jersey State and
+local entities. On June 2, 2005, the Company agreed to extend, from June 7, 2005
+until September 7, 2005, the period (the "Investigation Period") during which K.
+Hovnanian was permitted to conduct its investigation relating to the proposed
+purchase. The Agreement of Sale provided that, during the Investigation Period,
+if K. Hovnanian was not satisfied with the results of its investigation, it
+could terminate the Agreement of Sale without explanation.
+
+On July 25, 2005, the Company announced that it had received from K. Hovnanian a
+notice terminating the Agreement of Sale. As a result of such termination, the
+$200,000 deposit previously paid into escrow by K. Hovnanian was returned to K.
+Hovnanian and the Company expensed $63,946 of related costs, which had been
+capitalized as "Land and related costs held for sale", during the fourth quarter
+of fiscal year 2005.
+
+The Company is continuing to actively pursue possible methods of monetizing the
+undeveloped and unused portion of its property, by its sale and/or development.
+This endeavor has become more complex with the implications of New Jersey's
+"Highlands Water Protection and Planning Act". Although the Act was passed in
+June of 2004, the specifics are still emerging. The Act identifies approximately
+400,000 acres of New Jersey as The Highlands Preservation Area. Pursuant to the
+statute, this area has the most onerous restrictions on future development. The
+Company's property is in this area, and further development would not be
+permitted without a waiver or other relief from the State. The Company believes
+that there are strong reasons why its property should not be in the preservation
+area, and is attempting to affect a solution. However, the new Governor of the
+State of New Jersey and administration took office in January 2006, the Act was
+new then, and the Company does not believe that the associated regulations will
+be promulgated any sooner than December 2006. Accordingly, no assurances can be
+given that these efforts will be successful or, if successful, the timing
+thereof.
+
+Contractual Cash Obligations
+- ----------------------------
+
+The following table summarizes the Company's contractual cash obligations as of
+June 30, 2006 and the estimated timing of future cash payments.
+
+17
+
+Payments Due by Period
+
+(1) Purchase Obligations - As of June 30, 2006, the Company had no material
+purchase obligations other than those obligations included as liabilities in its
+Balance Sheet. Purchase orders for raw materials or other goods and services are
+not included in the table above as they typically represent authorizations to
+purchase rather than binding agreements.
+
+(2) Term Note Payable - As of June 30, 2006, the Company had an outstanding term
+note with its primary bank. The current terms provide for an annual interest
+rate of 5.56% and maturity in February 2007.
+
+(3) Long-Term Pension Liability - See Note 8 to the Notes to Financial
+Statements.
+
+Recent Pronouncements
+- ---------------------
+
+In September 2006, the FASB issued SFAS No. 157, "Fair Value Measurements". This
+Statement defines fair value, establishes a framework for measuring fair value
+in generally accepted accounting principles (GAAP), and expands disclosures
+about fair value measurements. This Statement applies under other accounting
+pronouncements that require or permit fair value measurements, the Board having
+previously concluded in those accounting pronouncements that fair value is the
+relevant measurement attribute. Accordingly, this Statement does not require any
+new fair value measurements. However, for some entities, the application of this
+Statement will change current practice. This Statement is effective for
+financial statements issued for fiscal years beginning after November 15, 2007,
+and interim periods within those fiscal years. The Company is currently
+evaluating the impact of this Statement on its financial statements.
+
+In July 2006, the FASB issued Financial Interpretation No. 48 (FIN 48)
+(Accounting for Uncertainty in Income Taxes, as Interpretation of FASB Statement
+No. 109). This Interpretation clarifies the accounting for uncertainty in income
+taxes recognized in an enterprise's financial statements in accordance with FASB
+Statement No. 109, "Accounting for Income Taxes". FIN 48 prescribes a
+recognition and measurement threshold attributable for the financial statement
+recognition and measurement of a tax position taken or expected to be taken in a
+tax return. FIN 48 also provides guidance on derecognition, classification,
+interest and penalties, accounting in interim periods, disclosures and
+transition. FIN 48 is effective for fiscal years beginning after December 15,
+2006. The Company is currently evaluating the impact of this Interpretation on
+its financial statements.
+
+18
+
+Company Strategy
+- ----------------
+
+The Company has many years of experience in contracting with the Department of
+Defense and has received many contracts to provide various types of products and
+services. Utilizing some of this experience, the Company is continuing to
+explore other areas of business, which are capable of providing continued
+stability and growth.
+
+The Company's primary sources of revenue include products with long
+manufacturing lead times. These products, in particular, are its 2kW generator
+sets, and its HEDCO snowmaking machines. Recognizing this, the Company has
+committed some of its resources to making a quantity of these products readily
+available by producing them for inventory and sales. The Government sector has
+been ordering small quantities of 2kW generator sets for specific uses pursuant
+to short term orders independent of the Company's 2kW contract.
+
+The market for snowmaking machines has changed in recent years. Rather than
+order new machinery months ahead of time, customers are expecting product to be
+readily available for immediate use. In order to remain competitive in this
+market, the Company has produced some Snowcub models for inventory purposes.
+Also in fiscal years 2004 and 2005, it enhanced the technical capabilities as
+optional items for these machines.
+
+After the end of fiscal year 2006, management completed a review of the
+Company's spare parts business for its snowmaking machines. Since introducing
+the H-2d snowmaker in 1971, the Company has maintained the capacity to support
+all past snowmaking machines that are still in use. However, starting in January
+2007, the Company will focus on customers using the most recent model line, the
+Snowcub. The Company will continue to actively market and support the Snowcub
+line of machines and will cease to support past models.
+
+Despite the inherent risks and uncertainties of investing in inventory,
+management believes that the investments in 2kW generator and Snowcub related
+inventory and the ceasing of support for older Snowcub models described above
+are important to the Company's business and future growth.
+
+The Company is focusing its efforts on select product categories where
+management believes that the Company can grow its business. Although no
+assurances can be made that such strategy will be successful, management
+believes that long term growth can be achieved from three perspectives, 1)
+growing the Company's market share in areas where it already has a strong
+presence, 2) expanding into related markets, and 3) expanding its strengths into
+related product categories.
+
+As part of this strategy, the Company has been investing in existing
+technologies to meet the U.S. Army's future requirements. The U.S. Army is
+interested in a product that is smaller, lighter and quieter and the Company is
+working towards developing the 2kW generators to address its customer's request.
+The Company's production contract for 2kW generators prohibits changes to the
+unit's design and performance characteristics. This allows the military
+procurement and logistics infrastructure to standardize on a single set of
+requirements, and avoid incremental change. Traditionally this has been
+advantageous to both customer and supplier. However, with evolving requirements
+and competition, this can be less advantageous to the Company.
+
+The Company has continued to invest in efforts to improve its products and
+existing technologies. See "Investing Activities" above. This effort is focused
+on the enhancement of the existing generator set product line and involves,
+primarily, the adaptation of existing technology, as well as engineering and
+design to meet specific customer requests. The scope of these efforts includes
+the development of an improved product, which is in accordance with current
+customer requests and future requirements. The Company is engaging in efforts to
+address these requests in the areas of sound reduction, reduced weight, improved
+fuel consumption and environmental considerations.
+
+19
+
+Other companies have announced intentions of developing similar products. Some
+of these companies have greater financial and/or technical resources than the
+Company. However, the Company's management believes that despite inherent risks
+and uncertainties in all of these types of projects, these efforts are important
+to the Company's business. Management believes that our current development
+projects will result in enhanced salable products. As with all projects of this
+nature, the Company cannot give any assurances that its product development work
+will be successful or that it will achieve the desired results.
+
+Management is also continuing to engage in efforts to re-enforce the customer
+recognition of the Company's product quality and customer relationships. The
+Company faces competition in many areas and from companies of various sizes.
+Competitive factors include product quality, technology, product availability,
+price, and customer service. Management believes that the reputation of the
+Company in these areas provides a significant positive competitive factor.
+
+Critical Accounting Policies and Estimates
+- ------------------------------------------
+
+The Company's financial statements and accompanying notes are prepared in
+accordance with accounting principles generally accepted in the United States of
+America. Preparing financial statements requires us to make estimates and
+assumptions that affect the reported amounts of assets, liabilities, revenues
+and expenses. These estimates and assumptions affect the application of our
+accounting policies. Actual results could differ from these estimates. Our
+significant accounting policies are described in the Notes to the Financial
+Statements contained herein. Critical accounting policies are those that require
+application of management's most difficult, subjective or complex judgments,
+often as a result of matters that are inherently uncertain and may change in
+subsequent periods. The Company's critical accounting policies include revenue
+recognition on contracts and contract estimates, pensions, impairment of
+long-lived assets, capitalized development costs, and valuation of deferred tax
+assets and liabilities.
+
+Revenues and estimated earnings under defense contracts (including research and
+development contracts) are recorded using the percentage-of-completion method of
+accounting. Revenues are recorded as work is performed based on the percentage
+that actual incurred costs bear in comparison to estimated total costs utilizing
+the most recent estimates of costs and funding. Provisions for estimated losses
+on uncompleted contracts are made in the period in which such losses are
+determined. Changes in job performance, job conditions, and estimated
+profitability may result in revisions to costs and income and are recognized in
+the period in which the revisions are determined.
+
+In the Leisure and Recreation segment, revenues and earnings are recorded when
+deliveries are made and title and risk of loss have been transferred to the
+customer and collection is probable.
+
+The Company has a defined benefit pension plan covering substantially all of its
+employees. The Company accounts for its defined benefit pension plan in
+accordance with SFAS No. 87 - "Employers' Accounting for Pensions," which
+requires that amounts recognized in financial statements be determined on an
+actuarial basis, rather than as contributions are made to the plan. A
+significant element in determining the Company's pension income or expense in
+accordance with SFAS No. 87 is the expected return on plan assets. The Company's
+disclosures about its pension plan are made in accordance with SFAS 132R
+(revised 2003), "Employers' Disclosures about Pensions and Other Postretirement
+Benefits, an amendment of FASB Statements No. 87, 88, and 106, and a revision of
+FASB Statement No. 132." SFAS No. 132R revises employers' disclosures about
+pension plans and other postretirement benefit plans. It does not change the
+measurement or recognition of those plans required by SFAS No. 87, SFAS No. 88,
+"Employers Accounting for Settlements and Curtailments of Defined Benefit
+Pension Plans and for Termination Benefits," and SFAS No. 106, "Employers'
+Accounting for Postretirement Benefits Other Than Pensions." The new rules
+require additional disclosures about the assets, obligations, cash flows, and
+net periodic benefit cost of defined benefit pension plans and other
+postretirement benefit plans.
+
+                                       20
+
+Accordingly, the required information for the Company's pension plan is included
+in the Notes to the Financial Statements.
+
+The Company has assumed, based upon the types of securities the plan assets are
+invested in and the long-term historical returns of these investments, that its
+assumed discount rate will be 6.25% in 2006, compared with 5.16% in 2005. The
+Company's management conducts an analysis which includes a review of plan asset
+investments and projected future performance of those investments to determine
+the plan's assumed long-term rate of return. The assumed long-term rate of
+return of 7.5% on assets is applied to the market-related value of plan assets
+at the end of the previous year. This produces the expected return on plan
+assets that is included in annual pension income or expense for the current
+year. The cumulative difference between this expected return and the actual
+return on plan assets is deferred and amortized into pension income or expense
+over future periods. Since the value of the Company's pension assets at fiscal
+year-end 2006 was less than the accumulated pension benefit obligation, the
+Company recorded $198,691 as a non-cash adjustment to other comprehensive loss
+in stockholders equity and decreased its long-term pension liability by
+$198,691. In fiscal year 2005, the Company recorded $118,012 as a non-cash
+adjustment to other comprehensive loss in stockholders' equity and increased its
+long-term pension liability by $192,730. In 2004 the Company recorded $18,629 as
+a non-cash adjustment to other comprehensive loss in stockholder's equity and
+reduced its long-term pension liability by $31,550. These changes to equity did
+not affect net income and are recorded net of deferred taxes. See Note 8 of the
+Notes to Financial Statements for additional pension disclosures.
+
+The Company has capitalized certain development costs for efforts to improve and
+enhance the 2kW generator set product line. These efforts involve, primarily,
+the adaptation of existing technology, as well as, engineering and design to
+meet specific customer requests. The scope of these efforts includes the
+development of a product, which is in accordance with current customer requests
+and future requirements. Company efforts are to address areas of sound
+reduction, reduced weight, improved fuel consumption and environmental
+considerations. The Company reviews these capitalized costs on a regular basis,
+to assess future recoverability through the existing contracts to which such
+costs relate, and expenses such costs, if any, to the extent they are not deemed
+recoverable. The Company had $703,799 of capitalized development costs as of
+both June 30, 2006 and 2005. See "Company Strategy" above.
+
+The Company reviews the recoverability of all long-term assets, including the
+related useful lives, whenever events or changes in circumstances indicate that
+the carrying amount of a long-lived asset might not be recoverable. If required,
+the Company compares the estimated undiscounted future net cash flows to the
+related asset's carrying value to determine whether there has been an
+impairment. If an asset is considered impaired, the asset is written down to
+fair value, which is based either on discounted cash flows or appraised values
+in the period the impairment becomes known.
+
+The Company applies Statement of Financial Accounting Standard ("SFAS") No. 109,
+"Accounting for Income Taxes." Under the asset and liability method of SFAS No.
+109, deferred tax assets and liabilities are recognized for future tax
+consequences attributable to differences between the financial statement
+carrying amounts of existing assets and liabilities and their respective tax
+bases. The effect on deferred tax assets and liabilities of a change in tax laws
+is recognized in the results of operations in the period the new laws are
+enacted. A valuation allowance is recorded to reduce the carrying amounts of
+deferred tax assets unless it is more likely than not that such assets will be
+realized.
+
+21
+
+Item 8.  FINANCIAL STATEMENTS
+- -----------------------------
+         Index to Financial Statements
+         -----------------------------
+
+Page
+                                                                           ----
+
+Reports of Independent Registered Public Accounting Firms                  23-24
+
+Financial Statements:
+
+         Balance Sheets, June 30, 2006 and 2005                             25
+
+         Statements of Operations, Years Ended June 30, 2006,
+         2005 and 2004                                                      26
+
+         Statements of Stockholders' Equity and Comprehensive
+         Income/Loss, Years Ended June 30, 2006, 2005 and 2004              27
+
+         Statements of Cash Flows, Years Ended June 30, 2006,
+         2005 and 2004                                                      28
+
+         Notes to the Financial Statements                                  29
+
+All other schedules are omitted because they are not applicable or the required
+information is shown in the Financial Statements or the Notes thereto.
+
+22
+
+Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors and Stockholders of
+The Dewey Electronics Corporation
+Oakland, New Jersey
+
+We have audited the accompanying balance sheet of The Dewey Electronics
+Corporation (the "Company") as of June 30, 2006, and the related statements of
+operations, stockholders' equity and comprehensive income/loss and cash flows
+for the year ended June 30, 2006. These financial statements are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on the financial statements based on our audit.
+
+We conducted our audit in accordance with standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. The Company is not required to
+have, nor were we engaged to perform, an audit of its internal control over
+financial reporting. Our audit included consideration of internal control over
+financial reporting as a basis for designing audit procedures that are
+appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Company's internal control over financial
+reporting. Accordingly, we express no such opinion. An audit also includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements, assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audit provides a
+reasonable basis for our opinion.
+
+In our opinion, such financial statements present fairly, in all material
+respects, the financial position of The Dewey Electronics Corporation at June
+30, 2006 and the results of its operations and its cash flows for the year then
+ended, in conformity with accounting principles generally accepted in the United
+States of America.
+
+/s/ Amper, Politziner & Mattia, P.C.
+October 9, 2006
+New York, New York
+
+23
+
+Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors and Stockholders of
+The Dewey Electronics Corporation
+Oakland, New Jersey
+
+We have audited the accompanying balance sheet of The Dewey Electronics
+Corporation (the "Company") as of June 30, 2005, and the related statements of
+operations, stockholders' equity and comprehensive income/loss and cash flows
+for each of the two years in the period ended June 30, 2005. These financial
+statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on the financial statements based on our
+audits.
+
+We conducted our audits in accordance with standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. The Company is not required to
+have, nor were we engaged to perform, an audit of its internal control over
+financial reporting. Our audits included consideration of internal control over
+financial reporting as a basis for designing audit procedures that are
+appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Company's internal control over financial
+reporting. Accordingly, we express no such opinion. An audit also includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements, assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, such financial statements present fairly, in all material
+respects, the financial position of The Dewey Electronics Corporation at June
+30, 2005 and the results of its operations and its cash flows for each of the
+two years in the period ended June 30, 2005, in conformity with accounting
+principles generally accepted in the United States of America.
+
+/s/ Deloitte & Touche LLP
+October 11, 2005
+Parsippany, New Jersey
+
+                                       24
+
+See notes to the financial statements.
+
+                                                 25
+
+See notes to the financial statements.
+
+                                            26
+
+See notes to financial statements
+
+27
+
+See notes to the financial statements.
+
+28
+
+The Dewey Electronics Corporation
+Notes to the Financial Statements
+Years ended June 30, 2006, 2005 and 2004
+- --------------------------------------------------------------------------------
+
+1, Business and Summary of Significant Accounting Policies
+- ----------------------------------------------------------
+
+The Dewey Electronics Corporation is a systems oriented military electronics
+development, design and manufacturing organization based in Oakland, New Jersey.
+The Company is organized into two operating segments on the basis of the type of
+products offered. Each segment is comprised of separate and distinct businesses:
+the Electronics segment, primarily business with the Department of Defense, and
+the Leisure and Recreation segment, primarily business with ski areas and
+resorts.
+
+A.  Revenue Recognition
+
+Revenues and estimated earnings under defense contracts (including research and
+development contracts) are recorded using the percentage-of-completion method of
+accounting, measured as the percentage of costs incurred to estimated total
+costs for each contract. Provisions for estimated losses on uncompleted
+contracts are made in the period in which such losses are determined. Changes in
+job performance, job conditions, and estimated profitability may result in
+revisions to costs and income and are recognized in the period in which the
+revisions are determined.
+
+In the Leisure and Recreation segment, revenues and earnings are recorded when
+deliveries are made and title and risk of loss have been transferred to the
+customer and collection is probable.
+
+B.  Concentration Risks
+
+Concentration of Credit Risks
+- -----------------------------
+
+The Company is subject to concentrations of credit risk primarily from cash and
+accounts receivable. The Company maintains accounts with financial institutions
+which exceed the federally insured maximum of $100,000. The Company minimizes
+risks associated with cash by periodically reviewing the credit quality of its
+primary financial institutions. The Company's accounts receivable are
+principally with agencies of the United States Department of Defense. These
+agencies accounted for 92.2% of the Company's accounts receivable as of June 30,
+2006.
+
+Product Concentration Risk
+- --------------------------
+
+The Company derives a significant portion of its revenue from the sale of 2kw
+portable electrical generators to various branches of the United States military
+under a long term contract and to other Department of Defense contractors. The
+contract to supply generators to the Department of Defense is for an indefinite
+delivery, indefinite quantity and is subject to the Government's standard
+provision for termination at the convenience of the Government.
+
+Supplier Concentration Risks
+- ----------------------------
+
+The Company is primarily dependant on three vendors to supply qualified
+components for its 2kw generator products. During fiscal year 2006 two of these
+suppliers accounted for 32.4% and 23.4% of material purchases, respectively.
+These same suppliers accounted for 30.9% and 16.5% of material purchases in
+fiscal year 2005, and 19.6% and 29.2% of material purchases in 2004. No other
+supplier accounted for more than 10% of material purchases in fiscal years 2006,
+2005 or 2004.
+
+Customer Concentration Risks
+- ----------------------------
+
+The Company derives most of its revenues through contracts with various agencies
+of the Department of Defense including a long-term contract to supply portable
+electric generators, research and development contracts, and various short-term
+contracts and awards to supply spare parts and perform repairs on products
+previously manufactured and sold by the Company. In fiscal year 2006, the
+various agencies of the Department of Defense accounted for approximately 80.7%
+of Company revenue. In fiscal years 2005
+
+29
+
+and 2004, the percentages were 83.5% and 78.7 %, respectively. No other customer
+accounted for more than 10% of the Company's revenues in fiscal years 2006, 2005
+or 2004.
+
+C.  Cash and Cash Equivalents
+
+The Company considers all highly liquid debt instruments with a maturity of
+three months or less at the date of purchase to be cash equivalents.
+
+D.  Fair Value of Financial Instruments
+
+The fair values of the Company's long-term debt and line of credit borrowings
+are estimated based upon interest rates currently available for borrowings with
+similar terms and maturities and approximate the carrying values.
+
+Due to the short-term nature of cash, accounts receivable, accounts payable,
+accrued expenses and other current liabilities, their carrying value
+approximates fair value.
+
+E.  Accounts Receivable
+
+The Company regularly reviews its trade receivables for probability of
+collection. An assessment of the probability of collection of delinquent
+accounts is made and an allowance is recorded when collection becomes uncertain.
+
+F.  Inventories
+
+Cost is determined by the first-in, first-out (FIFO) method. Inventories are
+valued at the lower of cost or market. Components of cost include materials,
+direct labor and factory overhead.
+
+G.  Use of Estimates
+
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States of America requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date of
+the financial statements and reported amounts of revenues and expenses during
+the reporting period. These estimates include, among others, lower of cost or
+market estimates for inventories, realization of deferred tax assets, revenue
+recognition and certain accrued expenses. Actual results could differ from those
+estimates.
+
+H.  Property, Plant, and Equipment
+
+Property, plant, and equipment are stated at cost. Allowance for depreciation is
+provided on a straight-line basis over estimated useful lives of three to ten
+years for machinery and equipment, five years for computer software, ten years
+for furniture and fixtures, and twenty years for building and improvements.
+
+I.  Capitalized Development Costs
+
+The Company had $703,799 of capitalized development costs as of June 30, 2006
+and 2005. These capitalized costs represent costs for efforts to improve and
+enhance the 2kW generator set product line and involve, primarily, the
+adaptation of existing technology, as well as, engineering and design to meet
+specific customer requests. The scope of these efforts includes the development
+of a product which is in accordance with current customer requests and future
+requirements. Company efforts are to address areas of sound reduction, reduced
+weight, improved fuel consumption and environmental considerations. The Company
+reviews these capitalized costs on a regular basis to assess future
+recoverability through the existing contracts to which such costs relate and
+expense such costs, if any, to the extent that they are not deemed recoverable.
+Management believes it is probable that all such amounts are fully realizable
+through inclusion in product costs to be billed to customers.
+
+In fiscal year 2005, the Company re-evaluated an arrangement with a vendor
+providing
+
+30
+
+services, and subsequently reclassified approximately $220,000 of capitalized
+development costs representing licensing fees to prepaid expenses and other
+current assets. The Company continues to pay and expense these license fees over
+time. As of June 30, 2006 and 2005, $120,000 of these fees are included in
+prepaid expenses and other current assets.
+
+The Company expenses its research and development costs as incurred. These costs
+consist primarily of salaries and material costs. For the fiscal year ended June
+30, 2006, the Company expensed $66,791 of these costs. During the prior fiscal
+year, the Company expensed $101,764 of research and development costs and in
+fiscal year 2004 the Company expensed $127,704 of research and development
+costs.
+
+J.  Loan Fees
+
+Loan fees related to the Company's mortgage note (which was replaced by a term
+loan agreement on February 24, 2005) were capitalized by the Company and
+amortized utilizing the straight-line basis over the term of the loan. These
+loan fees have been fully amortized at June 30, 2006.
+
+K.  Impairment of Long-Lived Assets
+
+The Company reviews the recoverability of all long-term assets, including the
+related useful lives, whenever events or changes in circumstances indicate that
+the carrying amount of a long-lived asset might not be recoverable. If required,
+the Company compares the estimated undiscounted future net cash flows to the
+related asset's carrying value to determine whether there has been an
+impairment. If an asset is considered impaired, the asset is written down to
+fair value, which is based either on discounted cash flows or appraised values
+in the period the impairment becomes known. There were no impairments of
+long-term assets in the year ended June 30, 2006. The Company wrote-down
+approximately $34,353 of capitalized development costs in 2005 and $50,357 in
+fiscal year 2004. These costs were expensed and included in general and
+administrative expenses, during the respective years.
+
+L.  Income Taxes
+
+The Company applies Statement of Financial Accounting Standard ("SFAS") No. 109,
+"Accounting for Income Taxes." Under the asset and liability method of SFAS No.
+109, deferred tax assets and liabilities are recognized for future tax
+consequences attributable to differences between the financial statement
+carrying amounts of existing assets and liabilities and their respective tax
+bases. The effect on deferred tax assets and liabilities of a change in tax laws
+is recognized in the results of operations in the period the new laws are
+enacted. A valuation allowance is recorded to reduce the carrying amounts of
+deferred tax assets unless it is more likely than not that such assets will be
+realized.
+
+M.  Land Held for Sale
+
+During fiscal year 2006 the Company reclassified an asset previously presented
+as "Land held for Sale". Previously, on December 29, 2004, the Company had
+agreed to sell approximately 68 undeveloped and unused acres of this land to K.
+Hovnanian North Jersey Acquisitions, L.L.C. ("K. Hovnanian"), a wholly-owned
+subsidiary of Hovnanian Enterprises, Inc., a residential real estate developer
+and homebuilder. The Company's stockholders approved the sale of this land at
+the Annual Stockholders meeting which was held on March 8, 2005. Completion of
+the proposed land sale depended on, among other things, a number of conditions
+being satisfied, including extensive regulatory and rezoning approvals from New
+Jersey State and local entities. On July 25, 2005, the Company announced that it
+had received from K. Hovnanian a notice terminating the Agreement of Sale. The
+Company is continuing to actively pursue possible methods of monetizing the
+undeveloped and unused portion of its property, by its sale and/or development.
+However, since no sale is imminent $506,345 of the land previously presented as
+"Land held for sale" has been reclassified as "Land" and the portion
+representing development costs, $64,031, has been reclassified as deferred
+costs.
+
+31
+
+N.  Accounting for Stock-Based Compensation
+
+In December 2004, the Financial Accounting Standards Board ("FASB") issued SFAS
+No.123 (Revised 2004), "Share-Based Payment" ("SFAS No. 123R"). This new
+pronouncement requires that compensation cost relating to share-based payment
+transactions be recognized in financial statements. That cost is measured based
+on the fair value of the equity or liability instruments issued. SFAS No. 123R
+covers a wide range of share-based compensation arrangements including stock
+options, restricted stock plans, performance-based awards, stock appreciation
+rights, and employee stock purchase plans. SFAS No. 123R replaces SFAS No. 123,
+"Accounting for Stock-Based Compensation," and supersedes Accounting Principles
+Board Opinion ("APB") No. 25, "Accounting for Stock Issued to Employees." The
+Company has adopted the provisions of SFAS No. 123R in fiscal year 2006 using a
+modified version of prospective application. The Company did not grant, modify,
+repurchase, or cancel any share based payment awards after the date of adoption
+of SFAS No. 123R. All awards granted prior to July 1, 2005 had fully vested
+prior to July 1, 2005. Therefore, there was no effect of adopting SFAS 123R in
+the Company's financial statements for fiscal year 2006.
+
+Prior to the adoption of SFAS 123R, the Company provided the disclosures
+required by SFAS No. 123, whereby the Company did not recognize compensation
+expense on non-qualified stock options granted to employees when the exercise
+price of the options is equal to the market price of the underlying stock on the
+date of the grant. Options granted vest after a one year period and expire ten
+years from the grant date.
+
+There were no options granted in fiscal years 2006, 2005 or 2004. However, pro
+forma information regarding net income and earnings per share is required for
+fiscal years 2005 and 2004 by SFAS No. 123 and has been determined as if the
+Company had accounted for its employee stock option grants under the fair value
+method prescribed by that Statement. Information with regard to the number of
+options granted, market price of the grants, vesting requirements, and the
+maximum term of the options granted would appear by plan type in the sections
+below. The fair value of these options would be estimated at the date of grant
+using a Black-Scholes option pricing model.
+
+The estimated fair value of the option grants are amortized to expense over the
+options' vesting period beginning January 1 of the following year, due to the
+timing of the grants. The Company's pro forma information for the years ended
+June 30, 2005 and 2004 is as follows:
+
+Year Ended June 30
+                                                              2005         2004
+Net (loss)/income, as reported                         $  (31,172)   $  772,850
+deduct:  Total stock-based employee compensation
+expense determined under fair value based method for
+all awards, net of related tax effects                     (8,930)      (18,398)
+                                                       ----------    ----------
+
+Pro forma net (loss)/income                            $  (40,102)   $  754,452
+
+Earnings per share:
+Basic - as reported                                    $    (0.02)   $     0.57
+Basic - pro forma                                      $    (0.02)   $     0.55
+
+Diluted - as reported                                  $    (0.02)   $     0.55
+Diluted - pro forma                                    $    (0.02)   $     0.54
+
+32
+
+2.  Recent Accounting Pronouncements
+- ------------------------------------
+
+In September 2006, the FASB issued SFAS No. 157, "Fair Value Measurements". This
+Statement defines fair value, establishes a framework for measuring fair value
+in generally accepted accounting principles, and expands disclosures about fair
+value measurements. This Statement applies under other accounting pronouncements
+that require or permit fair value measurements, the Board having previously
+concluded in those accounting pronouncements that fair value is the relevant
+measurement attribute. Accordingly, this Statement does not require any new fair
+value measurements. However, for some entities, the application of this
+Statement will change current practice. This Statement is effective for
+financial statements issued for fiscal years beginning after November 15, 2007,
+and interim periods within those fiscal years. The Company is currently
+evaluating the impact of this Statement on its financial statements.
+
+In July 2006, the FASB issued Financial Interpretation No. 48 (FIN 48)
+(Accounting for Uncertainty in Income Taxes, as Interpretation of FASB Statement
+No. 109). This Interpretation clarifies the accounting for uncertainty in income
+taxes recognized in an enterprise's financial statements in accordance with FASB
+Statement No. 109, "Accounting for Income Taxes". FIN 48 prescribes a
+recognition and measurement threshold attributable for the financial statement
+recognition and measurement of a tax position taken or expected to be taken in a
+tax return. FIN 48 also provides guidance on derecognition, classification,
+interest and penalties, accounting in interim periods, disclosures and
+transition. FIN 48 is effective for fiscal years beginning after December 15,
+2006. The Company is currently evaluating the impact of this Interpretation on
+its financial statements.
+
+3.  Inventories
+- ---------------
+
+Inventories consist of:
+                           June 30,
+                           --------
+
+                         2006         2005
+                         ----         ----
+Finished goods     $  194,885   $  367,660
+Work in progress       93,485      298,771
+Raw materials         818,319      731,674
+                   ----------   ----------
+
+$1,106,689   $1,398,105
+                   ==========   ==========
+
+After the end of fiscal year 2006, management completed a strategic review of
+the HEDCO spare parts business. As a result, for the fourth quarter of fiscal
+year 2006, the Company recorded an adjustment against inventory of $299,596
+based on specific identification and related to spare parts for old models of
+snow makers.
+
+4.  Costs and Estimated Earnings on Uncompleted Contracts
+- ---------------------------------------------------------
+
+                                                   June 30,
+                                                   --------
+
+                                                 2006          2005
+Costs incurred on contracts in progress   $14,953,793   $13,222,175
+Estimated contract profit                   3,399,120     3,679,009
+                                          -----------   -----------
+                                           18,352,913    16,901,184
+Less:  billings to date                    17,420,502    16,128,677
+                                          -----------   -----------
+Contract costs and related estimated
+profits in excess of billings             $   932,411   $   772,507
+                                          ===========   ===========
+
+33
+
+5.  Stock Option Plan
+- ---------------------
+
+On December 2, 1998, the Employee Stock Option Committee adopted a Stock Option
+Plan of 1998 which granted incentive stock options to various executives and key
+employees to purchase shares of common stock. Options were granted at fair
+market value of the stock on the date of grant and are exercisable over a
+ten-year period beginning December 2, 1999 to September 12, 2010. At the Annual
+Meeting of Stockholders on December 5, 2001, this stock option plan was amended
+and restated among other things to increase the number of shares which may be
+issued under the plan by 25,000 shares, from 60,000 to 85,000.
+
+The changes in the number of shares under option are as follows:
+
+Number of Shares    Weighted Average
+                                                    Exercise Price
+                               ----------------    ----------------
+
+Balance July 01, 2003                    42,500    $           2.03
+
+Granted during 2004                          --                  --
+
+Exercised                                    --                  --
+                               ----------------    ----------------
+
+Balance at June 30, 2004                 42,500    $           2.03
+
+Granted during 2005                          --                  --
+
+Exercised                                (2,500)   $          (0.58)
+                               ----------------    ----------------
+
+Balance at June 30, 2005                 40,000    $           2.76
+
+Granted during 2006                          --                  --
+
+Exercised                                    --                  --
+                               ----------------    ----------------
+
+Balance at June 30, 2006                 40,000    $           2.76
+                               ================    ================
+
+Exercisable at June 30, 2006             40,000    $           2.76
+                               ================    ================
+
+Also, at the Annual Meeting of Stockholders on December 5, 2001, the Company
+adopted a Stock Option Plan for Non-Employee Directors. The number of shares
+issuable upon exercise of options, which may be granted under this Plan, shall
+not exceed 50,000 shares of common stock. No options have been granted under
+this plan.
+
+Listed below is a summary of the stock options outstanding and exercisable at
+June 30, 2006.
+
+Outstanding and Exercisable
+
+                                       Weighted Average      Weighted Average
+       Exercise Price        Options    Exercise Price     Remaining Life-Years
+       --------------        -------    --------------     --------------------
+
+                 0.58          5,000          0.58                3.4
+                 1.63         13,000          1.63                4.2
+                 3.93         22,000          3.93                6.5
+                              ------
+                              40,000
+
+For purposes of the disclosure required under SFAS No. 148, "Accounting for
+Stock-
+
+34
+
+Based Compensation - Transition and Disclosure - an amendment of FASB
+Statement 123", the fair value of each option was estimated on the grant date
+using the Black-Scholes option-pricing model. There were no stock options
+granted in 2006, 2005 and 2004.
+
+For the past three fiscal years, the number of options exercisable at fiscal
+year end was as follows: 40,000 at June 30, 2006, 40,000 at June 30, 2005 and
+42,500 at June 30, 2004.
+
+6.  Notes Payable
+- -----------------
+
+Notes Payable at June 30, consists of:
+
+On February 24, 2005, the Company and Sovereign Bank (the "Bank") entered into a
+Term Loan Agreement (the "Loan Agreement") that replaced, and restructured the
+remaining balance due on, the Company's Mortgage Note agreement with the Bank,
+which matured in January 2005. Pursuant to the Loan Agreement, the Company
+borrowed $292,187 from the Bank for a term ending February 23, 2007, at a fixed
+annual interest rate of 5.56 percent. This loan, of which $86,047 was
+outstanding as of June 30, 2006, is collateralized by a first lien on all of the
+Company's accounts receivable, machinery, equipment and other personal property
+(the "Collateral") and is subject to customary representations, covenants, and
+default provisions in favor of the Bank.
+
+The Company also has a line of credit agreement with the Bank in the amount of
+$500,000 at an annual interest rate equal to the Bank's prime rate (8.0% as of
+June 30, 2006) plus 0.25 percent. Effective November 9, 2005, this line of
+credit agreement was renewed through December 1, 2006. As of June 30, 2006,
+there were no outstanding borrowings against this line of credit facility. In
+the event that the Company borrows funds under this line of credit facility, the
+loan would be co-collateralized by the Collateral.
+
+7.  Taxes on Income
+- -------------------
+
+Benefit/(Provision) for income taxes:
+
+Years ended June 30,
+
+                                 2006         2005         2004
+Deferred
+    Federal                 $ (32,106)   $   3,434    $ 374,538
+    State                     (18,968)      22,897      108,737
+                            ---------    ---------    ---------
+                              (51,074)      26,331      483,275
+                            ---------    ---------    ---------
+Current
+    Federal                    14,612        2,066       67,815
+    State                          --       (2,011)     (20,326)
+                            ---------    ---------    ---------
+                               14,612           55       47,489
+                            ---------    ---------    ---------
+Total Benefit (Provision)   $ (36,462)   $  26,386    $ 530,764
+                            =========    =========    =========
+
+Deferred tax assets and liabilities as of June 30, 2006 and June 30, 2005
+consisted of the following:
+
+                                       35
+
+Deferred Tax assets:                          2006         2005
+- -------------------
+ Current
+  Vacation accrual                       $  41,748    $  23,344
+  Inventory reserve                        119,838
+  Allowance for doubtful accounts            2,480
+  Prepaids                                 (16,906)     (13,873)
+                                         ---------    ---------
+                                           147,160        9,471
+  Less Valuation Allowance                (147,160)          --
+                                         ---------    ---------
+ Total current deferred tax asset                0        9,471
+
+ Non-current
+  Pension                                   79,287      158,763
+  Depreciation                               9,519       38,394
+  Net Operating Loss                       112,648        3,929
+  Other                                         --         (720)
+                                         ---------    ---------
+                                           201,454      200,366
+  Less Valuation Allowance                (201,454)    (158,763)
+                                         ---------    ---------
+ Total non-current deferred tax assets           0       41,603
+                                         ---------    ---------
+
+Total deferred tax assets                $      --    $  51,074
+                                         =========    =========
+
+The Company has provided a valuation allowance against its net deferred taxes as
+it believes that it is more like than not that it will not realize the tax
+attributes. The Company has approximately $273,000 and $324,000 of federal and
+state, respectively, net operating loss carry forward expiring beginning in
+2012.
+
+The reconciliation of the Federal statutory rate with the Company's effective
+tax rate is summarized as follows: Years ended June 30,
+
+                                              2006       2005       2004
+                                              ----       ----       ----
+Federal statutory rate                      (34.00)%   (34.00)%    34.00%
+State income taxes net of federal benefit     3.60     (30.84)      6.00
+Effect of graduated rate                        --      19.00         --
+Reversal of prior year deferrals                --         --     (259.40)
+                                            ------     ------     ------
+Valuation allowance                          36.02
+Other                                         1.30         --         --
+                                            ------     ------     ------
+
+Effective Rate                                6.92%    (45.84)%   (219.40)%
+                                            ======     ======     ======
+
+8.  Pension Plan
+- ----------------
+
+The Company has a non-contributory defined benefit retirement plan covering all
+its employees which is qualified under the Internal Revenue Code. The method of
+determining the accrued benefit of an employee is the amount equal to 0.8% of an
+employee's average monthly salary times the number of years employed by the
+Company, to a maximum of 35 years. The Company's policy is to contribute the
+amounts allowable under Internal Revenue Service regulations.
+
+The investment policy of the Company for its pension plan is to maximize value
+within the context of providing benefit security for plan participants. The plan
+assets are invested in a fixed income investment account.
+
+The Company expects to continue to contribute within the range of legally
+acceptable contributions as identified by the Plan's enrolled actuary.
+
+36
+
+The following tables provide information about changes in the benefit obligation
+and plan assets and the funded status of the Company's pension plan.
+
+In accordance with SFAS No. 132R, "Employers Disclosures about Pensions and
+Other Postretirement Benefits" the Company has analyzed the change in Funded
+Status between the prior fiscal year and the end of the current fiscal year.
+
+                                                          2006           2005
+Change in benefit obligation:
+  Benefit obligation at beginning of year          $ 1,309,981    $ 1,028,386
+  Service cost                                          39,589         28,266
+  Interest cost                                         67,595         62,834
+  Actuarial (gain)/loss                               (189,958)       194,242
+  Benefits paid plus administrative expenses            (3,829)        (3,747)
+                                                   -----------    -----------
+
+Benefit obligation at end of year                  $ 1,223,378    $ 1,309,981
+                                                   ===========    ===========
+
+Change in plan assets:
+- ----------------------
+  Fair value of plan assets at beginning of year   $   781,649    $   696,191
+  Actual return on plan assets                          36,236         29,205
+  Employer contributions                                30,000         60,000
+  Benefits paid plus administrative expenses            (3,829)        (3,747)
+                                                   -----------    -----------
+
+Fair value of plan assets at end of year           $   844,056    $   781,649
+                                                   -----------    -----------
+
+Funded status                                         (379,322)      (528,332)
+Unrecognized Net (Gain) or Loss                        321,379        523,471
+                                                   -----------    -----------
+
+Accrued Pension Expense                            $   (57,943)   $    (4,861)
+                                                   ===========    ===========
+
+Measurement Date                                  July 1, 2006   July 1, 2005
+
+Weighted Average Assumptions
+  Discount Rate                                           6.25%          5.16%
+  Expected Long-term Rate of Return on Assets             7.50%          7.50%
+  Rate of increase in future compensation levels          3.00%          3.00%
+
+Set forth below is a summary of the amounts reflected in the Company's statement
+of financial position at the end of the last two fiscal years:
+
+                                                June 30, 2006   June 30, 2005
+
+Accrued pension liability                        $  (301,040)    $  (446,649)
+
+Accumulated other comprehensive income pre-tax       243,097         441,788
+                                                 -----------     -----------
+
+Net amount recognized                            $   (57,943)    $    (4,861)
+                                                 ===========     ===========
+
+The accumulated benefit obligation for the plan was $1,145,096 and $1,228,298 at
+June 30, 2006, and 2005, respectively.
+
+Components of periodic pension costs as of June 30, 2006 and 2005 are as
+follows:
+
+37
+
+2006        2005
+                                                     ----        ----
+Service cost-benefits earned during the period   $ 39,589    $ 28,266
+Interest cost on projected benefit obligation      67,595      62,834
+Expected return on plan assets                    (60,611)    (54,201)
+Amortization of actuarial loss                     36,509      19,144
+                                                 --------    --------
+
+Net periodic pension cost                        $ 83,082    $ 56,043
+                                                 ========    ========
+
+Weighted Average Assumptions for Net Periodic Pension Expense
+                                                     2006    2005    2004
+                                                     ----    ----    ----
+Discount Rate                                       5.16%   6.11%   5.83%
+Expected Long-term Rate of Return on Assets         7.50%   7.50%   7.50%
+Rate of Increase in Future Compensation Levels      3.00%   3.00%   3.00%
+
+Retirement Plan for Employees of Dewey Electronics Corporation's weighted
+average asset allocations at June 30, 2006, and 2005, by asset category are as
+follows:
+
+                                                 2006   2005
+                                                 ----   ----
+
+Asset Category
+  Fixed Funds with Guaranteed Interest Rates     100%   100%
+
+Total                                            100%   100%
+
+The expected future payments for the years ended June 30, are as follows:
+
+                  2007           $  4,000
+                  2008           $ 15,000
+                  2009           $ 27,000
+                  2010           $ 38,000
+                  2011           $ 50,000
+ Five years thereafter           $377,000
+
+9.  Earnings Per Share
+- ----------------------
+
+Net (loss)/income per share has been presented pursuant to SFAS No. 128,
+"Earnings per Share". Basic net (loss)/income per share is computed by dividing
+reported net (loss)/income available to common shareholders by weighted average
+shares outstanding for the period. Diluted net (loss)/income per share is
+computed by dividing reported net (loss)/income available to common shareholders
+by weighted average shares outstanding for the period, adjusted for the dilutive
+effect of common stock equivalents, which consist of stock options, using the
+treasury stock method.
+
+The tables below set forth the reconciliation of the numerators and denominators
+of the basic and diluted net (loss)/income per common share computations.
+Certain stock options were excluded from the computation of earnings per share
+due to their anti-dilutive effect. The weighted average number of such shares is
+7,917 and 11,049 for the year ended June 30, 2006 and June 30, 2005
+respectively.
+
+10.  Related Party Transaction
+- ------------------------------
+
+During 1988, Gordon C. Dewey, the Company's co-founder, lent the Company a total
+of $200,000, pursuant to an unsecured demand note bearing interest at the rate
+of 9 percent per annum. As of June 30, 2006 this loan obligation had been fully
+repaid. Interest expense paid under this note was $18,250 and $18,250 for fiscal
+years 2006 and 2005, respectively.
+
+11.  Other Income
+- -----------------
+
+Other income/(expense) consists of the following for the years ended June 30:
+
+12.  Operating Segments
+- -----------------------
+
+The Company operates in two segments: Electronics, and Leisure and Recreation.
+Operations in the Electronics segment are primarily related to supplying
+electronics and electrical products and systems for the United States Government
+as a prime contractor or subcontractor. Operations in the Leisure and Recreation
+segment involve the production and sale of snowmaking machinery and servicing of
+such machinery at the purchaser's expense beyond the warranty period. Total
+revenue by segment represents sales to unaffiliated customers, as reported in
+the Company's Statements of Operations. There are no inter-segment sales.
+
+Some operating expenses, including general corporate expenses, have been
+allocated by specific identification or based on direct labor for items which
+are not specifically identifiable. In computing operating profit, none of the
+following items have been added or deducted: interest expense, income taxes, and
+non-operating income. All of the Company's operations are performed at its
+facility in Oakland, New Jersey. The facility and resources are shared by both
+segments and the direct use of such resources and space cannot be entirely
+specified. Accordingly, the Company allocates usage of its facility and
+equipment. Depreciation and amortization for the Electronics segment and the
+Leisure and Recreation segment, respectively, was approximately $108,000 and
+$8,000 in fiscal year 2006, $260,000 and $11,000 in 2005, and $109,000 and
+$9,000 in 2004. Capital expenditures were approximately $164,000 in fiscal year
+2006, $147,000 in 2005, and $286,000 in 2004.
+
+Identifiable assets by industry segment are those assets that are used in the
+Company's operations in each industry segment. Corporate assets are principally
+cash, prepaid expenses, and other current assets.
+
+The following tables present information about reported segment revenues,
+operating profit or loss, and assets, and reconcile such segment information to
+the Company's totals:
+
+39
+
+Year ended June 30, 2006
+                                                 (Dollars in thousands)
+                                                       Leisure and     Total
+                                         Electronics   Recreation     Company
+                                         -----------   ----------     -------
+Revenue                                  $     7,164   $      171   $    7,335
+                                         ===========   ==========   ==========
+
+Operating profit/(loss)                         (110)        (397)        (507)
+                                          ==========   ==========
+
+Interest expense and  other income-net                                     (20)
+                                                                    ----------
+
+Loss before income taxes                                                  (527)
+                                                                    ==========
+
+Identifiable assets at June 30, 2006           3,981          454        4,435
+                                          ==========   ==========
+
+Corporate assets                                                         1,326
+                                                                    ----------
+
+Total assets at June 30, 2006                                            5,761
+                                                                    ==========
+
+Year ended June 30, 2005
+                                                 (Dollars in thousands)
+                                                       Leisure and     Total
+                                         Electronics   Recreation     Company
+                                         -----------   ----------     -------
+Revenue                                  $     5,988   $      211   $    6,199
+                                         ===========   ==========   ==========
+
+Operating profit/(loss)                           83         (117)         (34)
+                                          ==========   ==========
+
+Interest expense and  other income-net                                     (24)
+                                                                    ----------
+
+Loss before income taxes                                                   (58)
+                                                                    ==========
+
+Identifiable assets at June 30, 2005           3,480          895        4,375
+                                          ==========   ==========
+
+Corporate assets                                                         2,097
+                                                                    ----------
+
+Total assets at June 30, 2005                                            6,472
+
+                                                 Year ended June 30, 2004
+                                                 (Dollars in thousands)
+                                                       Leisure and     Total
+                                         Electronics   Recreation     Company
+                                         -----------   ----------     -------
+
+Revenue                                  $     5,640   $      375   $    6,015
+                                         ===========   ==========   ==========
+
+Operating profit/(loss)                          379          (98)         281
+                                          ==========   ==========
+
+Interest expense and  other income-net                                     (39)
+                                                                    ----------
+
+Income before income taxes                                                 242
+                                                                    ==========
+
+Identifiable assets at June 30, 2004           2,952        1,152        4,104
+                                          ==========   ==========
+
+Corporate assets                                                         2,378
+
+Total assets at June 30, 2004                                            6,482
+                                                                    ==========
+
+40
+
+13. Unaudited Quarterly Financial Data
+
+                                Gross     Net income/      Earnings per share
+         2006    Revenue        Profit      (loss)        Basic        Diluted
+         ----    -------        ------      ------        -----        -------
+
+Sept. 30        $1,116,265   $  200,486   $  (52,741)  $    (0.04)   $    (0.04)
+Dec. 31         $1,974,374   $  235,377   $ (233,489)       (0.17)        (0.17)
+Mar. 31         $2,170,870   $  241,118   $ (118,244)       (0.09)        (0.09)
+Jun. 30         $2,073,379   $  161,321   $ (158,993)       (0.11)        (0.11)
+                ----------   ----------   ----------   ----------    ----------
+
+         Year   $7,334,888   $  838,302   $ (563,467)  $    (0.41)   $    (0.41)
+                ==========   ==========   ==========   ==========    ==========
+
+Gross     Net income/      Earnings per share
+         2005    Revenue        Profit      (loss)        Basic        Diluted
+         ----    -------        ------      ------        -----        -------
+Sept. 30        $1,285,075   $  395,990   $   54,608   $     0.04    $     0.04
+Dec. 31         $1,853,382   $  292,229   $  (28,952)       (0.02)        (0.02)
+Mar. 31         $1,267,727   $  280,054   $     (517)          --            --
+Jun. 30         $1,792,592   $  297,535   $  (56,311)       (0.04)        (0.04)
+                ----------   ----------   ----------   ----------    ----------
+
+         Year   $6,198,776   $1,265,808   $  (31,172)  $    (0.02)   $    (0.02)
+                ==========   ==========   ==========   ==========    ==========
+
+Gross     Net income/      Earnings per share
+         2004    Revenue        Profit      (loss)        Basic        Diluted
+         ----    -------        ------      ------        -----        -------
+Sept. 30        $1,186,774   $  274,208   $    7,530   $     0.01    $     0.01
+Dec. 31         $1,387,072   $  285,636   $  (30,962)       (0.02)        (0.02)
+Mar. 31         $1,605,040   $  382,176   $   47,763         0.04          0.03
+Jun. 30         $1,836,417   $  552,013   $  748,519         0.54          0.53
+                ----------   ----------   ----------   ----------    ----------
+
+         Year   $6,015,303   $1,494,033   $  772,850   $     0.57    $     0.55
+                ==========   ==========   ==========   ==========    ==========
+
+41
+
+Item 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS
+- ------------------------------------------------------
+         ON ACCOUNTING AND FINANCIAL DISCLOSURE
+         --------------------------------------
+
+None.
+
+Item 9A. CONTROLS AND PROCEDURES
+- --------------------------------
+
+i
+The Company carried out, under the supervision and with the participation of the
+Company's management, including the Chief Executive Officer and Treasurer, an
+evaluation of the effectiveness of the design and operation of its disclosure
+controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the
+Securities Exchange Act of 1934) as of the end of the fiscal year covered by
+this Annual Report. Disclosure controls and procedures include, without
+limitation, controls and procedures designed to ensure that information required
+to be disclosed by the Company in the reports that it files or submits under the
+Securities Exchange Act is accumulated and communicated to management, including
+its Chief Executive Officer and Treasurer, as appropriate to allow timely
+decisions regarding required disclosure. Based on this evaluation, the Chief
+Executive Officer and Treasurer concluded that, as of June 30, 2006, the design
+and operation of the Company's disclosure controls and procedures were not
+effective because of the material weakness in the Company's internal control
+over financial reporting described in the following paragraph.
+
+In connection with its audit of the Company's financial statements for the
+fiscal year ended June 30, 2006, the Company's independent registered public
+accounting firm, Amper, Politziner & Mattia, P.C. ("AP&M"), informed management
+and the Board of Directors that it had noted the following conditions which it
+had concluded, in the aggregate, represent a material weakness in the Company's
+internal control over financial reporting. Before the audited financial
+statements for fiscal year 2006 contained in this Annual Report were finalized,
+certain audit adjustments related to significant non-routine matters were made
+to such financial statements after being identified by AP&M and certain
+disclosures required by GAAP were incorporated in such financial statements and
+the notes thereto after being identified by AP&M. In addition, AP&M advised
+management and the Board of Directors that the limited size of the Company's
+accounting department makes it impractical in AP&M's view to achieve an optimum
+separation of duties, and such limited size may restrict the Company's ability
+to gather, analyze and report information relative to the financial statements
+in a timely manner.
+
+The Company intends to hire an additional staff member with the requisite
+knowledge to ensure that the weakness identified by AP&M is properly addressed
+and remedied as promptly as practicable. Nonetheless, a control system, no
+matter how well designed and operated, cannot provide absolute assurance that
+the objectives of the control system are met, and no evaluation of controls can
+provide absolute assurance that all control issues have been detected.
+
+During the fourth fiscal quarter covered by this Annual Report, there have been
+no changes in the Company's internal control over financial reporting that have
+materially affected, or are reasonably likely to materially affect, the
+Company's internal control over financial reporting.
+
+Item 9B. OTHER INFORMATION
+- --------------------------
+
+        None
+
+42
+
+PART III
+
+Item 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+- -----------------------------------------------------------
+
+Information concerning Directors and Executive Officers of the Registrant is
+incorporated herein by reference from the Company's definitive proxy statement
+for the 2006 Annual Meeting of Stockholders.
+
+Item 11. EXECUTIVE COMPENSATION
+- -------------------------------
+
+Executive compensation information is incorporated herein by reference from the
+Company's definitive proxy statement for the 2006 Annual Meeting of
+Stockholders.
+
+Item 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+- -------------------------------------------------------------
+         MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+         ------------------------------------------
+
+Item 403 of Regulation S-K
+
+Information concerning security ownership of certain beneficial owners and
+management is incorporated herein by reference from the Company's definitive
+proxy statement for the 2006 Annual Meeting of Stockholders.
+
+Item 201(d) of Regulation S-K
+
+(a) (b)
+                                                    Number of securities       Weighted-average       Number of securities
+                                                     to be issued upon        exercise price of      remaining available for
+                                                  exercise of outstanding        outstanding          future issuance under
+                                                     options, warrants        options, warrants        equity compensation
+Plan Category                                            and rights               and rights            plans (excluding
+                                                                                                      securities reflected
+                                                                                                         in column (a))
+                                                                                                        
+Equity compensation plans approved
+by security holders                                        40,000                   2.7618                   72,500
+
+Equity compensation plans not approved
+by security holders                                          --                       --                       --
+
+Total                                                      40,000                   2.7618                   72,500
+
+Item 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+- -------------------------------------------------------
+
+Information in response to this item is incorporated herein by reference from
+the Company's definitive proxy statement for the 2006 Annual Meeting of
+Stockholders.
+
+Item 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+- -----------------------------------------------
+
+Information in response to this item is incorporated herein by reference from
+the Company's definitive proxy statement for the 2006 Annual Meeting of
+Stockholders.
+
+43
+
+PART IV
+
+Item 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+- ------------------------------------------------
+
+(a) (1)  The following financial statements are included in Part II Item 8:
+
+                                                                           Page
+                                                                           ----
+
+         Report of Independent Registered Public Accounting Firm            23
+
+         Report of Independent Registered Public Accounting Firm            24
+
+         Balance Sheets, June 30, 2006 and 2005                             25
+
+         Statements of Operations, Years Ended June 30,
+         2006, 2005 and 2004                                                26
+
+         Statements of Stockholders' Equity and comprehensive
+         income/loss, Years EndedJune 30, 2006, 2005 and 2004               27
+
+         Statements of Cash Flows, Years Ended June 30,
+         2006, 2005 and 2004                                                28
+
+         Notes to Financial Statements                                      29
+
+(2)  Exhibits                                                           46
+
+         A list of the exhibits required to be filed as part of this
+         report is set forth in the Index to Exhibits, which
+         immediately follows the signature page, and is incorporated
+         herein by this reference.
+
+44
+
+SIGNATURES
+Item 16.
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, The Dewey Electronics Corporation has duly caused this report to be
+signed on its behalf by the undersigned, thereunto duly authorized:
+
+                        THE DEWEY ELECTRONICS CORPORATION
+
+/s/ John H.D. Dewey                         /s/ Stephen P. Krill
+- -----------------------------------         ------------------------------------
+BY: John H.D. Dewey                         BY:  Stephen P. Krill Jr., Treasurer
+   President and Chief Executive Officer
+
+DATE:  October 12, 2006
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the Registrant and
+in the capacities and on the dates indicated:
+
+/s/ Frances D. Dewey                Date:  October 12, 2006
+Frances D. Dewey,                   Director
+
+/s/ John H.D. Dewey                 Date:  October 12, 2006
+John H.D. Dewey                     Director
+
+/s/ James M. Link                   Date:  October 12, 2006
+James M. Link                       Director
+
+/s/ Nathaniel Roberts               Date:  October 12, 2006
+Nathaniel Roberts                   Director
+
+/s/ John B. Rhodes                  Date:  October 12, 2006
+John B. Rhodes                      Director
+
+45
+
+THE DEWEY ELECTRONICS CORPORATION
+
+                                INDEX TO EXHIBITS
+
+The following exhibits are filed as part of this report. For convenience of
+reference, exhibits are listed according to the numbers assigned in the Exhibit
+table to Regulation S-K.
+
+Number                                                                  Page No.
+- ------                                                                  --------
+
+3   (a)-   Certificate of Incorporation as amended. This item was filed
+           as part of the Registrant's Form 10-K for the year ended
+           June 30, 1988 and is herein incorporated by reference.           --
+
+3   (b)-   By Laws as amended.  This item was filed as part of the
+           Registrant's Form 10-K for the year ended June 30, 1988 and
+           is herein incorporated by reference.                             --
+
+10  (a)-   Note Modification Agreement, dated November 9, 2005 (to
+           the Promissory Note dated November 1, 2999), with Sovereign
+           Bank, providing for a line of credit of up to $500,000. This
+           item was filed as part of the Registrant's Form 8-K dated
+           November 9, 2005 and is herein incorporated by reference         --
+
+10  (b)-   2001 Stock Option Plan. This item was filed with the
+           Registrant's Definitive Proxy Statement for the 2001 annual
+           meeting of stockholders on December 5, 2001 and is herein
+           incorporated by reference.
+
+10  (c)-   Amendment and Restatement of the 1998 Stock Option Plan.
+           This item was filed with the Registrant's Definitive Proxy
+           Statement for the 2001 annual meeting of stockholders on
+           December 5, 2001 and is herein incorporated by reference.        --
+
+10  (d)-   Term Loan Agreement, dated February 24, 2005 with
+           Sovereign Bank, providing for the borrowing of $292,187 to
+           replace the balance due on the Registrant's mortgage with a
+           new term ending February 23, 2007 at a fixed annual interest
+           rate of 5.56 percent. This item was filed as part of the
+           Registrant's Form 10-Q for the quarter ended March 31, 2005
+           and is herein incorporated by reference.                         --
+
+31.1       Certification of Chief Executive Officer Pursuant to Section
+           302 of the Sarbanes-Oxley Act of 2002 (filed herewith)           47
+
+31.2       Certification of Treasurer Pursuant to Section 302 of the
+           Sarbanes-Oxley Act of 2002 (filed herewith)                      48
+
+32.1       Certification of Chief Executive Officer pursuant to 18
+           U.S.C. Section 1350, as adopted pursuant to Section 906 of
+           the Sarbanes-Oxley Act of 2002 (filed herewith).                 49
+
+32.2       Certification of Treasurer pursuant to 18 U.S.C. Section
+           1350, as adopted pursuant to Section 906 of the
+           Sarbanes-Oxley Act of 2002 (filed herewith)                      50
+
+46
+
+<EX-31.1>
+ 2
+ ex31-1.txt
+ CERTIFICATION
+
+Exhibit 31.1
+
+                            CERTIFICATION PURSUANT TO
+                  SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, John H.D. Dewey, certify that:
+
+1. I have reviewed this annual report on Form 10-K of The Dewey Electronics
+Corporation;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+         a)       designed such disclosure controls and procedures, or caused
+                  such disclosure controls and procedures to be designed under
+                  our supervision, to ensure that material information relating
+                  to the registrant, including its consolidated subsidiaries, is
+                  made known to us by others within those entities, particularly
+                  during the period in which this report is being prepared;
+
+         b)       evaluated the effectiveness of the registrant's disclosure
+                  controls and procedures and presented in this report our
+                  conclusions about the effectiveness of the disclosure controls
+                  and procedures, as of the end of the period covered by this
+                  report based on such evaluation; and
+
+         c)       disclosed in this report any change in the registrant's
+                  internal control over financial reporting that occurred during
+                  the registrant's most recent fiscal quarter (the registrant's
+                  fourth fiscal quarter in the case of an annual report) that
+                  has materially affected, or is reasonably likely to materially
+                  affect, the registrant's internal control over financial
+                  reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+         a)       all significant deficiencies and material weaknesses in the
+                  design or operation of internal control over financial
+                  reporting which are reasonably likely to adversely affect the
+                  registrant's ability to record, process, summarize and report
+                  financial information; and
+
+         b)       any fraud, whether or not material, that involves management
+                  or other employees who have a significant role in the
+                  registrant's internal control over financial reporting.
+
+Date:  October 12, 2006
+                                       By: /s/ John H.D. Dewey
+                                           President and Chief Executive Officer
+
+47
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31-2.txt
+ CERTIFICATION
+
+Exhibit 31.2
+
+                            CERTIFICATION PURSUANT TO
+                  SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Stephen P. Krill, certify that:
+
+1. I have reviewed this annual report on Form 10-K of The Dewey Electronics
+Corporation;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+         a)       designed such disclosure controls and procedures, or caused
+                  such disclosure controls and procedures to be designed under
+                  our supervision, to ensure that material information relating
+                  to the registrant, including its consolidated subsidiaries, is
+                  made known to us by others within those entities, particularly
+                  during the period in which this report is being prepared;
+
+         b)       evaluated the effectiveness of the registrant's disclosure
+                  controls and procedures and presented in this report our
+                  conclusions about the effectiveness of the disclosure controls
+                  and procedures, as of the end of the period covered by this
+                  report based on such evaluation; and
+
+         c)       disclosed in this report any change in the registrant's
+                  internal control over financial reporting that occurred during
+                  the registrant's most recent fiscal quarter (the registrant's
+                  fourth fiscal quarter in the case of an annual report) that
+                  has materially affected, or is reasonably likely to materially
+                  affect, the registrant's internal control over financial
+                  reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+         a)       all significant deficiencies and material weaknesses in the
+                  design or operation of internal control over financial
+                  reporting which are reasonably likely to adversely affect the
+                  registrant's ability to record, process, summarize and report
+                  financial information; and
+
+         b)       any fraud, whether or not material, that involves management
+                  or other employees who have a significant role in the
+                  registrant's internal control over financial reporting.
+
+Date:  October 12, 2006
+                                                     By:  /s/Stephen P.Krill
+                                                           Treasurer
+
+48
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex32-1.txt
+ CERTIFICATION
+
+EXHIBIT 32.1
+
+CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report of The Dewey Electronics Corporation (the
+"Corporation") on Form 10-K for the fiscal year ended June 30, 2006 as filed
+with the Securities and Exchange Commission on the date hereof (the "Report"),
+I, John H. D. Dewey, Chief Executive Officer of the Corporation, certify,
+pursuant to 18 U.S.C. ss. 1350, as adopted pursuant to ss. 906 of the
+Sarbanes-Oxley Act of 2002, that to my knowledge:
+
+(1) The Report fully complies with the requirements of section 13(a) or
+15(d) of the Securities Exchange Act of 1934; and
+
+(2) The information contained in the Report fairly presents, in all
+material respects, the financial condition and results of operations of the
+Corporation.
+
+/s/ John H.D. Dewey
+- -------------------
+John H. D. Dewey, Chief Executive Officer
+Date:  October 12, 2006
+
+A signed original of this written statement required by Section 906 has been
+provided to The Dewey Electronics Corporation and will be retained by The Dewey
+Electronics Corporation and furnished to the Securities and exchange commission
+or its staff upon request.
+
+49
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex32-2.txt
+ CERTIFICATION
+
+EXHIBIT 32.2
+
+CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report of The Dewey Electronics Corporation (the
+"Corporation") on Form 10-K for the fiscal year ended June 30, 2006 as filed
+with the Securities and Exchange Commission on the date hereof (the "Report"),
+I, Stephen P. Krill, Treasurer of the Corporation, certify, pursuant to 18
+U.S.C. ss. 1350, as adopted pursuant to ss. 906 of the Sarbanes-Oxley Act of
+2002, that to my knowledge:
+
+         (1) The Report fully complies with the requirements of section 13(a) or
+15(d) of the Securities Exchange Act of 1934; and
+
+         (2) The information contained in the Report fairly presents, in all
+material respects, the financial condition and results of operations of the
+Corporation.
+
+/s/ Stephen P. Krill
+- --------------------
+
+Stephen P. Krill, Treasurer
+Date:  October 12, 2006
+
+A signed original of this written statement required by Section 906 has been
+provided to The Dewey Electronics Corporation and will be retained by The Dewey
+Electronics Corporation and furnished to the Securities and exchange commission
+or its staff upon request.
+
+50
+
+</EX-32.2>
+

@@ -1,0 +1,1845 @@
+<Header>
+<FileStats>
+    <FileName>20061130_10-K_edgar_data_715073_0001193125-06-244387_1.txt</FileName>
+    <GrossFileSize>820008</GrossFileSize>
+    <NetFileSize>194514</NetFileSize>
+    <NonText_DocumentType_Chars>26561</NonText_DocumentType_Chars>
+    <HTML_Chars>473659</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>60</N_Tables>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001193125-06-244387.hdr.sgml : 20061130
+<ACCEPTANCE-DATETIME>20061130122611
+ACCESSION NUMBER:		0001193125-06-244387
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		12
+CONFORMED PERIOD OF REPORT:	20060901
+FILED AS OF DATE:		20061130
+DATE AS OF CHANGE:		20061130
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WEGENER CORP
+		CENTRAL INDEX KEY:			0000715073
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		IRS NUMBER:				810371341
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-11003
+		FILM NUMBER:		061247492
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11350 TECHNOLOGY CIRCLE
+		CITY:			DULUTH
+		STATE:			GA
+		ZIP:			30136-1528
+		BUSINESS PHONE:		4046230096
+
+	MAIL ADDRESS:	
+		STREET 1:		11350 TECHNOLOGY CIRCLE
+		CITY:			DULUTH
+		STATE:			GA
+		ZIP:			30136-1528
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TELECRAFTER CORP
+		DATE OF NAME CHANGE:	19890718
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ApkTT/9s3HxWBGOc/bWhxC2CXxHIzSaOpB05VYoZLrcz9hJGtYsc/mdKlIS/QpCz
+ xM9lhUy1xCYbOjSlxU2Uxw==
+
+ 0001193125-06-244387.txt : 20061130
+
+10-K
+ 1
+ d10k.htm
+ FORM 10-K
+
+Form 10-K 
+
+Table of Contents  
+
+     UNITED STATES        SECURITIES AND EXCHANGE COMMISSION        Washington, D.C. 20549             FORM 10-K             (Mark One)    
+     For the fiscal year ended September 1, 2006        OR        
+     For the transition period from                to
+                      Commission file No. 0-11003             WEGENER CORPORATION
+       (Exact name of registrant as specified in its charter)             
+
+Delaware   
+     
+   81 0371341    
+ 
+     (State or other jurisdiction of       incorporation or organization)    
+     
+     (I.R.S. Employer       Identification No.)     
+     
+     Registrant s telephone number, including area code: (770) 623-0096             Securities registered pursuant
+to Section 12(b) of the Act: None        Securities registered pursuant to Section 12(g) of the Act:        
+
+Title of each class    
+      
+     Name of each exchange on which registered     
+ 
+   Common Stock, $.01 par value   
+      
+   NASDAQ Capital Market    
+         Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.     Yes                 No              Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.     Yes                 No              Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter
+period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days:     Yes           No                    Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (  229.405 of this chapter) is not contained herein, and will
+not be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.               Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, or a
+non-accelerated filer. See definition of  accelerated filer and large accelerated filer  in Rule 12b-2 of the Exchange Act. (Check one):    Large Accelerated Filer           Accelerated Filer           Non-Accelerated Filer.           Indicate by check mark whether the registrant is a
+shell company (as defined in Rule 12b-2 of the Act).     Yes                 No              As of March 3, 2006 (the last business day
+of the registrant s most recently completed second fiscal quarter), the aggregate market value of the Common Stock held by non-affiliates was $15,082,227 based on the last sale price of the Common Stock as quoted on the NASDAQ Small-Cap Market
+on such date. (The officers and directors of the registrant, and owners of over 10% of the registrant s common stock, are considered affiliates for purposes of this calculation.)      As of November 1, 2006, 12,579,051 shares of registrant s Common Stock were outstanding.       DOCUMENTS INCORPORATED BY REFERENCE       Portions of the definitive Proxy Statement pertaining to the January 23, 2007 Annual Meeting of
+Stockholders, only to the extent expressly so stated herein, are incorporated herein by reference into Part III.        
+
+Table of Contents  
+
+WEGENER CORPORATION        FORM 10-K        YEAR ENDED SEPTEMBER 1, 2006        INDEX        
+
+Page    
+
+PART I      
+
+Item 1.   
+
+Business    
+      
+  2   
+
+Item 1A.   
+
+Risk Factors    
+      
+  13   
+
+Item 1B.   
+
+Unresolved Staff Comments    
+      
+  16   
+
+Item 2.   
+
+Properties    
+      
+  16   
+
+Item 3.   
+
+Legal Proceedings    
+      
+  16   
+
+Item 4.   
+
+Submission of Matters to a Vote of Security Holders    
+      
+  16   
+
+PART II      
+
+Item 5.   
+
+Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities    
+      
+  17   
+
+Item 6.   
+
+Selected Financial Data    
+      
+  18   
+
+Item 7.   
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations    
+      
+  18   
+
+Item 7A.   
+
+Quantitative and Qualitative Disclosures About Market Risk    
+      
+  28   
+
+Item 8.   
+
+Financial Statements and Supplementary Data    
+      
+  29   
+
+Item 9.   
+
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure    
+      
+  49   
+
+Item 9A.   
+
+Controls and Procedures    
+      
+  49   
+
+Item 9B.   
+
+Other Information    
+      
+  49   
+
+PART III      
+
+Item 10.   
+
+Directors and Executive Officers of the Registrant    
+      
+  50   
+
+Item 11.   
+
+Executive Compensation    
+      
+  50   
+
+Item 12.   
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters    
+      
+  50   
+
+Item 13.   
+
+Certain Relationships and Related Transactions    
+      
+  50   
+
+Item 14.   
+
+Principal Accountant Fees and Services    
+      
+  50   
+
+PART IV      
+
+Item 15.   
+
+Exhibits and Financial Statement Schedules     
+      
+  51   
+       
+   1   
+
+Table of Contents  
+
+PART I        
+  ITEM 1. BUSINESS       Wegener          Corporation, the Registrant, together with its subsidiaries, is referred to herein as
+ we,   our,   us,  the  Company  or  Wegener.       Wegener Corporation was
+formed in 1977 and is a Delaware corporation. We conduct our continuing business through Wegener Communications, Inc. (WCI), a wholly-owned subsidiary. WCI was formed in April 1978 and is a Georgia corporation. WCI is a leading provider of digital
+solutions for video, audio and Internet Protocol (IP) data networks. Applications include IP data delivery, broadcast television, cable television, radio networks, business television, distance education, business music and financial information
+distribution. COMPEL           , our patented network control system, provides network flexibility
+to regionalize programming, commercials and file transfers.       Segment Information       Segment information contained in Note 11 to the consolidated financial statements contained in this report is incorporated herein by
+reference in response to this item.       MARKETS AND INDUSTRY OVERVIEW       The primary markets we serve are business and private networks, cable and broadcast television, broadcast radio and telecom.   
+   Business/Private Networks       Business networks consist of corporations and enterprises distributing video, audio and/or data among their sites. Private networks consist of networks that target video, audio and/or data to a select group of subscribers or viewers. Our
+equipment is currently used for a large percentage of the horse racing video distribution in the United States and Sweden and we are continuing to expand that market. We also have a strong presence in faith-based networks. Our business and private
+network customers include Muzak LLC, Roberts Communications, Inc., Scientific Games-Autotote Communication Service Division, and Swedish companies ATG and TERACOM. In addition, we work through third-party integrators, such as Ascent Media and
+Globecomm, to reach this market space.      Business and private networks almost universally have bandwidth as one of their
+single largest operating expenses. Customers are typically willing to invest in large-scale replacement of their networks when they can find a satisfactory return on investment (ROI), such as in the case of MPEG-4/H.264 video compression and DVB-S2
+modulation. Many private and business networks are also interested in store-forward technology to reduce their satellite bandwidth usage.       Cable and Broadcast Television       Cable television consists of (1) program providers that provide
+programming to cable, direct-to-home satellite and telecom companies for distribution to consumers, and (2) cable distribution companies, such as cable multiple system operators (MSOs) and other headends. Broadcast television consists of
+(1) broadcast networks: companies that broadcast television signals over satellite to local affiliate stations; and (2) broadcast stations: local stations that broadcast typically free-to-air television signals to local viewers. Cable
+television and broadcast television customers include FOX, HDNet, Time Warner, Comcast, Turner Broadcasting, and ION Media. In addition, we work through distributors, such as MegaHertz, AMT and Satellite Engineering Group.         
+   2   
+
+Table of Contents  
+
+   Program providers continue to distribute their programming over satellite to cable,
+direct to home (DTH) satellite, and telecom companies. In addition, they are starting to offer programming directly to consumers via the Internet. Program providers continue to launch new services to compete for advertising dollars and are launching
+increasing numbers of high definition services, as well as distributing video-on-demand content. They are concerned about the effect that personal video recorders could potentially have on their advertising revenue as well as the security of their
+high value content being stored in consumers  homes in a digital and potentially easy to copy format.      With the drop
+in costs of high definition televisions, more consumers have now seen high definition television and want a widescreen digital television to watch DVDs and the programming offered to them. This is increasing pressure on cable, satellite and telecom
+networks to offer high definition to their customers.      Cable, DTH satellite and telecom companies are all competing to
+provide consumers with television, telephone, high speed internet services and, in some cases, cell phone service. To gain and maintain subscribers, they continue to roll out high definition and video-on-demand services and personal video recording
+devices.      Broadcasters continue to launch local digital broadcast stations. Many are opting to provide high definition
+content only during primetime hours from their main satellite feed and multi-channel standard definition services during the day.      Satellite teleports are recovering from a global slowdown that affected satellite transponder use. They are increasingly looking at integrated video and data solutions for their customers. Many are expanding their distribution systems to
+include terrestrial delivery as well as satellite.       Broadcast Radio       Broadcast radio consists of companies that broadcast, typically free-to-air, radio signals to local listeners. Radio network customers
+include EMF Broadcasting, Jones Radio Networks, Christian Radio Consortium, Salem Radio Network and Horizon Christian Fellowship.      Broadcast radio operators are interested in regionalizing their broadcasts to give a local feel to the programming. They also want to shift their programming for time-zones so that  drive times  are able to be addressed with
+particular morning and afternoon shows and advertisements, which can demand higher advertising dollars. In addition, they are coming under increasing pressure from advertisers to ensure that affidavit information provided is accurate.       Telecom Operators       Telecom operators offer telephony and high speed internet access (DSL) to consumers. In growing numbers, they are now launching video service offerings to compete with cable and satellite DTH (direct-to-home) companies. Due to a decline in
+telephone subscribers, the telecom companies are anxious to find additional sources of revenue such as, the  triple play  offering of telephone, television and high speed internet service which has proven to reduce subscriber churn when
+subscribers receive at least two of the three service offerings from one company.      Unless the telecom company is using
+fiber infrastructure, their networks are more limited in bandwidth than their competitors. Therefore, they require the new video compression technology of MPEG-4/h.264 to enable a television programming line-up that can match their competition.
+Telecom operators are planning to purchase MPEG-4/h.264 products such as consumer settop boxes, which are predicted to be a rapidly growing market over the next several years.         
+   3   
+
+Table of Contents  
+
+    PRODUCTS       Our products include: iPump            Media
+Servers, UNITY            Satellite Receivers, Compel            Network Control System, MediaPlan            Content Management and Ingest, Nielsen Media Research Products, DTV Digital Stream Processors, analog audio products, third-party
+uplink products and customized products.       iPump Media Servers       The iPump          product line combines the features of our integrated receiver decoders (IRD) with advanced media server functionality and IP router capabilities. The
+iPump          delivers and stores digital content into
+broadcast, cable and business operations utilizing store and forward technology compared to traditional real-time linear broadcasts. Store and forward technology allows network operators to store content at receive locations and then play back the
+content locally either based on schedules or on-demand user selection. Network operators with repetitive content in their programming line-up can reduce their satellite space segment costs by sending programming, advertising and playback schedules
+as stored files into the iPump          for later playback
+according to the schedules. The network operator can then utilize limited satellite time to refresh the programming, advertising and play-out schedules without the necessity to maintain a constant signal on the satellite. A WEGENER iPump          customer significantly reduced its satellite bandwidth
+expenses by switching to store forward network operations, which allows them to now spend less than 10% of their prior satellite bandwidth budget, which was one of their largest operating expenses.      There are three models of iPump          that utilize store-forward technology. The iPump          6400 Professional Media Server is designed for broadcast television and private network customers. The iPump          622 Enterprise Media Server is designed specifically for private network and enterprise
+applications, such as distance learning. The new iPump          6420 Audio Media Server is designed specifically to meet the needs of broadcast radio and is a third generation store-forward product. The iPump          6420 began shipping in the first quarter of fiscal 2007.      The iPump          615 Streaming Media Decoder is a peripheral decoder for the iPump          6400 or 622. It is designed for high volume dynamic environments such as retail point-of-sale kiosks, point of purchase
+(POP) digital signs and advertisements, and corporate communications. It receives a video stream via Internet Protocol from the iPump          6400 or 622 and outputs high quality video to large video monitors for digital signage or classroom training applications. It supports high-definition
+video and advanced digital audio, in addition to standard definition video and audio to ensure quality media displays for such high visibility purposes.      We are targeting all of our core markets for the iPump          product line. Within these markets, applications for the iPump          products include:      Business and Private Networks   
+
+On-Demand Training          
+
+Distance Learning, Educational Purposes          
+
+Customized or Regionalized Training by Site          
+
+Retail Point-of-Sale Displays or Kiosks          
+
+Corporate Communications          
+
+Streaming Video/Audio/Data to the Desktop          
+
+Digital Signage          
+
+Reduction of Satellite Delivery Costs          
+
+Distribution of Additional Training Materials, such as manuals and exams         Television and Radio Broadcast       
+
+Regional Advertising and Content          
+
+Time Zone Shifted Programming          
+
+News Distribution          
+
+Reduction of Satellite Delivery Costs            
+   4   
+
+Table of Contents  
+
+   Cable Television       
+
+Regional Ad Insertion          
+
+Segment Spot Distribution by Group or Region          
+
+Video on Demand          
+
+Digital File Creation from Linear Broadcast          
+
+Replacement for video tape recorders          Unity Receivers       The Unity          4600 receiver is a digital satellite receiver used primarily by program providers to distribute programming to cable
+and telecom headends. It offers analog and digital outputs to support analog and digital headends. Cable headends utilize the Unity          4600 to support digital high definition television distribution.      The Unity          4650 receiver is a digital receiver used primarily by broadcast television networks. The Unity          4650 receiver is a video and audio decoder that features MPEG 4:2:0 and 4:2:2 video for enhanced video quality in broadcast television network
+distribution.      The Unity          550 receiver is a new addition to the Unity product line. It is targeted to meet the needs of private and business television networks.
+Version 1 of the Unity 550 utilizes MPEG-2 for video distribution and version 2 will add MPEG-4 video and DVB-S2 demodulation. Version 1 of the Unity 550 was released during the fourth quarter of fiscal 2006 and version 2 is planned for release in
+the second half of fiscal 2007.      The Unity          201 audio receiver is designed for business music providers. It is a multichannel per carrier satellite music receiver
+and offers an optional audio storage card which adds a second stereo audio output and one hour of audio storage for ad insertion and disaster recovery. It is our first generation of store-forward receiver.      As MPEG-4 development continues, the Unity          receiver product line will be updated with MPEG-4 video decompression technology.       Compel          Network Control System       Compel          Network Control System is our patented control system and has been a key differentiator
+to our products since 1989. Compel          is used in over
+150 networks controlling over 100,000 receivers. Compel          has patented grouping and addressing controls that provide flexibility in network management. Receivers can be controlled as individual sites and as groups. Commands are synchronized with video and audio programming,
+which allows users to regionalize programming and blackout programming from nonsubscribers, as well as target commercials to subscribers.      Compel          option
+modules include Web Access and Conditional Access. Web Access allows multiple users to access their Compel          system across a LAN (local area network) using a standard Web browser. Conditional Access utilizes a secure microprocessor in every Unity            receiver to deliver fast, secure conditional access to a network without the high cost of consumer smart card systems.      Unity          satellite receivers and iPump media servers are controlled by Compel          Network Control System, so the markets for Compel          are the same as for iPump          and Unity          receivers.         
+   5   
+
+Table of Contents  
+
+    MediaPlan       MediaPlan          CM and MediaPlan         
+i/o products are control and management system modules to our patented Compel          Control System, which is discussed above. The MediaPlan           
+products are crucial for customers in controlling iPump            Media Server networks and are a
+competitive advantage for us in sales of iPump            Media Servers.      MediaPlan          Content Management (MediaPlan          CM) is a powerful content management system used for managing media and other files and actively tracking their delivery throughout the iPump          network. In a store-forward network, media is
+simultaneously stored in multiple iPumps          in the
+field, rather than all in one repository at a central location, so management of the media becomes a crucial part of the network operation. Operators need easy ways to view the content on individual iPumps          and automated mechanisms for updating/deleting media as it changes, and MediaPlan          CM is designed to address those and many other specific
+needs of managing media files in a store-forward network. Operators can create libraries of assets, generate descriptive information, view content at each iPump         , send requested content directly to targeted users and track file usage.      MediaPlan          i/o is the media creation product for the iPump          network. In traditional linear networks, network operators are required to compress the video, distribute it to remote locations and decompress it for
+broadcast, all within one or two seconds. This requires the use of real-time encoders to compress the video and audio as it is sent to the receivers at the remote locations. In store-forward networks, the paradigm changes and the process of video
+and audio compression, media distribution and decompression of the media for broadcast can be done at different times. Network operators can now prepare the media files containing the compressed video and audio ahead of airtime. As well, they can
+distribute the media files any time before airing, so they can optimize the use of their bandwidth. When it is time for the program to be broadcast, it merely needs to be played from the local hard drive on the iPump         , not transported through the network. As the media creation tool,
+MediaPlan          i/o handles the first part of the
+process, the creation of media files containing compressed video and audio which will be sent to iPumps         .      The MediaPlan          product line is an integral part of an iPump          network, so the same markets and applications exist for MediaPlan          as were described in the iPump          section above.       Nielsen Media Research Products       We offer two products to encode Nielsen Media Research identification tags into media for Nielsen program ratings: the NAVEIIc and SpoTTrac Encoders.      The NAVE IIc watermarks program audio with tagging information that identifies the television program and the television station that
+originated the program. The watermarks are used by Nielsen devices to automate the process of cataloging viewers  television viewing habits which ultimately translate into Nielsen ratings. The NAVE IIc makes advances over prior units in that it
+inserts the watermarks for audio in the digital domain and can simultaneously insert watermarking on the entire transport stream of multiple programs. Alternatively, stations have to down-convert to analog audio to insert Nielsen data.   
+  The SpoTTrac Encoder is a turnkey workstation that will encode both the audio and video of television commercials, Public Service
+Announcements and other spots with Nielsen Media Research content identification information as they are being produced and distributed. This multi encoding system is revolutionary and the only one of its kind. The tracked data is collected and
+integrated into Nielsen Tracking Service s reporting and performance management tools. The SpoTTrac Encoder was released in the fourth quarter of fiscal 2006.         
+   6   
+
+Table of Contents  
+
+    DTV Digital Stream Processors       The DTV Digital Stream Processor product line is designed for cable and telecom headends. It allows them to integrate local off-air high
+definition broadcast video signals and digital programs and easily insert them onto their networks. Our products provide for multiple signals to be inserted with one unit. Models include DTV 720, DTV 742 and DTV 744. During fiscal 2006, WEGENER
+expanded the feature set for the DTV 720 to include a multicaster function, which is particularly needed for telecom operators to allow easy integration into their networks.       Analog Audio       Our legacy analog products are sold primarily to
+the cable television market. These products consist of Series 1600 and 1700 mainframes, sub carrier modulators, demodulators and decoders, which are used for cable audio distribution. Our Series 2046 network communications and control system cards
+allow cable operators to insert local commercials which increase their advertising revenues.       Uplink Equipment       We offer our customers complete system solutions for video and audio distribution. The complete system solution requires us to resell
+components, such as encoders, modulators and IP encapsulators from other manufacturers, such as Harmonic, Inc. and Thompson.       Customized
+Products       We offer our customers the option to create custom products for their needs when they cannot find
+off-the-shelf products to satisfy their requirements. They pay non-recurring engineering expenses through product pricing and/or up-front milestone payments. Typically the products are based on WEGENER s standard products and require
+modifications to fit particular customer needs. This is an area of competitive advantage for WEGENER.       MARKET OPPORTUNITY
+      Growth opportunities are most significant in the technologies in which we have been making significant R D
+investments, including store-forward technology, MPEG-4 technology and DVB-S2. See  Research and Development Activities  below.      Currently we have completed shipments of iPump          networks, including Compel          and MediaPlan         , in
+multiple markets for different applications: private networks for virtual channel applications, broadcast television, broadcast radio, broadcast news and private networks for training and digital signage. In some cases, we have multiple orders for a
+particular application. The breadth of the applications for iPump          networks represents many market opportunities in multiple applications and across multiple markets. The broad appeal of the iPump          is due to the diversification of the iPump             store-forward technology.      The virtual channel application of the iPump          allows a current private network customer to reduce their budget for satellite bandwidth by greater than 90% of what they had been spending prior to the upgrade to the iPump         . Satellite bandwidth utilization was one of the customers  largest operating
+expenses, so this reduction represents a sizable savings for them. This network used to run continuously, utilizing satellite bandwidth the entire time; now they use bandwidth only twice a month to update the iPumps          with new content and playout schedules. This example demonstrates the
+significant savings that potential customers may achieve with the iPump         .      A broadcast television customer utilized the iPump          store-forward technology to offer extended services to its customers. This television
+channel is often featured in museums and schools. Our customer can send additional         
+   7   
+
+Table of Contents  
+
+   educational materials and digital videos along with the broadcast video. All the video files and
+additional materials are stored locally on the iPump          so that the museums or schools can have easy access to the materials. The distribution is possible without an increase in satellite bandwidth utilization (which would be costly), since with store-forward, the operator
+can manage bandwidth use more effectively and send repetitive video only once to the iPump         , rather than sending it each time the video is scheduled for broadcast.      IPump          audio customers are interested in store-forward
+technology to update their operations and enable localization of broadcasts. It will allow them to send repetitive material to their affiliates a single time and provide an easy interface for affiliates to access the audio files. Additionally, in
+some radio broadcasting operations, they have a manual process for verifying that advertisements are playing as scheduled and providing affidavits of the advertisement playback to their advertisers. The iPump          provides an automated interface for verifying the advertisements and providing that
+information back to the radio broadcaster. Radio broadcasters are seeing the operational improvements available to them with the iPump         .      A broadcast news
+customer is converting to iPump          to streamline the
+operations of its affiliates. Previously, the news broadcaster used different mechanisms to distribute video and script information to affiliates. Video was distributed on a linear feed and the affiliate had to track the schedule and manually record
+any video that was of interest to them. If affiliates missed the linear broadcast, then the broadcaster had to do a  re-feed  and use additional costly satellite bandwidth to redistribute the video to the affiliate. With the iPump         , the broadcaster sends all the video as files that are
+stored for the affiliate on the hard drive of the iPump         . This eliminates manual recording by the affiliate and removes the need for re-feeds. Additionally, the broadcaster will send scripts and other descriptive information to the iPump          so the affiliate can access all the related information from a single location on the
+iPump          hard drive. The iPump          provides additional valuable features to our
+customer s affiliates, while lowering their operational costs.      A private network customer for digital signage and
+distance training is using the iPump          for both
+signing and training applications simultaneously. This allows the customer to install, field and manage a single iPump          at each location. This reduces the network complexity at the receiver locations since the iPump          can optionally generate two networks out of a single unit. The customer is generating a
+back-room training center for their employees at each site and they can create customized training schedules at each location depending on the viewers  availability, or the viewer can watch the materials on demand. The other output is being
+used for advertising at the point of sale by outputting high quality video advertisements to large video monitors in a retail environment. Within six months of deployment, the customer generated a positive return on equipment expenses through
+advertising revenue.      Our iPump         , MediaPlan          and Compel          products create systems that directly address the next generation needs of the distance learning, corporate training, digital signage advertising, broadcast radio, broadcast news and
+broadcast television markets and represent significant opportunities for growth.      Another area for growth relates to our
+development of our MPEG-4 and DVB-S2 products (see  Research and Development Activities  below for addition information). The second version of the Unity          550 product is currently under development and takes advantage of MPEG-4 and DVB-S2 technology. The MPEG-4 standard is
+the next evolutionary step in video compression and DVB-S2 is the newest technology in satellite modulation. The two technologies combined reduce the bandwidth requirements of satellite media distribution in half. This reduction in bandwidth
+utilization is significant, as bandwidth utilization is one of the largest operating costs for customers. This new technology can drive growth in two ways. First, existing satellite operators will replace their existing equipment with new
+MPEG-4/h.264 and DVB-S2 capable equipment. Additionally, the lower operating expenses will allow additional networks to launch that cannot currently support the high operating expenses of the older technology.      We are also developing a settop box utilizing MPEG-4 and high definition video for telecom operators. The settop box would allow them to
+provide video offerings to their customers and complete the  triple-play  of telephony, high speed internet connectivity and television services. The typical architecture of telecom distribution networks has more limited available
+bandwidth than cable networks, so MPEG-4 video compression enables the telecom operators to compete more effectively. The settop is also relevant for many of our private network customers to expand the reach of their video networks throughout their
+faciltities.         
+   8   
+
+Table of Contents  
+
+    SALES AND MARKETING       Domestically, we sell our products principally through our own direct sales force, which is organized geographically. We have sales representatives in Atlanta, Eastern Canada, Silicon Valley and
+Southern California, as well as a key account executive in North Carolina. We use a major domestic value added reseller for additional sales coverage in the cable market. We have relationships with a few key integrators as an additional sales
+channel. Internationally, we sell primarily through independent distributors and integrators, mostly in North America, South America and Europe. We are exploring further international expansion in sales. The majority of our sales have payment terms
+of net 30 days. Due to the technical nature of our business, both sales application engineering and system integration engineering support sales.      Our marketing organization develops strategies for product lines and provides direction to product development on product feature requirements. Marketing is also responsible for setting price levels and general
+support of the sales force, particularly with major proposal responses, presentations and demonstrations. We strive to further establish Wegener s brand within the industry, including participation on technical committees, publication of
+articles in industry journals, speaking opportunities at industry events and exhibitions at trade shows.       Manufacturing and Suppliers;
+Sources and Availability of Raw Materials       During fiscal 2006 and fiscal 2005, we contracted with offshore manufacturers
+for a significant amount of our finished goods. We are currently working with two offshore manufacturers with facilities located in Taiwan. Raw materials consist of passive electronic components, electronic circuit boards and fabricated sheet metal.
+Approximately 20% of our raw materials are purchased directly from manufacturers and the other 80% are purchased from distributors. Passive and active components include parts such as resistors, integrated circuits and diodes. We use approximately
+ten distributors and two contract manufacturers to supply our electronic components. We often use a single contract manufacturer or subcontractor to supply a total subassembly or turnkey solution for higher volume products. Direct suppliers provide
+sheet metal, electronic circuit boards and other materials built to specifications. We maintain relationships with approximately 20 direct suppliers. Most of our materials are available from a number of different suppliers; however, certain
+components used in existing and future products are currently available from a single or a limited number of sources. Although we believe that all single-source components currently are available in adequate quantities, there can be no assurance
+that shortages or unanticipated delivery interruptions will not develop in the future. Any disruption or termination of supply of certain single-source components or agreements with contract manufacturers could have an adverse effect on our business
+and results of operations. Our manufacturing operations consist primarily of final assembly and testing of our products, utilizing technically trained personnel, electronic test equipment and proprietary test programs.       Intellectual Property       We hold five U.S patents currently, the most significant of which is a patent covering advanced receiver grouping techniques in Compel          which will expire on January 15, 2008. We hold eight active trademarks, such as Compel         , iPump         , Wegener          and Unity         . Currently we have 12 patent applications pending and two trademark applications pending.      Although we attempt to protect our intellectual property rights through patents, trademarks, copyrights, licensing arrangements and other measures, we cannot assure you that any patent, trademark, copyright or other
+intellectual property rights owned by us will not be invalidated, circumvented or challenged, that such intellectual property rights will provide competitive advantages to us, or that any of our pending or future patent and trademark applications
+will be issued. We also cannot assure you that others will not develop technologies that are similar or superior to our technology, duplicate our technology or design around the patents that we own. In order to develop and market successfully
+certain of our planned products for digital applications, we may be required to enter into technology development or licensing agreements with third parties. Although many companies are often willing to enter into such technology development or
+licensing agreements, we cannot assure you that such agreements will be negotiated on terms acceptable to us, or at all. The failure to enter into technology development or licensing agreements, when necessary, could limit our ability to develop and
+market new products and could cause our         
+   9   
+
+Table of Contents  
+
+   business to suffer. Third parties have in the past claimed, and may in the future claim, that we have
+infringed their current or future intellectual property rights. There can be no assurance that we will prevail in any intellectual property infringement litigation given the complex technical issues and inherent uncertainties in litigation. Even if
+we prevail in litigation, such litigation could result in substantial costs and diversion of resources and could negatively affect our business, operating results, financial position and cash flows.      Although we believe that the patents and trademarks we own are of value, we believe that success in our industry will be dependent upon
+new product introductions, frequent product enhancements, and customer support and service. However, we intend to protect our rights when, in our view, these rights are infringed upon. Additionally, we license certain analog audio processing
+technology to several manufacturing companies which generated royalty revenues of approximately $82,000, $58,000, and $87,000 in fiscal 2006, 2005 and 2004, respectively. These royalty license agreements renew annually unless cancelled by the
+licensee on the expiration date.      During the second quarter of fiscal 2003, we entered into a license agreement with
+StarGuide Digital Networks, Inc., a Nevada corporation. This agreement granted to Wegener a number of limited licenses of StarGuide patents related to delivering IP data by satellite and store/forward audio. These licenses extend to and conclude
+upon the last to expire of any licensed patent. We have agreed to pay StarGuide a running royalty on certain of our products. We believe that these royalties will not have a material adverse effect on our financial condition or results of
+operations. In addition, as of September 1, 2006, we have entered into eight other license agreements for utilization of various technologies. These agreements currently require royalty payments, or may require future royalties for products
+under development, none of which are expected to have a material adverse effect on our financial condition or results of operations.       Seasonal Variations in Business       There do not appear to be any seasonal variations in our business.
+      Working Capital Practices       Information contained under the caption "Management's Discussion and Analysis of Financial Condition and Results of Operations" (MD A) section of this report is incorporated herein by reference in response to this
+item.       Dependence upon a Limited Number of Customers       We sell to a variety of domestic and international customers on an open-unsecured account basis. These customers principally operate in the cable television, broadcast business music, private
+network and data communications industries. Sales to Muzak, Nielsen Media Research and BBC World Services accounted for approximately 21.8%, 10.7% and 10.5% of revenues in fiscal 2006, respectively. Sales to Muzak, Ascent Media Systems  
+Technology Services, Educational Media Foundation and Roberts Communications Network accounted for approximately 22.5%, 14.1%, 13.0% and 10.3%, of revenues in fiscal 2005, respectively. Sales to Muzak accounted for approximately 39.6% of revenues in
+fiscal 2004. At September 1, 2006 and September 2, 2005, two customers accounted for more than 10% of our accounts receivable. Sales to a relatively small number of major customers have typically comprised a majority of our revenues. This
+trend is expected to continue in fiscal 2007. The loss of one or more of these customers would likely have, at least in the near term, a material adverse effect on our results of operations.       Backlog of Orders       Our backlog is comprised of undelivered,
+firm customer orders, which are scheduled to ship within 18 months. Our eighteen month backlog was approximately $10,700,000 at September 1, 2006, $10,100,000 at September 2, 2005, and $12,010,000 at September 3, 2004. Three customers
+accounted for 76.0% of the backlog at September 1, 2006. Reference is hereby made to the information contained in MD A, which is incorporated herein by reference in response to this item. The total multi-year backlog at September 1,
+2006 was approximately $19,452,000 compared to approximately $23,964,000 at September 1, 2005.         
+   10   
+
+Table of Contents  
+
+   Approximately $9,527,000 of the September 1, 2006, backlog is expected to ship
+during fiscal 2007. Three customers accounted for 73.7% of the backlog expected to ship during fiscal 2007.       Competitive Conditions
+      We compete both with companies that have substantially greater resources and with small specialized companies.
+Competitive forces generally change from year to year for the markets we serve. Through relationships with component and integrated solution providers, we believe we are positioned to provide complete end-to-end digital video and audio systems to
+our customers.       Cable Television       Competition for our Unity          products in the cable television market is from large and well-established companies, such as Motorola and Scientific Atlanta, a Cisco company. Our Unity          products have a competitive advantage with our advanced Compel          control, so we focus on opportunities where that
+advantage is of value to the customer.      Competition for our DTV products is mostly from smaller companies that are not as
+well established in the cable television market. Our products in this area offer technical advantages over competing offerings. Significant orders for this product line will depend on the overall growth of broadcast and telecom HDTV offerings and
+possible legislative decisions by the FCC in the future.       Broadcast Television       Competition for our Unity          products in the broadcast television market is from large and well-established companies such as Tandberg, Motorola and Scientific Atlanta, a Cisco
+company. Our Unity          products have a competitive
+advantage with our advanced Compel          control, so we
+focus on opportunities where that advantage is of value to the customer. In addition, since the revenue opportunities in broadcast television are smaller than cable, our competitors do not compete for all of those opportunities as aggressively.
+      Broadcast Radio       Competition is currently limited to a few smaller companies for our iPump          Media Server in the broadcast radio market. Compel          Network Control and Medial Plan CM are competitive advantages in broadcast radio, as well as our full-featured iPump            6420 product.       Business and Private Networks       Competition in the business and private networks market generally comes from
+smaller companies with unique products tailored to the needs of the customer. Competition in this field is increasing, although still limited, and we expect to be among the industry key players. Our products are well positioned for this market and
+have competitive advantages, such as our powerful network control and targeting capabilities.       Research and Development    
+  Our research and development activities are designed to strengthen and enhance our existing products and systems and to develop new
+products and systems. Our development strategy is to identify features, products and systems which are, or are expected to be, needed by a number of customers. A major portion of the fiscal 2006 research and development expenses were spent on new
+product development of our iPump          6400 and 6420,
+Compel         , MediaPlan         CM, IPTV and Unity          550 products. WCI s research and development expenses totaled $3,052,000 in fiscal
+2006, $3,493,000 in fiscal 2005, and $3,095,000 in fiscal 2004. Additional information contained on pages 2-7 and in MD A is incorporated herein by reference in response to this item.         
+   11   
+
+Table of Contents  
+
+   Technological advances occur frequently in our industry and our product offerings must be
+upgraded with the advances to continue to remain current with industry trends and attract potential customers. During fiscal 2006, we invested heavily in new technologies since the industry is in a transitional period between technologies and new
+technologies are emerging and becoming viable. We have the opportunity to invest in new technologies now while they are still very innovative and of high value to customers. During fiscal 2006, we invested in MPEG-4 technology, store-forward
+technology and network management. We anticipate that we will continue to invest in all of these technologies in the coming years as they are all at the beginnings of their life cycles.      MPEG-4/H.264 video compression is a new technology that is just becoming viable for our products. It will drive a new cycle of purchases
+throughout our industry, and we want to ensure that we have products available as soon as the technology is ready for deployment. MPEG-4/H.264 compression reduces bandwidth utilization by almost half, which is a significant cost reduction for our
+customers since bandwidth utilization is one of their largest operating expenses. We believe this reduction in operating expenses will contribute to an increase in purchases by our customers. Alternately, the customers can upgrade their video to
+high definition and significantly increase its quality while maintaining similar bandwidth utilization to their current MPEG-2 standard definition networks. We are working on the second version of the Unity          550 receiver to incorporate MPEG-4 technology, as well as exploring applications within
+the telecom industry for consumer settop boxes.      In addition to MPEG-4, we also continue to invest in the diversification
+of the iPump          Media Server product line to
+alternate markets, such as broadcast radio and broadcast news.      Network control and management has long been a
+differentiator for our Unity          receivers and
+iPump          media servers. Through fiscal 2006, we
+continued to invest in network control for our products which allows customers to create dynamic environments with their receivers and to gain additional advertising revenue by regionalizing broadcasts and advertisements. When network control is
+included in a store-forward network, it becomes a very complex operation to manage the media content and data files on iPumps          throughout the network. It is imperative to customers that it is managed properly, as the content often has limited viewing rights, so it must be
+deleted when rights have expired or replaced by newer versions over time. Network control and management products, such as Compel          and MediaPlan         , manage such operations.       Employees       As of September 1, 2006, we had 92 full-time employees employed by WCI and no employees employed by Wegener Corporation. No employees
+are parties to a collective bargaining agreement and we believe that employee relations are good.       Available Information    
+  Our Web site is  http://www.wegener.com . Information contained on our Web site should not be considered incorporated by reference
+in this Form 10-K.         
+   12   
+
+Table of Contents  
+
+    EXECUTIVE OFFICERS OF THE REGISTRANT       The executive officers of the Company, for purposes of section 401(b) of Regulation S-K, are as follows:       
+     
+  ITEM 1A. RISK FACTORS       (See also  Outlook : Issues and Uncertainties )
+     Our business, financial condition and operating results can be affected by a number of factors, including those listed
+below, any one of which could cause our actual results to vary materially from recent results or from our anticipated future results. Any of these risks could also materially and adversely affect our business, financial condition or the price of our
+common stock.       We have a limited history of profitability and may need additional capital in the future, which we may
+not be able to secure on terms acceptable to us. In addition, our line of credit has borrowing availability limits as well as a maximum credit limit.       Over the past five fiscal years, we have reported positive operating income only in fiscal year 2002. As a consequence, we had an accumulated deficit of $14,976,000 at September 1, 2006. There can be no certainty
+        
+   13   
+
+Table of Contents  
+
+   regarding our ability to achieve or sustain profitability in the future. At September 1, 2006, our
+cash and cash equivalents balances were $959,000 and our borrowing availability under our current line of credit advance formulas was $585,000 net of the outstanding letters of credit in the amount of $3,242,000. Whether or not we are able to
+operate profitably, we may require additional capital to finance our operations. We may need to raise additional funds to fund our operations, to take advantage of unanticipated strategic opportunities or to strengthen our financial position. Our
+ability to raise funds, if required, may be adversely affected by a number of factors relating to Wegener, as well as factors beyond our control, including conditions in capital markets and the cable, telecom and satellite industries. There can be
+no assurance that such financing will be available on terms acceptable to us, if at all.       Our future operating results
+are difficult to predict and may fluctuate materially.       Our future operating results are difficult to predict and may be
+materially affected by a number of factors, including: the timing of purchasing decisions by our customers, the timing of new product announcements or introductions by us or our competitors, competitive pricing pressures, adequate availability of
+components and offshore manufacturing capacity. Additional factors affecting our operating results include our ability to hire, retain and motivate adequate numbers of engineers and other qualified employees, changes in product mix, and the effect
+of adverse changes in economic conditions in the United States and international markets. In addition, our markets have historically been cyclical and subject to significant economic downturns. Our business is subject to rapid technological changes
+and there can be no assurance, depending on the mix of future business, that products stocked in inventory will not be rendered obsolete before we ship them. As a result of these and other factors, there can be no assurance that we will not
+experience material fluctuations in future operating results on a quarterly or annual basis.       Our fluctuations in
+bookings and revenues affect our ability to borrow due to collateral advance formulas on our credit facilities. In addition, our credit facility imposes debt covenants and maximum borrowing limits.       At September 1, 2006, our cash and cash equivalents balances were $959,000 and our borrowing availability under our current line of
+credit advance formulas was $585,000 net of the outstanding letters of credit in the amount of $3,242,000. Currently our bank allows 50% of the value of letters of credit as collateral while reducing borrowing availability by the full amount of
+outstanding letter of credit balances. As a result, we may at various times during fiscal 2007, require overadvances to the bank s collateral formula until the letter of credit inventory commitments convert to receivables, against which the
+bank will allow 80% as available collateral. There is no assurance the bank will grant overadvances in sufficient amounts and for the duration of time required to support operations until the inventory is sold. At September 1, 2006 and
+September 2, 2005, we were in violation of our tangible net worth covenants, as to which the bank granted waivers. A breach of these covenants or our inability to maintain the debt covenants could result in a default on our indebtedness. If a
+default occurs, the bank could increase the interest rate or declare any outstanding indebtedness, together with accrued interest and other fees, to be immediately due and payable, and could proceed against our assets that secure that indebtedness.
+      We have in the past experienced delays in product development and introduction, and there can be no assurance that we
+will not experience further delays in connection with our current product development or future development activities.       Delays in development, testing, manufacture and/or release of new products or features, including digital receivers, Compel          network control software, MediaPlan          content management software, streaming media, and other products could adversely affect our sales and results of operations. In addition, there can be
+no assurance that we will successfully identify new product opportunities, develop and bring new products to market in a timely manner and achieve market acceptance of our products, or that products and technologies developed by others will not
+render our products or technologies obsolete or noncompetitive.       Our lengthy and variable qualification and sales cycles
+make it difficult to predict the timing of a sale or whether a sale will be made.       As is typical in our industry, our
+customers may expend significant efforts in evaluating and qualifying our products. This evaluation and qualification process frequently results in a lengthy sales cycle, typically ranging from three to six months and sometimes longer. While our
+customers are evaluating our products and before they place an order with us, we may incur substantial sales, marketing, and research and development expenses, expend significant management efforts, increase manufacturing capacity and order
+long-lead-time supplies prior to receiving an order. Even after this evaluation process, it is possible that a potential customer will not purchase our products.         
+   14   
+
+Table of Contents  
+
+    Our customer base is concentrated and the loss of one or more of our key customers
+would harm our business.       Sales to a relatively small number of major customers have typically comprised a majority of
+our revenues, and that trend is expected to continue throughout fiscal 2007 and beyond. In fiscal 2006, three customers accounted for approximately 21.8%, 10.7% and 10.5% of revenues, respectively. Three customers accounted for 76.0% of the backlog
+at September 1, 2006 and 73.7% of the backlog scheduled to ship during fiscal 2007. The loss of any significant customer or any reduction in orders by any significant customer would adversely affect our business and operating results and
+potentially our liquidity.       We rely on third-party subcontractors, certain suppliers and offshore manufacturers.
+      We use two offshore manufacturers for a significant amount of finished goods or component inventories. Certain raw
+materials, video sub-components and licensed video processing technologies used in existing and future products are currently available from a single source or limited sources. Any disruption or termination of supply of certain single-source
+components or technologies, or interruption of supply from offshore manufacturers, would likely have a material adverse effect on our business and results of operations, at least in the near term.       Our intellectual property rights may be insufficient to protect our competitive position. In addition, our pending or future
+intellectual property applications may not be issued.       We hold five U.S patents currently, the most significant of which
+is a patent covering advanced receiver grouping techniques in Compel          which will expire on January 15, 2008. We hold eight active trademarks, such as Compel         , iPump         , Wegener          and Unity         .
+Currently we have 12 patent applications pending and two trademark applications pending. Although we attempt to protect our intellectual property rights through patents, trademarks, copyrights, licensing arrangements and other measures, we cannot
+assure you that any patent, trademark, copyright or other intellectual property rights owned by us will not be invalidated, circumvented or challenged, that such intellectual property rights will provide competitive advantages to us, or that any of
+our pending or future patent and trademark applications will be issued. We also cannot assure you that others will not develop technologies that are similar or superior to our technology, duplicate our technology or design around the patents that we
+own.       We may not be able to license necessary third-party technology or it may be expensive to do so. In addition,
+claims that we infringe third-party intellectual property rights could result in significant expenses and restrictions on our ability to sell our products in particular markets.       In order to develop and market successfully certain of our planned products for digital applications, we may be required to enter into
+technology development or licensing agreements with third parties. Although many companies are often willing to enter into such technology development or licensing agreements, we cannot assure you that such agreements will be negotiated on terms
+acceptable to us, or at all. The failure to enter into technology development or licensing agreements, when necessary, could limit our ability to develop and market new products and could cause our business to suffer. Third parties have in the past
+claimed, and may in the future claim, that we have infringed their current or future intellectual property rights. There can be no assurance that we will prevail in any intellectual property infringement litigation given the complex technical issues
+and inherent uncertainties in litigation. Even if we prevail in litigation, such litigation could result in substantial costs and diversion of resources and could negatively affect our business, operating results, financial position and cash flows.
+      Competition in our industry is intense and can result in reduced sales and market share.       We compete with companies which have substantially larger operations and greater financial, engineering, marketing, production and other
+resources than we have. These competitors may develop and market their products more quickly, devote greater marketing and sales resources, or offer more aggressive pricing, than we can. As a result, this could cause us to lose orders or customers
+or force reductions in pricing, all of which would have a material adverse impact on our financial position and results of operations.         
+   15   
+
+Table of Contents  
+
+    Our business is subject to rapid changes in technology and new product introductions.
+      The market for our products is characterized by rapidly changing technology, evolving industry standards and frequent
+product introductions. Product introductions are generally characterized by increased functionality and better quality, sometimes at reduced prices. The introduction of products embodying new technology may render existing products obsolete and
+unmarketable. Our ability to successfully develop and introduce on a timely basis new and enhanced products that embody new technology, and achieve levels of functionality and price acceptable to the market, will be a significant factor in our
+ability to grow and to remain competitive. If we are unable, for technological or other reasons, to develop competitive products in a timely manner in response to changes in the industry, our business and operating results will be materially and
+adversely affected.       There is no assurance of a continued trading market in our stock.       Our common stock is traded on the Nasdaq Capital Market. There is no assurance that a public market for our stock will continue to be made
+or that persons purchasing our common stock will be able to avail themselves of a public trading market for the common shares in the future. There can be no assurance that we will remain in compliance with Nasdaq's continued listing requirements. If
+the common stock is delisted by Nasdaq, the trading market for the common stock will be adversely affected, as price quotations for the common stock will not be as readily obtainable, which would likely have a material adverse effect on the market
+price of the common stock.       Our stock price is subject to volatility.       Our common stock has experienced substantial price volatility and such volatility may occur in the future, particularly as a result of
+quarter to quarter variations in the actual or anticipated financial results of the Company or other companies in the satellite communications industry or in the markets we serve. These and other factors may adversely affect the market price of the
+common stock.       
+  ITEM 1B. UNRESOLVED STAFF COMMENTS       Not applicable       
+  ITEM 2. PROPERTIES       Our executive, sales, engineering and administrative offices are
+located at 11350 Technology Circle, Duluth, Georgia 30097-1502. This 40,000 square foot facility, which is located on a 4.7 acre site, was purchased by WCI in February 1987. During August 1989, WCI purchased an additional 4.4 acres of adjacent
+property. WCI also leases a 21,000 square foot manufacturing facility in Alpharetta, Georgia under a two-year lease expiring in January 2007 with annual rent of approximately $143,000. We expect to be able to renew the lease on similar terms. WCI's
+40,000 square foot facility and 4.4 acres of adjacent land are pledged as collateral under our line of credit facility.       
+  ITEM 3. LEGAL PROCEEDINGS       From time to time in the ordinary course of business, we have
+become a defendant in various types of legal proceedings. We presently do not believe that these proceedings, individually or in the aggregate, will have a material adverse effect on our financial position, results of operations or cash flows.
+      
+  ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS       Not applicable         
+   16   
+
+Table of Contents  
+
+PART II        
+  ITEM 5. MARKET FOR THE REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES       Our Common Stock is traded on the NASDAQ Capital Market (NASDAQ symbol: WGNR). As of November 3, 2006, there were approximately 361 holders of record of Common Stock. This number does not reflect beneficial
+ownership of shares held in nominee name.      The quarterly ranges of high and low sale prices for fiscal 2006 and 2005 were
+as follows:       
+    We have not paid any cash dividends on our Common Stock. For the foreseeable
+future, our Board of Directors does not intend to pay cash dividends, but rather plans to retain earnings to support our operations. Furthermore, we are prohibited from paying dividends under our bank loan agreement, as more fully described in
+MD A and in Note 7 to the consolidated financial statements contained in this report.      The following table summarizes
+information as of September 1, 2006, regarding our common stock reserved for issuance under our equity compensation plans.       
+
+Plan Category    
+      
+     Number of Securities to be Issued Upon Exercise
+of Outstanding Options       (a)    
+      
+     Weighted- Average Exercise Price of Outstanding Options       (b)    
+      
+     Number of Securities Remaining Available for Future Issuance Under the Plans (Excluding Securities Reflected in Column (a))       (c)     
+ 
+    Equity Compensation Plans Approved by Security Holders   
+      
+  1,282,531  
+      
+  $  
+  1.56  
+      
+  541,669   
+ 
+    Equity Compensation Plans Not Approved by Security Holders   
+
+Total   
+      
+  1,282,531  
+      
+  $  
+  1.56  
+      
+  541,669   
+
+17   
+
+Table of Contents  
+
+ITEM 6. SELECTED FINANCIAL DATA        SELECTED FINANCIAL DATA        (in thousands, except per share amounts)        
+
+(b)   
+    The year ended September 2, 2005 includes a fourth quarter noncash tax charge of $4,710,000 to provide a full valuation allowance for net deferred tax
+assets.      
+
+(c)   
+    We have never paid cash dividends on our common stock and do not intend to pay cash dividends in the foreseeable future. Additionally, our line of credit
+precludes the payment of dividends.          
+  ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS       Certain statements contained in this filing are  forward-looking statements  within the meaning of the Private Securities Litigation Reform Act of 1995, and the Company intends that such forward-looking statements are subject to
+the safe harbors created thereby. Forward-looking statements may be identified by words such as "believes," "expects," "projects," "plans," "anticipates," and similar expressions, and include, for example, statements relating to expectations
+regarding future sales, income and cash flows. Forward-looking statements are based upon the Company s current expectations and assumptions, which are subject to a number of risks and uncertainties including, but not limited
+to: customer acceptance and effectiveness of recently introduced products; development of additional business for the Company s digital video and audio transmission product lines; effectiveness of the sales organization; the successful
+development and introduction of new products in the future; delays in the conversion by private and broadcast networks to next generation digital broadcast equipment; acceptance by various networks of standards for digital broadcasting; the
+Company s liquidity position and capital resources; general market conditions which may not improve during fiscal year 2007 and beyond; and success of the Company s research and development efforts aimed at developing new products.
+Additional potential risks and uncertainties include, but are not limited to, economic conditions, customer plans and commitments, product demand, government regulation, rapid technological developments and changes, performance issues with key
+suppliers and subcontractors, delays in product development and testing, availability of raw materials, new and existing well-capitalized competitors, and other uncertainties detailed from time to time in the Company s periodic Securities and
+Exchange Commission filings. Such forward-looking statements are subject to risks, uncertainties and other factors and are subject to change at any time, which could cause actual results to differ materially from         
+   18   
+
+Table of Contents  
+
+   future results expressed or implied by such forward-looking statements. Forward-looking statements speak
+only as of the date the statement was made. The Company does not undertake any obligation to update any forward-looking statements.       OVERVIEW       We design and manufacture satellite communications equipment through Wegener Communications, Inc.
+(WCI), a wholly-owned subsidiary. WCI is an international provider of digital solutions for video, audio and IP data networks. Applications include IPTV, broadcast television, cable television, radio networks, business television, distance
+education, business music and financial information distribution. COMPEL         , our patented network control system, provides network flexibility to regionalize programming, commercials and file transfers.      We operate on a 52-53 week fiscal year. The fiscal year ends on the Friday nearest to August 31. Fiscal years 2006 and 2005 contained 52 weeks while fiscal year 2004 contained 53 weeks. All
+references herein to 2006, 2005 and 2004, refer to the fiscal years ending September 1, 2006, September 2, 2005, and September 3, 2004, respectively.      Our fiscal 2006 revenues decreased $1,514,000, or 6.9%, to $20,388,000 from $21,902,000 in fiscal 2005. Fiscal 2006 revenues were adversely impacted by engineering development delays of the
+iPump          6420 which was scheduled to begin shipping
+in the fourth quarter of fiscal 2006. Shipments of the iPump          6420 product began during our first quarter of fiscal 2007.      During the first quarter of
+fiscal 2006, approximately $9.0 million in new orders were booked. Four significant orders were received from two radio networks, a government agency and a private network. iPump          systems accounted for more than 90% of these orders. Of these orders, approximately $4.6 million remains to ship in
+fiscal 2007. During the second quarter of fiscal 2006, we booked approximately $6.1 million in new orders, including a $3.6 million contract from BBC World Services (BBC) utilizing our iPump          system for its international radio distribution network. The system allows the BBC to
+distribute audio to over 900 partners globally through advanced digital file store-forward technology, as well as traditional linear broadcasting. Approximately $1.5 million of the BBC order remains to ship in fiscal 2007. Additional bookings in
+fiscal 2006 included new orders from Teracom, utilizing our iPump          622 media server to support two pilot programs for digital signage to retail stores and distribution of video and data to retail gaming establishments, and from Nielsen Media Research, Inc., for the development and
+manufacture of the new SpoTTrac   TM    Encoder. The Nielsen SpoTTrac   TM    encoder product is for commercial applications and is not for consumer in-home use.       Current Developments       We are continuing to invest in new
+technologies utilizing MPEG-4/H.264 video compression and DVB-S2 satellite modulation combined. MPEG-4/H.264 compression and DVB-S2 modulation reduce bandwidth utilization by about half, which allows present networks to cut recurring costs by up to
+50% and allows the creation of new networks that were not possible with previous technologies. Alternately, our customers will be able to upgrade their video to high definition and significantly increase its quality while maintaining similar
+bandwidth utilization to their current MPEG-2 standard definition offering. The SMD515 IPTV settop and the Unity          550 version 2 satellite receiver will be our first products with MPEG-4/H.264 technology, as we continue to explore other potential applications for the technology. We expect the
+development of products utilizing MPEG-4/H.264 technology to continue throughout fiscal 2007.      We believe that market
+demand for MPEG-4 technology is very strong. However, we are experiencing delays by customers in making equipment purchases until the new technology is available. This caused a bookings shortfall in the fourth quarter of fiscal 2006. Due to the low
+level of bookings, we anticipate a loss in operating results for our first quarter of fiscal 2007. However, bookings to date for the first quarter of fiscal year 2007 were stronger than the previous fourth quarter s level. Subsequent to
+September 1, 2006, approximately $4.2 million in new orders were booked. We are extremely focused on completing our first round of MPEG-4 products to take advantage of the strong market demand for MPEG-4.      We expect our SMD 515 settop product for IPTV applications will open new markets for us and potential additional product offerings for
+new and existing customers. There are clearly higher risks present in this product line, which has a different business model with lower margin levels than our historical business, as well as significant competitors. We are actively exploring
+multiple potential business arrangements for the product line. In addition, the SMD 515, as it is currently designed, is directly applicable to IPTV applications within our current markets and provides the opportunity for new offerings to our
+existing customer base.         
+   19   
+
+Table of Contents  
+
+   In addition to MPEG-4 and DVB-S2 technology development, we continue to invest in the
+iPump          Media Server utilizing store-forward
+technology. We expanded the functionality of the iPump          for use in the broadcast television, radio and news markets, where we have traditionally been strong and now have deployed networks with all three product options. We continue to believe the iPump          is the right product for our markets and will make a
+significant contribution to future revenues. The iPump          Media Server uses a store and forward approach to network operations compared to traditional real-time video and audio delivery networks. The iPump          Media Server provides customers with many additional capabilities not available in traditional real-time delivery
+networks, such as streaming video and audio to the desktop, more efficient use of expensive satellite bandwidth and the ability to originate two complete television networks from a single unit. MediaPlan          i/o and MediaPlan          CM modules provide control over storing and managing digital media content. These features enhance network content
+management and ease of network operations.       Financial Position and Liquidity       We have no long-term debt or line of credit borrowings outstanding at September 1, 2006. Our cash and cash equivalents balances were
+$959,000 at September 1, 2006. Our $5,000,000 bank loan facility, which is subject to availability advance formulas based on eligible accounts receivable, import letter of credit commitment balances and inventories, is currently being used to
+support import letters of credit issued to our offshore manufacturers, which at September 1, 2006 amounted to $3,242,000 compared to $1,016,000 at September 2, 2005. At September 1, 2006, approximately $585,000 net of the outstanding
+letters of credit was available to borrow under the advance formulas. The increase in outstanding letters of credit is primarily due to our new product introductions of the iPump          6420, Unity550 and SMD515 products, and for European orders requiring lead-free Unity4600 receivers. We have orders in
+our September 1, 2006, backlog scheduled to ship throughout fiscal 2007 for approximately $1,837,000, or 57% of the outstanding letters of credit balances. We expect in fiscal 2007 to book and ship orders for the remainder of the outstanding
+balances. Currently our bank allows 50% of the value of letters of credit as collateral while reducing borrowing availability by the full amount of outstanding letter of credit balances. As a result, we may at various times during fiscal 2007,
+require overadvances to the bank s collateral formula until the letter of credit inventory commitments convert to receivables, against which the bank will allow 80% as available collateral. There is no assurance the bank will grant overadvances
+in sufficient amounts and for the duration of time required to support operations until the inventory is sold. As a result we may need to obtain additional sources of financing. No assurances may be given that additional sources of capital, if
+needed, would be available. During the first quarter of fiscal 2007, we began to utilize borrowings on the line of credit for payments against outstanding letters of credit and to support operations.      (See the Liquidity and Capital Resources section for further discussion.)       RESULTS OF OPERATIONS       The following table sets forth, for the periods indicated, the components of
+the results of operations as a percentage of revenue:       
+       
+   20   
+
+Table of Contents  
+
+   Net loss for the year ended September 1, 2006, was $(2,883,000) or $(0.23) per
+diluted share, compared to a net loss of $(5,671,000) or $(0.45) per diluted share for the year ended September 2, 2005, and a net loss of $(2,108,000) or $(0.17) per diluted share for the year ended September 3, 2004. The net loss for the
+year ended September 2, 2005 included a fourth quarter noncash income tax charge of $4,710,000 to provide a full valuation allowance for net deferred tax assets.      Revenues for fiscal 2006 decreased $1,514,000, or 6.9%, to $20,388,000 from $21,902,000 in fiscal 2005. Direct Broadcast Satellite (DBS) revenues (including service revenues) in fiscal 2006
+decreased $1,384,000, or 6.4%, to $20,258,000 from $21,642,000 in fiscal 2005. Analog and Custom Products Group revenues (previously referred to as Telecom and Custom Products Group) revenues decreased $131,000, or 50.3%, in fiscal 2006 to $129,000
+from $260,000 in fiscal 2005. Revenues and order backlog are subject to the timing of significant orders from customers, and as a result revenue levels may fluctuate on a quarterly and yearly basis. Fiscal 2006 revenues included two new orders from
+BBC World Services and Jones Radio Networks of iPump          Media Servers, digital encoders and Unity          receivers for their broadcast radio networks. Additionally, fiscal 2006 included revenues on a new order from Nielsen Media Research. DBS revenues in fiscal 2006 were adversely impacted by engineering development
+delays of the iPump          6420, which was scheduled to
+begin shipping in the fourth quarter of fiscal 2006. The Analog and Custom Products Group revenue decrease in fiscal 2006 reflected a continuing decline in orders for older analog and cue and control equipment.      Revenues for fiscal 2005 increased $3,798,000, or 21.0%, to $21,902,000 from $18,104,000 in fiscal 2004. Direct Broadcast Satellite (DBS)
+revenues (including service revenues) in fiscal 2005 increased $4,475,000, or 26.1%, to $21,642,000 from $17,167,000 in fiscal 2004. Analog and Custom Product revenues decreased $677,000, or 72.3%, in fiscal 2004 to $260,000 from $937,000 in fiscal
+2003. Fiscal 2005 revenues included two new orders from Ascent Media of iPump          Media Servers, digital encoders and Unity          receivers for a private network application, and to convert a television distribution network from analog to digital and upgrade the network s capabilities with store and forward technology. Initial shipments were
+made to Fox NewsEdge to upgrade their network operations using Compel          Network Control, MediaPlan          and iPump          Media
+Servers. Shipments continued to Roberts Communications Network on additional orders of uplink equipment and Unity          receivers to upgrade its existing network. Fiscal 2005 also included shipments of transmission equipment, receivers and our Compel          network control system to a new radio broadcast customer for network upgrades and
+expansion. The Analog and Custom Products Group revenue decrease in fiscal 2005 reflected a continuing decline in orders for older analog and cue and control equipment.      WCI's backlog of orders scheduled to ship within 18 months was $10,700,000 at September 1, 2006, compared to $10,100,000 at September 2, 2005, and $12,010,000 at September 3, 2004.
+The total multi-year backlog at September 1, 2006, was approximately $19,452,000. Approximately $9,527,000 of the September 1, 2006, backlog is expected to ship during fiscal 2007. Three customers accounted for 76.0% of our backlog at
+September 1, 2006 and for 73.7% of the backlog expected to ship during fiscal 2007. Sales to a relatively small number of major customers have typically comprised a majority of our revenues and that trend is expected to continue. (See note 11
+to the consolidated financial statements,  Segment Information and Significant Customers .) Future revenues are subject to the timing of significant orders from customers and are difficult to forecast. As a result, we expect future revenue
+levels and operating results to fluctuate from quarter to quarter.      International sales are generated through a direct
+sales organization and through foreign distributors. International sales were $3,396,000 or 16.7% of revenues in fiscal 2006 compared to $532,000 or 2.4% of revenues in fiscal 2005, and $606,000 or 3.3% of revenues in fiscal 2004. International
+shipments are generally project specific, and therefore revenues are subject to variations from year to year based on the timing of customer orders. Fiscal 2006 included revenues on the new order to BBC World Services. All international sales are
+denominated in U.S. dollars. Additional financial information on geographic areas is provided in Note 11 to the consolidated financial statements.      Gross profit as a percent of sales was 32.2% in fiscal 2006 compared to 36.4% in fiscal 2005, and 26.7% in fiscal 2004. Gross profit margin dollars decreased $1,412,000, or 17.7%, to $6,556,000 in fiscal 2006 from
+$7,968,000 in fiscal 2005. Fiscal 2004 gross profit margin dollars amounted to $4,840,000. The decrease in margin percentages and dollars in fiscal 2006 was mainly due to lower revenues, which resulted in higher unit fixed overhead costs. Profit
+margins in fiscal 2006 included inventory reserve charges of $350,000 compared to $325,000 in fiscal 2005 and $225,000 in fiscal 2004. Capitalized software amortization expenses included in cost of sales in fiscal 2006 were $1,936,000 compared to
+$1,454,000 in fiscal 2005 and $1,330,000 in fiscal 2004. Fiscal 2005 gross margin dollars and percentages were favorably impacted by an adjustment of accrued expenses of $218,000.         
+   21   
+
+Table of Contents  
+
+   Selling, general, and administrative (SG A) expenses increased $369,000, or 6.2%, to
+$6,315,000 in fiscal 2006 from $5,946,000 in fiscal 2005. As a percentage of revenues, SG A expenses were 31.0% of revenues in fiscal 2006 and 27.1% in fiscal 2005. Corporate SG A expenses in fiscal 2006 increased $539,000 to $1,500,000 from
+$961,000 in fiscal 2005. The increase was mainly due to costs related to corporate governance matters, a proxy contest and a shareholder lawsuit. Sarbanes-Oxley compliance costs included in corporate SG A for fiscal 2005 were approximately
+$188,000 compared to none in fiscal 2006 and 2004. WCI s SG A expenses decreased $170,000, or 3.4%, to $4,815,000 in fiscal 2006 from $4,985,000 in fiscal 2005. The decrease in WCI s SG A expenses in fiscal 2006 was mainly due to
+the lower consulting expenses of $227,000, sales salaries of $116,000 and bad debt provisions of $110,000, which were offset by increases in professional fees of $172,000 and in-house and outside agent sales commissions of $133,000.      SG A expenses increased $1,115,000, or 23.1%, to $5,946,000 in fiscal 2005 from $4,831,000 in fiscal 2004. As a percentage of
+revenues, SG A expenses were 27.1% of revenues in fiscal 2005 and 26.7% in fiscal 2004. Corporate SG A expenses in fiscal 2005 increased $215,000 to $961,000 from $746,000 in fiscal 2004. Corporate SG A expenses in fiscal 2004 included
+an insurance reimbursement of $191,000 for a portion of legal costs expensed in fiscal 2003 related to defending the Company against an unsolicited, hostile takeover attempt by Radyne ComStream, Inc. WCI s SG A expenses increased $900,000,
+or 22.0%, to $4,985,000 in fiscal 2005 from $4,085,000 in fiscal 2004. The increase in WCI s SG A expenses in fiscal 2005 was mainly due to higher sales salaries of $326,000 due to an increase in personnel, increases in selling and
+marketing expenses of $295,000 due to increased sales activity and sales commissions, higher consulting expenses of $126,000 related to strategic planning, and increases in relocation expenses and placement fees of $29,000. These expenses were
+offset by lower professional fees at WCI of $57,000.      Research and development expenditures, including capitalized software
+development costs, were $4,451,000 or 21.8% of revenues in fiscal 2006, $5,046,000 or 23.0% of revenues in fiscal 2005, and $4,789,000 or 26.4% of revenues in fiscal 2004. The decrease in expenditures in fiscal 2006 compared to fiscal 2005 was due
+to lower engineering consulting expenses resulting from completed projects, a decrease in prototype part costs and lower depreciation expense. The increase in expenditures in fiscal 2005 compared to fiscal 2004 was due to increased prototype part
+costs and placement fees. Software development costs totaling $1,399,000, $1,553,000, and $1,693,000 were capitalized during fiscal 2006, 2005 and 2004, respectively. The decreases in capitalized software costs in fiscal 2006 compared to fiscal 2005
+were due to decreased expenditures on the iPump         
+Media Server and Compel          products. The decreases in
+capitalized software costs in fiscal 2005 compared to fiscal 2004 are due to decreased expenditures on the iPump          Media Server, UNITY         4600 and DTV series 700 products, which were partially offset by increased expenditures on the SMD 515 product. Research and development expenses, excluding capitalized software development costs, were
+$3,052,000 or 15.0% of revenues in fiscal 2006, $3,493,000 or 15.9% of revenues in fiscal 2005, and $3,095,000 or 17.1% of revenues in fiscal 2004. We expect fiscal 2007 research and development expenditures to approximate fiscal 2006 levels as we
+continue to develop and enhance DBS products incorporating MPEG-4/h.264 technology.      Interest expense was $98,000 in fiscal
+2006 compared to $59,000 in fiscal 2005 and $96,000 in fiscal 2004. The increase in fiscal 2006 compared to fiscal 2005 was due to line of credit borrowings during fiscal 2006 and an increase in average outstanding letter of credit commitment
+balances. Interest expense in fiscal years 2005 and 2004 was principally associated with letters of credit commitments and bank float charges on lockbox collections. The decrease in fiscal 2005 compared to fiscal 2004 was primarily due to a decrease
+in the average outstanding letter of credit commitment balances. We believe that interest expense in fiscal 2007 will increase compared to fiscal 2006 as a result of expected increases in line of credit borrowings, as well as potential increases in
+our loan interest rate, as further discussed in liquidity and capital resources.      Interest income was $26,000 in fiscal
+2006 compared to $27,000 in fiscal 2005 and $43,000 in fiscal 2004. Interest income in fiscal 2006 included a one-time benefit of $18,000 from interest paid on the collection of Adelphia Communications receivables. The decrease in fiscal 2005
+compared to fiscal 2004 was mainly due to lower average balances of cash and cash equivalents and by a one-time benefit of $19,000 in fiscal 2004 related to the collection of a trade accounts receivable.         
+   22   
+
+Table of Contents  
+
+   No income tax benefit was recorded in fiscal 2006 due to an increase in the deferred tax
+asset valuation allowance of $1,038,000. At September 1, 2006, net deferred tax assets of $5,748,000 were fully reserved by a valuation allowance for the reasons set forth in the paragraph below. Fiscal 2005 income tax expense of $4,169,000 was
+comprised of deferred federal and state tax expenses of $3,659,000 and $510,000, respectively. Federal and state tax expenses in fiscal 2005 included a fourth quarter noncash charge of $4,710,000 to provide a full valuation allowance for net
+deferred tax assets.      SFAS No. 109, "Accounting for Income Taxes," requires that a valuation allowance be established
+when it is  more likely than not  that all or a portion of a deferred tax asset will not be realized. A review of all available positive and negative evidence must be considered in judging the likelihood of realizing tax benefits. Forming
+a conclusion that a valuation allowance is not needed is difficult when there is negative evidence such as cumulative losses in recent years. Cumulative losses are one of the most difficult pieces of negative evidence to overcome in the absence of
+sufficient existing orders and backlog (versus forecasted future orders) supporting a return to profitability. Additional orders and backlog are currently needed to return to profitability in fiscal 2007. Our assessment in applying SFAS No. 109
+indicated that a full valuation allowance for our net deferred tax assets was required as of September 1, 2006 and September 2, 2005. The effect in fiscal 2005 was to reverse the benefits of net deferred tax assets that were recorded in
+prior years  financial statements. These tax benefits will be available, prior to the expiration of carryforwards, to reduce future income tax expense resulting from earnings or increases in deferred tax liabilities.      At September 1, 2006, we had a federal net operating loss carryforward of $9,505,000, of which $1,604,000 expires in fiscal 2021,
+$1,296,000 in fiscal 2023, $3,396,000 in fiscal 2024, $1,454,000 in fiscal 2025 and $1,755,000 in fiscal 2026. Additionally, we had an alternative minimum tax credit of $138,000 and a state income tax credit of $199,000, expiring in fiscal 2009, all
+of which were fully offset by the valuation allowance.      Fiscal 2004 income tax benefit of $1,031,000 was comprised of
+deferred federal and state tax benefits of $969,000 and $62,000, respectively. Net deferred tax assets increased $1,031,000 to $4,169,000 at September 3, 2004. The increase was principally due to increases in net operating loss carryforwards,
+offset by reductions of general business and foreign tax credits of $98,000 which expired September 3, 2004. A reconciliation of our effective income tax rate as compared to the statutory U.S. income tax rate is provided in Note 8 to the
+consolidated financial statements.       CRITICAL ACCOUNTING POLICIES       Certain accounting policies are very important to the portrayal of our financial condition and results of operations and require
+management s most subjective or difficult judgements. These policies are as follows:        Revenue Recognition     Our
+revenue recognition policies are in compliance with Staff Accounting Bulletin (SAB) No. 104,  Revenue Recognition , SAB No. 101,  Revenue Recognition in Financial Statements  and EITF Issue No. 00-21, "Revenue
+Arrangements with Multiple Deliverables." Revenue is recognized when persuasive evidence of an agreement with the customer exists, products are shipped or title passes pursuant to the terms of the agreement with the customer, the amount due from the
+customer is fixed or determinable, collectibility is reasonably assured, and there are no significant future performance obligations. Service revenues are recognized at the time of performance. Revenues from separate extended service maintenance
+agreements are recognized ratably over the term of the agreements. The unrecognized revenue portion of maintenance contracts invoiced is recorded as deferred revenue. At September 1, 2006, deferred extended service maintenance revenues were
+$527,000 and deferred revenues related to future performance obligations were $581,000 and are expected to be recognized as revenue in varying amounts throughout fiscal 2007. We recognize revenue in certain circumstances before delivery has occurred
+(commonly referred to as  bill and hold  transactions). In such circumstances, among other things, risk of ownership has passed to the buyer, the buyer has made a written fixed commitment to purchase the finished goods, the buyer has
+requested the finished goods be held for future delivery as scheduled and designated by them, and no additional performance obligations exist by us. For these transactions, the finished goods are segregated from inventory and normal billing and
+credit terms are granted. For the year ended September 1, 2006, revenues to three customers in the amount of $5,285,000 were recorded prior to delivery as bill and hold transactions. At September 1, 2006, accounts receivable for these
+revenues amounted to $300,000 and were paid in full subsequent to September 1, 2006.         
+   23   
+
+Table of Contents  
+
+   These policies require management, at the time of the transaction, to assess whether the
+amounts due are fixed or determinable, collection is reasonably assured and no future performance obligations exist. These assessments are based on the terms of the agreement with the customer, past history and creditworthiness of the customer. If
+management determines that collection is not reasonably assured or future performance obligations exist, revenue recognition is deferred until these conditions are satisfied.      Our principal sources of revenues are from the sales of various satellite communications equipment. Embedded in our products is internally developed software of varying applications. We evaluate
+our products to assess whether software is more than incidental to a product. When we conclude that software is more than incidental to a product, we will account for the product as a software product. Revenue on software products and
+software-related elements is recognized in accordance with SOP No. 97-2,  Software Revenue Recognition  as amended by SOP No. 98-9,  Software Revenue Recognition, with Respect to Certain Transactions.  Significant
+judgment may be required in determining whether a product is a software or hardware product.        Inventory Reserves   -
+Inventories are valued at the lower of cost (at standard, which approximates actual cost on a first-in, first-out basis) or market. Inventories include the cost of raw materials, labor and manufacturing overhead. We make inventory reserve provisions
+to properly reflect inventory value based on a review of inventory quantities on hand, sales forecasts, new products being developed and technology changes. These reserves are to provide for items that are potentially slow-moving, excess or
+obsolete. Changes in market conditions, lower than expected customer demand and rapidly changing technology could result in additional obsolete and slow-moving inventory that is unsaleable or saleable at reduced prices, which could require
+additional inventory reserve provisions. At September 1, 2006, inventories, net of reserve provisions, amounted to $3,858,000.        Capitalized Software Costs   - Software development costs are capitalized subsequent to establishing technological feasibility. Capitalized costs are amortized based on the larger of the amounts computed using (a) the ratio
+that current gross revenues for each product bears to the total of current and anticipated future gross revenues for that product, or (b) the straight-line method over the remaining estimated economic life of the product. Expected future
+revenues and estimated economic lives are subject to revisions due to market conditions, technology changes and other factors resulting in shortfalls of expected revenues or reduced economic lives, which could result in additional amortization
+expense or write-offs. At September 1, 2006, capitalized software costs, net of accumulated amortization, amounted to $1,230,000.        Deferred Tax Asset Valuation Allowance     Deferred tax assets are recognized for deductible temporary differences, net operating loss carryforwards and credit carryforwards, if it is more likely than not that the tax
+benefits will be realized. Realization of our deferred tax assets is dependent on generating sufficient future taxable income prior to the expiration of the loss and credit carryforwards. As discussed in the "Results of Operations" section of this
+MD A, during the fourth quarter of fiscal 2005, we recorded a $4,710,000 non-cash income tax charge to establish a full valuation allowance against all of our net deferred tax assets. The valuation allowance increased $1,038,000 in fiscal 2006.
+At September 1, 2006, net deferred tax assets of $5,748,000 were fully reserved by a valuation allowance.        Accounts Receivable
+Valuation     We maintain allowances for doubtful accounts for estimated losses resulting from the inability of our customers to make required payments. If the financial condition of our customers were to deteriorate, resulting in an
+impairment of their ability to make payments, additional allowances may be required. At September 1, 2006, accounts receivable net of allowances for doubtful accounts amounted to $1,780,000.       LIQUIDITY AND CAPITAL RESOURCES       At September 1, 2006, our primary sources of liquidity were cash of $959,000 and a $5,000,000 bank loan facility, which matures on June 30, 2007. Cash and cash equivalents decreased $148,000 in fiscal 2006.
+During fiscal 2006, line of credit borrowings began in the second quarter and continued through the majority of the fourth quarter. During fiscal 2006, the average daily balance outstanding was $538,000 and the highest outstanding balance was
+$2,366,000. At September 1, 2006, no long-term debt or line of credit borrowings were outstanding. Our bank loan facility, which is subject to availability advance formulas based on eligible accounts receivable, import letter of credit
+commitment balances and inventories, is currently being used to support import letters of credit issued to our offshore manufacturers, which at September 1, 2006 amounted to $3,242,000 compared to $1,016,000 at September 2, 2005. At
+September 1, 2006, approximately $585,000 net of the outstanding letters of credit was available to borrow under the advance formulas. The increase in outstanding letters of credit is primarily due to new our product introductions of the
+iPump          6420, Unity550 and SMD515 products, and for
+European orders requiring lead-free         
+   24   
+
+Table of Contents  
+
+   Unity4600 receivers. We have orders in our September 1, 2006, backlog scheduled to ship throughout
+fiscal 2007 for approximately $1,837,000, or 57% of the outstanding letters of credit balances. In fiscal 2007, we expect to book and ship orders for the remainder of the outstanding balances. Currently our bank allows 50% of the value of letters of
+credit as collateral while reducing borrowing availability by the full amount of outstanding letter of credit balances. As a result, we may at various times during fiscal 2007 require overadvances to the bank s collateral formula until the
+letter of credit inventory commitments convert to receivables, against which the bank will allow 80% as available collateral. There is no assurance the bank will grant overadvances in sufficient amounts and for the duration of time required to
+support operations until the inventory is shipped. As a result we may need to obtain additional sources of financing. No assurances may be given that additional sources of capital, if needed, would be available. During the first quarter of fiscal
+2007, we began to utilize borrowings on the line of credit for payments against outstanding letters of credit and to support operations.      In addition, at September 1, 2006, we had land and buildings and improvements with a cost basis of $4,454,000, which had no mortgage balances outstanding. Land and buildings are not currently used in the existing
+loan facility s availability advance formulas; however, we believe these assets could be used to support additional borrowing capacities either with our existing bank or from other lenders.      Cash provided by operating activities was $1,623,000 in fiscal 2006, $1,659,000 in fiscal 2005 and $562,000 in fiscal 2004. Fiscal 2006
+net loss adjusted for noncash expenses provided cash of $256,000. Increases in inventories and other assets used cash of $254,000 while changes in accounts receivable and customer deposits provided cash of $265,000. Changes in accounts payable and
+accrued expenses provided cash of $1,356,000.      Cash used by investing activities in fiscal 2006 was $1,734,000 compared to
+$2,109,000 in fiscal 2005 and $2,299,000 in fiscal 2004. In fiscal 2006, investing activities used cash of $221,000 for property and equipment expenditures, $1,399,000 for capitalized software additions and $114,000 for legal expenses related to the
+filing of applications for various patents and trademarks. Capitalized software expenditures were incurred primarily for the development of Compel          network control and MediaPlan          software, the iPump          Media Server, and MPEG-4/h.264 products. Property and equipment expenditures were for planned additions of principally manufacturing and engineering
+test equipment. Fiscal 2007 expenditures for investing activities are expected to approximate fiscal 2006 levels.      Cash
+used by financing activities for loan facility fees was $38,000 in fiscal 2006, while financing activities provided cash of $36,000 and $168,000 in fiscal 2005 and 2004, respectively.      Net accounts receivable decreased $529,000 to $1,780,000 at September 1, 2006, from $2,309,000 at September 2, 2005, compared
+to $2,480,000 at September 3, 2004. The decrease in fiscal 2006 was mainly due to lower revenues in the fourth quarter of fiscal 2006 compared to the same period in fiscal 2005. The decrease in fiscal 2005 was due to lower average days
+outstanding of fiscal 2005 receivables, primarily due to a prepayment on a large order from one customer, compared to the same period of fiscal 2004. The allowance for doubtful accounts was $301,000 at September 1, 2006, $371,000 at
+September 2, 2005 and $363,000 at September 3, 2004. Write-offs were $46,000 in fiscal 2006, $77,000 in fiscal 2005 and $5,000 in fiscal 2004. Recoveries in fiscal 2006 were $1,000 and $14,000 in fiscal 2004. Increases to the allowance and
+charges to general and administrative expense were $85,000 in fiscal 2005 and $0 in fiscal 2004. In fiscal 2006, reductions in the allowance for doubtful accounts provided a benefit of $25,000.      Customer deposits decreased $289,000 to $1,265,000 at September 2, 2005, from $1,554,000 at September 2, 2005, primarily due to
+shipments of customer orders and a decrease in bookings requiring deposits in fiscal 2006. Customer deposits vary with the timing and terms of customer bookings.      Inventory before reserves increased $252,000, or 3.4%, to $7,700,000 at September 1, 2006, from $7,449,000 at September 2, 2005. During fiscal 2006, inventory reserves were increased by
+provisions charged to cost of sales of $350,000. The increase in the provision was to provide additional reserves for 1) slower-moving analog products, 2) excess digital audio inventories, and 3) potentially slow-moving inventories of earlier
+generations of other digital products. These products continue to sell but at reduced quantities. Inventory reserves were increased by provisions charged to cost of sales of $350,000 in fiscal 2006, $325,000 in fiscal 2005 and $225,000 in fiscal
+2004. Inventory reserves were decreased by write-offs of $300,000 in fiscal 2005, $248,000 in fiscal 2004 and none in fiscal 2006. During fiscal 2006, 2005 and 2004, increases in net inventories used cash of $252,000, $442,000 and $1,922,000,
+respectively.         
+   25   
+
+Table of Contents  
+
+   WCI s bank loan facility provides a maximum available credit limit of $5,000,000
+subject to availability advance formulas. The loan facility matures on June 30, 2007, or upon demand and requires an annual facility fee of .75% of the maximum credit limit. The loan facility consists of a term loan and a revolving line of
+credit with a combined borrowing limit of $5,000,000, bearing interest at the bank s prime rate (8.25% at September 1, 2006). The bank retained the right to adjust the interest rate, subject to financial performance of the Company.
+     The term loan facility provides for a maximum of $1,000,000 for advances of up to 80% of the cost of equipment
+acquisitions. Principal advances are payable monthly over 60 months with a balloon payment due at maturity. The revolving line of credit is subject to availability advance formulas of 80% against eligible accounts receivable; 20% of eligible raw
+materials inventories; 20% of eligible work-in process kit inventories; 40% to 50% of eligible finished goods inventories; and 50% of import letter of credit commitment balances. The loan is secured by a first lien on substantially all of WCI s
+assets and guaranteed by Wegener Corporation. At September 1, 2006, no balances were outstanding on the revolving line of credit or the equipment term loan portions of the loan facility. The loan facility is currently being used to support
+import letters of credit issued to our offshore manufacturers, which at September 1, 2006 amounted to $3,242,000. At September 1, 2006, approximately $585,000 net of the outstanding letters of credit was available to borrow under the
+advance formulas.      We are required to maintain minimum tangible net worth amounts at the end of each fiscal 2007 quarter
+and maintain increased amounts annually at each fiscal year end commencing with fiscal year 2008. In addition we are to retain certain key employees, maintain certain financial ratios, and are precluded from paying dividends. At September 1,
+2006, we were not in compliance with the tangible net worth covenant, for which the bank granted a waiver.      We have two
+manufacturing and purchasing agreements for certain finished goods inventories. At September 1, 2006, outstanding purchase commitments under these agreements amounted to $6,361,000. Pursuant to the above agreements, at September 1, 2006,
+we had outstanding letters of credit in the amount of $3,242,000. In addition, at September 1, 2006, we had an outstanding commitment for engineering design and software development services in the amount of $145,000.      A summary of our long-term contractual obligations as of September 1, 2006 consisted of:       
+     OFF-BALANCE SHEET ARRANGEMENTS       At September 1, 2006, we had no off-balance sheet arrangements.       IMPACT OF INFLATION       We do not believe that inflation has had a
+material impact on revenues or expenses during the past three fiscal years.       IMPACT OF RECENTLY ISSUED ACCOUNTING STANDARDS
+      In May 2005, the Financial Accounting Standards Board (FASB) issued Statement of Financial Accounting Standards (SFAS)
+No. 154,  Accounting Changes and Error Corrections  a replacement of APB Opinion No. 20 and FASB Statement No. 3.  SFAS 154 replaces APB Opinion No. 20  Accounting Changes,  and FASB Statement No. 3
+ Reporting Accounting Changes in Interim Financial Statements,  and changes the requirements for the accounting for and reporting of a change in accounting principle. This Statement requires retrospective application         
+   26   
+
+Table of Contents  
+
+   to prior periods  financial statements of changes in accounting principle, unless it is
+impracticable to determine either the period-specific effects or the cumulative effect of the change. This Statement shall be effective for accounting changes and corrections of errors made in fiscal years beginning after December 15, 2005.
+Early adoption is permitted for accounting changes and corrections of errors made in fiscal years beginning after the date this Statement is issued. We do not believe that adoption of SFAS No. 154 will have a material impact on our financial
+statements.      In July 2006, the FASB issued Interpretation No. 48,  Accounting for Uncertain Tax
+Positions,-an Interpretation of FASB Statement No. 109    (FIN 48), which clarifies the criteria for recognition and measurement of benefits from uncertain tax positions. Under FIN 48, an entity should recognize a tax benefit
+when it is  more-likely-than-not , based on the technical merits, that the position would be sustained upon examination by a taxing authority. The amount to be recognized should be measured as the largest amount of tax benefit that is
+greater than 50 percent likely of being realized upon ultimate settlement with a taxing authority that has full knowledge of all relevant information. Furthermore, any change in the recognition, derecognition or measurement of a tax position should
+be recognized in the interim period in which the change occurs. FIN 48 is effective for fiscal years beginning after December 15, 2006. The Company does not expect the adoption of FIN 48 will have a material impact on its financial position or
+results of operations.      In September 2006, the FASB issued SFAS No. 157 (SFAS 157),  Fair Value
+Measurements.  Among other requirements, SFAS 157 defines fair value and establishes a framework for measuring fair value and also expands disclosure about the use of fair value to measure assets and liabilities. SFAS 157 is effective beginning
+the first fiscal year that begins after November 15, 2007. The Company is currently evaluating the impact of SFAS 157 on its financial position and results of operations.      In September 2006, the Securities and Exchange Commission issued Staff Accounting Bulletin No. 108,  Considering the Effects of Prior Year Misstatements When Quantifying
+Misstatements in Current Year Financial Statements  (SAB 108), which provides interpretive guidance on how the effects of the carryover or reversal of prior year misstatements should be considered in quantifying a current year misstatement. The
+guidance is applicable for fiscal years ending after November 15, 2006. The Company does not believe SAB 108 will have a material impact on its consolidated financial statements.       OUTLOOK: ISSUES AND UNCERTAINTIES       (See also  Risk
+Factors )      The market for our products is characterized by rapidly changing technology, evolving industry standards and
+frequent product introductions. Product introductions are generally characterized by increased functionality and better quality, sometimes at reduced prices. The introduction of products embodying new technology may render existing products obsolete
+and unmarketable, or marketable at substantially reduced prices. Our ability to successfully develop and introduce on a timely basis new and enhanced products that embody new technology, and achieve levels of functionality and price acceptable to
+the market, will be a significant factor in our ability to grow and remain competitive. If we are unable, for technological or other reasons, to develop competitive products in a timely manner in response to changes in the industry, our business and
+operating results will be materially and adversely affected.      WCI competes with companies that have substantially greater
+resources and a larger number of products, as well as with small specialized companies. Through relationships with technology partners and original equipment manufacturer (OEM) suppliers, we are positioned to provide end-to-end solutions to our
+customers. Competition in the market for our broadcast television electronics products, including digital video equipment, is driven by timeliness, performance and price. Our broadcast digital video products in production are competitively priced,
+with unique, desirable features. The COMPEL         
+Network Control System meets customer needs by providing regionalization of receiver control and spot advertisement. Due to the large number of potential end users, both small and large competitors continue to emerge. We believe we are positioned to
+capitalize on the market trends in this business through careful development of products and market strategies. In the cable television market we believe that the competitive position for many of our products is strong. However, the UNITY          product family competes with significant and
+established firms. Other products for cable television include proprietary cueing and network control devices. Competition for radio network products, including our digital audio products, is very aggressive and pricing is very competitive. We
+believe that success in all of our markets will depend on aggressive         
+   27   
+
+Table of Contents  
+
+   marketing and product development. There may be fluctuations in our revenues and operating results from
+quarter to quarter due to several factors, including the timing of significant orders from customers and the timing of new product introductions by us.      We have invested a significant amount of financial resources to acquire certain raw materials, to incur direct labor and to contract to have specific outplant procedures performed on inventory in process. We purchased
+this inventory based upon previously known backlog and anticipated future sales, given existing knowledge of the marketplace. Our inventory reserve of $3,842,000 at September 1, 2006, is to provide for items that are potentially slow-moving,
+excess or obsolete. Changes in market conditions, lower than expected customer demand and rapidly changing technology could result in additional obsolete and slow-moving inventory that is unsaleable or saleable at reduced prices. No estimate can be
+made of a range of amounts of loss from obsolescence that might occur should our sales efforts not be successful.      Sales to
+a relatively small number of major customers have typically comprised a majority of our revenues, and that trend is expected to continue throughout fiscal 2007 and beyond. Future revenues are subject to the timing of significant orders from
+customers and are difficult to forecast. As a result, future revenues may fluctuate from quarter to quarter. Three customers accounted for 76.0% of our backlog at September 1, 2006 and for 73.7% of the backlog expected to ship during fiscal
+2007.      Our gross margin percentage is subject to variations based on the product mix sold in any given period and on sales
+volumes. Start-up costs associated with new product introductions could adversely impact costs and future margins. We are very focused on controlling both direct and indirect manufacturing costs and other operating expenses. These costs will be
+adjusted as necessary if revenues do not increase as planned. Management believes that digital compression technology may be profitably employed to create increased demand for our satellite receiving equipment if those products are manufactured in a
+high volume, standardized production environment.      Certain raw materials, video sub-components and licensed video
+processing technologies used in existing and future products are currently available from a single source or limited sources. Although we believe that all single-source components are currently available in adequate quantities, there can be no
+assurance that shortages or unanticipated delivery interruptions will not develop in the future. Any disruption or termination of supply of certain single-source components or technologies could have a material adverse effect on our business and
+results of operations.      We have made significant investments in capitalized software principally, related to digital audio
+and video products. At September 1, 2006, capitalized software costs were $1,230,000. These costs are amortized based on the larger of the amounts computed using (a) the ratio that current gross revenues for each product bears to the total
+of current and anticipated future gross revenues for that product, or (b) the straight-line method over the remaining estimated economic life of the product. Expected future revenues and estimated economic lives are subject to revisions due to
+market conditions, technology changes and other factors resulting in shortfalls of expected revenues or reduced economic lives.      The industry in which we operate is subject to rapid technological advances and frequent product introductions. We expect to remain committed to research and development expenditures as required to compete effectively and maintain pace with
+the rapid technological changes in the communications industry and to support innovative engineering and design for future products.       
+  ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK       Our exposure to
+market rate risk for changes in interest rates relates primarily to our revolving line of credit facility and cash equivalents. The interest rate on certain advances under the line of credit and term loan facility fluctuates with the bank s
+prime rate (8.25% at September 1, 2006). There were no borrowings outstanding at September 1, 2006, subject to variable interest rate fluctuations.         
+   28   
+
+Table of Contents  
+
+   At September 1, 2006, cash and cash equivalents consisted of bank commercial paper
+of $982,000, bank account balances of $96,000 offset by bank overdrafts, consisting of outstanding checks of $119,000.      We
+do not enter into derivative financial instruments. All sales and purchases are denominated in U.S. dollars.       
+  
+  ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA        
+       
+   29   
+
+Table of Contents  
+
+MANAGEMENT S RESPONSIBILITY FOR FINANCIAL STATEMENTS       The management of Wegener
+Corporation is responsible for the accuracy and consistency of all the information contained in the annual report ,  including the accompanying consolidated financial statements. These statements have been prepared to conform with generally
+accepted accounting principles appropriate to the circumstances of the Company. The statements include amounts based on estimates and judgments as required.      Wegener Corporation maintains internal accounting controls designed to provide reasonable assurance that the financial records are accurate, that the assets of the Company are safeguarded, and
+that the financial statements present fairly the consolidated financial position, results of operations and cash flows of the Company.      The Audit Committee of the Board of Directors reviews the scope of the audits and the findings of the independent certified public accountants. The auditors meet regularly with the Audit Committee to discuss audit and
+financial reporting issues, with and without management present.      BDO Seidman, LLP the Company s independent
+registered public accounting firm, has audited the financial statements prepared by management. Their opinion on the statements is presented below.       
+
+Robert A. Placek,    
+ 
+    President, Chief Executive Officer     and Chairman of the Board    
+
+C. Troy Woodbury, Jr.    
+ 
+    Treasurer and Chief Financial Officer    
+       
+   30   
+
+Table of Contents  
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM       Board of Directors and Shareholders of Wegener
+Corporation      Duluth, Georgia      We have audited the accompanying consolidated balance sheets of Wegener Corporation and subsidiaries as of September 1, 2006, and September 2, 2005, and the related consolidated statements of operations,
+shareholders' equity and cash flows for each of the three years in the period ended September 1, 2006. These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on these financial
+statements based on our audits.      We conducted our audits in accordance with the standards of the Public Company Accounting
+Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. The Company is not required to have, nor were we
+engaged to perform, an audit of its internal control over financial reporting. Our audits included consideration of internal control over financial reporting as a basis for designing audit procedures that are appropriate in the circumstances, but
+not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion.      An audit also includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for our opinion.      In our opinion, the financial statements referred to above present fairly, in all material respects, the consolidated financial position of Wegener Corporation and subsidiaries as of
+September 1, 2006, and September 2, 2005, and the consolidated results of their operations and their cash flows for each of the three years in the period ended September 1, 2006 in conformity with accounting principles generally
+accepted in the United States of America.       
+       
+   31   
+
+Table of Contents  
+
+CONSOLIDATED STATEMENTS OF OPERATIONS        
+     See accompanying notes to consolidated financial statements .  
+         
+   32   
+
+Table of Contents  
+
+CONSOLIDATED BALANCE SHEETS        
+     See accompanying notes to consolidated financial statements.          
+   33   
+
+Table of Contents  
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS  EQUITY        
+     See accompanying notes to consolidated financial statements.          
+   34   
+
+Table of Contents  
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS        
+     See accompanying notes to consolidated financial statements.          
+   35   
+
+Table of Contents  
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS         1. Summary of Significant Accounting Policies
+       Nature of Operations and Principles of Consolidation.  The financial statements include the accounts of Wegener Corporation
+(WGNR,  we,   our,   us  or the  Company") and its wholly-owned subsidiaries. Wegener Communications, Inc. (WCI) designs, manufactures and distributes satellite communications electronics equipment in the U.S. and
+internationally. All significant intercompany balances and transactions have been eliminated in consolidation.       Use of Estimates.
+ The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent
+assets and liabilities at the date of the financial statements, and the reported amounts of revenue and expenses during the reporting period. Examples include valuation allowances for deferred tax assets, provisions for bad debts, inventory
+obsolescence and warranties. Actual results could vary from these estimates.         Fiscal Year.  The Company operates on a 52-53
+week fiscal year. The fiscal year ends on the Friday nearest to August 31. Fiscal years 2006 and 2005 contained 52 weeks, while fiscal year 2004 contained 53 weeks. All references herein to 2006, 2005 and 2004, refer to the fiscal years ending
+September 1, 2006, September 2, 2005 and September 3, 2004, respectively.       Cash and Cash Equivalents . Cash
+equivalents consist of highly liquid investments with original maturities of three months or less. Cash balances consist of checking account balances. At September 1, 2006, cash equivalents consisted of bank commercial paper in the amount of
+$982,000 and none at September 2, 2005. At September 1, 2006, cash and cash equivalent balances were offset by outstanding checks that had not cleared our bank in the amount of $119,000.       Inventories.  Inventories are stated at the lower of cost (at standard, which approximates actual cost on a first-in, first-out basis) or market.
+Inventories include the cost of raw materials, labor and manufacturing overhead. The Company makes provisions for obsolete or slow-moving inventories as necessary to properly reflect inventory value.       Property, Equipment and Depreciation . Property and equipment are stated at cost. Certain assets financed under lease contracts have been
+capitalized. Depreciation is computed over the estimated useful lives of the assets on the straight-line method for financial reporting and accelerated methods for income tax purposes. Substantial betterments to property and equipment are
+capitalized, and repairs and maintenance are expensed as incurred.       Other Assets . Other assets consist primarily of technology
+licenses, patents, trademarks and loan facility fees. Costs of license agreements are amortized on a straight-line basis over their estimated useful lives. Legal expenses related to the filing of patent and trademark applications are capitalized.
+Upon issuance, these costs will also be amortized on a straight-line basis over the lesser of the legal life of the patents and trademarks or their estimated useful lives. Annual loan facility fees are amortized evenly over twelve months. 
+       Revenue Recognition . Our revenue recognition policies are in compliance with Staff Accounting Bulletin (SAB) No. 104,
+ Revenue Recognition , SAB No. 101,  Revenue Recognition in Financial Statements  and EITF Issue No. 00-21, "Revenue Arrangements with Multiple Deliverables." Revenue is recognized when persuasive evidence of an agreement
+with the customer exists, products are shipped or title passes pursuant to the terms of the agreement with the customer, the amount due from the customer is fixed or determinable, collectibility is reasonably assured, and when there are no
+significant future performance obligations. Service revenues are recognized at the time of performance. Extended service maintenance contract revenues are recognized ratably over the maintenance contract term, which is typically one year. The
+unrecognized revenue portion of maintenance contracts invoiced is recorded as deferred revenue. At September 1, 2006, deferred extended service maintenance revenues were $527,000 and deferred revenues related to future performance obligations
+were $581,000 and are expected to be recognized as revenue in varying amounts throughout fiscal 2007.      We have recognized revenue in
+certain circumstances before delivery has occurred (commonly referred to as  bill and hold  transactions). In such circumstances, among other things, risk of ownership has passed to the buyer, the buyer has made a written fixed commitment
+to purchase the finished goods, the buyer has requested the finished         
+   36   
+
+Table of Contents  
+
+   goods to be held for future delivery as scheduled and designated by them, and no additional performance
+obligations by the Company exist. For these transactions, the finished goods are segregated from inventory and normal billing and credit terms are granted. For the year ended September 1, 2006, revenues to three customers in the amount of
+$5,285,000 were recorded prior to delivery as bill and hold transactions. At September 1, 2006, accounts receivable for these revenues amounted to $300,000 and were paid in full subsequent to September 1, 2006.      These policies require management, at the time of the transaction, to assess whether the amounts due are fixed or determinable, collection is reasonably
+assured, and no future performance obligations exist. These assessments are based on the terms of the agreement with the customer, past history and creditworthiness of the customer. If management determines that collection is not reasonably assured
+or future performance obligations exist, revenue recognition is deferred until these conditions are satisfied.      Our principal sources of
+revenues are from the sales of various satellite communications equipment. Embedded in the Company s products is internally developed software of varying applications. We evaluate our products to assess whether software is more than incidental
+to a product. When we conclude that software is more than incidental to a product, we will account for the product as a software product. Revenue on software products and software-related elements is recognized in accordance with SOP No. 97-2,
+ Software Revenue Recognition  as amended by SOP No. 98-9,  Software Revenue Recognition, with Respect to Certain Transactions.  Significant judgment may be required in determining whether a product is a software or hardware
+product.      In accordance with EITF Issue 00-10,  Accounting for Shipping and Handling Fees and Costs,  we included all shipping
+and handling billings to customers in revenues, and freight costs incurred for product shipments have been included in cost of products sold.       Research and Development/Capitalized Software Costs . We expense research and development costs, including expenditures related to development of our software products that do not qualify for capitalization. Software development costs
+are capitalized subsequent to establishing technological feasibility. Capitalized costs are amortized based on the larger of the amounts computed using (a) the ratio that current gross revenues for each product bears to the total of current and
+anticipated future gross revenues for that product or (b) the straight-line method over the remaining estimated economic life of the product. This has resulted in amortization periods of primarily three years. Expected future revenues and
+estimated economic lives are subject to revisions due to market conditions, technology changes and other factors resulting in shortfalls of expected revenues or reduced economic lives. Software development costs capitalized during fiscal 2006, 2005
+and 2004, totaled $1,399,000, $1,553,000 and $1,693,000, respectively. Amortization expense, included in cost of products sold, was $1,936,000, $1,454,000 and $1,330,000 for the same periods, respectively. Capitalized software costs, net of
+accumulated amortization, were $1,230,000 at September 1, 2006 and $1,766,000 at September 2, 2005. Accumulated amortization amounted to $9,990,000 at September 1, 2006 and $8,054,000 at September 2, 2005.       Long-Lived Assets . Long-lived assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of
+an asset may not be recoverable. If the sum of the expected future undiscounted cash flows is less than the carrying amount of the asset, a loss is recognized for the difference between the fair value and carrying value of the asset. 
+       Stock-Based Compensation.  In December 2004, the Financial Accounting Standards Board (FASB) issued Statement of Financial
+Accounting Standards (SFAS) No. 123 (Revised 2004),  Share-Based Payment  (SFAS 123R). SFAS 123R requires all share-based payments to employees, including grants of employee stock options, to be recognized as compensation expense in
+the consolidated financial statements based on their fair values. That expense will be recognized over the period during which an employee is required to provide services in exchange for the award, known as the requisite service period (usually the
+vesting period). We adopted SFAS 123R September 3, 2005, the first day of fiscal 2006, using the Modified Prospective Application Method. Under this method, SFAS 123R applies to new awards and to awards modified, repurchased or cancelled
+after the effective date. The impact of adopting SFAS 123R for the year ended September 1, 2006, was an increase of $32,000 to selling, general and administrative expenses. In accordance with the modified prospective transition method, the
+Company s Consolidated Financial Statements for prior periods have not been restated to reflect, and do not include, the impact of SFAS 123R. The weighted average fair value of options granted during fiscal 2006 was $1.07 with an aggregate
+total value of $34,000. As of September 1, 2006, $2,000 of unrecognized compensation costs related to nonvested stock options was recognized over the following two months.         
+   37   
+
+Table of Contents  
+
+   The following table includes disclosures required by SFAS No. 123, as amended by SFAS No. 148,
+and illustrates the effect on net earnings (loss) and net earnings (loss) per share as if we had applied the fair value recognition provisions of SFAS No. 123:       
+    Effective as of September 2, 2005, the Board of Directors approved the acceleration of
+vesting on all remaining unvested  out-of-the-money  options. These unvested options had exercise prices greater than $1.26, the closing price of WGNR common stock on September 2, 2005. The acceleration covered options for 346,000
+shares, exercisable at $2.21, of which 75% were scheduled to vest over the next three fiscal years. The purpose of the vesting acceleration was to reduce the expense that would be associated with these options in accordance with the adoption of SFAS
+No.123R. The total stock-based employee compensation cost, net of tax, presented in the table above of $285,000 for fiscal 2005, includes approximately $86,000, net of tax, related to the acceleration of these options.      The fair value of each option was estimated on the date of grant using the Black-Scholes option pricing model with the following weighted average
+assumptions:       
+    The weighted average fair value of options granted was as follows:       
+       
+   38   
+
+Table of Contents  
+
+    Income Taxes.  Income taxes are based on income (loss) for financial reporting purposes and reflect
+a current tax liability (asset) for the estimated taxes payable (recoverable) in the current year tax return and changes in deferred taxes. Deferred tax assets or liabilities are recognized for the estimated tax effects of temporary differences
+between financial reporting and taxable income (loss) and for tax credit and loss carryforwards based on enacted tax laws and rates. Valuation allowances are established to reduce deferred tax assets to amounts that we expect are more likely than
+not realizable. At September 1, 2006, net deferred tax assets were fully offset by a valuation allowance of $5,748,000.       Earnings
+Per Share.  Basic and diluted net earnings (loss) per share were computed in accordance with SFAS No. 128,  Earnings per Share.  Basic net earnings per share are computed by dividing net earnings available to common shareholders
+(numerator) by the weighted average number of common shares outstanding (denominator) during the period and exclude the dilutive effect of stock options. Diluted net earnings per share gives effect to all dilutive potential common shares outstanding
+during a period. In computing diluted net earnings per share, the average stock price for the period is used in determining the number of shares assumed to be reacquired under the treasury stock method from the hypothetical exercise of stock
+options.      The following tables represent required disclosure of the reconciliation of the earnings and shares of the basic and diluted net
+earnings (loss) per share computations:       
+    Stock options excluded from the diluted earnings (loss) per share calculation due to their
+antidilutive effect are as follows:       
+       
+   39   
+
+Table of Contents  
+
+    Financial Instruments . Our financial instruments consist of cash and cash equivalents, trade
+accounts receivable, accounts payable, accrued expenses, and long and short-term borrowings. The fair value of these instruments approximates their recorded value. We do not have financial instruments with off-balance sheet risk. The fair value
+estimates were based on market information available to management as of September 1, 2006.      Financial instruments that potentially
+subject us to concentrations of market/credit risk consist principally of cash and cash equivalents and trade accounts receivable. We invest cash through a high credit-quality financial institution. A concentration of credit risk may exist with
+respect to trade receivables, as a substantial portion of our customers are affiliated with the cable television, business broadcast and telecommunications industries. We perform ongoing credit evaluations of customers worldwide and generally do not
+require collateral from our customers. We review accounts receivable on a regular basis to determine if any such amounts may be potentially uncollectible. We include any balances that are determined to be uncollectible, along with a general reserve,
+in the overall allowance for doubtful accounts. After all attempts to collect a receivable have failed, the receivable is written off against the allowance. Based on our best estimate, we believe the allowance for doubtful accounts is adequate as
+presented. Historically, we have not experienced significant losses related to receivables from individual customers or groups of customers in any particular industry or geographic area.       Foreign Currency.  The U.S. dollar is our functional currency for financial reporting. International sales are made and remitted in U.S. dollars.       Recently Issued Accounting Standards.  In May 2005, the FASB issued SFAS No. 154,  Accounting Changes and Error Corrections,   a
+replacement of APB Opinion No. 20 and FASB Statement No. 3.  SFAS 154 replaces APB Opinion No. 20  Accounting Changes,  and FASB Statement No. 3  Reporting Accounting Changes in Interim Financial
+Statements,  and changes the requirements for the accounting for and reporting of a change in accounting principle. This Statement requires retrospective application to prior periods  financial statements of changes in accounting
+principle, unless it is impracticable to determine either the period-specific effects or the cumulative effect of the change. This Statement shall be effective for accounting changes and corrections of errors made in fiscal years beginning after
+December 15, 2005. Early adoption is permitted for accounting changes and corrections of errors made in fiscal years beginning after the date this Statement is issued. We do not believe that adoption of SFAS 154 will have a material impact on
+our financial statements.      In July 2006, the FASB issued Interpretation No. 48,  Accounting for Uncertain Tax
+Positions,  an Interpretation of FAS 109   (FIN 48), which clarifies the criteria for recognition and measurement of benefits from uncertain tax positions. Under FIN 48, an entity should recognize a tax benefit when it is
+ more-likely-than-not , based on the technical merits, that the position would be sustained upon examination by a taxing authority. The amount to be recognized should be measured as the largest amount of tax benefit that is greater than 50
+percent likely of being realized upon ultimate settlement with a taxing authority that has full knowledge of all relevant information. Furthermore, any change in the recognition, derecognition or measurement of a tax position should be recognized in
+the interim period in which the change occurs. We expect to adopt FIN 48 as of September 2, 2007, and any change in net assets as a result of applying the Interpretation will be recognized as an adjustment to retained earnings on that date. The
+Company does not expect the adoption of FIN 48 will have a material impact on its financial position or results of operations.      In
+September 2006, the FASB issued SFAS No. 157 (SFAS 157),  Fair Value Measurements.  Among other requirements, SFAS 157 defines fair value and establishes a framework for measuring fair value and also expands disclosure about the use
+of fair value to measure assets and liabilities. SFAS 157 is effective beginning the first fiscal year that begins after November 15, 2007. The Company is currently evaluating the impact of SFAS 157 on its financial position and results of
+operations.      In September 2006, the Securities and Exchange Commission issued Staff Accounting Bulletin No. 108,
+ Considering the Effects of Prior Year Misstatements When Quantifying Misstatements in Current Year Financial Statements  (SAB 108), which provides interpretive guidance on how the effects of the carryover or reversal of prior year
+misstatements should be considered in quantifying a current year misstatement. The guidance is applicable for fiscal years ending after November 15, 2006. The Company does not believe SAB 108 will have a material impact on its consolidated
+financial statements.         
+   40   
+
+Table of Contents  
+
+    Reclassifications.  Certain reclassifications have been made to the 2005 and 2004 financial
+statements to conform to the 2006 presentation.       2. Accounts Receivable       Accounts receivable are summarized as follows:       
+     3. Inventories       Inventories are summarized as follows:       
+    We have invested a significant amount of financial resources to acquire certain raw materials,
+sub-assemblies and finished goods, to incur direct labor and to contract to have specific outplant procedures performed on certain inventory in process. We purchased this inventory based upon prior backlog and anticipated future sales based upon our
+existing knowledge of the marketplace. Our inventory reserve of approximately $3,842,000 at September 1, 2006, is to provide for items that are potentially slow-moving, excess or obsolete. Changes in market conditions, lower than expected
+customer demand and rapidly changing technology could result in additional obsolete and slow-moving inventory that is unsaleable or saleable at reduced prices. No estimate can be made of a range of amounts of loss from obsolescence that is
+reasonably possible should our sales efforts not be successful.       4. Property and Equipment       Major classes of property and equipment consist of the following:       
+    Depreciation expense for fiscal 2006, 2005 and 2004, totaled approximately $454,000, $534,000, and
+$609,000, respectively. Assets recorded under a capital lease included in property and equipment at September 1, 2006 and September 2, 2005, are machinery and equipment of approximately $613,000 and accumulated amortization of
+approximately $613,000.         
+   41   
+
+Table of Contents  
+
+    5. Other Assets       Other assets consisted of the following:       
+    Amortization expense of other assets amounted to $244,000, $163,000, and $164,000 for fiscal years
+2006, 2005 and 2004, respectively. Amortization expense for the year ended September 1, 2006 included $85,000 related to write-offs of remaining net balances of certain license agreements due to termination of the agreements.      We conduct an ongoing review of our intellectual property rights and potential trademarks. As of September 1, 2006, we incurred legal fees of
+$422,000 related to the filing of applications for various patents and $38,000 related to the filing of trademarks. Upon issuance, these costs will be amortized on a straight-line basis over the lesser of the legal life of the patents and trademarks
+or their estimated useful lives of four to ten years. If it becomes more likely than not that the patent application will not be granted, we will write off the deferred cost at that time. At September 1, 2006, the cost of registered patents and
+trademarks amounted to $68,000 and $52,000, respectively.   License agreements are amortized over their estimated useful life of one to five years. Loan facility fees are amortized over twelve months.       6. Accrued Expenses       Accrued expenses
+consist of the following:       
+       
+   42   
+
+Table of Contents  
+
+    7. Financing Agreements        Revolving Line of Credit and Term Loan Facility       WCI s bank loan facility
+provides a maximum available credit limit of $5,000,000 subject to availability advance formulas. The loan facility matures on June 30, 2007, or upon demand and requires an annual facility fee of .75% of the maximum credit limit. The loan
+facility consists of a term loan and a revolving line of credit with a combined borrowing limit of $5,000,000, bearing interest at the bank s prime rate (8.25% at September 1, 2006). The bank retained the right to adjust the interest rate,
+subject to financial performance of the Company.      The term loan facility provides for a maximum of $1,000,000 for advances of up to 80% of
+the cost of equipment acquisitions. Principal advances are payable monthly over 60 months with a balloon payment due at maturity. The revolving line of credit is subject to availability advance formulas of 80% against eligible accounts receivable;
+20% of eligible raw materials inventories; 20% of eligible work-in process kit inventories; 40% to 50% of eligible finished goods inventories; and 50% of import letter of credit commitment balances. The loan is secured by a first lien on
+substantially all of WCI s assets and is guaranteed by Wegener Corporation. During fiscal 2006 line of credit borrowings began in the second quarter and continued through the majority of the fourth quarter. During fiscal 2006 the average daily
+balance outstanding was $538,000 and the highest outstanding balance was $2,366,000. At September 1, 2006, no balances were outstanding on the revolving line of credit or the equipment term loan portions of the loan facility. The loan facility
+is currently being used to support import letters of credit issued to our offshore manufacturers, which at September 1, 2006 amounted to $3,242,000. At September 1, 2006, approximately $585,000 net of the outstanding letters of credit was
+available to borrow under the advance formulas.      We are required to maintain minimum tangible net worth amounts at the end of each fiscal
+2007 quarter and maintain increased amounts annually at each fiscal year end commencing with fiscal year 2008. In addition we are to retain certain key employees, maintain certain financial ratios, and are precluded from paying dividends. At
+September 1, 2006, we were not in compliance with the tangible net worth covenant, for which the bank granted a waiver.       8. Income
+Taxes       The provision for income tax (expense) benefit consists of the following:       
+    The effective income tax rate differs from the U.S. federal statutory rate as follows:   
+
+43   
+
+Table of Contents  
+
+   The effective tax rate for fiscal 2006 and 2005 reflected the recording of a full valuation allowance
+against net deferred tax assets as further discussed below.      Deferred tax assets and liabilities that arise as a result of temporary
+differences are as follows:       
+    SFAS No. 109, "Accounting for Income Taxes," requires that a valuation allowance be
+established when it is  more likely than not  that all or a portion of a deferred tax asset will not be realized. A review of all available positive and negative evidence was considered in judging the likelihood of realizing tax benefits.
+Forming a conclusion that a valuation allowance is not needed is difficult when there is negative evidence such as cumulative losses in recent years. Cumulative losses is one of the most difficult pieces of negative evidence to overcome in the
+absence of sufficient existing orders and backlog (versus forecasted future orders) supporting a return to profitability. Our assessment in applying SFAS No. 109 indicated that a full valuation allowance for our net deferred tax assets was
+required as of September 1, 2006 and September 2, 2005. The effect was to reverse the benefit of net deferred tax assets that were recorded in prior years  financial statements. These tax benefits will be available, prior to the
+expiration of carryforwards, to reduce future income tax expense resulting from earnings or increases in deferred tax liabilities. The valuation allowance increased $1,038,000 in fiscal 2006. At September 1, 2006, net deferred tax assets of
+$5,748,000 were fully reserved by a valuation allowance. During the fourth quarter of fiscal 2005, we recorded a noncash charge of $4,710,000 to provide a full valuation allowance for net deferred tax assets as of September 2, 2005.   
+  At September 1, 2006, we had a federal net operating loss carryforward of $9,505,000, of which $1,604,000 expires in fiscal 2021, $1,296,000 in
+fiscal 2023, $3,396,000 in fiscal 2024, $1,454,000 in fiscal 2025 and $1,755,000 in fiscal 2026. Additionally, we had an alternative minimum tax credit of $138,000 and a state income tax credit of $199,000, expiring in fiscal 2009, all of which were
+fully offset by the valuation allowance.       9. Common Stock and Stock Options.        1998 Incentive Plan.  On February 26, 1998, our stockholders approved the 1998 Incentive Plan (the  1998 Plan ). The effective date of the 1998 Plan is January 1, 1998
+and the 1998 Plan has a ten-year term. The Plan provides for awards of up to an aggregate of 2,000,000 shares of common stock which may be represented by (i) incentive or nonqualified stock options, (ii) stock appreciation rights (tandem
+and free-standing), (iii) restricted stock, (iv) deferred stock, or (v) performance units entitling the holder, upon satisfaction of certain performance criteria, to awards of common stock or cash. In addition, the 1998 Plan provides
+for loans and supplemental cash payments to persons participating in the 1998 Plan in connection with awards granted. Eligible participants include officers and other key employees, non-employee directors, consultants and advisors to the Company.
+The exercise price per share in the case of incentive stock options and any tandem stock appreciation rights may be not less than 100% of the fair market value on the date of grant or, in the case of an option granted to a 10% or greater
+stockholder, not less than 110% of the fair market value on the date of grant. The exercise price for any other option and stock         
+   44   
+
+Table of Contents  
+
+   appreciation rights shall be at least 75% of the fair market value on the date of grant. The exercise
+period for nonqualified stock options may not exceed ten years and one day from the date of the grant, and the expiration period for incentive stock options or stock appreciation rights shall not exceed ten years from the date of the grant (five
+years for a 10% or greater stockholder). The 1998 Plan contains an automatic option grant program to non-employee members of the Board of Directors. Such members will each be granted an option to purchase 3,000 shares of common stock on the last day
+of each December on which regular trading occurs on the NASDAQ Capital Market, at an exercise price equal to the fair market value of such stock on the date of grant. Such options will be exercisable during the period of ten years and one day from
+the date of grant of the option. During fiscal 2006, an option to purchase 20,000 shares (10,000 shares vesting upon issuance and 10,000 vesting in one year from date of issue) at an exercise price of $1.70 was granted to a new employee. On
+December 31, 2005 and on December 31, 2004, non-employee directors were granted options to purchase 12,000 shares at exercise prices of $1.34 and $2.50, respectively. In addition, during fiscal 2005, a non-employee director was granted an
+option to purchase 10,000 shares at an exercise price of $1.38. During fiscal 2005, an option to purchase 153,000 shares at an exercise price of $1.29 was granted to a officer of the Company to replace an option for the same number of shares which
+expired in fiscal 2005. In addition, during fiscal 2005, options for 21,000 shares were exercised with exercise prices ranging from $$.84 to $2.31 and options for 157,250 shares were forfeited. Effective as of September 2, 2005, the Board of
+Directors approved the acceleration of vesting on all remaining unvested out-of-the-money options. Options for 346,000 shares, exercisable at $2.21, became fully vested on September 2, 2005. Of these options, 75% were scheduled to vest over the
+next three years. The purpose of the vesting acceleration was to reduce the expense that would be associated with these options in accordance with the adoption of SFAS No.123R. During fiscal 2004, options for 100,000 shares of common stock,
+exercisable at $2.39, were granted pursuant to a consulting agreement to provide software development services. The fair value of the options was measured on the grant date using the Black-Scholes option pricing model. As the options were fully
+vested and nonforfeitable, the fair value of $139,800 was charged to research and development expenses in fiscal 2004, in accordance with EITF 96-18,  Accounting for Equity Instruments That are Issued to Other Than Employees for Acquiring, or
+in Conjunction with Selling, Goods or Services.  Additionally, during fiscal 2004, other stock option activity included grants of options to employees to purchase an aggregate of 368,156 shares, vesting 25% annually beginning one year from the
+date of grant, at a weighted average exercise price of $2.21. Options for 141,800 shares with exercise prices ranging from $.84 to $2.31 were exercised and options for 33,000 shares were forfeited. At September 1, 2006, options for 541,669
+shares of common stock were available for future issuance.       1989 Directors' Incentive Plan.  On January 9, 1990, the
+stockholders approved the Wegener Corporation 1989 Directors' Incentive Plan, permitting certain participating directors of the Company to be eligible to receive incentive awards consisting of common stock of the Company, performance units or stock
+appreciation rights payable in stock or cash, or nonqualified stock options to purchase such stock, or any combination of the foregoing, together with supplemental cash payments. During the second quarter of fiscal 1995, the Company amended the 1989
+Directors  Stock Option Plan to increase the aggregate number of shares of common stock that may be awarded from 100,000 to 300,000 shares; to remove the ineligibility provision for certain directors; and to grant annually to each non-employee
+director, options to purchase 2,000 shares of common stock at an exercise price equal to the fair market value of such stock on the date of grant. The exercise price per share for nonqualified stock options or stock appreciation rights shall not be
+less than 85% of fair market value on the date the award is made or not more than nine trading days immediately preceding such date. The expiration period for a nonqualified stock option shall be ten years and one day from the date of the grant. The
+expiration period for stock appreciation rights, including any extension, shall not exceed ten years from the date of grant. This plan terminated and expired effective December 1, 1999. During fiscal 2005, options for 32,000 shares were
+exercised at $1.44 and $1.41 and options for 179,000 shares were forfeited. During fiscal 2004, no options were exercised. During fiscal 2003, options for 16,500 shares were exercised at $ .75. At September 1, 2006, options for 54,000 shares of
+common stock remained outstanding under the 1989 Directors  Incentive Plan.       Other Options.  During fiscal 2005, an option for
+100,000 shares was forfeited.         
+   45   
+
+Table of Contents  
+
+   A summary of stock option transactions for the above plans follows:       
+    The weighted average remaining contractual life of options outstanding and exercisable at
+September 1, 2006, was 4.0 years. The aggregate intrinsic value of options outstanding and exercisable at September 1, 2006 was $160,000. The weighted average grant-date fair value of options granted during fiscal years 2006, 2005 and 2006
+was $1.07, $1.13 and $1.26, respectively.       10. Employee Benefit Plans       WCI has a profit-sharing plan covering substantially all employees. Amounts to be contributed to the plan each year are determined in the discretion of the Board of Directors, subject to legal
+limitations. No contributions were declared for fiscal years 2006, 2005 and 2004.      Eligible WCI employees are permitted to make
+contributions, up to certain regulatory limits, to the plan on a tax deferred basis under Section 401(k) of the Internal Revenue Code. The plan provides for a minimum Company matching contribution on a quarterly basis at the rate of 25% of
+employee contributions with a quarterly discretionary match. During fiscal years 2006, 2005 and 2004, an additional discretionary matching contribution of 25% of employee contributions was made for all quarters. All matching contributions are in the
+form of Company stock or cash in the discretion of the Board of Directors. During fiscal 2006, 2005 and 2004, all matching contributions in the amount of $258,000, $262,000 and $235,000, respectively, were in the form of cash.       11. Segment Information and Significant Customers       SFAS No. 131,  Disclosures about Segments of an Enterprise and Related Information,   established standards for the way that public business enterprises report information about operating segments
+in their financial statements. The standard defines operating segments as components of an enterprise about which separate financial information is available that is evaluated regularly by the chief operating decision maker in deciding how to
+allocate resources and in assessing performance. Based on these standards, we have determined that we operate in a single operating segment: the manufacture and sale of satellite communications equipment.         
+   46   
+
+Table of Contents  
+
+   In this single operating segment we have three sources of revenues as follows:       
+    Revenues by geographic areas are as follows:       
+    Revenues attributed to geographic areas are based on the location of the customer. All of our
+long-lived assets are located in the United States.      We sell to a variety of domestic and international customers on an open-unsecured
+account basis. These customers principally operate in the cable television, broadcast business music, private network and data communications industries. Customers representing 10% or more of the year s revenues are as follows:       
+
+(a)   
+    Revenues for the year were less than 10% of total revenues.         Sales to a relatively small number of major customers have typically comprised a majority of our revenues and that trend is expected to continue throughout fiscal 2007 and beyond. Future revenues are subject to the
+timing of significant orders from customers and are difficult to forecast. As a result, future revenue levels may fluctuate from quarter to quarter.      At September 1, 2006 and at September 2, 2005, two customers accounted for more than 10% of our accounts receivable. When deemed appropriate, we use letters of credit and credit insurance to mitigate the
+credit risk associated with foreign sales.       12. Statements of Cash Flows       Interest payments were approximately $98,000, $59,000 and $96,000 for fiscal years 2006, 2005 and 2004, respectively. No income taxes were paid or received in 2006, 2005 or 2004. Noncash
+operating activities in fiscal 2006 included share-based compensation expense of $32,000. Noncash financing activities in fiscal 2004 included the fair value of stock options granted for services valued at $140,000.         
+   47   
+
+Table of Contents  
+
+    13. Commitments and Contingencies       We have two manufacturing and purchasing agreements for certain finished goods inventories. At September 1, 2006, outstanding purchase commitments under these agreements amounted to
+$6,361,000. Pursuant to the above agreements, at September 1, 2006, we had outstanding letters of credit in the amount of $3,242,000. In addition, at September 1, 2006, we had an outstanding commitment for engineering design and software
+development services in the amount of $145,000.      We lease certain office and manufacturing facilities, vehicles and equipment under
+long-term noncancelable operating leases that expire through fiscal 2009. Future minimum lease commitments are approximately as follows: 2007-$101,000; 2008-$37,000; 2009-$6,000; 2010-$4,000. Rent expense under all leases was approximately $213,000,
+$230,000 and $228,000 for fiscal years 2006, 2005 and 2004, respectively.      From time to time in the ordinary course of business, we have
+become a defendant in various types of legal proceedings. We do not believe that these proceedings, individually or in the aggregate, will have a material adverse effect on our financial position, results of operations or cash flows.       14. Guarantees       Warranty   
+  We warrant our products for a 12 to 14 month period beginning at the date of shipment. The warranty provides for repair or replacement of defective
+products returned during the warranty period at no cost to the customer. We expense costs for routine warranty repairs as incurred. Additional provisions are made for non-routine warranty repairs based on estimated costs to repair at the point in
+time in which the warranty claim is identified. Accrued warranty liabilities amounted to $335,000 at September 1, 2006 and $225,000 at September 2, 2005. For the fiscal year ended September 1, 2006, the accrual was increased by
+$110,000. Warranty expense recognized during the year ended September 1, 2006, amounted to $110,000. For the fiscal year ended September 2, 2005, the accrual was increased by $120,000 and reduced by $47,000 for satisfied warranty claims.
+Warranty expense recognized during the year ended September 2, 2005, amounted to $120,000.      Letters of Credit      WCI provides standby letters of credit in the ordinary course of business to certain suppliers pursuant to manufacturing and purchasing agreements. At
+September 1, 2006, outstanding letters of credit amounted to $3,242,000.      Financing Agreements      The Company guarantees the bank loan facility of WCI. The bank facility provides a maximum available credit limit of $5,000,000. At September 1,
+2006, no balances were outstanding on the loan facility.         
+   48   
+
+Table of Contents  
+
+    15. Quarterly Financial Data (Unaudited)        
+     
+  ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE       None.       
+  ITEM 9A. CONTROLS AND PROCEDURES       The Company carried out an evaluation, under the
+supervision and with the participation of the Company s management, including the Chief Executive Officer (CEO) and the Chief Financial Officer (CFO), of the effectiveness of the design and operation of the Company s disclosure controls
+and procedures as of the end of the period covered by this report (September 1, 2006). Based upon that evaluation, the Company s CEO and CFO have concluded that the Company s disclosure controls and procedures (as defined in Rules
+13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as amended) are effective. There has been no change in the Company s internal control over financial reporting during our most recent fiscal quarter that has materially affected,
+or is reasonably likely to materially affect, the Company s internal control over financial reporting.       
+  ITEM 9B. OTHER INFORMATION       None         
+   49   
+
+Table of Contents  
+
+PART III        
+  ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT       Information contained under
+the caption "ELECTION OF DIRECTORS" in the Proxy Statement pertaining to the January 23, 2007 Annual Meeting of Stockholders ("Proxy Statement") is incorporated herein by reference in partial response to this item. See also Item 1.
+ Business - Executive Officers of the Registrant  on page 13 of this Report.       
+  ITEM 11. EXECUTIVE COMPENSATION       Information contained under the caption "EXECUTIVE
+COMPENSATION" in the Proxy Statement is incorporated herein by reference in response to this item.       
+  ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS       Information contained under the captions  ELECTION OF DIRECTORS,   SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT  and  EQUITY COMPENSATION PLAN INFORMATION  in the Proxy
+Statement is incorporated herein by reference in response to this item.       
+  ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS       Information contained under the
+caption "CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS" in the Proxy Statement is incorporated herein by reference in response to this item.       
+  ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES       Information contained under the caption
+ PRINCIPAL ACCOUNTANT FEES AND SERVICES  in the Proxy Statement is incorporated herein by reference in response to this item.         
+   50   
+
+Table of Contents  
+
+PART IV        
+  ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES       (a) (1) The following
+consolidated financial statements of Wegener Corporation and subsidiaries and the related Report of Independent Registered Public Accounting Firm thereon are filed as part of this report:       
+    Separate financial statements of the Registrant have been omitted because the
+Registrant is primarily a holding company and all subsidiaries included in the consolidated financial statements are wholly-owned.       
+
+(a)   
+     
+    (2)   
+      
+    The following consolidated financial statements schedule for Wegener Corporation and subsidiaries is included herein, beginning on page 53:    
+
+Schedule II-Valuation and Qualifying Accounts Years ended September 1, 2006, September 2, 2005 and September 3, 2004.    
+
+(a)   
+     
+    (3)   
+      
+    The exhibits filed in response to Item 601 of Regulation S-K are listed in the Exhibit Index beginning on page 54.    
+
+(b)   
+
+See Part IV, Item 15(a) (3).    
+
+(c)   
+
+See Part IV, item 15(a) (2).    
+       
+   51   
+
+Table of Contents  
+
+   REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM      Board of Directors and Shareholders of Wegener Corporation      Duluth, Georgia      The audits referred to in our report dated November 21, 2006,
+relating to the consolidated financial statements of Wegener Corporation and subsidiaries, which is contained in Item 8 of this Form 10-K included the audit of the financial statement schedule listed in the accompanying index. The financial
+statement schedule is the responsibility of the Company's management. Our responsibility is to express an opinion on the financial statement schedule based on our audits.      In our opinion, such financial statement schedule presents fairly, in all material respects, the information set forth therein.       
+       
+   52   
+
+Table of Contents  
+
+SCHEDULE II        WEGENER CORPORATION AND SUBSIDIARIES        VALUATION AND QUALIFYING ACCOUNTS        
+       
+   53   
+
+Table of Contents  
+
+   EXHIBIT INDEX      The following documents are filed as exhibits to this report. An asterisk (*) identifies exhibits filed herewith. Exhibits which are not required for this report are omitted. Exhibits 10.3
+through 10.6 identify management contracts or compensatory plans.       
+       
+   54   
+
+Table of Contents  
+
+55   
+
+Table of Contents  
+
+56   
+
+Table of Contents  
+
+   SIGNATURES      Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+WEGENER CORPORATION   
+
+Date: November 30, 2006   
+     
+    By   
+     
+    /s/ Robert A. Placek    
+
+Robert A. Placek    
+
+President and Chief Executive Officer    
+    Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed
+below by the following persons on behalf of the Registrant and in the capacities indicated on this 30th day of November 2006.       
+
+Signature    
+
+Title     
+
+/s/ Robert A. Placek     Robert A. Placek   
+
+President, Chief Executive Officer and Chairman of the Board,     Director (Principal Executive Officer)    
+
+/s/ C. Troy Woodbury, Jr.     C. Troy Woodbury, Jr.   
+
+Treasurer and Chief Financial Officer, Director (Principal     Financial and Accounting Officer)    
+
+/s/ Ned L. Mountain     Ned L. Mountain   
+
+President and Chief Operating Officer of WCI, Director    
+
+/s/ Phylis Eagle-Oldson     Phylis Eagle-Oldson   
+
+Director    
+
+/s/ Thomas G. Elliot     Thomas G. Elliot   
+
+Director    
+
+/s/ Jeffrey J. Haas     Jeffrey J. Haas   
+
+Director    
+
+/s/ Joe K. Parks     Joe K. Parks   
+
+Director    
+
+/s/ David W. Wright     David W. Wright   
+
+Director    
+       
+   57   
+
+Table of Contents  
+
+    DIRECTORS       Robert A. Placek      Chairman of the Board,      President and Chief      Executive Officer      Wegener Corporation and WCI      Phylis
+Eagle-Oldson      President and Chief Executive      Officer of Emma L. Bowen      Foundation      Thomas G. Elliot      Principal      TGE   Associates      Jeffrey J. Haas      Professor of Law      New York Law School
+     Ned L. Mountain      President
+and Chief Operating Officer      Wegener Communications, Inc.      Joe K. Parks      Retired, Previously      Laboratory Director,      Systems Development Laboratory      Georgia Tech Research Institute      Georgia
+Institute of Technology      C. Troy Woodbury, Jr.      Treasurer and Chief      Financial Officer      Wegener Corporation      David W. Wright      President      Henry Investment Trust, L.P.
+      OFFICERS       Robert A.
+Placek      Chairman of the Board,      President and Chief      Executive Officer      Ned L. Mountain      President and Chief Operating Officer      Wegener Communications, Inc.      C. Troy
+Woodbury, Jr.      Treasurer and Chief      Financial Officer       INDEPENDENT REGISTERED        PUBLIC ACCOUNTING FIRM       BDO Seidman, LLP      1100 Peachtree Street      Suite 700      Atlanta, Georgia 30309-4516       TRANSFER
+AGENT       Securities Transfer Corporation      2591 Dallas Parkway      Suite 102      Frisco, Texas 75034       CORPORATE        HEADQUARTERS       11350 Technology Circle      Duluth/Atlanta, Georgia 30097-1502       ANNUAL MEETING       The annual meeting of stockholders will be held on January 23, 2007 at 7:00 p.m. at the Corporate
+Headquarters.       COMMON STOCK NASDAQ       NASDAQ Capital Market      Symbol: WGNR       FORM 10-K REPORT       Wegener Corporation's Annual Report on Form 10-K, filed with
+the Securities and Exchange Commission, is available free of charge by written request to:      Elaine Miller, Secretary
+     Investor Relations      Wegener Corporation      11350 Technology Circle      Duluth, Georgia 30097-1502       WEB SITE       HTTP://WWW.WEGENER.COM       QUARTERLY COMMON STOCK PRICES       The Company s common stock is traded on the NASDAQ Capital
+Market. The quarterly ranges of high and low sale prices for fiscal 2006 and 2005 were as follows:       
+    The Company had approximately 361* shareholders of record at November 3, 2006. The Company
+has never paid cash dividends on its common stock and does not intend to pay cash dividends in the foreseeable future.        
+
+*   
+    (This number does not reflect beneficial ownership of shares held in nominee names).            
+   58   
+
+<EX-4.2.6>
+ 2
+ dex426.htm
+ LOAN AND SECURITY AGREEMENT
+
+Loan and Security Agreement 
+
+Exhibit 4.2.6       As of July 13, 2006      Wegener Communications, Inc.      11350 Technology Circle      Duluth, Georgia
+30155       
+
+Re:    
+     Seventh Amendment          Gentlemen:       Wegener Communications, Inc.,  a Georgia corporation ( Borrower ) and LaSalle Bank
+National Association, a national banking association ( Bank ) have entered into that certain Loan and Security Agreement dated June 5, 1996 (the  Security Agreement ). From time to time thereafter, Borrower and Bank may have
+executed various amendments (each an  Amendment  and collectively the  Amendments ) to the Security Agreement (the Security Agreement and the Amendments hereinafter are referred to, collectively, as the  Agreement ).
+Borrower and Bank now desire to further amend the Agreement as provided herein, subject to the terms and conditions hereinafter set forth.      NOW, THEREFORE, in consideration of the foregoing recitals, the mutual covenants and agreements set forth herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged,
+the parties hereto hereby agree as follows:      1. The Agreement hereby is amended as follows:       (a)  The first grammatical sentence of Paragraph 9 of the Agreement is deleted in its entirety and the following is substituted in
+its place:       
+
+9 .   
+     TERMINATION : This Agreement shall be in effect from the date hereof until June 30, 2007 (the  Original Term ) and shall automatically renew
+itself from year to year thereafter (each such one-year renewal being referred to herein as a  Renewal Term ) unless (a) Bank makes demand for repayment prior to the end of the Original Term or the then current Renewal Term; provided,
+however, absent an Event of Default, Bank shall give Borrower at least one hundred twenty (120) days notice of its intention to demand the Loans or terminate this Agreement prior to the end of the Original Term or the then current Renewal Term;
+(b) the due date of the Liabilities is accelerated pursuant to paragraph 13 hereof; or (c) Borrower prepays all of the Liabilities prior to the end of the Original Term or the then current Renewal Term and by paying all of the Liabilities
+in full on the last day of such term.      
+
+Wegener Communications, Inc.        As of July 13, 2006        Page 2        (b)  Paragraph (6) of Exhibit A of the Agreement is deleted in its entirety and the following is substituted in its place:
+
+(6)    
+     INTEREST RATE:  (i) All Loans made pursuant to subparagraphs (1)(a), (1)(b), (1)(c), (1)(d), (1)(e), (1)(f) and (1)(g) of this Exhibit A shall
+bear interest at Bank s publicly announced prime rate (which is not intended to be Bank s lowest or most favorable rate in effect at any time) (the  Prime Rate ) in effect from time to time Interest shall be payable on the last
+business day of each month, in arrears. Each rate of interest set forth herein shall increase or decrease with each increase of decrease in the Prime Rate, effective on the effective date of each such change in the Prime Rate. Furthermore, if Bank,
+in its sole discretion determines that Borrower s operating performance is unsatisfactory, such rate of interest shall be adjusted to the Prime Rate plus one percent (1%). Upon the occurrence of an Event of Default and the continuance thereof,
+each Loan shall bear interest at the rate of two percent (2%) per annum in excess of the interest rate otherwise payable thereon, which interest shall be payable on demand. All interest shall be calculated upon the basis of a 360 day year.
+         (c)  Subparagraph 7(b) of Exhibit A of the Agreement is deleted in its entirety and the following
+is substituted in its place:       
+
+(b)    
+     Transaction Fee:  Borrower shall pay to Bank a one-time transaction fee in the amount of Two Thousand and No/100 Dollars ($2,000.00) which fee shall be
+fully earned by Bank on the date of this Amendment and payable on July 31, 2006.          (d) 
+Paragraph (9) of Exhibit A of the Agreement is deleted in its entirety and the following is substituted in its place:       
+
+(9)    
+     Tangible Net Worth           
+
+Notwithstanding the provision of subparagraph 11(o) of the Agreement. Wegener Corporation shall at all times maintain a Tangible Net Worth equal to the Minimum
+Tangible Net Worth as hereafter defined. At all times from June 1, 2006 ,  through August 30, 2007  Minimum Tangible Net Worth  shall equal Five Million and No/100 Dollars ($5,000,000.00). Thereafter, from each fiscal year
+end, Minimum Tangible Net Worth            
+
+Wegener Communications, Inc.        As of July 13, 2006        Page 3        
+
+shall be equal to the greater of (1) Wegener Corporation s Tangible Net Worth as shown on Wegener Corporation s reviewed year-end financial
+statement for the immediately preceding fiscal year (which shall be delivered to Bank in form and substance satisfactory to Bank no later than 120 days after each fiscal year end), or (2) the Minimum Tangible Net Worth as of the last day of the
+immediately preceding fiscal year, plus the greater of (i) Two Hundred Fifty Thousand and No/100 Dollars ($250,000.00) or (ii) twenty-five percent (25%) of Borrower s net income for the immediately preceding fiscal year.
+  Tangible Net Worth   being defined for purposes of this paragraph as Wegener s shareholders  equity (including retained earnings) less the book value of all intangible assets (as determined solely by Bank on a consistent
+basis) plus the amount of any LIFO reserve plus the amount of any debt subordinated to Bank, all as determined under generally accepted accounting principles applied on a basis consistent with the financial statement dated  February 28,
+2006  except as set forth herein. The measurement for Minimum Tangible Net Worth shall be determined solely by Bank at the end of each of Wegener Corporation s fiscal years.         2. This Amendment shall not become effective until fully executed by all parties hereto.       
+
+3.   
+    Except as expressly amended hereby and by any other supplemental documents or instruments executed by either party hereto in order to effectuate the transactions
+contemplated hereby, the Agreement and Exhibit A thereto hereby are ratified and confirmed by the parties hereto and remain in full force and effect in accordance with the terms thereof.            
+
+Wegener Communications, Inc.        As of July 13, 2006        Page 4         
+
+LaSalle Bank National Association,     
+ 
+     a national banking association     
+
+By:   
+     
+    /s/ Dan Gallagher    
+
+Dan Gallagher     
+ 
+    Title:   
+     
+    Vice President    
+ 
+   Accepted and agreed to this      13   th    day of July, 2006       
+
+WEGENER COMMUNICATIONS, INC.     
+
+By:   
+     
+    /s/ Robert A. Placek    
+
+Robert A. Placek     
+ 
+    Title:   
+     
+    CEO    
+
+By:   
+     
+    /s/ C. Troy Woodbury, Jr.    
+
+C. Troy Woodbury, Jr.     
+ 
+    Title:   
+     
+    Treasurer    
+
+Consented and agreed to by the following     guarantor of the obligations of  Wegener        Communications,   Inc.  to LaSalle Bank
+National     Association.    
+
+WEGENER CORPORATION     
+
+By:   
+     
+    /s/ Robert A. Placek    
+
+Robert A. Placek     
+ 
+    Title:   
+     
+    President and CEO    
+ 
+    Date:   
+     
+    July 13, 2006    
+
+</EX-4.2.6>
+
+<EX-4.2.7>
+ 3
+ dex427.htm
+ LOAN AND SECURITY AGREEMENT
+
+Loan and Security Agreement 
+
+Exhibit 4.2.7       November 15, 2006      Wegener Communications, Inc.      11350 Technology Circle      Duluth, Georgia
+30155       
+
+Re:    
+     Eighth Amendment          Gentlemen:       Wegener Communications, Inc.,  a Georgia corporation ( Borrower ) and LaSalle Bank
+National Association, a national banking association ( Bank ) have entered into that certain Loan and Security Agreement dated June 5, 1996 (the  Security Agreement ). From time to time thereafter, Borrower and Bank may have
+executed various amendments (each an  Amendment  and collectively the  Amendments ) to the Security Agreement (the Security Agreement and the Amendments hereinafter are referred to, collectively, as the  Agreement ).
+Borrower and Bank now desire to further amend the Agreement as provided herein, subject to the terms and conditions hereinafter set forth.      NOW, THEREFORE, in consideration of the foregoing recitals, the mutual covenants and agreements set forth herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged,
+the parties hereto hereby agree as follows:      1. The Agreement hereby is amended as follows:       (a)  Subparagraph 7(b) of Exhibit A of the Agreement is deleted in its entirety and the following is substituted in its place:
+
+(b)    
+     Transaction Fee:  Borrower shall pay to Bank a one-time transaction fee in the amount of Five Hundred and No/100 Dollars ($500.00) which fee shall be fully
+earned by Bank on the date of this Amendment and payable on November 30, 2006.          (b)  Paragraph
+(9) of Exhibit A of the Agreement is deleted in its entirety and the following is substituted in its place:       
+
+(9)    
+     Tangible Net Worth           
+
+Notwithstanding the provision of subparagraph 11(o) of the Agreement, Wegener Corporation shall at all times maintain a Tangible Net Worth equal to the Minimum
+Tangible Net Worth as      
+
+Wegener Communications, Inc.        November 29, 2006        Page 2       hereafter defined. From November 30, 2006 through August 31, 2007, the Minimum Tangible Net Worth shall equal
+(i) $2,900,000.00 at the end of Borrower s first fiscal quarter, (ii) $2,600,000.00 at the end of Borrower s second fiscal quarter, (iii) $2,900,000.00 at the end of Borrower s third fiscal quarter, and
+(iv) $3,100,000.00 at the end of Borrower s fourth fiscal quarter; provided, however, in the event that Borrower fails to maintain such Minimum Tangible Net Worth amounts in the end of each of Borrower s first three (3) fiscal
+quarters, then, Borrower shall have excess availability under paragraph (1) of Exhibit A of the Agreement of at least Five Hundred Thousand and No/100 Dollars ($500,000.00). Commencing September 1, 2007, and for each of Borrower s
+fiscal years thereafter, Minimum Tangible Net Worth shall be equal to the greater of (1) Wegener Corporation s Tangible Net Worth as shown on Wegener Corporation s reviewed year-end financial statement for the immediately preceding
+fiscal year (which shall be delivered to Bank in form and substance satisfactory to Bank no later than 120 days after each fiscal year end), or (2) the Minimum Tangible Net Worth as of the last day of the immediately preceding fiscal year, plus
+the greater of (i) Two Hundred Fifty Thousand and No/100 Dollars ($250,000.00) or (ii) twenty-five percent (25%) of Borrower s net income for the immediately preceding fiscal year.  Tangible Net Worth  being defined for
+purposes of this paragraph as Wegener s shareholders  equity (including retained earnings) less the book value of all intangible assets (as determined solely by Bank on a consistent basis) plus the amount of any LIFO reserve plus the
+amount of any debt subordinated to Bank, all as determined under generally accepted accounting principles applied on a basis consistent with the financial statement dated  February 28, 2006  except as set forth herein. The measurement for
+Minimum Tangible Net Worth shall be determined solely by Bank at the end of each of Wegener Corporation s fiscal quarters.      2. This Amendment shall not become effective until fully executed by all parties hereto.         
+
+Wegener Communications, Inc.        November 29, 2006        Page 3       3. Except as expressly amended hereby and by any other supplemental documents or instruments executed by either party hereto in order to
+effectuate the transactions contemplated hereby, the Agreement and Exhibit A thereto hereby are ratified and confirmed by the parties hereto and remain in full force and effect in accordance with the terms thereof.        
+
+LaSalle Bank National Association,     
+ 
+     a national banking association     
+
+By:   
+     
+    /s/ Dan Gallagher    
+
+Dan Gallagher     
+ 
+    Title:   
+     
+    Vice President    
+ 
+   Accepted and agreed to this      15   th    day of November, 2006       
+
+WEGENER COMMUNICATIONS, INC.     
+
+By:   
+     
+    /s/ Robert A. Placek    
+
+Robert A. Placek     
+ 
+    Title:   
+     
+    CEO    
+
+By:   
+     
+    /s/ C. Troy Woodbury, Jr.    
+
+C. Troy Woodbury, Jr.     
+ 
+    Title:   
+     
+    Treasurer    
+
+Consented and agreed to by the following guarantor     of the obligations of  Wegener   Communications,        Inc.  to LaSalle
+Bank National Association.    
+
+WEGENER CORPORATION     
+
+By:   
+     
+    /s/ Robert A. Placek    
+
+Robert A. Placek     
+ 
+    Title:   
+     
+    President and CEO    
+ 
+    Date:   
+     
+    November 15, 2006    
+
+</EX-4.2.7>
+
+<EX-23.1>
+ 4
+ dex231.htm
+ CONSENT OF BDO SEIDMAN, LLP
+
+Consent of BDO Seidman, LLP 
+
+Exhibit 23.1        CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM       Wegener Corporation      Duluth, Georgia      We hereby
+consent to the incorporation by reference in the Registration Statements (File No. 33-45390, No. 33-42007, No. 333-08017, No. 33-27527, No. 333-29887, No. 33-51205, and No. 333-29889) of our reports dated
+November 21, 2006, relating to the consolidated financial statements and schedule of Wegener Corporation and Subsidiaries appearing in the Company s Annual Report on Form 10-K for the year ended September 1, 2006.       
+
+</EX-23.1>
+
+<EX-31.1>
+ 5
+ dex311.htm
+ SECTION 302 CEO CERTIFICATION
+
+Section 302 CEO Certification 
+
+Exhibit 31.1        Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002       I, Robert A. Placek, certify that:       
+
+1.   
+    I have reviewed this annual report on Form 10-K for the period ended September 1, 2006 of Wegener Corporation;          
+
+2.   
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;          
+
+3.   
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial
+condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;          
+
+4.   
+    The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined by Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:          
+
+(a)   
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;          
+
+(b)   
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of
+the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and          
+
+(c)   
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent
+fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and
+
+5.   
+    The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the
+registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):          
+
+(a)   
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to
+adversely affect the registrant s ability to record, process, summarize and report financial information; and          
+
+(b)   
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over
+financial reporting.           
+
+Date: November 30, 2006    
+
+/s/ Robert A. Placek    
+ 
+     Name:    
+     
+     Robert A. Placek     
+ 
+     Title:    
+     
+     Chairman of the Board, President and     
+
+Chief Executive Officer     
+
+</EX-31.1>
+
+<EX-31.2>
+ 6
+ dex312.htm
+ SECTION 302 CFO CERTIFICATION
+
+Section 302 CFO Certification 
+
+Exhibit 31.2        Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002       I, C. Troy Woodbury, Jr., certify that:       
+
+1.   
+    I have reviewed this annual report on Form 10-K period ended September 1, 2006 of Wegener Corporation;          
+
+2.   
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;          
+
+3.   
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial
+condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;          
+
+4.   
+    The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined by Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:          
+
+(a)   
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;          
+
+(b)   
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of
+the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and          
+
+(c)   
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent
+fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and
+
+5.   
+    The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the
+registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):          
+
+(a)   
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to
+adversely affect the registrant s ability to record, process, summarize and report financial information; and          
+
+(b)   
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over
+financial reporting.           
+
+Date: November 30, 2006    
+
+/s/ C. Troy Woodbury, Jr.    
+ 
+     Name:    
+     
+     C. Troy Woodbury, Jr.     
+ 
+     Title:    
+     
+     Treasurer and Chief Financial Officer     
+
+</EX-31.2>
+
+<EX-32.1>
+ 7
+ dex321.htm
+ SECTION 906 CEO CERTIFICATION
+
+Section 906 CEO Certification 
+
+Exhibit 32.1        Certification of Chief Executive Officer        Pursuant to 18 U.S.C. SECTION 1350,        As Adopted Pursuant to        Section 906 of the Sarbanes-Oxley Act of 2002       I, Robert A. Placek, the Chief Executive Officer of Wegener Corporation
+(the  Company ), pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, hereby certify that, to the best of my knowledge, the Company s Annual Report on Form 10-K for the
+period ended September 1, 2006 (the  Report ) filed with the Securities and Exchange Commission:       
+
+fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and          
+
+the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.
+
+/s/ Robert A. Placek    
+ 
+     Name:    
+     
+     Robert A. Placek     
+ 
+     Title:    
+     
+     Chairman of the Board, President and Chief       Executive Office (Principal Executive Officer)     
+ 
+     Date:    
+     
+     November 30, 2006     
+
+</EX-32.1>
+
+<EX-32.2>
+ 8
+ dex322.htm
+ SECTION 906 CFO CERTIFICATION
+
+Section 906 CFO Certification 
+
+Exhibit 32.2        Certification of Chief Financial Officer        Pursuant to 18 U.S.C. SECTION 1350,        As Adopted Pursuant to        Section 906 of the Sarbanes-Oxley Act of 2002       I, C. Troy Woodbury, Jr., the Chief Financial Officer of Wegener
+Corporation (the  Company ), pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, hereby certify that, to the best of my knowledge, the Company s Annual Report on Form
+10-K for the period ended September 1, 2006 (the  Report ) filed with the Securities and Exchange Commission:       
+
+fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and          
+
+the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.
+
+/s/ C. Troy Woodbury, Jr.    
+ 
+     Name:    
+     
+     C. Troy Woodbury, Jr.     
+ 
+     Title:    
+     
+     Treasurer and Chief Financial Officer (Principal       Financial Officer)     
+ 
+     Date:    
+     
+     November 30, 2006     
+
+</EX-32.2>
+

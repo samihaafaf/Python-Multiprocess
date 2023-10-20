@@ -1,0 +1,3843 @@
+<Header>
+<FileStats>
+    <FileName>20061221_10-K_edgar_data_77597_0000950137-06-014000_1.txt</FileName>
+    <GrossFileSize>738977</GrossFileSize>
+    <NetFileSize>183394</NetFileSize>
+    <NonText_DocumentType_Chars>4211</NonText_DocumentType_Chars>
+    <HTML_Chars>335360</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>58</N_Tables>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950137-06-014000.hdr.sgml : 20061221
+<ACCEPTANCE-DATETIME>20061221163710
+ACCESSION NUMBER:		0000950137-06-014000
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20061028
+FILED AS OF DATE:		20061221
+DATE AS OF CHANGE:		20061221
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SPARTECH CORP
+		CENTRAL INDEX KEY:			0000077597
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS PLASTIC PRODUCTS [3080]
+		IRS NUMBER:				430761773
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05911
+		FILM NUMBER:		061293716
+
+	BUSINESS ADDRESS:	
+		STREET 1:		120 S CENTRAL AVE
+		STREET 2:		STE 1700
+		CITY:			CLAYTON
+		STATE:			MO
+		ZIP:			63105
+		BUSINESS PHONE:		3147214242
+
+	MAIL ADDRESS:	
+		STREET 1:		120 S CENTRAL AVE
+		STREET 2:		STE 1700
+		CITY:			CLAYTON
+		STATE:			MO
+		ZIP:			63105
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SPARTAN MANUFACTURING CORP
+		DATE OF NAME CHANGE:	19830621
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PERMANEER CORP
+		DATE OF NAME CHANGE:	19781019
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VHZLGvyfdbWwMVSCcLtwQch+eoIlivryQc0/tAKrsA5YrzcpVi7VeypgENJQaMoz
+ HivTwzxRuHxHcyWqklub0Q==
+
+ 0000950137-06-014000.txt : 20061221
+
+10-K
+ 1
+ c10994e10vk.htm
+ ANNUAL REPORT
+
+e10vk 
+
+Table of Contents   
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, DC 20549 
+
+Form 10-K 
+
+For the fiscal year ended October 28, 2006
+
+OR 
+
+For the transition period from                        to                       
+
+1-5911  
+  (Commission File Number)  
+
+SPARTECH CORPORATION 
+
+(Exact name of Registrant as specified in its charter) 
+
+Delaware  
+ (State or other jurisdiction  
+of incorporation or organization) 
+
+43-0761773  
+ (I.R.S. Employer 
+Identification No.)  
+
+120 S. Central Avenue, Suite 1700 
+Clayton, Missouri 63105 
+(314) 721-4242  
+ (Address, including zip code, and telephone number, including 
+area code, of registrant s principal executive offices) 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Common Stock, $.75 par value 
+
+New York Stock Exchange  
+
+Title of Each Class 
+
+Name of Exchange of Which Registered  
+
+Securities registered pursuant to Section 12(g) of the Act:  None 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule
+405 of the Securities Act. 
+YES         NO    
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or
+Section 15(d) of the Act. 
+YES         NO    
+
+Indicate by checkmark whether the Registrant (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months, and (2)
+has been subject to such filing requirements for the past 90 days. YES          NO    
+
+Indicate by checkmark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is
+not contained herein, and will not be contained, to the best of registrant s knowledge, in
+definitive proxy or information statements incorporated by reference in Part III of this Form 10-K
+or any amendment to this Form 10-K.    
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer,
+or a non-accelerated filer. See definition of  accelerated filer  and  large accelerated filer  in
+Rule 12b-2 of the Exchange Act.
+
+Large Accelerated Filer         Accelerated Filer         Non-Accelerated Filer    
+
+Indicate by checkmark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act). 
+YES         NO    
+
+The aggregate market value of the voting stock held by non-affiliates of the Registrant was
+approximately  $757,962,804  on April 29, 2006. There were  32,252,732  total shares of common stock
+outstanding as of November 30, 2006.
+
+Documents incorporated by reference 
+
+1) Portions of the Definitive Proxy Statement for the 2007 Annual Meeting of Shareholders
+(Part III).
+
+SPARTECH CORPORATION 
+FORM 10-K FOR THE YEAR ENDED OCTOBER 28, 2006 
+TABLE OF CONTENTS 
+
+Cautionary Statements Concerning Forward-Looking Statements   
+
+1 
+
+PART I   
+
+Item 1.  
+       
+       Business 
+
+2 
+
+Item 1A.  
+       
+       Risk Factors 
+
+5 
+
+Item 1B.  
+       
+       Unresolved Staff Comments 
+
+7 
+
+Item 2.  
+       
+       Properties 
+
+7 
+
+Item 3.  
+       
+       Legal Proceedings 
+
+7 
+
+Item 4.  
+       
+       Submission of Matters to a Vote of Security Holders 
+
+7 
+
+PART II   
+
+Item 5.  
+       
+       Market for the Registrant s Common Equity, Related Stockholder Matters and
+Issuer Purchases of Equity Securities 
+
+8 
+
+Item 6.  
+       
+       Selected Financial Data 
+
+9 
+
+Item 7.  
+       
+       Management s Discussion and Analysis of Financial Condition and Results
+of Operations 
+
+10 
+
+Item 7A.  
+       
+       Quantitative and Qualitative Disclosures About Market Risk 
+
+22 
+
+Item 8.  
+       
+       Financial Statements and Supplementary Data 
+
+23 
+
+Report of Ernst   Young LLP, Independent Registered Public Accounting
+Firm on Consolidated Financial Statements 
+
+24 
+
+Report of Ernst   Young LLP, Independent Registered Public Accounting
+Firm on Internal Control over Financial Reporting 
+
+25 
+
+Consolidated Balance Sheets 
+
+26 
+
+Consolidated Statements of Operations 
+
+27 
+
+Consolidated Statements of Shareholders  Equity 
+
+28 
+
+Consolidated Statements of Cash Flows 
+
+29 
+
+Notes to Consolidated Financial Statements 
+
+30 
+
+Item 9.  
+       
+       Changes In and Disagreements With Accountants on Accounting and
+Financial Disclosure 
+
+49 
+
+Item 9A.  
+       
+       Controls and Procedures 
+
+49 
+
+Item 9B.  
+       
+       Other Information 
+
+49 
+
+PART III   
+
+Item 10.  
+       
+       Directors and Executive Officers of the Registrant 
+
+50 
+
+Item 11.  
+       
+       Executive Compensation 
+
+51 
+
+Item 12.  
+       
+       Security Ownership of Certain Beneficial Owners and Management 
+
+51 
+
+Item 13.  
+       
+       Certain Relationships and Related Transactions 
+
+51 
+
+Item 14.  
+       
+       Principal Accounting Fees and Services 
+
+51 
+
+PART IV   
+
+Item 15.  
+       
+       Exhibits and Financial Statement Schedules 
+
+52 
+
+SIGNATURES   
+
+54 
+
+FINANCIAL STATEMENT SCHEDULES  
+
+Schedule II   Valuation and Qualifying Accounts 
+
+F-1 
+
+Subsidiaries of the Registrant    
+     Consent of Independent Registered Public Accounting Firm    
+     Chief Executive Officer Section 302 Certification    
+     Chief Financial Officer Section 302 Certification    
+     Section 1350 Certifications    
+
+Table of Contents   
+
+CAUTIONARY STATEMENTS CONCERNING FORWARD-LOOKING STATEMENTS 
+
+Statements in this Form 10-K that are not purely historical, including statements which
+express the Company s belief, anticipation or expectation about future events, are forward-looking
+statements. These statements may be found in (i) the description of the Company s business in Item
+1, (ii) the description of legal proceedings in Item 3 and (iii) Management s Discussion and
+Analysis of Financial Condition and Results of Operations in Item 7. These sections include
+statements about new products and market benefits, expected operating trends, future capital
+expenditures, expenditures for environmental compliance, and anticipated cash flow and borrowings.
+
+Forward-looking statements  within the meaning of the Private Securities Litigation Reform
+Act of 1995 relate to future events and expectations, include statements containing such words as
+ anticipates,   believes,   estimates,   expects,   would,   should,   will,   will likely result, 
+ forecast,   outlook,   projects,  and similar expressions. Forward-looking statements are based
+on management s current expectations and include known and unknown risks, uncertainties and other
+factors, many of which management is unable to predict or control, that may cause actual results,
+performance or achievements to differ materially from those expressed or implied in the
+forward-looking statements. In addition to the risk factors discussed in Item 1A, other important
+factors which could impact our operations and results include:
+
+(a) 
+       
+     adverse changes in economic or industry conditions including global supply and demand
+conditions and prices for products of the types we produce; 
+
+(b) 
+       
+     material adverse changes in the markets we serve, including the packaging,
+transportation, building and construction, recreation and leisure, and other markets, some
+of which tend to be cyclical; 
+
+(c) 
+       
+     our inability to achieve the level of cost savings, productivity improvements, synergies,
+growth or other benefits anticipated from acquired businesses and their integration; 
+
+(d) 
+       
+     volatility of prices and availability of supply of energy and of the raw materials that
+are critical to the manufacture of our products, particularly plastic resins derived from
+oil and natural gas, including future effects of natural disasters; 
+
+(e) 
+       
+     our inability to manage or pass through an adequate level of increases to customers in
+the costs of materials, freight, utilities, or other conversion costs; 
+
+(f) 
+       
+     our inability to predict accurately the costs to be incurred or savings to be achieved in
+connection with announced production plant restructurings; 
+
+(g) 
+       
+     our failure to compete effectively with companies offering products based on alternative
+technologies and processes that may be more competitive in price or better in performance; 
+
+(h) 
+       
+     adverse findings in significant legal or environmental proceedings or our inability to
+comply with applicable environmental laws and regulations; 
+
+(i) 
+       
+     adverse developments with work stoppages or labor disruptions, particularly in the
+automotive industry; 
+
+(j) 
+       
+     our inability to achieve operational efficiency goals or cost reduction initiatives; 
+
+(k) 
+       
+     our inability to develop and launch new products successfully; 
+
+(l) 
+       
+     restrictions imposed on us by instruments governing our indebtedness, and the possible
+inability to comply with requirements of those instruments; and 
+
+(m) 
+       
+     possible weaknesses in our internal controls. 
+
+We assume no duty to update our forward-looking statements, except as required by law.
+
+1 
+
+Table of Contents   
+
+PART I  
+
+Item 1. BUSINESS 
+
+General 
+
+Spartech Corporation (the  Company  or  Spartech ) was incorporated in the state of Delaware
+in 1968, succeeding a business which had commenced operations in 1960. The Company, together with
+its subsidiaries, is an intermediary processor of engineered thermoplastics. The Company converts
+base polymers or resins purchased from commodity suppliers into extruded plastic sheet and
+rollstock, specialty film laminates, acrylic products, specialty plastic alloys, color concentrates
+and blended resin compounds, and injection molded and profile extruded products. Our products are
+sold to original equipment manufacturers and other customers in a wide range of end markets.
+
+Spartech is organized into two reportable segments and one group of operating segments based
+on the products we manufacture. The two reportable segments are Custom Sheet and Rollstock and
+Color and Specialty Compounds with the remaining businesses grouped together in Engineered
+Products. Net sales, operating earnings and total assets attributable to each segment are located
+in Note 17 to the Consolidated Financial Statements. Sales by segment and group were Custom Sheet
+and Rollstock 64%, Color and Specialty Compounds 31% and Engineered Products 5% in 2006.
+Information with respect to acquisition and divestiture activities by Spartech is set forth in Note
+2 to the Consolidated Financial Statements. A description of the segments and group of operating
+segments, including its principal products and markets, is summarized below.
+
+Custom Sheet and Rollstock  
+
+The Custom Sheet and Rollstock segment is the largest manufacturer of plastic sheet, custom
+rollstock, laminates, and cell cast acrylic sheet in North America. The principal raw materials
+used in manufacturing sheet and rollstock are plastic resins in pellet form. We sell sheet and
+rollstock products principally through our own sales force, but we also use a limited number of
+independent sales representatives. We produce and distribute the products from facilities in the
+United States, Canada, Mexico and France. Its finished products are formed by its customers that
+use plastic components in their products. Our custom sheet and rollstock is utilized in several
+end markets including packaging, transportation, building and construction, recreation and leisure,
+electronics and appliances, signs/advertising and aerospace. The Custom Sheet and Rollstock
+segment is highly competitive and we compete in many different areas with many other companies
+because the Company and our customers manufacture a wide variety of products.
+
+Color and Specialty Compounds  
+
+The Color and Specialty Compounds segment comprise operating segments that are aggregated into
+a reportable segment based on the nature of the products manufactured. This segment manufactures
+custom-designed plastic alloys, compounds, color concentrates, and calendered film for utilization
+in numerous applications. The principal raw materials used in manufacturing specialty plastic
+compounds and color concentrates are plastic resins in powder and pellet form. We also use
+colorants, mineral and glass reinforcements and other additives to impart specific performance and
+appearance characteristics to the compounds. The Company sells the segment s products principally
+through its own sales force, but also uses independent sales representatives. We produce and
+distribute these products from facilities in the United States, Canada, Mexico and France. It
+sells custom-designed plastic alloys, compounds, color concentrates and calendered film for
+utilization by a large group of manufacturing customers servicing the automotive equipment,
+building and construction, food/medical packaging, lawn and garden equipment, electronics and
+appliances, and numerous other end markets. The Color and Specialty Compounds segment operates in
+highly competitive markets. We compete with some companies which are much larger and have more
+extensive production facilities, larger sales and marketing staffs and substantially greater
+financial resources.
+
+Engineered Products  
+
+The Engineered Products group comprised of four operating segments that are combined because
+each operating segment does not meet the materiality threshold for separate disclosure. The
+Spartech Wheels operating segment has three facilities in the United States and Mexico and
+manufactures a number of proprietary items including thermoplastic tires and wheels for the
+medical, lawn and garden, refuse container, and toy markets. The Spartech Profiles operating
+segment is a facility in Canada that manufactures profile window frames and fencing for the
+building and construction market. The Spartech Townsend operating segment is a facility in the
+United States that manufactures and sells acrylic tubes and rods to a variety of industries. The
+Spartech Marine operating segment is a facility in the United States that manufactures and sells
+custom made doors, hatches, cabinets and windscreens to boat manufacturers. The principal raw
+materials used in our manufacturing of molded tires and wheels, profile and other engineered
+products are PVC, acrylics, polyethylene and polypropylene. Our products in this group are
+generally manufactured either through injection molding or profile extrusion processes. We sell
+the group s products principally through our own sales force, but also use independent sales
+representatives and wholesale distributors. The Engineered Products segment is highly competitive
+and highly fragmented. Because we manufacture a wide variety of products, we compete in different
+areas with many other companies, some of which are much larger and have more extensive production
+facilities, larger sales and marketing staffs and substantially greater financial resources.
+
+2 
+
+Table of Contents   
+
+Raw Materials 
+
+The raw materials used in our production processes are largely plastic resins which are
+derivatives of crude oil or natural gas and are readily available from a number of suppliers. The
+Company has multiple sources of supply for our raw materials and is not significantly dependent on
+any one or a few suppliers.
+
+Production 
+
+Spartech utilizes various production operations and methods. The principal production
+operations are extrusion, casting, compounding, calendering, printing, lamination and molding
+processes. Management believes the equipment, machinery and tooling used in these processes are of
+modern design and are well maintained.
+
+Intellectual Property and Trademarks 
+
+The Company has various intellectual property and trademarks. The intellectual property
+includes certain product formulations and the trademarks protect names of certain of the Company s
+products. These assets are significant to the extent they provide a certain amount of goodwill and
+name recognition in the industry. While proprietary intellectual property and trademarks are
+important to the Company, management believes the loss or expiration of any intellectual property
+right or trademark would not materially impact the Company or any of its segments.
+
+Customer Base 
+
+We sell our products to thousands of customers in a broad range of end markets, with our
+largest customer accounting for 5.6% of our 2006 sales. Our top 25 customers represented
+approximately 32% of our 2006 sales. Based on our classification of end markets, packaging is our
+largest single market, accounting for approximately 23% of our 2006 sales. The packaging market
+historically has experienced faster growth and less cyclicality than the other major markets served
+by plastics processors. In management s opinion, the Company is not dependent upon any single
+customer and the loss of any one customer would not have a materially adverse effect on the
+Company s business other than, potentially, on a temporary basis. The following table presents the
+Company s sales mix by end market for 2006 and 2005:
+
+Distribution 
+
+Generally, we sell our products through our own sales force, but we also use a limited number
+of independent sales representatives and wholesale distributors. Our plants are strategically
+located such that their proximity to our customers saves shipping costs, reduces delivery times and
+increases our presence in a variety of markets.
+
+Backlog 
+
+We estimate that the total dollar value of our backlog of firm orders as of October 28, 2006
+and October 29, 2005 was approximately $109.9 million and $128.2 million, respectively, all of
+which we expect to ship within one year. The estimated backlog by segment and group at October 28,
+2006 and October 29, 2005 follows (in millions):
+
+3 
+
+Table of Contents   
+
+Competition 
+
+The Company operates in markets that are highly competitive and that environment is expected
+to continue. The Company experiences substantial competition in each of its segments and in each
+of the geographic areas in which it operates. Generally, we compete on the basis of price, product
+performance, quality and customer service. Important competitive factors include the ability to
+manufacture consistently to required quality levels, meet demanding delivery times, provide
+technical support, exercise skill in raw material purchasing, achieve production efficiencies to
+make our products cost effective for our customers, and provide new product solutions to customer
+applications. Although no single company competes directly with Spartech in all of its product
+lines, various companies compete in one or more product lines. Some of these companies have
+substantially greater sales and assets than Spartech, and Spartech also competes with many smaller
+companies. The number of the Company s competitors varies by product line, and management believes
+that Spartech has a market leadership position in many of these product lines.
+
+Seasonality 
+
+Our sales are seasonal in nature. Fewer orders are placed and less manufacturing activity
+occurs during the November through January period. This seasonal variation tends to track the
+manufacturing activities of our various customers in each region.
+
+Environment 
+
+The Company s operations are subject to extensive environmental, health and safety laws and
+regulations at the national, state and local governmental levels. The nature of the Company s
+business exposes it to risks of liability under these laws and regulations due to the production,
+storage, transportation, recycling or disposal and/or sale of materials that can cause
+contamination or personal injury if they are released into the environment or workplace.
+Compliance with laws regulating the discharge of materials into the environment or otherwise
+relating to the protection of the environment has not had a material effect upon the Company s
+capital expenditures, earnings or competitive position. It is not anticipated that the Company
+will have material capital expenditures for environmental control facilities during the next year.
+For additional information regarding risks due to regulations relating to the protection of the
+environment as well as our participation in the Lower Passaic River environmental study, see Item
+1A.
+
+Employees 
+
+Our total number of employees is approximately 3,425. There are approximately 2,650
+production personnel at our facilities, approximately 29% of whom are union employees covered by
+several collective bargaining agreements. We consider our employee relations to be good.
+Management and administrative personnel total approximately 775 employees, none of whom is
+unionized.
+
+Geographic Areas 
+
+We operate in 40 manufacturing facilities in North America and one in Europe. Information
+regarding our operations in various geographic segments is located in Note 17 to the Consolidated
+Financial Statements. Our Canadian, French and Mexican operations may be affected periodically by
+foreign political and economic developments, laws and regulations, and currency fluctuations.
+
+Available Information 
+
+Spartech s Forms 10-K, 10-Q, 8-K and any amendments to those reports are available without
+charge through the Company s Web site on the Internet as soon as reasonably practicable after they
+are electronically filed with or furnished to the Securities and Exchange Commission. They may be
+accessed directly as follows:  www.spartech.com , Investor Relations, SEC Filings.
+
+Our principal executive office is located at 120 South Central Avenue, Suite 1700, Clayton,
+Missouri 63105-1705. Our telephone number is (314) 721-4242. Our Web site address is
+ www.spartech.com .
+
+4 
+
+Table of Contents   
+
+Item 1A.    RISK FACTORS  
+
+The factors listed below represent the Company s principal risks. These factors may or may
+not occur and we are not in a position to express a view on the likelihood of any such factor
+occurring. Other factors may exist that we do not consider significant based on information that
+is currently available or that we are not currently able to anticipate.
+
+Price increases in raw materials and energy costs could adversely affect operating results and
+financial condition.  
+
+In 2006, raw material costs represented 74% of total costs of sales. We purchase various raw
+material resins derived from crude oil or natural gas to produce our products. The cost of these
+resins has been highly volatile in the last few years with significant price increases. This
+volatility of resin costs is expected to continue and may be affected by a number of factors
+including political instability or hostilities in oil-producing countries and changes in supply and
+demand. We have historically been successful at managing the impact of this volatility on our
+margins by passing through price changes to customers, negotiating competitive prices with
+suppliers, increasing production efficiencies and controlling inventory levels. While we will
+continue to try to manage these costs, the direction and degree of future resin cost changes and
+our ability to manage such changes is uncertain. As a result, higher crude oil and natural gas
+costs could lead to declining margins, operating results, cash flows and financial condition.
+
+The cyclical nature of our suppliers and customers businesses could adversely affect our sales,
+profitability, operating results and cash flows during economic downturns.  
+
+General economic conditions and business conditions of our suppliers  and customers 
+industries affect the supply and demand for our products. The businesses of most of our suppliers
+and customers can be cyclical in nature and sensitive to changes in general economic conditions.
+Political instability may lead to financial and economic instability, which could lead to
+deterioration in general global economic conditions. Downturns in the businesses that use our
+products would adversely affect our sales. Downturns in general economic conditions may result in
+diminished product demand, excess manufacturing capacity and lower average selling prices. In
+addition, downturns in our customers  industries, even during periods of strong general economic
+conditions, could adversely affect our sales, profitability, operating results, cash flows and
+financial condition.
+
+We operate in a highly competitive marketplace, which could adversely affect our sales and
+financial condition.  
+
+We compete on the basis of product performance, quality, price, availability, security of
+supply, product development and customer service. Some competitors are larger than we are in
+certain markets and may have greater financial resources that allow them to be better positioned to
+withstand changes in our industry. Our competitors may introduce new products based on alternative
+technologies that may be more competitive causing us to lose customers which would result in a
+decline in our sales volume and earnings. Our customers demand high quality and low cost products and services. The cost and availability of energy and strategic raw materials may continue to deteriorate domestically while improving in the international
+market. Given the global competitive marketplace in which we compete, any such change could adversely impact the demand for our products. Competition could cause us to lose market share, exit
+certain lines of business, increase expenditures or reduce pricing, each of which could have an
+adverse effect on our results of operations, cash flows and financial condition.
+
+We may incur significant charges or be adversely impacted by the closure of all or part of a
+manufacturing facility.  
+
+We periodically assess the cost structure of our manufacturing facilities in order to
+manufacture and sell our products in the most efficient manner. Based on our assessments, we may
+make capital investments to modernize facilities, move or discontinue manufacturing capabilities,
+or close all or part of a manufacturing facility. These changes could result in significant future
+charges or disruptions in our operations, and we may not achieve the expected benefits from these
+investments which could result in an adverse impact on our operating results, cash flows and
+financial condition.
+
+We are in the process of implementing a new Enterprise Resource Planning ( ERP ) computer system
+which could cause substantial business interruption that could adversely impact our operating
+results.  
+
+We are implementing a new ERP system and investing significant financial and personnel
+resources into this project. We are using a controlled project plan and believe we have assigned
+adequate staffing and other resources to the project to ensure its successful implementation.
+However, there is no assurance that the design will meet our current and future business needs or
+that it will operate as designed. We are heavily dependent on such computer systems, and any
+significant failure or delay in the system implementation, if encountered, would cause a
+substantial interruption to our business and additional expense which could result in an adverse
+impact on our operating results, cash flows and financial condition.
+
+We may encounter difficulties in integrating businesses we have acquired, and therefore we may not
+realize the anticipated benefits of the acquisitions.  
+
+In the past several years, we have made strategic acquisitions intended to complement or
+expand our business, and may continue to do so in the future. The success of these transactions
+will depend on our ability to integrate assets and personnel acquired in these transactions. We
+may encounter difficulties in integrating acquisitions with our operations, and in managing
+strategic investments. Furthermore, we may not realize the degree, or timing, of benefits we
+anticipate when we first enter into a transaction. Any of the foregoing could adversely affect our
+business and results of operations.
+
+5 
+
+Table of Contents   
+
+We have a significant amount of goodwill, and any future goodwill impairment charges could
+adversely impact our results of operations.  
+
+As of October 28, 2006, we had goodwill of $350.4 million, which is 34% of our total assets.
+We completed our annual impairment review required by Statement of Financial Accounting Standards
+( SFAS ) 142,  Goodwill and Other Intangible Assets  ( SFAS 142 ) during the fourth quarter of 2006,
+and recognized a $3.2 million impairment charge in our Engineered Products group. In addition, the
+occurrence of a potential indicator of impairment, such as a significant adverse change in business
+climate, unanticipated competition, loss of key personnel or a more-likely-than-not expectation
+that a reporting unit or a significant portion of a reporting unit will be sold or disposed of,
+would require us to perform another valuation analysis, as required under SFAS 142, for some or all
+of our reporting units prior to the next required annual assessment. These types of events and the
+resulting analysis could result in additional charges for goodwill which could adversely impact our
+results of operations.
+
+We are part of an environmental investigation initiated by the New Jersey Department of
+Environmental Protection in 2003 and if our liability is materially different from the amount
+accrued, it could impact our results of operations.  
+
+We operate under various laws and regulations governing employee safety and the quantities of
+specified substances that may be emitted into the air, discharged into waterways, or otherwise
+disposed of on and off our properties. In September 2003, the New Jersey Department of
+Environmental Protection issued a directive and the United States Environmental Protection Agency
+( USEPA ) initiated an investigation related to over 70 companies, including one of our
+subsidiaries, regarding the Lower Passaic River. Our subsidiary subsequently agreed to participate
+in a group of over 40 companies in funding $10 million of an estimated $20 million environmental
+study by the USEPA to determine the extent and source of contamination at this site, and as of the
+end of 2005, it had paid its total commitment of $0.3 million towards this study. In 2006, the
+group s technical consultant advised the group of its belief that completion of the environmental
+study would significantly exceed the USEPA s original cost estimate. In the fourth quarter of
+2006, we recorded a $0.6 million charge in selling, general and administrative expense for our
+subsidiary s expected funding to complete the study to be funded over five years, the expected
+timeframe of the study. As of October 28, 2006, we had $0.7 million accrued related to this issue.
+Due to uncertainties inherent in this matter, management is unable to estimate our potential
+exposure, including possible remediation or other environmental responsibilities that may result
+from this matter which is not expected to occur for a number of years. These uncertainties
+primarily include the completion and outcome of the environmental study and the percentage of
+contamination attributable to the subsidiary and other parties. We believe that it is possible
+that our ultimate liability resulting from this issue could materially differ from our October 28,
+2006 accrual balance. In the event of one or more adverse determinations related to this issue,
+the impact on our results of operations could be material to any specific period. However, it is
+our opinion that future expenditures for compliance with these laws and regulations, as they relate
+to the Lower Passaic River issue and other potential issues, will not have a material effect on our
+capital expenditures, financial position, or competitive position.
+
+We are subject to other litigation and environmental regulations that could adversely impact our
+operating results.  
+
+The Company is, and in the future may be, subject to various claims, lawsuits, and
+administrative proceedings arising in the ordinary course of business with respect to commercial,
+product liability, employment, and other matters, several of which claim substantial amounts of
+damages. Given the inherent uncertainty of litigation, we can offer no assurance that existing
+litigation or a future adverse development will not have a material adverse impact on the Company.
+We also are subject to various laws and regulations relating to environmental protection and the
+discharge of materials into the environment, and we could incur substantial costs as a result of
+any noncompliance with or liability for cleanup or other costs or damages under environmental laws.
+
+Access to funding through capital markets is an important part of our business plan and if we are
+unable to maintain such access we could experience a material adverse effect on our business and
+financial results.  
+
+Our ability to invest in our businesses, make strategic acquisitions and refinance maturing
+debt obligations requires access to the capital markets and sufficient bank credit lines to support
+short-term borrowings. If we are unable to continue to access the capital markets, we could
+experience a material adverse effect on our business and financial results.
+
+The Company is subject to a number of restrictive covenants in its credit facilities and breaches
+of these covenants could become events of default under the Company s credit facilities and cause
+the acceleration of the majority of debt beyond the Company s ability to pay.  
+
+The Company s credit facilities contain a number of restrictive covenants as described in more
+detail in Note 10 of the Consolidated Financial Statements. These covenants require the Company
+to, among other matters, restrict the incurrence of additional indebtedness, satisfy certain ratios
+and net worth levels, and limit both the sale of assets and merger transactions. If breached,
+these restrictive covenants would force the Company to negotiate with its bankers to waive the
+covenants and could significantly impact the Company s ability to manage its business. In
+addition, those covenants could affect the Company s flexibility in making investments and
+acquisitions.
+
+6 
+
+Table of Contents   
+
+Item 1B.    UNRESOLVED STAFF COMMENTS  
+
+None.
+
+Item 2.    PROPERTIES  
+
+The Company operates in 41 manufacturing facilities located in the United States, Canada,
+France and Mexico, with 23 facilities in the Custom Sheet and Rollstock segment, 12 facilities in
+the Color and Specialty Compounds segment and six facilities in the Engineered Products group. The
+manufacturing locations are owned or occupied under operating or capital leases. Additional
+information regarding our operations within the various geographic segments is located in Note 17
+to the Consolidated Financial Statements. In addition, the Company leases office facilities for
+its corporate headquarters in St. Louis, Missouri and administrative offices in Washington,
+Pennsylvania.
+
+Use of the manufacturing facilities may vary with seasonal, economic and other business
+conditions. One facility in the Color and Specialty Compounds segment is not being utilized by the
+Company and is classified as held for sale as the Company actively looks for a buyer. In addition,
+the Company plans to consolidate three existing Custom Sheet and Rollstock production facilities
+into one facility during 2007 as described in Note 7 to the Consolidated Financial Statements. The
+Company believes that its present facilities are sufficient and adequate for the manufacture and
+distribution of Spartech s products and generally have sufficient capacity for existing needs and
+expected near-term growth.
+
+Item 3.    LEGAL PROCEEDINGS  
+
+In addition to the Lower Passaic River matter described in Item 1A  Risk Factors , the Company
+is subject to various other claims, lawsuits and administrative proceedings arising in the ordinary
+course of business with respect to environmental, commercial, product liability, employment and
+other matters, several of which claim substantial amounts of damages. While it is not possible to
+estimate with certainty the ultimate legal and financial liability with respect to these claims,
+lawsuits and administrative proceedings, the Company believes that the outcome of these matters
+will not have a material adverse effect on the Company s capital expenditures, financial position
+or competitive position.
+
+Item 4.    SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS  
+
+No matters were submitted to a vote of the Company s security holders during the fourth
+quarter of 2006.
+
+7 
+
+Table of Contents   
+
+PART II  
+
+Item 5.  
+       
+       MARKET FOR THE REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER
+PURCHASES OF EQUITY SECURITIES   
+
+Spartech Corporation s common stock is listed for trading on the New York Stock Exchange
+(NYSE) under the symbol  SEH . There were approximately 1,600 shareholders of record at November
+30, 2006. The following table sets forth the high and low prices of the common stock and cash
+dividends per common share for each quarter of 2006 and 2005:
+
+The Company s Board of Directors reviews the dividend policy each December based on the
+Company s previous year s results, and our business plan and cash flow projections for the next
+year.
+
+In September 2004, the Company s Board of Directors approved the repurchase of up to 1 million
+shares under a two-year program which expired in September 2006. A total of 487,200 shares were
+repurchased under this program none of which were repurchased in the fourth quarter of 2006. Subsequent to the expiration of this formal plan, the
+Company may periodically repurchase shares to reissue upon the exercise of stock options or for
+other purposes.
+
+8 
+
+Table of Contents   
+
+Item 6.    SELECTED FINANCIAL DATA  
+
+The selected financial and other data below for the last five years presents consolidated
+financial information of Spartech Corporation and subsidiaries and have been derived from our
+audited consolidated financial statements.
+
+Our operating history includes significant acquisitions; this data should be read with the
+selected historical consolidated financial data set forth below in conjunction with Management s
+Discussion and Analysis of Financial Condition and Results of Operations and our Consolidated
+Financial Statements and the notes thereto.
+
+Notes to table : 
+
+(a) 
+       
+     Calculated as net sales less cost of sales. Gross margin excludes the impact from
+amortization expense. 
+
+(b) 
+       
+     2006 operating earnings were reduced by pre-tax charges of $5.0 million related to
+restructuring and exit costs ($1.9 million) and goodwill impairment ($3.2 million). 2005
+operating earnings were reduced by pre-tax charges of $20.1 million related to restructuring
+and exit costs ($10.1 million), a retirement settlement with our former CEO ($3.6 million),
+fixed asset charges ($1.9 million) and goodwill impairment ($4.5 million). 2004, 2003 and
+2002 operating earnings were reduced by pre-tax fixed asset charges of $3.5 million, $1.0
+million and $0.3 million, respectively. 
+
+(c) 
+       
+     2006 net income was reduced by a $3.4 million after-tax charge ($5.5 million pre-tax) related
+to the early extinguishment of our convertible subordinated debentures. 
+
+(d) 
+       
+     Calculated as total current assets excluding cash and cash equivalents less total current
+liabilities excluding current maturities of long-term debt. 
+
+9 
+
+Table of Contents   
+
+Item 7.    MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS  
+
+The following discussion and analysis of our financial condition and results of operations
+contains  Forward-Looking Statements . You should read the following discussion of our financial
+condition and results of operations with  Selected Financial Data  and our consolidated financial
+statements and related notes included elsewhere in this   Form 10-K  . We have based our
+forward-looking statements about our markets and demand for our products and future results on
+assumptions that we consider reasonable. Actual results may differ materially from those suggested
+by our forward-looking statements for various reasons including those discussed in  Cautionary
+Statements Concerning Forward-Looking Statements  on page 1 of this   Form 10-K  . 
+
+Business Overview 
+
+Spartech is an intermediary processor of engineered thermoplastics which converts base
+polymers or resins purchased from commodity suppliers into extruded plastic sheet and rollstock,
+specialty film laminates, acrylic products, specialty plastic alloys, color concentrates and
+blended resin compounds, and injection molded and profile extruded products for customers in a wide
+range of markets. We operate 40 manufacturing facilities throughout North America and one in
+Europe that are organized into two segments and one group as follows:
+
+We consider purchases of certain assets and liabilities that do not qualify as a business for
+accounting purposes (referred to as outsourcing acquisitions) as underlying volume growth because
+such purchases are comparable to other internal investments such as capital expenditures. The
+impact of outsourcing acquisitions on the results of operations is disclosed when material, similar
+to our disclosures of the impact of major capital investments.
+
+We assess net sales changes using three major drivers: underlying volume, the impact of
+business acquisitions or divestitures and price/mix. Underlying volume is calculated as the change
+in pounds sold exclusive of the impact on pounds sold from business acquisitions or divestitures.
+
+Executive Summary 
+
+Net sales increased 6% to $1,486 million in 2006 over 2005 due mostly to selling price
+increases. The selling price increases reflect increases in the cost of plastic resins that we use
+to manufacture our products, the cost of which we eventually pass along to our customers as selling
+price increases. Operating earnings increased to $91.4 million in 2006 versus $57.9 million in
+2005, due in part to a $15.1 million reduction of special items in the current year. In 2006, we
+incurred $5.0 million of special items including restructuring and exit costs of $1.9 million and
+goodwill impairment of $3.2 million. In 2005, we incurred $20.1 million of special items including
+restructuring and exit costs of $10.1 million, charges of $3.6 million related to the retirement of
+the Company s former CEO, a $1.9 million fixed asset charge, and $4.5 million of goodwill
+impairment. In addition, 2006 operating earnings were impacted by $2.5 million of stock option
+expense due to the implementation of Statement of Financial Accounting Standards ( SFAS ) 123(R)
+ Share Based Payment  ( SFAS 123(R) ). Excluding special items and the impact of stock option
+expense, operating earnings increased $21.0 million in 2006 from the prior year due mostly to mix
+changes within our three reporting groups, increases in material margins from a higher mix of sheet
+sales, and better management of selling prices for changes in resin and conversion costs.
+
+In 2006, we completed a $50 million private placement of debt and amended our U.S. unsecured
+bank credit facility which increased our borrowing availability from $200 million to $300 million.
+We used the proceeds from the private placement and borrowings from our amended credit facility to
+redeem our $150 million convertible subordinated debentures which resulted in a $5.5 million charge
+for early debt extinguishment costs. This redemption eliminated the potential dilutive effect of a
+future conversion of the convertible subordinated debentures and reduced our cost of borrowing. We
+generated strong cash flows from operations in 2006 which allowed us the flexibility to complete
+the redemption and pay down $87.4 million of debt. In addition, we made progress on our
+restructuring activities by completing the consolidation of three Color and Specialty Compounds
+production facilities into one plant and beginning construction of our new sheet facility in
+Greenville, Ohio into which we plan to consolidate production activities from three existing
+plants.
+
+10 
+
+Table of Contents   
+
+Results of Operations 
+
+Comparison of 2006 and 2005  
+
+Consolidated Summary 
+
+Net sales were $1,485.6 million and $1,396.9 million for the year ended 2006 and 2005,
+respectively, representing a 6% increase in 2006. The causes of this percentage increase were as
+follows:
+
+Underlying volume
+
+% 
+
+Disposition of business
+
+(1 
+     ) 
+
+Price/Mix
+
+7 
+
+6  
+     % 
+
+Underlying volume was impacted by the loss of volume associated with the sale of assets of an
+operation in our Engineered Products segment in the first quarter of 2006. Excluding the negative
+volume impact of this loss, underlying volume increased slightly in 2006 compared to 2005. This
+slight volume increase reflected an increase in sales from our Custom Sheet and Rollstock segment,
+partially offset by a decrease in volume sold from our other two groups. The disposition of
+business impact reflects lost pounds from the sale of our corrugated sheet operation in the Custom
+Sheet and Rollstock segment in the fourth quarter of 2005. The price/mix impact reflects sales mix
+changes and the management of selling prices for changes in resin and conversion costs.
+
+The following table presents sales, cost of sales, and resulting gross margin in dollars and
+on a per pound sold basis for 2006 and 2005. Cost of sales presented in the Consolidated
+Statements of Operations includes material and conversion costs, both of which are presented in the
+following table. We have not presented cost of sales components as a percentage of net sales
+because a comparison of this measure is distorted by changes in resin costs that are passed through
+to customers as selling price changes. These changes materially affect the percentages but do not
+present accurate performance measures of the business.
+
+The increases in net sales and material costs per pound sold in 2006 reflect sales mix changes
+and the management of selling prices in response to increases in costs. The prices of our major
+resins increased approximately 4% on a weighted average basis in 2006 over the prior year.
+Material margin per pound sold increased 1.7 cents in 2006 over the prior year reflecting sales mix
+changes and our focused efforts on managing margins for changes in resin prices and certain
+conversion costs.
+
+Conversion costs decreased $2.0 million compared to 2005 reflecting lower labor-related and
+other costs due to our restructuring efforts partially offset by higher utilities and freight costs
+from higher energy costs. We completed the consolidation of three Color and Specialty Compounds
+production facilities into one plant in the fourth quarter of 2006 and began construction of a new
+Custom Sheet and Rollstock production facility in Greenville, Ohio in the second quarter of 2006
+into which three existing production facilities will be consolidated. Assuming sales volumes and
+mix are consistent, we estimate the Color and Specialty Compounds consolidation will reduce annual
+conversion costs by $3 million, the benefit of which started in the second half of 2006, and the
+Custom Sheet and Rollstock consolidation to reduce annual conversion costs by $2.5 million upon
+completion by the end of 2007. The majority of these estimated savings will be from reductions in
+labor-related costs and we expect these savings to mitigate increases in other conversion costs.
+Refer to Note 7 to our Consolidated Financial Statements for additional detail regarding these
+restructuring efforts.
+
+11 
+
+Table of Contents   
+
+Selling, general and administrative expenses were $75.4 million in 2006 representing a $4.8
+million increase over the prior year. The impact of expensing stock options from the adoption of
+SFAS 123(R) beginning in 2006 resulted in $2.2 million of additional selling, general and
+administrative expense in 2006. The remaining $2.6 million increase was primarily due to increases
+in labor-related costs, higher IT-related costs from our company-wide Oracle information system
+implementation and a $0.6 million charge related to the Lower Passaic River environmental issue
+recorded in 2006, partially offset by savings from the termination of the Company s airplane lease
+in the third quarter of 2005 and other corporate cost reduction efforts.
+
+Amortization of intangibles was $4.7 million in 2006 compared to $4.9 million in 2005. The
+decrease reflects the final amortization of certain intangibles acquired in 2002.
+
+Adoption of SFAS 123(R) 
+
+In the first quarter of 2006, we adopted SFAS 123(R). Prior to the adoption of SFAS 123(R),
+we had adopted the disclosure-only provisions of SFAS 123 and no expense related to stock options
+was recognized in our results of operations. We have implemented SFAS 123(R) using the modified
+prospective transition method, which requires the expensing of stock options upon adoption without
+restating prior periods. Compensation expense related to stock options was $2.5 million in 2006,
+of which $2.2 million was recognized in selling, general and administrative and $0.3 million was
+recorded as costs of sales. This resulted in a reduction to diluted earnings per share of 6
+cents in 2006. The following table presents the impact of the adoption of SFAS 123(R) and
+resulting stock option expense on operating earnings during 2006 (in millions):
+
+As of October 28, 2006, we had $4.3 million of unrecognized compensation cost that is expected
+to be recognized over a weighted-average period of 2.9 years.
+
+Special Items 
+
+In the fourth quarter of 2006, we recorded a $3.2 million non-cash goodwill impairment charge
+due to recent changes in our profiles business and the reorganization of the operations, management
+and reporting of this business which led to a redefinition of our operating segments comprising our
+Engineered Products group and allocation of goodwill to our new profiles reporting unit. The fair
+value of our profiles business did not support the $3.2 million goodwill allocation which resulted
+in the impairment charge. In the fourth quarter of 2005, we recorded a $4.5 million non-cash
+goodwill impairment charge triggered by the underperformance of a profiles business in the
+Engineered Products group and the loss of a major customer at another operation in our Color and
+Specialty Compounds segment.
+
+In the fourth quarter of 2005, we initiated a plan to consolidate three Color and Specialty
+Compounds production facilities into one plant in Donora, Pennsylvania. This restructuring
+activity, which was completed in the fourth quarter of 2006, resulted in $1.7 million of cash
+restructuring expense in 2006 primarily related to equipment moving and employee severance costs.
+In the second quarter of 2006, we began construction of a new Custom Sheet and Rollstock production
+facility in Greenville, Ohio into which three existing production facilities will be consolidated.
+We expect to complete the construction and move of the existing operations into the new facility by
+the end of 2007. This consolidation resulted in $0.2 million of restructuring expense in 2006
+primarily related to employee severance costs and accelerated depreciation from a lower useful life
+for a building which is expected to be sold upon completion of the consolidation. We estimate this
+consolidation will result in $1.0 million of restructuring charges in 2007, about half of which
+will be cash expenses.
+
+In the second quarter of 2005, we initiated several strategic changes to enhance short-term
+operating performance and longer-term operating efficiencies. The plan involved the consolidation,
+sale or closing of seven plant facilities, the shut-down of a calendered film line and other cost
+reduction efforts including the termination of the Company s airplane lease. These activities
+resulted in $10.1 million of restructuring and exit costs in 2005 of which $7.2 million represented
+non-cash charges. As of October 28, 2006, we
+had one facility and one calendered film line held for sale remaining from these activities
+and these restructuring activities are substantially complete.
+
+In the third quarter of 2005, we entered into a Retirement Agreement with the former chief
+executive officer of the Company. This resulted in a $3.6 million charge, of which $0.8 million
+represented a non-cash charge.
+
+As part of our Sarbanes-Oxley compliance efforts, we completed a physical count of the
+Company s property, plant and equipment in the second quarter of 2005. We reconciled the counts to
+amounts recorded in our books and records and
+
+12 
+
+Table of Contents   
+
+identified equipment that was previously disposed.
+During our physical counts, we also identified equipment that existed and that we elected to
+liquidate. This process resulted in a $1.9 million fixed asset charge in 2005 for impairment on
+equipment that we liquidated. Refer to Note 9 to our Consolidated Financial Statements for detail
+of these non-cash charges including detail by segment and group.
+
+The following tables present the impact of special items on our operating earnings for 2006
+and 2005 (in millions):
+
+Operating earnings for 2006 were $91.4 million compared to $57.9 million in 2005 representing
+a $33.6 million increase. The increase in operating earnings was impacted by the special items
+which resulted in $5.0 million of total expense in 2006 compared to $20.1 million in 2005.
+Excluding special items and stock option expense, operating earnings increased $21.0 million in
+2006 over 2005 mostly due to a $23.3 million increase in gross margin, partially offset by a $2.6 million increase in selling, general, and
+administrative expenses all due to the various reasons previously discussed.
+
+Interest expense, net was $21.0 million in 2006 compared to $25.2 million in 2005. The
+decrease in interest expense was due to the benefit realized from our significant debt pay-down in
+the second half of 2005 and through 2006 including the extinguishment of our convertible
+subordinated debentures. The lower debt levels were partially offset by a higher average interest
+rate.
+
+In the third quarter of 2006, we redeemed all $150 million of our convertible subordinated
+debentures resulting in $3.8 million of early-payment premium and $1.7 million of non-cash
+write-off of unamortized debt issuance costs which were reported in total as early debt
+extinguishment costs.
+
+Our effective tax rate was 40.3% in 2006 compared to 44.1% in 2005. The effective rates for
+both periods were higher due to the impact of non-deductible goodwill impairment charges.
+Excluding the non-deductible portion of goodwill impairment charges, our effective tax rate was
+38.4% in 2006 and 39.1% in 2005. The 2006 effective tax rate declined 3.3% when compared to the
+2005 rate due to the reduction in the amount of valuation allowance recorded for net operating
+losses generated by our Donchery, France operation in 2006 compared to 2005. The net operating
+loss carryforwards in France do not expire, and we expect to recognize an associated tax benefit
+when this operation generates a level of pre-tax earnings sufficient to offset cumulative
+historical pre-tax losses. Partially offsetting the rate improvements outlined above, the
+effective tax rate was higher in 2006 by 1.2% due to the impact on the 2005 effective rate from the
+implementation of certain state tax planning strategies last year, 0.7% due the expensing of stock
+options from the adoption of SFAS 123(R) in 2006 and 0.6% due a reduction in research and
+development credits from 2006 to 2005. We have not recorded the benefit of a research and
+development tax credit during calendar 2006 as this credit expired on December 31, 2005. In
+December 2006, the government approved legislation that extends the credit retroactively. As a result, we will recover this benefit in the first quarter of 2007.
+
+We reported net earnings of $38.8 million in 2006 compared to $18.3 million in 2005. These
+amounts reflect the impact of the items previously discussed.
+
+13 
+
+Table of Contents   
+
+Custom Sheet and Rollstock Segment 
+
+Net sales were $943.1 million and $884.3 million for 2006 and 2005, respectively, representing
+a 7% increase in 2006. This increase was caused by:
+
+Underlying volume
+
+4  
+     % 
+
+Disposition of business
+
+(1 
+     ) 
+
+Price/Mix
+
+4 
+
+7  
+     % 
+
+The increase in underlying volume is primarily due to additional sales of lower-priced pallet
+material to this segment s largest customer and incremental sales from our Mexico operation to a
+large customer selling to the home appliance market. The disposition of business impact represents
+pounds lost from the sale of our corrugated sheet business in the fourth quarter of 2005. The
+price/mix impact reflects the management of selling prices for changes in raw material and
+conversion costs, partially offset by the mix impact of an increase in volume sold of lower per
+pound priced products.
+
+This segment s operating earnings in 2006 were $75.4 million which compared to $65.1 million
+in 2005. The increase in operating earnings in 2006 was impacted by a decrease in special items
+and stock option expense associated with the adoption of SFAS 123(R). Excluding the impact of
+special items and stock option expense, operating earnings increased $10.8 million in 2006 over the
+prior year. This increase was driven by higher volume sold and an increase in material margin from
+our focused efforts to manage margins for changes in resin and certain conversion costs, partially
+offset by higher conversion costs and an increase in selling, general and administrative expense.
+The higher conversion costs reflected higher freight and utility costs partially offset by lower
+labor-related expenses, and the increase in selling, general and administrative expenses was due to
+higher labor-related costs. Improvements from our Ramos Arizpe, Mexico and Donchery, France sheet
+operations contributed to the operating earnings increase in 2006 compared to the prior year as
+these operations continue to benefit from increased sales volume and improved operational
+efficiencies.
+
+Color and Specialty Compounds Segment  
+
+Net sales were $463.0 million and $430.9 million in 2006 and 2005, respectively, representing
+a 7% increase. This increase was caused by:
+
+Approximately 93% of sales dollars and 88% of sales volume of this segment represents
+proprietary products which include engineered compounds and color concentrates which are made using
+formulas and manufacturing processes that are proprietary in nature. The remaining sales of this
+segment represents tolling product, which is customer-provided material that we compound for a
+conversion fee. The 3% decrease in underlying volume in 2006 compared to the prior year reflects a
+decrease in sales of both tolling and proprietary products. Sales volumes of tolling products
+decreased due to customer-specific decreases in their business volumes. The decrease in sales
+volumes of proprietary products reflects disruptions associated with our Donora consolidation
+efforts, particularly in the first and third quarters of the current year, which required us to
+temporarily decrease our capacity while we physically moved production lines. The move of
+production lines from our former production facilities to our Donora facility substantially
+occurred in the first and third quarter of this year. The price/mix increase reflects increases of
+selling prices for changes in raw material and conversion costs and a favorable shift in mix
+towards higher sales price per pound products.
+
+This segment s operating earnings in 2006 were $27.0 million which compared to $15.3 million
+in the same period of the prior year. The increase in operating earnings for both periods was
+impacted by a decrease in special items and the impact of stock option expense associated with the
+implementation of SFAS 123(R). Excluding the impact of special items and stock option expense,
+operating earnings increased $3.9 million in 2006 over the prior year. This increase was driven by
+an increase in mix of higher margin sales and an increase in material margin dollars due to our
+focused efforts to manage margins for changes in resin and certain conversion costs, partially
+offset by higher conversion costs and an increase in selling, general and administrative expense.
+The higher conversion costs reflected higher freight and utility costs and the increase in selling,
+general and administrative expenses was due to higher labor-related costs as well as the impact of
+the $0.6 million increase to the Lower Passaic River environmental accrual.
+
+14 
+
+Table of Contents   
+
+Engineered Products Group  
+
+Net sales were $79.6 million and $81.7 million for 2006 and 2005, respectively, representing a
+3% sales decrease in 2006. This decrease was caused by:
+
+The underlying volume decrease reflects the sale of assets of an operation which was part of
+our 2005 restructuring activities. Excluding the negative volume impact of these sold assets,
+underlying volume decreased 6% in 2006 from the prior year. This decrease reflects lower sales
+volume of wheels to the lawn and garden market and a lower volume sold of profile products to the
+building and construction market. The positive impact of price/mix reflects the management of
+selling prices for changes in raw material and conversion cost fluctuations as well as a favorable
+shift in mix towards wheels with a higher selling price per pound.
+
+This segment s operating earnings in 2006 were $4.5 million which compared to an operating
+loss of $3.5 million in 2005. The 2006 increase in operating earnings was impacted by a reduction
+in special items and the impact of stock option expense associated with the adoption of SFAS
+123(R). Excluding the impact of special items and stock option expense, operating earnings
+increased $6.1 million in 2006 compared to the prior year. This increase was mostly driven by
+profitability improvement in our wheels and profiles businesses resulting primarily from reductions
+in labor-related costs.
+
+Corporate 
+
+Corporate includes corporate office expenses and portions of information technology and
+professional fees that are not allocated to the segments and group. Corporate expenses are
+reported as selling, general and administrative expenses in our Consolidated Statement of
+Operations. Corporate expenses as a component of operating earnings were $15.5 million in 2006 and
+$19.1 million in the prior year. The comparison for both periods was impacted by a reduction in
+special items and stock option expense associated with the impact of SFAS 123(R). Excluding the
+impact of special items and stock option expense, corporate expenses decreased $0.2 million in 2006
+due mostly to savings from the termination of the Company s airplane lease in the third quarter of
+2005, partially offset by an increase in labor-related costs and higher IT-related cost from our
+company-wide Oracle information system implementation.
+
+Outlook  
+
+Our business outlook remains positive for 2007. We are coming off of a strong earnings
+performance year in 2006, but we expect a slowing economy to result in a challenging growth
+environment, particularly in our transportation and building and construction markets during the
+early part of 2007. Despite this, we expect our recently completed restructuring activities and
+other initiatives to mitigate the impact of the difficult growth environment on earnings. The
+Company will have an additional week
+during the fiscal year in 2007 which ends on the Saturday closest to October 31 st 
+and 2007 will be reported as a 53-week year.
+
+Comparison of 2005 and 2004  
+
+Consolidated Summary 
+
+Net sales were $1,396.9 million and $1,121.7 million for the years ended 2005 and 2004,
+respectively, representing a 25% sales increase in 2005. The causes of this percentage increase
+were as follows:
+
+The 1% decrease in underlying volume reflects a decrease in pounds sold of lower-priced pallet
+material to a customer in our Custom Sheet and Rollstock segment and the loss of toll-compounding
+business with a customer of our Color and Specialty Compounds segment. Excluding the negative
+volume impact of sales to these two major customers, volume sold increased approximately 3% in 2005
+compared to 2004. The 3% increase was mostly driven by sales to the lawn and garden market. Most
+of the price/mix impact reflects higher selling prices to customers from the pass through of raw
+material price increases.
+
+15 
+
+Table of Contents   
+
+The following table presents sales, cost of sales, and resulting gross margin in dollars and
+on a per pound sold basis for 2005 and 2004. Cost of sales presented in the Consolidated
+Statements of Operations includes material and conversion costs, the components of which are
+presented in the following table. We have not presented cost of sales components as a percentage
+of net sales because a comparison of this measure is distorted by changes in resin costs that are
+passed through to customers as higher selling prices. These significant changes materially affect
+the percentages but do not present accurate performance measures of the business.
+
+The significant increases in net sales and material costs per pound in 2005 compared to 2004
+were mostly driven by increases in raw material costs and the impact of passing on these increases
+to customers as higher selling prices. Raw material prices for the Company s major resins
+increased approximately 20% to 30%, depending upon the type of resin, during 2005 compared to 2004.
+Material margin per pound sold increased 0.7 cent in 2005 compared to 2004. This increase was
+primarily due to the mix impact of the decrease in sales of the toll-compound and lower-priced
+pallet material, both of which have lower material margins per pound, and the favorable mix impact
+of the VPI acquisition. The favorable impacts of these items on material margin per pound sold
+more than offset the negative impact of other mix changes experienced in 2005 compared to 2004.
+
+Conversion costs per pound sold increased 1.6 cents in 2005 compared to 2004. This increase
+reflects the mix impact of the lower volume in sales to the two major customers previously
+discussed the impact of the VPI acquisition and other mix changes. In addition, this increase
+reflects increases in labor-related costs, utilities and freight coupled with the decrease in
+underlying sales volume, particularly in the first quarter of 2005.
+
+Selling and administrative expenses of $70.6 million in 2005 increased $11.9 million, or 20%
+from the $58.7 million incurred during 2004. Approximately half of this increase
+is due to the VPI acquisition. The remaining half of the increase was due to higher costs
+associated with increased information technology costs, Sarbanes-Oxley compliance efforts and
+enhancements to accounting and finance resources, partially offset by savings from the termination
+of the Company s airplane lease (see subsequent discussion of special items).
+
+Amortization of intangibles was $4.9 million in 2005 compared to $2.8 million in 2004. This
+$2.1 million increase primarily reflects amortization of intangibles acquired as part of the VPI
+acquisition.
+
+Special Items 
+
+In the second quarter of 2005, we initiated several strategic changes to enhance short-term
+operating performance and longer-term operating efficiencies. The plan involves the consolidation,
+sale or closing of seven plant facilities and other cost reduction efforts including the
+termination of the Company s airplane lease which in total resulted in a $10.1 million net charge
+for the year, of which $7.2 million represented non-cash charges. Refer to Note 7 to our
+Consolidated Financial Statements for detail of these charges.
+
+In the third quarter of 2005, we entered into a Retirement Agreement with the former chief
+executive officer of the Company. This resulted in a $3.6 million charge, of which $0.8 million
+represented a non-cash charge. Refer to Note 8 to our Consolidated Financial Statements for detail
+of these charges.
+
+As part of our Sarbanes-Oxley compliance efforts, we completed a physical count of the
+Company s property, plant and equipment in the second quarter of 2005. We reconciled the counts to
+amounts recorded in our books and records and identified equipment having a net book value of $8.8
+million at the end of April 2005 that was previously disposed or recorded
+
+16 
+
+Table of Contents   
+
+in error upon acquisition
+of businesses. Although the previously unrecorded disposals and acquisition accounting errors were
+identified in 2005, the charge to write off the equipment has been recorded at the net book value
+as of the date of disposition or acquisition, in the respective prior periods. The write-off of
+previously unrecorded disposals resulted in a fixed asset charge of $3.5 million and $1.0 million
+in 2004 and 2003, respectively. The $3.5 million charge in 2004 includes $3.1 million recorded in
+the fourth quarter for which we do not have sufficient evidence to determine a disposal date for
+specific equipment with any certainty but do have evidence that these assets were disposed prior to
+2005. During our physical counts, we also identified equipment that existed and that we elected to
+liquidate resulting in a $1.9 million impairment charge in 2005. Refer to Note 9 to our
+Consolidated Financial Statements for detail of these non-cash charges including detail by segment
+and group.
+
+In the fourth quarter of 2005, we recorded a $4.5 million non-cash goodwill impairment charge
+triggered by the underperformance of one operation and the loss of a major customer at another
+operation. Refer to Note 6 to our Consolidated Financial Statements for detail of these charges.
+
+Operating earnings in 2005 were $57.9 million compared to $90.9 million in 2004 representing a
+$33.0 million decrease. The decrease in operating earnings was adversely impacted by the special
+items which resulted in $20.1 million of total expense in 2005. Excluding special items, operating
+earnings decreased $16.4 million in 2005 compared to 2004 due to the $2.5 million decrease in gross
+margin, the $11.9 million increase in selling, general, and administrative expenses, and the $2.1
+million increase in amortization of intangibles, all due to the various reasons previously
+discussed.
+
+Interest expense, net was $25.2 million in 2005 compared to $25.4 million in 2004. This
+decrease was due to a decrease in the average interest rate from the expiration of our interest
+rate swap on November 10, 2004, the benefit realized from our significant debt pay-down in the
+second half of 2005, and an increase in interest income, partially offset by the additional
+borrowings from the VPI acquisition.
+
+Our effective tax rate was 44.1% and 37.5% for years ended 2005 and 2004, respectively. The
+increase in tax rate is attributable to an increase to tax expense in 2005 to establish a $1.1
+million valuation allowance to offset a deferred tax asset associated with net operating losses
+generated by our Donchery, France operation and non-deductibility of $3.2 million of the goodwill
+impairment charge.
+
+We reported net earnings of $18.3 million and $40.9 million for the years ended 2005 and 2004,
+respectively. These amounts changed due to the various reasons discussed above.
+
+Custom Sheet and Rollstock Segment 
+
+Net sales were $884.3 million and $729.8 million in 2005 and 2004, respectively, representing
+a 21% sales increase in 2005. This increase was caused by:
+
+The 1% decrease in underlying sales volume in 2005 reflects a decrease in sales of
+lower-priced pallet material to this segment s largest customer due to the expiration of an
+intermittent supply contract between this customer and a third party. Excluding this impact,
+underlying volume of pounds sold increased approximately 2% in 2005 due primarily to increases in
+volume sold to the packaging and appliance markets. The majority of the price/mix impact reflects
+higher selling prices to customers from the pass-through of raw material price increases.
+
+This segment s operating earnings in 2005 were $65.1 million, representing a $6.1 million
+decrease from the $71.3 million earned in 2004. The decrease in operating earnings was adversely
+impacted by $0.6 million of special items. Operating earnings excluding special items for 2005
+were $7.9 million less than 2004 mostly because of increases in conversion costs, specifically
+labor-related, utilities and freight costs.
+Operating earnings were also adversely impacted by losses from operations sold in the current
+year of $0.7 million and $0.3 million of inventory write-downs related to exiting a facility.
+
+Color and Specialty Compounds Segment  
+
+Net sales were $430.9 million and $323.4 million for 2005 and 2004, respectively, representing
+a 33% sales increase in 2005. This increase was caused by:
+
+17 
+
+Table of Contents   
+
+The decrease in underlying volume of pounds sold of 4% in 2005 compared to 2004 reflects a
+decrease in sales of tolling and resale pounds to one customer. Excluding this impact, internal
+volume of pounds sold increased 2% in 2005 over 2004 due mostly to an increase in sales volume to
+the lawn and garden market. Sales volume trends for this segment s two major product categories,
+tolling and resale products and proprietary products (engineered compounds and color concentrates),
+as well as pounds sold related to businesses acquired, are presented below:
+
+Tolling products represent customer-provided material that the Company compounds and charges a
+conversion fee to the customer. The end markets for the tolling and resale products are generally
+managed and developed by our customers. The 26% decrease in pounds sold of tolling and resale
+product was mostly due to the decrease in sales to the single customer previously discussed.
+Proprietary products include engineered compounds and color concentrates and are made using
+formulas and manufacturing processes which are proprietary to the Company. The 9% increase in
+pounds sold of proprietary product was driven by the concerted effort of our marketing team to
+replace the decrease in tolling pounds with engineered compounds, color concentrates, and new
+product development sales. The majority of the price/mix impact reflects higher selling prices to
+customers from the pass-through of raw material price increases.
+
+This segment s operating earnings in 2005 were $15.3 million compared to $27.2 million in 2004
+representing an $11.9 million decrease. This decrease was primarily caused by $9.9 million of
+expenses from special items. Operating earnings excluding special items in 2005 were $2.3 million
+less than 2004 primarily because of the decrease in underlying volume and increase in conversion
+costs, particularly due to higher freight costs. In addition, our Donchery, France operation
+incurred a $2.8 million operating loss
+in 2005 compared to a $0.4 million operating loss in the prior year, representing a $2.4
+million decrease to the comparison. The losses arose from the disruption associated with the
+significant expansion of the operation for the new sheet business.
+
+Engineered Products Group  
+
+Net sales were $81.7 million and $68.6 million in 2005 and 2004, respectively, representing a
+19% sales increase in 2005. This increase was caused by:
+
+The underlying volume increase for the period was primarily driven by an increase in sales of
+wheels to the lawn and garden market to new customers. The negative impact of price/mix reflects
+higher selling prices, the impact of which was more than offset by the change in product mix from
+selling more wheels with a lower per pound selling price.
+
+This group s operating loss for 2005 was $3.5 million compared to operating earnings of $5.8
+million in 2004. This $9.3 million decrease in operating earnings was adversely impacted by $5.2
+million of expenses from special items. Operating earnings excluding special items in 2005 were
+$4.7 million less than 2004 reflecting higher than expected start-up costs associated with the
+ramp-up of new production capacity and start-up delays for our wheels business. The 2005 operating
+loss also includes $2.0 million of losses generated from a sold operation.
+
+18 
+
+Table of Contents   
+
+Liquidity and Capital Resources 
+
+Cash Flow  
+
+Our primary sources of liquidity have been cash flows from operating activities, borrowings
+from third parties and equity offerings. Our principal uses of cash have been to support our
+operating activities, invest in capital improvements, pay off outstanding indebtedness, finance
+strategic business and outsourcing acquisitions and pay dividends on our common stock. The
+following summarizes the major categories of our changes in cash and cash equivalents in 2006, 2005
+and 2004:
+
+Net cash provided by operating activities was $127.5 million in 2006 compared to $105.0
+million in the prior year. Of this $22.5 million increase, $6.9 million was attributed to our
+focused effort to reduce net working capital to improve cash flow and the remaining increase was
+driven by an increase in cash earnings. We had an improvement in days sales outstanding of our
+year-end accounts receivable balance from 51 days at the end of 2005 to 48 days at the end of 2006.
+In addition, our year-end days payable outstanding improved from 33 days at the end of 2005 to 39
+days at the end of 2006, primarily due to the renegotiation of payment terms with our significant
+vendors.
+
+Our primary investing activities are capital expenditures. Capital expenditures are primarily
+incurred to enhance our facilities for safety and environmental improvements and to maintain and
+improve productivity, and to modernize and expand facilities. Capital expenditures in 2006 were
+$24.0 million compared to $39.3 million in 2005. The $15.3 million decrease in capital
+expenditures was due to capacity expansions made in the prior period for new sheet and compounding
+business at our Donchery, France facility, new wheels business in our Engineered Products group,
+and the addition of certain lines in our U.S. sheet business. We expect capital expenditures to
+approximate $39 million in 2007 which includes $6 million related to the new Custom Sheet and
+Rollstock production facility in Greenville, Ohio, $3 million for expansion of our Mexico facility
+and $7 million for our company-wide Oracle information system implementation.
+
+Net cash used for financing activities totaled $105.2 million in 2006 and $110.3 million in
+2005. The positive improvement in cash flow provided by operating activities as well as lower
+capital expenditures allowed us to pay down $87.4 million of debt in 2006. Proceeds from the
+issuance of a $50 million of private placement debt and $23.8
+million of net borrowings from our credit facility along with cash provided by operating
+activities were used to redeem our $150 million of subordinated debentures and fund a related $3.8
+million early payment premium. Cash used for financing activities in 2006 also includes $15.9
+million to pay dividends.
+
+Overall, cash increased $0.8 million in 2006 due to the factors noted above. This increase
+compares to a $36.7 million decrease in cash in 2005 which reflects the use of cash to pay down
+debt subsequent to the expiration of an interest rate swap agreement.
+
+Financing Arrangements  
+
+In the third quarter of 2006, we amended our U.S. unsecured bank credit facility agreement
+which increased our total availability from $200 million to $300 million and extended the term to
+June 2, 2011. Interest on the bank credit facility is payable at a rate we may choose of either
+the Prime rate or LIBOR plus a 0.625% to 1.0% borrowing margin, and requires a fee of 0.125% to
+0.2% on the unused portion of the facility. We classify borrowings under the amended bank credit
+facility as long-term because no paydowns are required within the next 12 months and we have the
+ability to keep the balances outstanding over the next 12 months. The bank credit facility
+requires the Company to meet certain affirmative and negative covenants which include minimum
+consolidated net worth, minimum interest coverage and maximum total leverage requirements.
+
+In the third quarter of 2006, we completed a $50 million private placement of 5.78% Senior
+Notes which are payable on June 5, 2011. The notes do not require annual principal payments and
+are pre-payable at our option after June 5, 2009 at par. Interest on the 2006 Notes is payable
+semi-annually on December 5 and June 5 of each year. We used the proceeds from these notes and our
+new unsecured bank credit facility to redeem our $150 million convertible subordinated debentures.
+We incurred $3.8 million of early-payment premiums and $1.7 million of non-cash write-offs of
+unamortized debt issuance costs as early debt extinguishment costs in the third quarter of 2006
+related to the redemption of these debentures.
+
+19 
+
+Table of Contents   
+
+As of October 28, 2006, the weighted average interest rate on all of our outstanding debt was
+6.1% and we had $246.0 million of total availability under our credit facilities. At October 28,
+2006, our credit facilities contained certain affirmative and negative covenants, including
+restrictions on the incurrence of additional indebtedness, limitations on both the sale of assets
+and merger transactions, and requirements to maintain certain financial, debt service and net worth
+ratios. While we were in compliance with our covenants throughout 2006 and currently expect to be
+in compliance with our covenants in the next twelve months, our failure to comply with the
+covenants or other requirements of our financing arrangements could result in an event of default
+and, among other things, acceleration of the payment of our indebtedness, which could adversely
+impact our business, financial condition, and results of operations.
+
+We anticipate that cash flows from operations, together with the financing and borrowings
+under our bank credit facilities, will provide the resources necessary for reinvestment in our
+existing business, strategic acquisitions and managing our capital structure on a short and
+long-term basis.
+
+Contractual Obligations 
+
+The following table summarizes our contractual obligations as of October 28, 2006 and the
+estimated payments due by period:
+
+Amounts included in long-term debt include principal and interest payments. Interest on
+debt with variable rates was calculated using the current rate of that particular debt instrument
+at October 28, 2006. Purchase obligations primarily consist of inventory purchases made in the
+normal course of business to meet operational requirements. Other obligations consist primarily of
+a guarantee to enter into a financing agreement in return for government investment subsidies. The
+obligations table does not include long term contingent liabilities and liabilities related to
+deferred taxes because it is not certain when these liabilities will become due.
+
+Critical Accounting Policies and Estimates 
+
+We prepare our consolidated financial statements in conformity with accounting principles
+generally accepted in the United States. As such, we are required to make estimates and judgments
+that affect the reported amounts of assets, liabilities, shareholders  equity, revenues and
+expenses, and disclosures of contingent assets and liabilities at the date of the financial
+statements. Accounting policies, estimates and judgments which we believe are the most critical to
+aid in fully understanding and evaluating our reported financial results include the following:
+
+Revenue Recognition   - We recognize revenue as product is shipped and title passes to the
+customer. We manufacture our products either to standard specifications or to custom
+specifications agreed upon with the customer in advance, and we inspect our products prior to
+shipment to ensure that these specifications are met. We monitor and track product returns, which
+have historically been within our expectations and the provisions established. Despite our efforts
+to improve our quality and service to customers, we cannot guarantee that we will continue to
+experience the same or better return rates than we have in the past. Any significant increase in
+returns could have a material negative impact on our operating results.
+
+Accounts Receivable   - We perform ongoing credit evaluations of our customers and adjust credit
+limits based upon payment history and the customer s creditworthiness, as determined by our review
+of their current credit information. We monitor collections and payments from our customers and
+maintain a provision for estimated credit losses based upon any specific customer collection issues
+identified. While such credit losses have historically been within our expectations and the
+provisions established, actual credit loss rates may differ from our estimates.
+
+Inventories   - We value inventories at the lower of (i) cost to purchase or manufacture the
+inventory or (ii) the current estimated market value of the inventory. We also buy scrap and
+recyclable material (including regrind material) to be used in future production. We record these
+inventories initially at purchase price, and based on the inventory aging and other considerations
+for realizable value, we write down the carrying value to market value where appropriate. We
+review inventory on-hand and record provisions for obsolete inventory. A significant increase in
+the demand for our raw materials could result in a short-term increase in the cost of inventory
+purchases, while a significant decrease in demand could result in an increase in
+
+20 
+
+Table of Contents   
+
+the amount of
+excess inventory quantities on hand. In addition, most of our business is custom products, where
+the loss of a specific customer could increase the amount of excess or obsolete inventory on hand.
+Although we make efforts to ensure the accuracy of our forecasts of future product demand, any
+significant unanticipated changes in demand could have a significant impact on the value of our
+inventory and operating results.
+
+Acquisition Accounting   - We have made several acquisitions in recent years. All of these
+acquisitions have been accounted for in accordance with the purchase method, and accordingly, the
+results of operation were included in our Consolidated Statement of Operations from the respective
+date of acquisition. The purchase price has been allocated to the identifiable assets and
+liabilities, and any excess of the cost over the fair value of the net identifiable assets acquired
+is recorded as goodwill. The initial allocation of purchase price is based on preliminary
+information, which is subject to adjustments upon obtaining complete valuation information. While
+the delayed finalization of a purchase price has historically not had a material impact on the
+consolidated results of operations, we cannot guarantee the same results in future acquisitions.
+
+Goodwill   - Our formal annual impairment testing date for goodwill is the first day of the
+Company s fourth quarter or prior to the next annual testing date if an event occurs or
+circumstances change that would make it more likely than not that the fair value of a reporting
+unit is below its carrying amount. The goodwill impairment test is a two-step process which
+requires us to make judgmental assumptions regarding fair value. The first step consists of
+estimating the fair value of each reporting unit using a number of judgmental factors including
+projected future operating results and business plans, economic projections, anticipated future
+cash flows, discount rates and comparable marketplace fair value data from within a comparable
+industry grouping. We compare the estimated fair values of each reporting unit to the respective
+carrying values which includes allocated goodwill. If the estimated fair value is less than the
+carrying value, the second step is completed to compute the impairment amount by determining the
+ implied fair value  of goodwill. This determination requires the allocation of the estimated fair
+value of the reporting unit to the assets and liabilities of the reporting unit. Any remaining
+unallocated fair value represents the  implied fair value  of goodwill which is compared to the
+corresponding carrying value to compute the goodwill impairment amount. We believe our estimates
+of the underlying components of fair value are reasonable. However, should actual results not meet
+our expectations or assumptions change in future years, our impairment assessment could result in a
+lower fair value estimate which could result in an impairment charge that may materially affect the
+carrying value of our assets and results from operations.
+
+SFAS 142,  Goodwill and Other Intangible Assets  ( SFAS 142 ) requires the completion of an
+impairment test for goodwill as of an annual date and whenever events or circumstances occur that
+indicate goodwill may be impaired. Our accounting policy was to complete the annual impairment
+test on the last day of the Company s fiscal year. Effective in the second quarter of fiscal 2006,
+we changed our accounting policy to complete the annual impairment test for goodwill on the first
+day of the fourth quarter. This change provides additional time to complete the impairment testing
+and evaluate the results. This change in accounting policy had no impact on our financial results
+or financial position.
+
+Long-Lived Assets   - We review the carrying amounts of property, plant and equipment, other
+intangible assets and other long-lived assets for potential impairment if an event occurs or
+circumstances change that indicates the carrying amount may not be recoverable. In evaluating the
+recoverability of a long-lived asset, such assets are grouped at the lowest level for which
+identifiable cash flows are largely independent of the cash flows of other assets, and we compare
+the carrying value of each asset group with the corresponding estimated undiscounted future
+operating cash flows. In the event the carrying value of an asset group is not recoverable by
+future undiscounted operating cash flows, impairment exists. In the event of impairment, an
+impairment charge would be measured as the amount by which the carrying value of the long-lived
+asset group exceeds its fair value.
+
+Income Taxes   - Deferred tax assets and liabilities are determined based on temporary
+differences between financial statement carrying amounts and tax bases of assets and liabilities,
+applying enacted tax rates expected to be in effect for the year in which the differences are
+expected to reverse. Deferred tax assets are recognized for credit carryforwards and then assessed
+to determine the likelihood of realization. Valuation allowances are established to the extent we
+believe it is more likely than not that deferred tax assets will not be realized. Expectations of
+future earnings, the scheduled reversal of deferred tax liabilities, the ability to carryback
+losses and credits to offset taxable income in a prior year, and tax planning strategies are the
+primary drivers underlying our evaluation of valuation allowances. Deferred tax amounts recorded
+may materially differ from the amounts that are ultimately payable and expensed if our estimates of
+future earnings and outcomes of treasury and tax planning strategies are ultimately inaccurate.
+
+Deferred income taxes are not provided for undistributed earnings on foreign consolidated
+subsidiaries, to the extent that such earnings are reinvested for an indefinite period of time. If
+those undistributed foreign earnings were not considered indefinitely reinvested, we would be
+required to recognize approximately $4.5 million to $6.0 million of additional income tax expense.
+
+21 
+
+Table of Contents   
+
+We accrue for tax contingencies when it is probable that a liability to a taxing authority has
+been incurred and the amount of the contingency can be reasonably estimated. The tax contingency
+is adjusted for changes in circumstances and additional uncertainties, such as significant
+amendments to existing tax law. To the extent we prevail in matters for which accruals have been
+established, or are required to pay amounts in excess of recorded reserves, our effective tax rate
+in a given financial statement period may be materially impacted.
+
+Contingencies   - We are involved in litigation in the ordinary course of business, including
+environmental matters. Our policy is to record expense for contingencies when it is both probable
+that a liability has been incurred and the amount can be reasonably estimated. Estimating probable
+losses requires assessment of multiple outcomes that often depends on management s judgments
+regarding, but not limited to, potential actions by third parties such as regulators. The final
+resolution of these contingencies could result in expenses different from current accruals and
+therefore have a material impact on our consolidated financial results in a future reporting
+period.
+
+For additional information regarding our significant accounting policies, as well as the
+impact of recently issued accounting standards, see Note 1 to our 2006 Consolidated Financial
+Statements.
+
+Item 7A.    QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  
+
+We are exposed to changes in interest rates primarily as a result of our borrowing activities.
+Our earnings and cash flows are subject to fluctuations in interest rates on our floating rate
+debt facilities. At October 28, 2006, we had $73.4 million of debt subject to variable short-term
+interest rates and $215.8 million of fixed rate debt outstanding. Based upon the October 28, 2006
+balance of the floating rate debt, a hypothetical 10% increase in interest rates would cause an
+immaterial change in future net earnings, fair value and cash flows. We are not currently engaged
+in any interest rate derivative instruments to manage our exposure to interest rate fluctuations.
+
+The fair market value of our fixed rate debt is subject to changes in interest rates; the
+October 28, 2006 fair values of such instruments are disclosed in the notes to our consolidated
+financial statements. We do not anticipate material changes to the fair value of our debt in the
+next 12 months.
+
+See Item 1A for additional disclosures about market risk.
+
+22 
+
+Table of Contents   
+
+Item 8.    FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA  
+
+Management s Responsibility for Financial Statements 
+
+The Company s management is responsible for the integrity and accuracy of the financial
+statements. Management believes that the financial statements for the three years ended October
+28, 2006, have been prepared in accordance with accounting principles generally accepted in the
+United States. In preparing the financial statements, management makes informed judgments and
+estimates when necessary to reflect the expected effects of events and transactions that have not
+been completed. The Company s disclosure controls and procedures ensure that material information
+required to be disclosed is recorded, processed, summarized and communicated with management and
+reported within the required time periods.
+
+In meeting its responsibility for the reliability of the financial statements, management
+relies on a system of internal control. This system is designed to provide reasonable assurance
+that assets are safeguarded and transactions are executed in accordance with management s
+authorization and recorded properly to allow the preparation of financial statements in accordance
+with accounting principles generally accepted in the United States. The design of this system
+recognizes that errors or irregularities may occur and that estimates and judgments are required to
+assess the relative cost and expected benefits of the controls. Management believes the Company s
+accounting controls provide reasonable assurance that errors or irregularities that could be
+material to the financial statements are prevented or would be detected in a timely period.
+
+The Company s board of directors is responsible for ensuring the independence and
+qualifications of audit committee members under applicable New York Stock Exchange and Securities
+and Exchange Commission standards. The audit committee consists of four independent directors and
+oversees the Company s financial reporting and internal controls system. The audit committee meets
+with management, the independent registered public accountant and internal auditors periodically to
+review auditing, financial reporting and internal control matters. The audit committee held 13
+meetings during 2006.
+
+The Company s independent registered public accounting firm, Ernst   Young LLP, is engaged to
+express an opinion on the Company s consolidated financial statements and on the Company s internal
+control over financial reporting. Their opinions are based on procedures which they believe to be
+sufficient to provide reasonable assurance that the financial statements contain no material errors
+and that the Company s internal controls are effective.
+
+Management s Report on Internal Control over Financial Reporting 
+
+The Company s management is responsible for establishing and maintaining adequate
+internal control over financial reporting. With the participation of the chief executive officer
+and chief financial officer, management conducted an assessment of the effectiveness of its
+internal control over financial reporting
+ based on the framework set forth in Internal Control-Integrated Framework issued by the
+Committee of Sponsoring Organizations of the Treadway Commission ( COSO ). Based on this
+evaluation, management concluded that the Company s internal control over financial reporting was
+effective as of October 28, 2006.
+
+The Company s independent registered public accounting firm, Ernst   Young LLP, has issued an
+audit report on management s assessment of internal control over financial reporting.
+
+23 
+
+Table of Contents   
+
+Report of Ernst   Young LLP, Independent Registered Public Accounting Firm  
+The Shareholders and the Board of Directors 
+Spartech Corporation and Subsidiaries
+
+We have audited the accompanying consolidated balance sheets of Spartech Corporation and
+Subsidiaries (the Company) as of October 28, 2006, and October 29, 2005, and the related
+consolidated statements of operations, shareholders  equity, and cash flows of the Company for each
+of the three years in the period ended October 28, 2006. Our audits also included the financial
+statement schedules listed in the Index at Item 15(a). These financial statements and schedules
+are the responsibility of the Company s management. Our responsibility is to express an opinion on
+these financial statements and schedules based on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight
+Board (United States). Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement. An
+audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the
+financial statements. An audit also includes assessing the accounting principles used and the
+significant estimates made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in all material
+respects, the consolidated financial position of Spartech Corporation and Subsidiaries at October
+28, 2006, and October 29, 2005, and the consolidated results of their operations and their cash
+flows for each of the three years in the period ended October 28, 2006, in conformity with U.S.
+generally accepted accounting principles. Also, in our opinion, the related financial statements
+schedules, when considered in relation to the basic financial statements taken as a whole, present
+fairly in all material respects the information set forth therein.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight
+Board (United States), the effectiveness of Spartech Corporation and Subsidiaries  internal control
+over financial reporting as of October 28, 2006, based on criteria established in Internal Control
+  Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway
+Commission and our report dated December 15, 2006, expressed an unqualified opinion thereon.
+
+/s/ Ernst   Young LLP
+
+St. Louis, Missouri 
+December 15, 2006
+
+24 
+
+Table of Contents   
+
+Report of Ernst   Young LLP, Independent Registered Public Accounting Firm  
+The Shareholders and the Board of Directors 
+Spartech Corporation and Subsidiaries
+
+We have audited management s assessment, included in the accompanying Management s Report on
+Internal Control Over Financial Reporting, that Spartech Corporation and Subsidiaries (the Company)
+maintained effective internal control over financial reporting as of October 28, 2006, based on
+criteria established in Internal Control   Integrated Framework issued by the Committee of
+Sponsoring Organizations of the Treadway Commission (the COSO criteria). The Company s management
+is responsible for maintaining effective internal control over financial reporting and for their
+assessment of the effectiveness of internal control over financial reporting. Our responsibility
+is to express an opinion on management s assessment and an opinion on the effectiveness of the
+Company s internal control over financial reporting based on our audit.
+
+We conducted our audit in accordance with the standards of the Public Company Accounting Oversight
+Board (United States). Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether effective internal control over financial reporting was
+maintained in all material respects. Our audit included obtaining an understanding of internal
+control over financial reporting, evaluating management s assessment, testing and evaluating the
+design and operating effectiveness of internal control, and performing such other procedures as we
+considered necessary in the circumstances. We believe that our audit provides a reasonable basis
+for our opinion.
+
+A company s internal control over financial reporting is a process designed to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles. A
+company s internal control over financial reporting includes those policies and procedures that (1)
+pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the
+transactions and dispositions of the assets of the company; (2) provide reasonable assurance that
+transactions are recorded as necessary to permit preparation of financial statements in accordance
+with generally accepted accounting principles, and that receipts and expenditures of the company
+are being made only in accordance with authorizations of management and directors of the company;
+and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized
+acquisition, use, or disposition of the company s assets that could have a material effect on the
+financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or
+detect misstatements. Also, projections of any evaluation of effectiveness to future periods are
+subject to the risk that controls may become inadequate because of changes in conditions, or that
+the degree of compliance with the policies or procedures may deteriorate.
+
+In our opinion, management s assessment that the Company maintained effective internal control over
+financial reporting as of October 28, 2006, is fairly stated, in all material respects, based on
+the COSO criteria. Also, in our opinion, the Company maintained, in all material respects,
+effective internal control over financial reporting as of October 28, 2006, based on the COSO
+criteria . 
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight
+Board (United States), the consolidated balance sheets of the Company as of October 28, 2006, and
+October 29, 2005, and the related consolidated statements of operations, shareholders  equity and
+cash flows of the Company for each of the three years in the period ended October 28, 2006, and our
+report dated December 15, 2006, expressed an unqualified opinion thereon.
+
+/s/ Ernst   Young LLP
+
+St. Louis, Missouri 
+December 15, 2006
+
+25 
+
+Table of Contents   
+
+SPARTECH CORPORATION AND SUBSIDIARIES 
+
+CONSOLIDATED BALANCE SHEETS 
+
+(Dollars in thousands) 
+
+See accompanying notes to consolidated financial statements. 
+
+26 
+
+Table of Contents   
+
+SPARTECH CORPORATION AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+(Dollars in thousands, except per share amounts) 
+
+See accompanying notes to consolidated financial statements. 
+
+27 
+
+Table of Contents   
+
+SPARTECH CORPORATION AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS  EQUITY 
+
+(Dollars in thousands) 
+
+See accompanying notes to consolidated financial statements. 
+
+28 
+
+Table of Contents   
+
+SPARTECH CORPORATION AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+(Dollars in thousands) 
+
+See accompanying notes to consolidated financial statements 
+
+29 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+(Dollars in thousands, except per share amounts) 
+
+1) Significant Accounting Policies 
+
+Basis of Presentation   - The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and assumptions that affect
+reported amounts and related disclosures. Actual results could differ from those estimates.
+Certain prior year amounts have been reclassified to conform to the current year presentation. The
+Company s fiscal year ends on the Saturday closest to October 31.
+
+Principles of Consolidation   - The accompanying consolidated financial statements include the
+accounts of Spartech Corporation and its controlled affiliates. All intercompany transactions and
+balances have been eliminated. Investments in entities of 20% to 50% of the outstanding capital
+stock of such entities are accounted for by the equity method.
+
+Segments     Spartech is organized into two reportable segments and one group of operating
+segments based on the products manufactured. The two reportable segments are Custom Sheet and
+Rollstock and Color and Specialty Compounds with the remaining businesses grouped together in
+Engineered Products. The Color and Specialty Compounds segment consists of three operating
+segments that are aggregated into a reportable segment based on the nature of the products
+manufactured. The Engineered Products group consists of four operating segments that are combined
+because each operating segment does not meet the materiality threshold for separate disclosure.
+
+Revenue Recognition   - The Company manufactures products for specific customer orders and for
+standard stock inventory. Revenues are recognized and billings are rendered as the product is
+shipped to the customer in accordance with U.S. generally accepted accounting principles as well as
+the Securities and Exchange Commission s Staff Accounting Bulletin 104. Shipping and handling
+costs associated with the shipment of goods are recorded as costs of sales in the consolidated
+statement of operations.
+
+Cash Equivalents   - Cash equivalents consist of highly liquid investments with original
+maturities of three months or less.
+
+Allowance for Doubtful Accounts   - The Company performs ongoing credit evaluations of customers
+that include reviewing creditworthiness from third-party reporting agencies, monitoring payment
+histories, and adjusting credit limits as necessary. The Company continually monitors collections
+and payments from customers and maintains a provision for estimated credit losses based on
+specifically identified customer collection issues.
+
+Inventories   - Inventories are valued at the lower of cost or market. Inventory values are
+primarily based on either actual or standard costs which approximate average cost. Standard costs
+are revised at least once annually, the effect of which is allocated between inventories and cost
+of sales. Finished goods include the costs of material, labor, and overhead.
+
+Property, Plant, and Equipment   - Property, plant, and equipment are carried at cost less
+accumulated depreciation. Major additions and improvements are capitalized. Maintenance and
+repairs are expensed as incurred. Depreciation expense is recorded on a straight-line basis over
+the estimated useful lives of the related assets as shown below and totaled $35,980, $34,441, and
+$30,864 in years 2006, 2005, and 2004, respectively.
+
+Goodwill     Assets and liabilities acquired in business combinations are accounted for using
+the purchase method and recorded at their respective fair values. Goodwill is assigned to the
+reporting unit which benefits from the acquired business. The Company s annual goodwill impairment
+testing date is the first day of the Company s fourth quarter or prior to the next annual testing
+date if an event occurs or circumstances change that would make it more likely than not that the
+fair value of a reporting unit is below its carrying amount. The goodwill impairment test is a
+two-step process which requires us to make judgmental assumptions regarding fair value. The first
+step consists of estimating the fair value of each reporting unit using a number of judgmental
+factors including projected future operating results and business plans, economic projections,
+anticipated future cash flows, discount rates and comparable marketplace fair value data from
+within a comparable industry grouping. The estimated fair values of each reporting unit are
+compared to the respective carrying values which includes allocated goodwill. If the estimated
+fair value is less than the carrying value, the second step is completed to compute the impairment
+amount by determining the  implied fair value  of goodwill. This determination requires the
+allocation of the estimated fair value of the
+
+30 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+reporting unit to the assets and liabilities of the reporting unit. Any remaining unallocated
+fair value represents the  implied fair value  of goodwill which is compared to the corresponding
+carrying value to compute the goodwill impairment amount. Management believes the estimates of the
+underlying components of fair value are reasonable.
+
+Statement of Financial Accounting Standards ( SFAS ) 142,  Goodwill and Other Intangible Assets 
+( SFAS 142 ) requires the completion of an impairment test for goodwill as of an annual date and
+whenever events or circumstances occur that indicate goodwill may be impaired. The Company s
+accounting policy was to complete the annual impairment test on the last day of the Company s
+fiscal year. Effective in the second quarter of fiscal 2006, the Company changed its accounting
+policy to complete the annual impairment test for goodwill to the first day of the Company s fourth
+quarter. This change provides additional time to complete the impairment testing and evaluate the
+results. This change in accounting policy had no impact on the Company s financial results or
+financial position.
+
+Other Intangible Assets     Costs allocated to customer contracts, product formulations and
+other intangible assets are based on their fair value at the date of acquisition. The cost of
+other intangible assets is amortized on a straight-lined basis over its estimated useful life
+ranging from 3 to 15 years unless such life is deemed indefinite. Identified intangible assets
+that have indefinite useful lives will be amortized when their useful life is determined to no
+longer be indefinite.
+
+Long-lived Assets     The Company reviews the carrying amounts of property, plant and equipment,
+other intangible assets and other long-lived assets for potential impairment if an event occurs or
+circumstances change that indicates the carrying amount may not be recoverable. In evaluating the
+recoverability of a long-lived asset, such assets are grouped at the lowest level for which
+identifiable cash flows are largely independent of the cash flows of other assets, and management
+compares the carrying value of each asset group with the corresponding estimated undiscounted
+future operating cash flows. In the event the carrying value of an asset group is not recoverable
+by future undiscounted operating cash flows, impairment exists. In the event of impairment, an
+impairment charge would be measured as the amount by which the carrying value of the long-lived
+asset group exceeds its fair value.
+
+Financial Instruments   - The Company selectively uses derivative financial instruments to
+manage its interest costs as well as its balance of floating rate and fixed rate financings. No
+credit loss is anticipated from such instruments because the counterparties to these agreements are
+major financial institutions with high credit ratings. The Company does not enter into derivatives
+for trading purposes. The net amount paid or received under an interest rate swap agreement was
+recorded as interest expense.
+
+Derivative instruments (including certain derivative instruments embedded in other contracts)
+are recorded in the balance sheet as either an asset or liability measured at fair value, and
+changes in the derivative s fair value are recognized currently in earnings unless specific hedge
+accounting criteria are met. Special accounting for qualifying derivatives designated as fair
+value hedges allows a derivative s gains and losses to be offset in the income statement by the
+related change in the fair value of the hedged item. Special accounting for qualifying derivatives
+designated as cash flow hedges allows the effective portion of a derivative s gains and losses to
+be reported as a component of accumulated other comprehensive income or loss and reclassified into
+earnings in the period during which the hedged transaction affects earnings. No such contracts
+were outstanding as of October 28, 2006 or October 29, 2005.
+
+The Company uses the following methods and assumptions in estimating the fair value of
+financial instruments:
+
+Cash, accounts receivable, accounts payable, and accrued liabilities   the carrying
+value of these instruments approximates fair value due to their short-term nature; 
+
+Derivative financial instruments   based upon quoted market prices or market prices for
+instruments with similar terms and maturities; and 
+
+Long-term debt (including bank credit facilities and convertible subordinated
+debentures)   based on quoted, current market prices for the same or similar issues. As of
+October 28, 2006, the fair value of other long-term debt was $288,221 compared to the
+carrying amount of $289,223. 
+
+Stock-Based Compensation   - On October 30, 2005, the Company adopted SFAS 123 (revised 2004),
+ Share-Based Payment  ( SFAS 123(R) ). The Company adopted the provisions of SFAS 123(R) using the
+modified prospective transition method. Under this method, the Company s consolidated financial
+statements of 2006 reflect the impact of SFAS 123(R), while the consolidated financial statements
+for prior periods have not been restated to reflect, and do not include, the impact of SFAS 123(R).
+Prior to the adoption of SFAS 123(R) the Company had adopted the disclosure-only provisions of
+SFAS 123
+
+31 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+and accounted for stock-based compensation under the intrinsic value method, and no expense
+related to stock options was recognized.
+
+Foreign Currency Translation   - Assets and liabilities of the Company s non-U.S. operations are
+translated from their local functional currency to U.S. dollars using exchange rates in effect at
+the balance sheet date. Results of operations are translated using average rates during the
+period. Adjustments resulting from the translation process are included in accumulated other
+comprehensive income. Transactional gains and losses arising from receivable and payable balances,
+including intercompany balances, in the normal course of business that are denominated in a
+currency other than the functional currency of the operation are recorded in income when they
+occur. The Company may periodically enter into foreign currency contracts to manage exposures to
+market risks from prospective changes in exchange rates. No such contracts were outstanding as of
+October 28, 2006 or October 29, 2005.
+
+Income Taxes   - Deferred tax assets and liabilities are recognized for the future tax
+consequences attributable to temporary differences between the financial statement carrying amounts
+of assets and liabilities and their respective tax bases. Deferred tax assets are also recognized
+for credit carryforwards and then assessed (including the anticipation of future income) to
+determine the likelihood of realization. A valuation allowance is established to the extent
+management believes that it is more likely than not that a deferred tax asset will not be realized.
+Deferred tax assets and liabilities are measured using the rates expected to apply to taxable
+income in the years in which the temporary differences are expected to reverse and the credits are
+expected to be used. The effect of a change in tax rates on deferred tax assets and liabilities is
+recognized in income in the period that includes the enactment date. The Company accrues for tax
+contingencies when it is probable that a liability to a taxing authority has been incurred and the
+amount of the contingency can be reasonably estimated.
+
+Comprehensive Income   - Comprehensive income is the Company s change in equity during the
+period related to transactions, events, and circumstances from non-owner sources. At October 28,
+2006 and October 29, 2005, accumulated other comprehensive income consisted of cumulative foreign
+currency translation adjustments. In 2005, a cumulative currency translation gain of $1,909 was recognized during the sale of foreign business.
+
+Recently Issued Accounting Standards  
+
+In June 2006, the FASB issued FIN No. 48,  Accounting for Uncertainty in Income Taxes   an
+Interpretation of FASB Statement No. 109  ( FIN 48 ), which clarifies the accounting for uncertainty
+in tax positions. FIN 48 requires financial statement recognition of the impact of a tax position,
+if that position is more likely than not to be sustained on examination, based on the technical
+merits of the position. The provisions of FIN 48 will be effective for the Company beginning in
+fiscal 2008 with the cumulative effect of the change in accounting principle recorded as an
+adjustment to opening retained earnings. Management is currently evaluating the impact of FIN 48
+on the Company s consolidated financial statements.
+
+In September 2006, the FASB issued SFAS 157,  Fair Value Measurements  ( SFAS 157 ). SFAS 157
+defines fair value, establishes a framework for measuring fair value in generally accepted
+accounting principles, and expands disclosures about fair value measurements. This statement is
+effective for the Company beginning in fiscal 2009. Management is currently evaluating the impact
+of SFAS 157 on the Company s consolidated financial statements.
+
+2) Acquisitions 
+
+On October 1, 2004, the Company completed the acquisition of substantially all of the assets
+of three divisions of VPI, based in Sheboygan, Wisconsin. The operations purchased included (1)
+The Sheet Products Division, a custom extruded sheet manufacturer serving the graphic arts, medical
+packaging, and specialty retail markets; (2) The Contract Manufacturing Division, a provider of
+non-carpet flooring and sound barrier products to the transportation industry; and (3) The Film and
+Converting Division which calenders, prints, and laminates products for distribution to various
+markets including the medical, recreation, and leisure markets. The Sheet Products Division was
+added to the Company s Custom Sheet and Rollstock segment, and the Contract Manufacturing and Film
+and Converting Divisions were added to the Color and Specialty Compounds segment. Sales within the
+three divisions acquired totaled approximately $110,000 for the 12 months prior to acquisition.
+The cash price for this acquisition of $87,758 was allocated to the assets acquired and liabilities
+assumed of $97,694 and $9,936, respectively. The assets acquired include $23,009 of working
+capital assets, $39,142 of property, plant, and equipment, $17,780 of identified intangibles and
+$17,763 of goodwill, all of which is deductible for tax purposes. The identified intangibles and
+respective weighted average amortization periods are $15,310 of customer contracts and
+relationships (ten years), $1,430 of technology (ten years) and $1,040 of non-compete agreements
+(three years).
+
+32 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+3) Stock-Based Compensation 
+
+On October 30, 2005, the Company adopted SFAS 123(R) using the modified prospective transition
+method. Under this method, the Company s consolidated financial statements of 2006 reflect the
+impact of SFAS 123(R), while the consolidated financial statements for prior periods have not been
+restated to reflect, and do not include, the impact of SFAS 123(R). SFAS 123(R) amends SFAS No.
+95,  Statement of Cash Flows , to require that excess tax benefits be reported as a financing cash
+inflow rather than as a reduction of taxes paid, which is included within operating cash flows.
+Adoption of SFAS 123(R) did not have a material impact on the Consolidated Statements of Cash
+Flows.
+
+The Company s long-term share-based compensation plans allow for grants of stock options,
+restricted stock and restricted stock units. During 2006, expense associated with stock options
+was $2,507 and expense associated with restricted stock units was $283. The following table
+details the effect of stock-based compensation from the issuance of stock options and restricted
+stock units on 2006 operating earnings, net income and earnings per share:
+
+Prior to the adoption of SFAS 123(R) the Company had adopted the disclosure-only provisions of
+SFAS 123 and accounted for stock-based compensation under the intrinsic value method, and no
+expense related to stock options was recognized. Had the fair value recognition provisions of SFAS
+123 been adopted by the Company, the effect on net income and earnings per common share in 2005 and
+2004 would have been as follows:
+
+As discussed in Note 8, during 2005, the Company entered into a retirement agreement with its
+former Chief Executive Officer ( CEO ). Among other items, the agreement included an amendment to
+the terms of the former CEO s vested stock options to treat his resignation as a retirement before
+having reached the minimum retirement age of 60 specified in his option agreements which resulted
+in a new measurement of the options for accounting purposes and a non-cash, pre-tax expense of
+$831. In addition, the agreement required the cancellation of all the former CEO s unvested stock
+options.
+
+The Company s plan requires the exercise price of stock options to be the fair market value of
+the Company s stock, at a minimum, at the date of grant. Under the plan, up to 3 million shares of
+common stock may be granted and options are typically granted with lives of 10 years with graded
+vesting over four years. Restricted stock units, which have been awarded only to non-employee
+directors of the Company, provide the grantee the right to receive one share of common stock per
+restricted unit at the end of the restricted period and to receive dividend equivalents during the
+restricted period in the form of additional restricted stock units. The restricted period ends one
+year after the director leaves the Board of Directors. During 2006, 2005 and 2004 the Company
+granted 13,304, 8,353 and 7,663 restricted stock units, respectively to non-employee
+
+33 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+directors and
+recognized $283, $217 and $180 of compensation expense, respectively. The compensation expense of
+the restricted stock units is based on the fair value of the Company s stock at the date of grant.
+As of October 28, 2006, there were 29,319 restricted stock units outstanding.
+
+The estimated fair value of stock option grants is computed using the Black-Scholes
+option-pricing model. Expected volatility is based on historical periods generally commensurate
+with the expected life of options and expected life is based on historical experience and expected
+exercise patterns in the future. Stock option expense is recognized in the consolidated statements
+of operations ratably over the vesting period based on the number of options that are expected to
+ultimately vest. The following table presents the assumptions used in valuing options granted
+during 2006, 2005 and 2004:
+
+Changes in stock options for 2006, 2005, and 2004 are as follows:
+
+Information with respect to options outstanding at October 28, 2006 follows (shares in
+thousands):
+
+The total intrinsic value, cash received and actual tax benefit realized for stock options
+exercised in 2006, 2005 and 2004 is as follows:
+
+The intrinsic value for stock options outstanding at October 28, 2006 was $12,810 with a
+remaining average term of 4.7 years while the intrinsic value for stock options exercisable was
+$8,697 with a remaining average term of 4.6 years. As of October 28, 2006, there was $4,337 of
+unrecognized compensation cost related to approximately 807 thousand nonvested stock
+
+34 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+options that
+we expect to ultimately vest which have a $22.28 weighted average exercise price. The unrecognized
+compensation cost is expected to be recognized over a weighted-average period of 2.9 years.
+
+4) Inventories 
+
+Inventories at October 28, 2006 and October 29, 2005 are comprised of the following components:
+
+5) Property, Plant, and Equipment 
+
+Property, plant, and equipment consisted of the following at October 28, 2006 and October 29,
+2005:
+
+6) Goodwill and Identifiable Intangible Assets 
+
+Changes in the carrying amount of goodwill for the years ended October 28, 2006 and October
+29, 2005 are as follows:
+
+The goodwill impairment in 2006 resulted from the reorganization of a reporting unit in the
+Engineered Products group. A single reporting unit was split into two reporting units and goodwill
+was allocated to the new reporting units using the relative fair value of those reporting units.
+The fair value of the new Spartech Profiles reporting unit based on future operating projections
+did not support the allocated fair value of goodwill.
+
+The goodwill impairments in 2005 resulted from the underperformance of one profiles operation
+in the Engineered Products group and the loss of a major customer at an operation in the Color and
+Specialty Compounds segment, both of which resulted in future operating projections that did not
+support the existing fair value of goodwill. Reclassifications in 2005 represent acquisition
+opening balance adjustments between goodwill and other intangible assets and deferred taxes, and
+transfer of the Spartech PEP reporting unit from the Custom Sheet and Rollstock reporting segment
+to the Color and Specialty Compound reporting segment. In addition, during 2005, the Company sold
+two operations that constituted businesses and disposed of the relative goodwill attributable to
+those businesses.
+
+35 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+As of October 28, 2006 and October 29, 2005, the Company had amortizable intangible assets as
+follows:
+
+Amortization expense for intangible assets totaled $4,718, $4,939 and $2,840 in 2006, 2005 and
+2004, respectively. Amortization expense for amortizable intangible assets over the next five
+years is estimated to be:
+
+The Company has an $8,900 trademark included in other intangible assets which has an
+indefinite life and, therefore is not subject to amortization.
+
+7) Restructuring 
+
+2006 Restructuring Plan 
+
+In 2006, the Company announced the consolidation of three existing Custom Sheet and Rollstock
+production facilities into one newly constructed facility. The following table summarizes the
+restructuring and exit costs related to the 2006 restructuring plan:
+
+Accelerated depreciation represents the impact from the reduced life on property, plant and
+equipment related to a decision to sell one of the existing production facilities after the
+consolidation is complete. Facility restructuring charges represent employee severance costs. The
+Company expects to incur additional charges of approximately $450 of cash restructuring costs,
+primarily employee severance and equipment moving expenses, and $500 of non-cash restructuring
+expenses representing accelerated depreciation on the facility and equipment that will be sold
+after completion of the consolidation. These charges are expected to occur in 2007. The Company s
+restructuring liability related to the 2006 restructuring plan was $75 at October 28, 2006 which
+reflects severance charges incurred during 2006 with no cash payments made during the year. The
+2006 Restructuring Plan is expected to be finalized by the end of 2007.
+
+36 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+2005 Restructuring Plan 
+
+In 2005, the Company initiated a plan involving the closing or sale of certain plant
+facilities and other cost reduction efforts that were segregated into three categories: (i) the
+elimination of non-core operations and assets, (ii) the consolidation of capacity for similar
+operations, and (iii) the transfer of synergistic or new business to other existing operations. In
+conjunction with this restructuring plan, the Company made the following decisions:
+
+reduce the number of operating facilities across all segments by seven 
+
+sell a calendered film line in the Color and Specialty Compounds segment 
+
+consolidate three Color and Specialty Compounds production facilities into the Company's Donora facility 
+
+terminate the lease on its airplane 
+
+The following table summarizes the restructuring and exit costs related to the 2005
+restructuring plan incurred during 2006 and 2005:
+
+Fixed asset impairment, net represents charges incurred to adjust assets to fair market value,
+less costs to sell and net of any gain or loss on the ultimate sale of the assets. The goodwill
+write-offs represent charges incurred to dispose of goodwill related to two businesses which were
+sold. Facility restructuring charges represent exit costs including severance, equipment moves,
+relocation, and other related costs. The airplane lease buy-out represents termination fees and
+selling expenses.
+
+Of the $10,088 total restructuring and exit costs recognized in 2005, $2,890 represents cash
+expended for facility restructuring, the airplane lease buy-out and severance associated with sold
+assets. The $7,198 remaining difference represents losses on the sales of assets. The asset sales
+provided $11,183 of cash proceeds, $9,116 of which was received as of the end of 2005 with the
+remainder received in the second quarter of 2006.
+
+The $1,656 of restructuring and exit costs incurred in 2006 primarily represents equipment
+moving costs and employee severance in the Color and Specialty Compounds segment associated with
+the Donora consolidation. In 2006, the Company also finalized the sale of a Custom Sheet and
+Rollstock facility that was previously classified as held for sale. The sale resulted in $361 of
+cash proceeds and a $71 gain. As of the end of 2006, within the Color and Specialty Compounds
+segment, the Company had $347 of assets held for sale representing a calendered film line and
+building which are classified in other current assets and are expected to be sold during 2007. The
+2005 restructuring plan activities are substantially complete.
+
+37 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+The change in the liability for the 2005 restructuring plan follows:
+
+The Company continues to evaluate other operations for opportunities which provide
+efficiencies or fixed cost reductions. These evaluations may lead to further plant restructuring
+decisions, related exit costs, and property, plant and equipment write-downs.
+
+8) Former CEO Retirement 
+
+The Company entered into a Retirement Agreement and Release ( Retirement Agreement ),
+effective on May 6, 2005, with its former Chairman, President, and Chief Executive Officer, Bradley
+B. Buechler. This Retirement Agreement replaced Mr. Buechler s Amended and Restated Employment
+Agreement dated November 2, 2002.
+
+The Retirement Agreement included various terms and conditions pertaining to Mr. Buechler s
+retirement. The payments and benefits paid to Mr. Buechler under this Retirement Agreement
+included the following major provisions:
+
+A cash settlement paid June 3, 2005, based upon a multiple of Mr. Buechler s former
+annual salary plus his previous deferred compensation arrangement, totaling $2,711. 
+
+A bonus to be paid based on the Company s 2005 results pro-rated for Mr. Buechler s
+employment through the effective date of the Retirement Agreement. 
+
+An amendment to the terms of Mr. Buechler s vested stock options to permit him to
+retire before having reached the minimum retirement age of 60 specified in his option
+agreements, resulting in a new measurement of the options for accounting purposes and a
+non-cash expense of $831. 
+
+The provisions of the Retirement Agreement resulted in a $3,645 charge to operating earnings
+in 2005.
+
+38 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+9) Fixed Asset Charge 
+
+As part of the Company s Sarbanes-Oxley compliance process, management initiated a complete
+physical count of the Company s property, plant and equipment in the first quarter of 2005. The
+counts were reconciled to balances recorded in the Company s books and records, and equipment
+having a book value of $8,794 at the end of April 2005 that was previously disposed was identified
+and written off.
+
+The previously unrecorded disposals were primarily related to transactions for plant
+shutdowns, transfers of equipment between plants and equipment recorded in error upon acquisition
+of businesses. Although the previously unrecorded disposals and acquisition accounting errors were
+identified in 2005, the charge to write off these assets has been recorded at the net book value as
+of the date of disposition or acquisition in the respective prior periods. The net book value at
+the dates of disposition or acquisition totaled $14,436 which is greater than the $8,794 previous
+charge due to the recapture of depreciation expense between the dates of disposition or business
+acquisition and April 2005. Of the $14,436 amount, $11,345 represented the net book value of
+previously unrecorded disposals or acquisition accounting errors for which there was sufficient
+evidence to conclude when the equipment was disposed or recorded upon acquisition in error. Of
+this $11,345 population, $4,587 was recorded in the Company s 2001 through 2004 results as a fixed
+asset charge relating to equipment disposals occurring in this period, $5,605 was recorded as an
+adjustment to 2001 beginning retained earnings relating to equipment disposals occurring prior to
+2001, and $1,153 was recorded as an increase to goodwill relating to acquisition purchase price
+allocation errors occurring prior to 2001. A remaining population of previously unrecorded
+disposals was recorded on the last day of 2004 because the Company does not have sufficient
+evidence to determine a disposal date with any certainty but does have evidence that these assets
+were disposed prior to 2005. The net book value of this population was $3,091 as of the last day
+of 2004 and was recorded as a fixed asset charge on that date.
+
+During the count process, the Company also identified equipment that existed and that the
+Company elected to liquidate. The decision to liquidate these assets resulted in a $1,870 fixed
+asset impairment charge in 2005. This impairment charge, combined with the charge related to the
+previously unrecorded disposals, is presented as non-cash fixed asset charges of $1,870 and $3,522
+in 2005 and 2004, respectively. There were no fixed asset charges in 2006. The following presents
+the fixed asset charge by reporting segment for 2005 and 2004:
+
+10) Convertible Subordinated Debentures and Other Long-Term Debt 
+
+Convertible Subordinated Debentures 
+
+On June 7, 2006, the Company redeemed its $50,000, 6.5% convertible subordinated debentures,
+and on July 12, 2006 the Company redeemed its $100,000, 7.0% convertible subordinated debentures.
+The Company recorded $3,780 of early-payment premiums and $1,725 of non-cash write-offs of
+unamortized debt issuance costs from the extinguishment of its debentures in the third quarter of
+2006. Proceeds from a new issuance of senior notes as well as funds from the Company s unsecured
+bank credit facility were used to extinguish the convertible subordinated debentures.
+
+39 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+Other Long-Term Debt 
+
+Other long-term debt is comprised of the following at October 28, 2006 and October 29, 2005:
+
+On June 5, 2006, the Company completed a $50,000 private placement of 5.78% Senior Unsecured
+Notes which are payable on June 5, 2011. The notes do not require annual principal payments, but
+can be prepaid at the Company s option after June 5, 2009 at par. Interest on the 2006 Notes is
+payable semi-annually on December 5 and June 5 of each year.
+
+On September 15, 2004, the Company completed a $150,000 private placement of 5.54% Senior
+Unsecured Notes over a twelve-year term. The 2004 Notes require equal annual principal payments of
+$30,000 that commence on September 15, 2012. Interest on the 2004 Notes is payable semiannually on
+March 15 and September 15 of each year.
+
+On August 22, 1997, the Company completed a private placement of 7.0% Senior Unsecured Notes
+consisting of $45,000 designated as Series A and $15,000 designated as Series B. The Series A 1997
+Notes require equal annual principal payments of approximately $6,429 that commenced on August 22,
+2001 and the required $15,000 principal payment due on the Series B 1997 Notes was paid on August
+22, 2004. Interest on the 1997 Notes is payable semiannually on February 22 and August 22 of each
+year.
+
+On September 27, 1996, the Company completed a $30,000 private placement of 7.62% Guaranteed
+Unsecured Notes over a ten-year term. The 1996 Notes required equal annual principal payments of
+approximately $4,286 with the final payment made on December 16, 2005. Interest on the 1996 Notes
+was payable semiannually on March 27 and September 27 of each year.
+
+On June 2, 2006 the Company amended its existing U.S. unsecured bank credit facility agreement
+which increased the total availability from $200,000 to $300,000 and extended the term to June 2,
+2011. Interest on the amended bank credit facility is payable at a rate chosen by the Company of
+either Prime or the Eurodollar rate plus a 0.625% to 1.0% borrowing margin and requires a fee of
+0.125% to 0.2% on the unused portion of the facility. The amended bank credit facility requires
+the Company to maintain certain affirmative and negative covenants which include minimum
+consolidated net worth, minimum interest coverage and maximum total leverage requirements. On
+April 27, 2004, the Company s Canadian subsidiary entered into a $10,000 (Canadian Dollar)
+revolving credit facility in Canada that expires on March 3, 2009.
+
+The total capacity under the Company s bank credit facilities was $308,938 of which $246,018
+was available at October 28, 2006. Borrowings under these facilities are classified as long-term,
+because no paydowns of the aggregate facilities are required within the next year and we have the
+ability and intent to keep the balances outstanding over the next 12 months. At October 28, 2006,
+the Company had fixed LIBOR loans outstanding under the bank credit facilities of $48,000 at 6.07%
+in the U.S. for a one-month period. At October 29, 2005, the Company had LIBOR loans of $11,600 at
+4.815% in the U.S. and additional borrowings of $12,600 at the prime rate of 6.75%. In addition to
+the outstanding loans, the bank credit facility was also partially utilized by several standby
+letters of credit amounting to $14,920 at year-end.
+
+On February 16, 2005, the Company entered into a 20 million Euro bank term loan that matures
+on February 16, 2010. Interest on the term loan is payable monthly at a floating rate chosen by
+the Company equal to either the one-month, three-month, or six-month EURIBO rate plus a 1%
+borrowing margin. At October 28, 2006, the 20 million Euro term loan was outstanding at a rate of
+4.52%.
+
+40 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+The Company s other debt consists primarily of industrial revenue bonds utilized to finance
+capital expenditures. These financings mature between 2007 and 2016 and have interest rates
+ranging from 2.0% to 3.75%. Scheduled maturities of long-term debt for the next five years and
+thereafter are:
+
+The long-term debt contains certain covenants which, among other matters, require the Company
+to restrict the incurrence of additional indebtedness, satisfy certain ratios and net worth levels,
+and limit both the sale of assets and merger transactions.
+
+11) Shareholders  Equity 
+
+The authorized capital stock of the Company consists of 55 million shares of $.75 par value
+common stock and 4 million shares of $1 par value preferred stock. On February 3, 2004, the
+Company completed a common stock offering for 2.7 million newly issued shares. The stock was sold
+to the public at $24.00 per share. The net proceeds received by the Company for the sales of the
+shares totaled $60,922 with $40,922 used to pay down debt and the remaining funds used to fund
+capital expenditures and strategic expansions. After the offering, the Company s common issued
+shares increased by 8.8% to 33 million.
+
+At October 28, 2006, 1.0 million shares of common stock were held in treasury shares,
+primarily for issuance under the Company s stock-based compensation plans. During 2006, 42
+thousand treasury shares were acquired and 178 thousand shares were issued.
+
+The Company has a Shareholder Rights Plan in which rights trade with, and are inseparable
+from, each share of common stock. Prior to exercise, a Right does not give its holder any
+dividend, voting, or liquidation rights. Under certain circumstances, a Right may be exercised to
+purchase one one-thousandth of a share of Series Z Preferred Stock for $70 per share. The Rights
+become exercisable, subject to certain exceptions, if a new person or group acquires beneficial
+ownership of 15% or more, to purchase shares of the Company s common stock with a market value of
+$140.00, for $70.00 per Right. The Rights will expire on April 2, 2011 and may be redeemed by the
+Company for $.01 per Right at any time before a new person or group becomes a beneficial owner of
+15% or more of the Company s outstanding common stock.
+
+41 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+12) Income Taxes 
+
+Earnings before income taxes consist of the following:
+
+The provision for income taxes for 2006, 2005, and 2004 is comprised of the following:
+
+The income tax provision on earnings of the Company differs from the amounts computed by
+applying the U.S. Federal tax rate of 35% as follows:
+
+The increase in tax expense from the impairment of goodwill represents the portion of goodwill
+impairments of current businesses plus goodwill written off for disposed businesses that were not
+deductible for tax purposes.
+
+42 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+At October 28, 2006 and October 29, 2005 the Company s principal components of deferred tax
+assets and liabilities consisted of the following:
+
+At October 28, 2006 and October 29, 2005, the net current deferred tax asset was $7,454 and
+$5,314, respectively and the net noncurrent deferred tax liability was $97,681 and $92,044,
+respectively.
+
+As of October 28, 2006 no deferred income taxes or foreign withholding taxes have been
+provided on the $28,828 in accumulated earnings of the Company s foreign subsidiaries that are not
+subject to United States income tax. The Company s intention is to reinvest these earnings
+indefinitely. If the Company changed its intentions or if such earnings were remitted to the
+United States, as of October 28, 2006, the Company would be required to recognize approximately
+$4,500 to $6,000 of additional income tax expense. In October 2004, the American Jobs Creation Act
+of 2004 was signed into law. The new law creates an incentive for U.S. multinationals to
+repatriate accumulated income earned abroad by providing an 85% dividend received deduction for
+certain dividends from controlled foreign corporations. The Company reviewed the implications of
+the new law on repatriation of earnings and determined that no repatriation would be made in 2005.
+
+As of October 28, 2006, the Company had available approximately $7,723 in net operating loss
+carryforwards which related to the France and Mexico operations. The Company assessed the
+likelihood as to whether or not these net operating loss carryforwards would be utilized prior to
+their expiration based on the amount of positive evidence available. The Company concluded that it
+is more likely than not that the $2,634 net operating loss carryforward in Mexico will be utilized
+prior to its expiration in 2012 to 2015 based on the amount of expected future taxable income. The
+Company evaluated its France net operating loss carryforward of $5,089 and determined that a
+valuation allowance of $4,699 was required for the amount of net operating losses that cannot be
+carried back or utilized through tax planning strategies. This asset would be realized upon
+consistent future earnings that are sustained over a period of time. Despite the fact that the
+France net operating loss carryforward has an unlimited life, and management believes it will
+ultimately be realized, the positive evidence required to overcome recent operating losses was not
+sufficient to support recognition as of the end of 2006.
+
+43 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+13) Earnings Per Share 
+
+Basic earnings per share excludes any dilution and is computed by dividing net income
+available to common stockholders by the weighted average number of common shares outstanding for
+the period. Diluted earnings per share reflects the potential dilution that could occur if
+securities or other contracts to issue common stock were exercised or converted into common stock
+or resulted in the issuance of common stock that then shared in the earnings of the entity.
+
+The reconciliation of the net earnings and weighted average number of common shares used in
+the computations of basic and diluted earnings per share 2006, 2005, and 2004 was as follows
+(shares in thousands):
+
+The effect of stock options represents the shares resulting from the assumed exercise of
+outstanding stock options calculated using the treasury stock method. The effect of convertible
+subordinated debentures represents the shares resulting from the assumed conversion using the  if
+converted  method and the add-back of the interest expense, after tax, for the assumed conversion
+at the beginning of each year. In 2006, these debentures were antidilutive, and the calculation of
+diluted earnings per share excluded 3,058,031 potentially dilutive shares and the benefits of
+interest expense, deferred financing cost write-offs and an early payment premium totaling $7,667,
+net of tax. In 2005, these debentures were antidilutive, and the calculation of diluted earnings
+per share excluded 4,577,838 potentially dilutive shares and the benefit of an interest expense
+add-back of approximately $6,351, net of tax. In 2004, a portion of these debentures were
+antidilutive and the diluted earnings per share calculation excluded 2,941,176 potentially dilutive
+shares and the benefit of an interest expense add back of $4,368 net of tax.
+
+14) Employee Benefits 
+
+The Company sponsors or contributes to various defined contribution retirement benefit and
+savings plans covering substantially all employees. The total cost of such plans 2006, 2005, and
+2004 was $2,827, $2,823, and $2,342, respectively.
+
+15) Cash Flow and Other Information 
+
+Supplemental information on cash flows 2006, 2005, and 2004 was as follows:
+
+44 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+16) Commitments and Contingencies 
+
+The Company conducts certain of its operations in facilities under operating leases. Rental
+expense in 2006, 2005, and 2004, was $10,699, $12,207, and $10,530, respectively. Future minimum
+lease payments under non-cancelable operating leases, by year, are as follows:
+
+In September 2003, the New Jersey Department of Environmental Protection issued a directive
+and the United States Environmental Protection Agency ( USEPA ) initiated an investigation related
+to over 70 companies, including a Spartech subsidiary, regarding the Lower Passaic River. The
+subsidiary subsequently agreed to participate in a group of over 40 companies in funding $10
+million of an estimated $20 million environmental study by the USEPA to determine the extent and
+source of contamination at this site, and as of the end of 2005, it had paid its total commitment
+of $250 towards this study. In 2006, the group s technical consultant advised the group of its
+belief that completion of the environmental study would significantly exceed the USEPA s original
+cost estimate. In the fourth quarter of 2006, the Company recorded a $627 charge in selling,
+general and administrative expense primarily for the subsidiary s expected funding to complete the
+study. As of October 28, 2006, there was $745 accrued related to this issue. The Company expects
+the $685 to be funded over five years, the expected timeframe of the study. Due to uncertainties
+inherent in this matter, management is unable to estimate the Company s potential exposure,
+including possible remediation or other environmental responsibilities that may result from this
+matter which is not expected to occur for a number of years. These uncertainties primarily include
+the completion and outcome of the environmental study and the percentage of contamination
+attributable to the subsidiary and other parties. It is possible that our ultimate liability
+resulting from this issue could materially differ from the October 28, 2006 accrual balance. In
+the event of one or more adverse determinations related to this issue, the impact on our results of
+operations could be material to any specific period. However, the Company s opinion is that future
+expenditures for compliance with these laws and regulations, as they relate to the Lower Passaic
+River issue and other potential issues, will not have a material effect on the Company s capital
+expenditures, financial position, or competitive position.
+
+The Company is also subject to various other claims, lawsuits, and administrative proceedings
+arising in the ordinary course of business with respect to commercial, product liability,
+employment, and other matters, several of which claim substantial amounts of damages. While it is
+not possible to estimate with certainty the ultimate legal and financial liability with respect to
+these claims, lawsuits, and administrative proceedings, the Company believes that the outcome of
+these other matters will not have a material adverse effect on the Company s financial position or
+results of operations.
+
+The Company had guaranteed 5,660 Euros associated with the local government s financing of the
+Company s Donchery, France facility expansion. The guarantees had various lives ranging from 3 to
+15 years and are set to expire between April 2007 and April 2019. Through the end of 2006, the
+Company paid 875 Euros toward this commitment through a transitory rent agreement. Subsequent to
+October 28, 2006, the Company and the local government entered into a financing agreement related
+to the Donchery, France facility to fulfill its remaining commitment. The financing agreement
+continues to use the transitory rent payments which will be finalized once the local government s
+financing amount is determined. During 2006, the long-term asset associated with the commitment
+was reclassified as property, plant and equipment because the facility expansion was complete. The
+remaining commitment of $6,079 is presented as an other current and long-term liability at October
+28, 2006 and will be reclassified as debt during the first quarter of 2007.
+
+45 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+17) Segment Information 
+
+The Company s facilities are organized into two reportable segments and one group of operating
+segments including businesses that do not meet the materiality threshold for separate disclosure.
+The Company utilizes operating earnings to evaluate business segment and group performance and
+determine the allocation of resources. Segment and group accounting policies are the same as
+policies described in Note 1. A description of the Company s reportable segments and group
+follows:
+
+Custom Sheet and Rollstock     This segment operates throughout North America and has one plant
+in Europe and is the largest extruder of plastic sheet, custom rollstock, laminates, and cell cast
+acrylic sheet in North America. Its finished products are formed by its customers for use in a
+wide variety of markets.
+
+Color and Specialty Compounds     This segment operates throughout North America and has one
+plant in Europe. It manufactures custom-designed plastic alloys, compounds, color concentrates,
+and calendered film for utilization in numerous applications. This segment s facilities comprise
+operating segments that are aggregated into a reportable segment based on the nature of the
+products manufactured.
+
+Engineered Products     This group operates in North America and manufactures a number of
+proprietary items. These include injection molded products, complete thermoplastic wheels and
+tires, and profile extruded products. This group s facilities comprise operating segments that are
+combined because each operating segment does not meet the materiality threshold for separate
+disclosure.
+
+Corporate operating earnings include corporate office expenses and portions of information
+technology and professional fees that are not allocated to the reportable segments and group.
+Corporate assets consist primarily of deferred taxes and cash and cash equivalents.
+
+46 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+In 2005, the Spartech PEP operating segment was moved from the Custom Sheet and Rollstock
+reportable segment to the Color and Specialty Compounds reportable segment because management of
+the operation was realigned to better leverage the Company s cost structure and improve
+coordination of marketing and selling efforts. All years have been restated as if this change
+occurred at the beginning of the periods presented.
+
+In addition to external sales to customers, intersegment sales were $58,427, $52,696, and
+$49,769 in 2006, 2005, and 2004, respectively. Most intersegment sales were generated from the
+Color and Specialty Compounds segment.
+
+Geographic financial information for 2006, 2005, and 2004 was as follows:
+
+18) Quarterly Financial Information 
+
+Certain unaudited quarterly financial information for years ended October 28, 2006 and October
+29, 2005 was as follows:
+
+Notes to table: 
+
+(a) 
+       
+     Gross profit is calculated as net sales less cost of sales and amortization expense. 
+
+(b) 
+       
+     Operating earnings and net earnings were impacted by special items and stock option expense
+in 2006 and 2005 as follows: 
+
+47 
+
+Table of Contents   
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   CONTINUED 
+(Dollars in thousands, except per share amounts) 
+
+48 
+
+Table of Contents   
+
+Item 9.    CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+AND FINANCIAL DISCLOSURE  
+
+None.
+
+Item 9A.    CONTROLS AND PROCEDURES  
+
+Spartech maintains a system of disclosure controls and procedures which are designed to ensure
+that information required to be disclosed by the Company in the reports filed under the Securities
+Exchange Act of 1934 is recorded, processed, summarized and reported within the time periods
+specified under the SEC s rules and forms. Based on an evaluation performed, the Company s
+certifying officers have concluded that the disclosure controls and procedures were effective as of
+October 28, 2006 to:
+
+a) 
+       
+     ensure that information required to be disclosed in the reports filed or submitted
+under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported
+within time periods specified in Securities and Exchange Commission rules and forms; and 
+
+b) 
+       
+     ensure that information is accumulated and communicated to the Company s management,
+including the Chief Executive Officer and Chief Financial Officer, to allow timely
+decisions regarding required disclosures. 
+
+Notwithstanding the foregoing, there can be no assurance that the Company s disclosure
+controls and procedures will detect or uncover all failures of persons within the Company and its
+consolidated subsidiaries to report material information otherwise required to be set forth in the
+Company s reports.
+
+There was no change in the Company s internal control over financial reporting during the
+quarter ended October 28, 2006, that has materially affected, or is reasonably likely to materially
+affect, the Company s internal control over financial reporting.
+
+Management s report on internal control over financial reporting, and the related report
+of the Company s independent registered public accounting firm, Ernst   Young LLP, are included in
+Item 8.
+
+Item 9B.    OTHER INFORMATION  
+
+None.
+
+49 
+
+Table of Contents   
+
+PART III 
+
+Item 10.    DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT  
+
+The information concerning Directors of the Company contained in the section entitled
+ Proposal 1: Election of Directors  of the Definitive Proxy Statement for the 2007 Annual Meeting
+of Shareholders, to be filed with the Commission on or about January 31, 2007, is incorporated
+herein by reference in response to this item.
+
+The information concerning Equity Compensation Plans is contained in the section entitled
+ Equity Plan Compensation Information  of the Definitive Proxy Statement for the 2007 Annual
+Meeting of Shareholders, to be filed with the Commission on or about January 31, 2007, and is
+incorporated herein by reference in response to this item.
+
+The information regarding the audit committee and audit committee financial expert is
+contained in the section entitled  Board of Directors and Committees  of the Definitive Proxy
+Statement for the 2007 Annual Meeting of Shareholders, to be filed with the Commission on or about
+January 31, 2007, and is incorporated herein by reference in response to this item.
+
+The Board of Directors has established specific Corporate Governance Guidelines, a Code of
+Ethics for the CEO and Senior Financial Officers, and a Code of Business Conduct and Ethics for all
+directors, officers and employees. These documents are provided on the Company s Web site at
+www.spartech.com within the Investor Relations/Corporate Governance section of the site. At this
+same Web site location, the Company provides an Ethics Hotline phone number that allows employees,
+shareholders, and other interested parties to communicate with the Company s management or Audit
+Committee (on an anonymous basis, if so desired) through an independent third-party hotline. In
+addition, this same Web site location provides instructions for shareholders or other interested
+parties to contact the Company s Board of Directors.
+
+The rules of the New York Stock Exchange (NYSE) require Mr. Abd, our Chief Executive Officer,
+to certify to the NYSE annually that he is not aware of any violation by the Company of the NYSE s
+corporate governance listing standards. In addition, pursuant to Section 302 of the Sarbanes-Oxley
+Act of 2002, Mr. Abd and Mr. Martin, our Chief Financial Officer, must each execute a certificate
+as to the quality of our public disclosure as part of our quarterly reports to the Securities and
+Exchange Commission ( SEC ). Their latest Section 302 certifications are filed with the SEC as
+exhibits to this Form 10-K.
+
+Executive Officers of the Registrant 
+
+The following table provides certain information about the Company s executive officers, their
+positions with the Company, and their prior business experience and employment for at least the
+past five years:
+
+Name  
+       
+      Age  
+       
+      Current Office, and Prior Positions and Employment  
+
+George A. Abd
+
+43 
+
+President and Chief Executive Officer (since May
+2005), Executive Vice President, Color and
+Specialty Compounds (September 2000 to May 2005)
+and Engineered Products (May 2004 to May 2005);
+Vice President of Compounding for the Company s
+Spartech Polycom Division from March 1998 to
+September 2000. Mr. Abd held various positions
+with Polycom Huntsman, Inc. for eleven years
+prior to its acquisition by the Company in March
+1998. Mr. Abd is also a member of the board of
+directors of the Company. 
+
+Randy C. Martin
+
+44 
+
+Executive Vice President (since September 2000)
+Corporate Development (since May 2004) and Chief
+Financial Officer (since May 1996); Corporate
+Controller from September 1995 to May 1996; Vice
+President, Finance from May 1996 to September
+2000. Mr. Martin, a CPA and CMA, was with KPMG
+Peat Marwick LLP for eleven years before joining
+the Company in 1995. 
+
+Steven J. Ploeger
+
+45 
+
+Executive Vice President Custom Sheet and
+Rollstock and Engineered Products (since May
+2004); Vice President Spartech Plastics from 2000
+to 2004; General Manager Spartech Plastics  
+North Region from 1996 to 2000. Mr. Ploeger also
+held various sales management positions with the
+Company from 1985 to 1996. 
+
+50 
+
+Table of Contents   
+
+Name  
+       
+      Age  
+       
+      Current Office, and Prior Positions and Employment  
+
+Michael L. Marcum
+
+58 
+
+Senior Vice President Color and Specialty
+Compounds and Marketing and International
+Business Development (since April 2006). Mr.
+Marcum was most recently President   Chief
+Executive Officer of American Decorative
+Surfaces Inc. from 2001 to 2006, and with
+Monsanto Company for 29 years in various
+general management, corporate strategic
+planning, and sales   marketing executive
+positions, both domestically as well as
+internationally, before joining the Company in
+2006 
+
+Jeffrey D. Fisher
+
+58 
+
+Senior Vice President and General Counsel
+(since July 1999), and Secretary (since
+September 2000). Mr. Fisher, an attorney, was
+with the law firm of Armstrong Teasdale LLP
+for 24 years, the last 17 years as a partner,
+before joining the Company in July 1999. 
+
+Darrell W. Betz
+
+43 
+
+Senior Vice President of Human Resources
+(since April 2005). Mr. Betz was with Emerson
+Electric for 16 years in various human
+resource positions prior to joining the
+Company in April 2005. 
+
+Michael G. Marcely
+
+39 
+
+Vice President (since December 2004),
+Corporate Controller (since July 2004) and
+Assistant Secretary (since June 2005),
+Director of Internal Audit (January 2003 to
+July 2004). Mr. Marcely, a CPA, was with
+Ernst   Young LLP for four years, Emerson
+Electric for four years and KPMG LLP for six
+years before joining the Company in 2003. 
+
+Phillip M. Karig
+
+51 
+
+Vice President-Purchasing and Supply Chain
+Management (since September 2001), Director of
+Purchasing from February 2000 to September
+2001. Mr. Karig was with Uniroyal Technology
+Corporation for 12 years in various
+purchasing, logistics, and materials
+management positions before joining the
+Company in February 2000. 
+
+Item 11.    EXECUTIVE COMPENSATION  
+
+The information contained in the sections entitled  Executive Compensation  and  Compensation
+of Directors  of the Definitive Proxy Statement for the 2007 Annual Meeting of Shareholders, to be
+filed with the Commission on or about January 31, 2007, is incorporated herein by reference in
+response to this item.
+
+Item 12.    SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT   
+
+The information contained in the section entitled  Security Ownership  of the Definitive Proxy
+Statement for the 2007 Annual Meeting of Shareholders, to be filed with the Commission on or about
+January 31, 2007, is incorporated herein by reference in response to this item.
+
+Item 13.    CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS   
+
+The information contained in the sections entitled  Proposal 1: Election of Directors, 
+ Executive Compensation  and  Certain Business Relationships and Transactions  of the Definitive
+Proxy Statement for the 2007 Annual Meeting of Shareholders, to be filed with the Commission on or
+about January 31, 2007, is incorporated herein by reference in response to this item.
+
+Item 14.    PRINCIPAL ACCOUNTING FEES AND SERVICES  
+
+The information contained in the section entitled  Fees Paid to Auditors  of the Definitive
+Proxy Statement for the 2007 Annual Meeting of Shareholders, to be filed with the Commission on or
+about January 31, 2007, is incorporated herein by reference in response to this item.
+
+51 
+
+Table of Contents   
+
+PART IV  
+
+Item 15.    EXHIBITS AND FINANCIAL STATEMENT SCHEDULES  
+
+(a) Financial Statements and Financial Statement Schedules
+
+The following financial statements and financial statement schedules are included in this Form
+10-K:
+
+Reports of Independent Registered Public Accounting Firm
+
+24 
+
+Financial Statements
+
+Consolidated Balance Sheets
+
+26 
+
+Consolidated Statements of Operations
+
+27 
+
+Consolidated Statements of Shareholders  Equity
+
+28 
+
+Consolidated Statements of Cash Flows
+
+29 
+
+Notes to Consolidated Financial Statements
+
+30 
+
+Schedule II   Valuation and Qualifying Accounts
+
+F-1 
+
+(c)    Exhibits  
+
+The Exhibits required to be filed by Item 601(a) of Regulation S-K are included as
+follows:
+
+3.1
+
+(a) 
+
+Certificate of Incorporation, as currently in effect 
+
+3.2
+
+(b) 
+
+By-Laws, as currently in effect 
+
+4
+
+(c) 
+
+Rights Agreement dated April 2, 2001 between Spartech
+Corporation and Mellon Investor Services LLC, as Rights Agent 
+
+10.1
+
+(d) 
+
+Retirement Agreement and Release dated May 6, 2005, between
+Bradley B. Buechler and Spartech Corporation 
+
+10.2
+
+(e) 
+
+Executive Severance and Noncompetition policy, as adopted March
+7, 2006, including forms of Severance and Noncompetition Agreements entered into with
+the Registrant s Executive Officers. 
+
+10.3
+
+(f) 
+
+Form of Indemnification Agreement entered into between Spartech
+Corporation and each of its officers and directors 
+
+10.4
+
+(g) 
+
+Spartech Corporation 2004 Equity Compensation Plan, as amended 
+
+10.5
+
+(h) 
+
+Form of Incentive Stock Option 
+
+10.6
+
+(i) 
+
+Form of Nonqualified Stock Option 
+
+10.7
+
+(j) 
+
+Form of Restricted Stock Unit Award 
+
+10.8
+
+(k) 
+
+Spartech Corporation 2006 Executive Bonus Plan 
+
+10.9
+
+(l) 
+
+Spartech Corporation Deferred Compensation Plan, as amended 
+
+10.10
+
+(m) 
+
+Note Purchase Agreement dated June 5, 2006 between the company
+and purchasers of $50 million of the company s 5.78% Senior Notes 
+
+18
+
+(n) 
+
+Letter re change in accounting principle 
+
+21
+
+Subsidiaries of Registrant 
+
+23.1
+
+Consent of Independent Registered Public Accounting Firm 
+
+31
+
+Certifications pursuant to Exchange Act Rule 13a-14(a) 
+
+32
+
+Certifications pursuant to Exchange Act Rule 13a-14(b) and 18 U.S.C. Section 1350 
+
+52 
+
+Table of Contents   
+
+Notes to Exhibits 
+
+(a)
+
+Filed as Exhibit 3.1 to the Company s Form 10-Q filed with the Commission on
+June 8, 2006 and incorporated herein by reference. 
+
+(b)
+
+Filed as Exhibit 3.1 to the Company s Form 8-K filed with the Commission on
+March 9, 2006 and incorporated herein by reference. 
+
+(c)
+
+Filed as Exhibit 99.1 to the Company s Form 8-K filed with the Commission on
+April 5, 2001 and incorporated herein by reference. 
+
+(d)
+
+Filed as Exhibit 10.1 to the Company s Form 10-Q filed with the Commission on
+September 8, 2005 and incorporated herein by reference. 
+
+(e)
+
+Filed as Exhibit 10.1 to the Company s Form 8-K filed with the Commission on
+March 9, 2006 and incorporated herein by reference. 
+
+(f)
+
+Filed as Exhibit 10.10 to the Company s Form 10-K filed with the Commission on
+January 17, 2003 and incorporated herein by reference. 
+
+(g)
+
+Filed as Exhibit 5.02(2) to the Company s Form 8-K filed with the Commission on
+December 7, 2006 and incorporated herein by reference. 
+
+(h)
+
+Filed as Exhibit 1.01(2) to the Company s Form 8-K dated December 8, 2004 and
+incorporated herein by reference. 
+
+(i)
+
+Filed as Exhibit 1.01(3) to the Company s Form 8-K dated December 8, 2004 and
+incorporated herein by reference. 
+
+(j)
+
+Filed as Exhibit 1.01(4) to the Company s Form 8-K dated December 8, 2004 and
+incorporated herein by reference. 
+
+(k)
+
+Filed as Exhibit 1.01(a) to the Company s Form 8-K filed with the Commission on
+December 21, 2005 and incorporated herein by reference. 
+
+(l)
+
+Filed as Exhibit 1.01(b) to the Company s Form 8-K filed with the Commission on
+December 21, 2005 and incorporated herein by reference. 
+
+(m)
+
+Filed as Exhibit 10.1 to the Company s Form 8-K filed with the Commission on
+June 8, 2006 and incorporated herein by reference. 
+
+(n)
+
+Filed as Exhibit 18 to the Company s Form 10-Q filed with the Commission on
+June 8, 2006 and incorporated herein by reference. 
+
+53 
+
+Table of Contents   
+
+SIGNATURES  
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+
+SPARTECH CORPORATION 
+
+/s/ George A. Abd
+
+George A. Abd  
+
+December 15, 2006  
+      President and Chief Executive Officer   
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been
+signed below by the following persons on behalf of the Registrant and in the capacities and on the
+dates indicated.
+
+Date  
+       
+      Signature  
+       
+      Title  
+
+December 15, 2006
+
+/s/ George A. Abd
+
+George A. Abd
+
+President and Chief
+Executive Officer and
+Director (Principal
+Executive Officer) 
+
+December 15, 2006
+
+/s/ Randy C. Martin
+
+Randy C. Martin
+
+Executive Vice President,
+Corporate Development and
+Chief Financial Officer
+(Principal Financial and
+Accounting Officer) 
+
+December 15, 2006
+
+/s/ Ralph B. Andy
+
+Ralph B. Andy
+
+Director  
+
+December 15, 2006
+
+/s/ Lloyd E. Campbell
+
+Lloyd E. Campbell
+
+Director  
+
+December 15, 2006
+
+/s/ Edward J. Dineen
+
+Edward J. Dineen
+
+Director  
+
+December 15, 2006
+
+/s/ Victoria M. Holt
+
+Victoria M. Holt
+
+Director  
+
+December 15, 2006
+
+/s/ Walter J. Klein
+
+Walter J. Klein
+
+Director  
+
+December 15, 2006
+
+/s/ Pamela F. Lenehan
+
+Pamela F. Lenehan
+
+Director  
+
+December 15, 2006
+
+/s/ Jackson W. Robinson
+
+Jackson W. Robinson
+
+Director  
+
+December 15, 2006
+
+/s/ Craig A. Wolfanger
+
+Craig A. Wolfanger
+
+Director  
+
+54 
+
+Table of Contents   
+
+SPARTECH CORPORATION AND SUBSIDIARIES 
+
+SCHEDULE II   VALUATION AND QUALIFYING ACCOUNTS 
+
+  FOR YEARS ENDED 2006, 2005, AND 2004 
+(Dollars in thousands) 
+
+F-1
+
+<EX-21>
+ 2
+ c10994exv21.htm
+ SUBSIDIARIES OF THE REGISTRANT
+
+exv21 
+
+EXHIBIT 21 
+
+SPARTECH CORPORATION SUBSIDIARIES OF REGISTRANT 
+
+Incorporation or  
+
+Legal Entity   
+       
+       DBA   
+       
+       Organization   
+
+Atlas Alchem Plastics, Inc.
+
+Spartech Plastics
+
+Delaware 
+
+TKM Plastics, L.P.
+
+Spartech Plastics
+
+Missouri 
+
+Spartech Plastics, LLC
+
+Spartech Plastics
+
+Delaware 
+
+Alchem Plastics, Inc.
+
+Spartech Plastics
+
+Delaware 
+
+Alchem Plastics Corporation
+
+Spartech Plastics
+
+Georgia 
+
+Spartech SPD, LLC
+
+Spartech Plastics
+
+Delaware 
+
+Spartech Polycast, Inc.
+
+Spartech Polycast
+
+Delaware 
+
+Spartech Polycom, Inc.
+
+Spartech Polycom
+
+Pennsylvania 
+
+Spartech Polycom, S.A.S.
+
+Spartech Polycom
+
+France 
+
+UVTEC, L.P.
+
+Spartech Polycom
+
+Texas 
+
+Franklin-Burlington Plastics, Inc.
+
+Spartech Polycom
+
+Delaware 
+
+Spartech FCD, LLC
+
+Spartech Calendered 
+and Converted  
+Products Division
+
+Delaware 
+
+Spartech CMD, LLC
+
+Spartech CMD
+
+Delaware 
+
+Polymer Extruded Products, Inc.
+
+Spartech PEP
+
+New Jersey 
+
+Spartech Townsend, Inc.
+
+Spartech Townsend
+
+Delaware 
+
+Spartech Industries Florida, Inc.
+
+Spartech Marine
+
+Delaware 
+
+Spartech Industries, Inc.
+
+Spartech Industries
+
+Delaware 
+
+Alshin Tire Corporation
+
+Spartech Industries
+
+California 
+
+Spartech Canada, Inc.
+
+Spartech Color
+
+New Brunswick 
+
+Spartech Plastics 
+
+Spartech Profiles 
+
+Spartech de Mexico, S.A. de C.V.
+
+Spartech Plastics
+
+Mexico 
+
+Spartech Polycom 
+
+Industrias Spartech de Mexico, 
+
+S.R.L. de C.V.
+
+Spartech Industries
+
+Mexico 
+
+</EX-21>
+
+<EX-23.1>
+ 3
+ c10994exv23w1.htm
+ CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+exv23w1 
+
+Exhibit 23.1 
+
+Consent of Ernst   Young LLP, Independent Registered Public Accounting Firm 
+
+We consent to the incorporation by reference in the Registration Statements:
+
+of our reports dated December 15, 2006, with respect to the consolidated financial statements and
+schedules of Spartech Corporation and Subsidiaries, Spartech Corporation and Subsidiaries
+management s assessment of the effectiveness of internal control over financial reporting, and the
+effectiveness of internal control over financial reporting of Spartech Corporation and
+Subsidiaries, included in its Annual Report (Form 10-K) for the year ended October 28, 2006.
+
+/s/ Ernst   Young LLP
+
+St. Louis, Missouri 
+December 20, 2006
+
+</EX-23.1>
+
+<EX-31.1>
+ 4
+ c10994exv31w1.htm
+ CHIEF EXECUTIVE OFFICER SECTION 302 CERTIFICATION
+
+exv31w1 
+
+Exhibit 31.1 
+
+CERTIFICATION
+
+I, George A. Abd, certify that:
+
+1. 
+       
+     I have reviewed this annual report on Form 10-K of Spartech Corporation; 
+
+2. 
+       
+     Based on my knowledge, this report does not contain any untrue statement of a material fact
+or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period
+covered by this report; 
+
+3. 
+       
+     Based on my knowledge, the financial statements, and other financial information included in
+this report, fairly present in all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4. 
+       
+     The registrant s other certifying officer and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+       
+     Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated subsidiaries, is
+made known to us by others within those entities, particularly during the period in
+which this annual report is being prepared; 
+
+b) 
+       
+     Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision, to
+provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+c) 
+       
+     Evaluated the effectiveness of the registrant s disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this report
+based on such evaluation; and 
+
+d) 
+       
+     Disclosed in this report any change in the registrant s internal control over
+financial reporting that occurred during the registrant s most recent fiscal quarter
+(the registrant s fourth fiscal quarter in the case of an annual report) that has
+materially affected, or is reasonably likely to materially affect, the registrant s
+internal control over financial reporting; and 
+
+5. 
+       
+     The registrant s other certifying officer and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant s auditors and the
+audit committee of the registrant s board of directors: 
+
+a) 
+       
+     All significant deficiencies and material weaknesses in the design or operation
+of internal control over financial reporting which are reasonably likely to adversely
+affect the registrant s ability to record, process, summarize and report financial
+information; and 
+
+b) 
+       
+     Any fraud, whether or not material, that involves management or other employees
+who have a significant role in the registrant s internal control or financial
+reporting. 
+
+Date December 20, 2006  
+     By:   
+     /s/ George A. Abd
+
+George A. Abd  
+
+President and Chief Executive Officer  
+Spartech Corporation  
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ c10994exv31w2.htm
+ CHIEF FINANCIAL OFFICER SECTION 302 CERTIFICATION
+
+exv31w2 
+
+Exhibit 31.2 
+
+CERTIFICATION
+
+I, Randy C. Martin, certify that:
+
+1. 
+       
+     I have reviewed this annual report on Form 10-K of Spartech Corporation; 
+
+2. 
+       
+     Based on my knowledge, this report does not contain any untrue statement of a material fact
+or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period
+covered by this report; 
+
+3. 
+       
+     Based on my knowledge, the financial statements, and other financial information included in
+this report, fairly present in all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4. 
+       
+     The registrant s other certifying officer and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+       
+     Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated subsidiaries, is
+made known to us by others within those entities, particularly during the period in
+which this annual report is being prepared; 
+
+b) 
+       
+     Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision, to
+provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+c) 
+       
+     Evaluated the effectiveness of the registrant s disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this report
+based on such evaluation; and 
+
+d) 
+       
+     Disclosed in this report any change in the registrant s internal control over
+financial reporting that occurred during the registrant s most recent fiscal quarter
+(the registrant s fourth fiscal quarter in the case of an annual report) that has
+materially affected, or is reasonably likely to materially affect, the registrant s
+internal control over financial reporting; and 
+
+5. 
+       
+     The registrant s other certifying officer and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant s auditors and the
+audit committee of the registrant s board of directors: 
+
+a) 
+       
+     All significant deficiencies and material weaknesses in the design or operation
+of internal control over financial reporting which are reasonably likely to adversely
+affect the registrant s ability to record, process, summarize and report financial
+information; and 
+
+b) 
+       
+     Any fraud, whether or not material, that involves management or other employees
+who have a significant role in the registrant s internal control or financial
+reporting. 
+
+Date December 20, 2006  
+     By:   
+     /s/ Randy C. Martin
+
+Randy C. Martin  
+
+Executive Vice President Corporate Development  
+and
+Chief Financial Officer  
+Spartech Corporation  
+
+</EX-31.2>
+
+<EX-32>
+ 6
+ c10994exv32.htm
+ SECTION 1350 CERTIFICATIONS
+
+exv32 
+
+EXHIBIT 32 
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+Pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002, each of the undersigned certifies that this periodic report fully complies with the
+requirements of Section 13(a) or 15(d), as applicable, of the Securities Exchange Act of 1934 and
+that the information contained in this annual report on Form 10-K fairly presents, in all material
+respects, the financial condition and results of operations of Spartech Corporation.
+
+Date: December 20, 2006
+
+/s/ George A. Abd
+
+George A. Abd  
+
+President and Chief Executive Officer   
+
+/s/ Randy C. Martin
+
+Randy C. Martin  
+
+Executive Vice President Corporate Development 
+and Chief Financial Officer   
+
+</EX-32>
+

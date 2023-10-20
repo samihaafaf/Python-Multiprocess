@@ -1,0 +1,3309 @@
+<Header>
+<FileStats>
+    <FileName>20061215_10-K_edgar_data_90168_0000950152-06-010193_1.txt</FileName>
+    <GrossFileSize>598453</GrossFileSize>
+    <NetFileSize>177138</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>249135</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>42</N_Tables>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950152-06-010193.hdr.sgml : 20061215
+<ACCEPTANCE-DATETIME>20061215140753
+ACCESSION NUMBER:		0000950152-06-010193
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20060930
+FILED AS OF DATE:		20061215
+DATE AS OF CHANGE:		20061215
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SIFCO INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000090168
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIRCRAFT ENGINES & ENGINE PARTS [3724]
+		IRS NUMBER:				340553950
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05978
+		FILM NUMBER:		061279879
+
+	BUSINESS ADDRESS:	
+		STREET 1:		970 E 64TH ST
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44103
+		BUSINESS PHONE:		2168818600
+
+	MAIL ADDRESS:	
+		STREET 1:		970 EAST 64TH STREET
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STEEL IMPROVEMENT & FORGE CO
+		DATE OF NAME CHANGE:	19690520
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SSsfFifI9xIbWfHENJQI3JGqCckZHlIKhaRPSeBenXiy+3Vys39o+DGkRzeUptQQ
+ HLL+mZikL8+5DSX2c9GkqA==
+
+ 0000950152-06-010193.txt : 20061215
+
+10-K
+ 1
+ l23637ae10vk.htm
+ SIFCO INDUSTRIES, INC.   10-K
+
+SIFCO Industries, Inc.    10-K 
+
+Table of Contents   
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 10-K 
+
+For the fiscal year ended September 30, 2006
+
+or 
+
+For the transition period from                        to                       
+
+Commission file number    1-5978  
+
+SIFCO Industries, Inc.  
+
+(Exact name of registrant as specified in its charter)
+
+(216) 881-8600
+
+(Registrant s telephone number, including area code) 
+
+Securities Registered Pursuant to Section 12(b) of the Act:
+
+Common Shares, $1 Par Value
+
+American Stock Exchange 
+
+(Title of each class)
+
+(Name of each exchange on which registered) 
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of
+the Securities Act. Yes     No    
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or
+Section 15(d) of the Act. Yes     No    
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by
+section 13 or 15(d) of the Securities and Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days. 
+Yes     No    
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is
+not contained herein, and will not be contained, to the best of registrant s knowledge, in
+definitive proxy or information statements incorporated by reference in Part III of this Form 10-K
+or any amendment to this Form 10-K.    
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer,
+or a non-accelerated filer (as defined in Rule 12b-2 of the Act).
+
+large accelerated filer               accelerated filer               non-accelerated filer    
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act).
+Yes     No    
+
+The aggregate market value of the voting and non-voting common equity held by non-affiliates
+computed by reference to the price at which the common equity was last sold, or the average bid and
+asked price of such common equity, as of the last business day of the registrant s most recently
+completed second fiscal quarter is $14,571,861.
+
+The number of the Registrant s Common Shares outstanding at October 31, 2006 was 5,221,891.
+
+Documents incorporated by reference: Portions of the Proxy Statement for Annual Meeting of
+Shareholders on January 30, 2007 (Part III). 
+
+TABLE OF CONTENTS  
+
+PART I   
+     Item 1. Business   
+     Item 2. Properties   
+     Item 3. Legal Proceedings   
+     Item 4. Submission of Matters to a Vote of Security Holders   
+   PART II   
+     Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities   
+     Item 6. Selected Consolidated Financial Data   
+     Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations   
+     Item 7A. Quantitative and Qualitative Disclosures about Market Risk   
+     Item 8. Financial Statements and Supplementary Data   
+     Item 9. Changes and Disagreements with Accountants on Accounting and Financial Disclosure   
+     Item 9A. Controls and Procedures   
+     Item 9B. Other Information   
+   PART III   
+     Item 10. Directors and Executive Officers of the Registrant   
+     Item 11. Executive Compensation   
+     Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters   
+     Item 13. Certain Relationships and Related Transactions   
+     Item 14. Principal Accounting Fees and Services   
+   PART IV   
+     Item 15. Exhibits, Financial Statement Schedules   
+   SIGNATURES   
+   EX-4.22   
+   EX-21.1   
+   EX-31.1   
+   EX-31.2   
+   EX-32.1   
+   EX-32.2   
+
+Table of Contents   
+
+PART I 
+
+Item 1. Business  
+
+A. The Company 
+
+SIFCO Industries, Inc. ( Company ), an Ohio corporation, was incorporated in 1916. The executive
+offices of the Company are located at 970 East 64th Street, Cleveland, Ohio 44103, and its
+telephone number is (216) 881-8600.
+
+The Company is engaged in the production and sale of a variety of metalworking processes, services
+and products produced primarily to the specific design requirements of its customers. The
+processes and services include forging, heat-treating, coating, welding, machining and selective
+electrochemical finishing. The products include forged components, machined forgings and other
+machined metal components, remanufactured components for aerospace and industrial turbine engines,
+and selective electrochemical finishing solutions and equipment. The Company s operations are
+conducted in three business segments: (1) Aerospace Component Manufacturing Group, (2) Turbine
+Component Services and Repair Group and (3) Applied Surface Concepts Group.
+
+B. Principal Products and Services 
+
+1.  Aerospace Component Manufacturing Group 
+
+Operations 
+
+The Company s Aerospace Component Manufacturing Group ( ACM Group ) is a manufacturer of forged
+components ranging in size from 2 to 800 pounds (depending on configuration and alloy) in various
+steel alloys utilizing a variety of processes for application principally in the aerospace
+industry. The ACM Group s forged products include: original equipment manufacturers ( OEM ) and
+aftermarket components for aircraft and land-based turbine engines; structural airframe components;
+aircraft landing gear components, wheels and brakes; critical rotating components for helicopters;
+and commercial/industrial products. The ACM Group also provides heat-treatment, surface-treatment,
+non-destructive testing and select machining of forged components.
+
+The ACM Group generally has multiple sources for its raw materials, which consist primarily of high
+quality metals essential to this business. Suppliers of such materials are located throughout
+North and South America and Europe. In general, because of tight aerospace grade steel capacity and
+limited supply of titanium, raw material lead times have increased in recent years with certain
+limited/isolated exceptions. The ACM Group does not depend on a single source for the supply of
+its materials, although certain raw materials may be provided by a limited number of suppliers, and
+believes that its sources are adequate for its business. The business is ISO 9001:2000 registered
+and AS 9100:2001 certified. In addition, the ACM Group s heat-treating, chemical etching and
+milling, and non-destructive testing facilities are NADCAP (National Aerospace and Defense
+Contractors Accreditation Program) accredited.
+
+Industry 
+
+The performance of the domestic and international air transport industry directly and significantly
+impacts the performance of the ACM Group. The air transport industry s long-term outlook has, for
+many years, been for continued, steady growth. Such outlook suggested the need for additional
+aircraft and, therefore, growth in the requirement for airframe and turbine engine components.
+Management s current outlook for the air transport industry continues with that same theme.
+Management believes that rising fuel costs and the related desire for more fuel efficient aircraft,
+and fleet commonality will drive new aircraft purchases and, accordingly, the ACM Group is poised
+to take advantage of the resulting improvement in order demand from the airframe and engine
+manufacturers. The ACM Group also supplies new and spare components for military aircraft. As a
+result of continued military initiatives, there has been increased demand for both new and spare
+components for military customers. It is difficult to determine at this time what the long-term
+impact of these factors may be on the demand for products provided by the ACM Group.
+
+Competition 
+
+While there has been some consolidation in the forging industry, the ACM Group believes there is
+limited opportunity to increase prices, other than for the pass-through of rising raw material
+steel alloy prices, due to the overcapacity that remains in the forging industry. The ACM Group
+believes, however, that its demonstrated aerospace expertise along with focus on quality, customer
+service, new technology and offering a broad range of capabilities help to give it an advantage in
+the primary markets it serves. The ACM Group competes with both U.S. and non-U.S. suppliers of
+forgings. As customers are establishing new facilities throughout the world, the ACM Group will
+continue to encounter non-U.S. competition. The ACM Group believes it can expand its markets by (i)
+broadening its product lines through investment in equipment that
+
+Table of Contents   
+
+expands its manufacturing capabilities and (ii) developing new customers in markets which require
+similar technical competence, quality and service as the aerospace industry.
+
+Customers 
+
+During fiscal 2006, the ACM Group had two customers, various business units of Rolls-Royce
+Corporation and United Technologies Corporation, which accounted for 17% and 11%, respectively, of
+the ACM Group s net sales. The net sales to these two customers when combined with (i) a third
+customer that individually accounts for less than 10% of the Group s nets sales, and (ii) the
+direct subcontractors to these three customers, accounted for 58% of the ACM Group s net sales in
+2006. The ACM Group believes that the loss of sales to such customers would result in a materially
+adverse impact on the business and income of the ACM Group. However, the ACM Group has maintained
+a business relationship with these customers for well over ten years and is currently conducting
+business with some of them under multi-year agreements. Although there is no assurance that this
+will continue, historically as one or more major customers have reduced their purchases, the ACM
+Group has generally been successful in replacing such reduced purchases, thereby avoiding a
+material adverse impact on the segment. The ACM Group attempts to rely on its ability to adapt
+its services and operations to changing requirements of the market in general and its customers in
+particular. No material part of the Company s ACM Group s business is seasonal.
+
+Backlog of Orders 
+
+The ACM Group s backlog as of September 30, 2006 increased to $65.7 million, of which $53.5 million
+is scheduled for delivery during fiscal 2007, compared with $46.5 million as of September 30, 2005,
+of which $30.0 million was scheduled for delivery during fiscal 2006. It is important to note a
+fundamental shift that began in fiscal 2005 with respect to the ordering pattern of the ACM Group s
+customers. With raw material steel alloy lead times continuing to be extended, customers are
+placing orders further in advance of required delivery dates, which is one reason for the increase
+in the ACM Group s backlog as of September 30, 2006. All orders are subject to modification or
+cancellation by the customer with limited charges. The ACM Group believes that the backlog may not
+necessarily be indicative of actual sales for any succeeding period.
+
+2.  Turbine Component Services and Repair Group 
+
+The Company s Turbine Component Services and Repair Group ( Repair Group ) has operations in Cork,
+Ireland and Minneapolis, Minnesota. This segment of the Company s business consists principally of
+the repair and remanufacture of aerospace and industrial turbine engine components. The business
+also performs precision component machining and applies high temperature-resistant industrial
+coatings to new turbine engine components.
+
+Operations 
+
+The aerospace portion of the Repair Group requires the procurement of licenses/authority, which
+certify that the Group has obtained approval to perform certain proprietary repair processes. Such
+approvals are generally specific to an engine and its components, a repair process, and a repair
+facility/location. Without possession of such approvals, a company would be precluded from
+competing in the aerospace turbine engine component repair business. Approvals are issued by either
+the original equipment manufacturers ( OEM ) of aerospace turbine engines or the Federal Aviation
+Administration ( FAA ).
+
+During fiscal 2006, the Repair Group sold the large aerospace portion of its turbine engine
+component repair business while retaining the industrial and small aerospace portions of such
+business. In general, the Company considers engines that (i) possess a thrust of greater than
+17,500 pounds and/or (ii) are used to power aircraft that carry more than 100 passengers to be
+ large aerospace  engines. Historically, the aerospace portion of the Repair Group has elected to
+procure approvals primarily from the OEMs and the remaining (small aerospace) portion of such
+business currently maintains proprietary repair process approvals issued by certain of the primary
+small engine OEMs (e.g. Pratt Whitney, Rolls-Royce, Turbomeca, and Hamilton-Sundstrand). In
+exchange for being granted an OEM approval, the Repair Group is obligated, in most cases, to pay
+royalties to the OEM for each type of component repair that it performs utilizing the OEM-approved
+proprietary repair process. The aerospace portion of the Repair Group continues to be successful
+in procuring FAA repair process approvals. There is generally no royalty payment obligation
+associated with the use of a repair process approved by the FAA. To procure an OEM or FAA approval,
+the Repair Group is required to demonstrate its technical competence in the process of repairing
+such turbine engine components.
+
+The development of remanufacturing and repair processes is an ordinary part of the Repair Group
+business. The Repair Group continues to invest time and money on research and development
+activities. The Company has research and development activities in PVCVD (Pure Vacuum Chemical
+Vapor Deposition) of a wide range of materials. The Repair
+
+2 
+
+Table of Contents   
+
+Group has the opportunity to apply the results of this research in both the industrial and small
+aerospace turbine engine markets. Operating costs related to such activities are expensed during
+the period in which they are incurred. The Group s research and development expense was
+approximately $0.3 million in fiscal 2006
+
+The Company has recognized the evolution of the industrial turbine engine market. The Company s
+technologies have had many years of evolution in the aerospace turbine engine sector. The
+application of similar technologies to the industrial turbine engine sector has resulted in
+benefits to the industrial turbine engine operator. The Company has invested capital in new
+equipment that facilitates the repair and remanufacture of these larger industrial turbine engine
+components. Entry into this sector increases the potential market for the application of the
+Company s technologies.
+
+The Repair Group generally has multiple sources for its raw materials, which consist primarily of
+investment castings and industrial coating materials, essential to this business. Certain items are
+procured directly from the OEM to satisfy repair process requirements. Suppliers of such materials
+are located throughout North America and Europe. Although certain raw materials may be provided by
+a limited number of suppliers, the Repair Group generally does not depend on a single source for
+the supply of its materials and management believes that its sources are adequate for its business.
+
+The Repair Group s non-U.S. operation has had, for most of fiscal 2006, the majority of its sales
+denominated in U.S. dollars while a significant portion of its operating costs were denominated in
+euros. Therefore, as the euro strengthened, such operating costs were negatively impacted. During
+certain periods, the Repair Group has been able to successfully hedge its exposure to the euro
+thereby mitigating the negative impact on its operating results during periods in which the euro is
+strong relative to the U.S. dollar. Management believes at this time (i.e. after the sale of the
+large aerospace portion of its turbine engine component repair business) that the Company will
+experience a lower magnitude of exposure to the euro and, to the extend necessary, the Company will
+be able to successfully hedge such exposure (during periods of the euros strength against the U.S.
+dollar) thereby mitigating the negative impact of currency exchange rates on the Repair Group s
+operating results during future periods.
+
+Industry 
+
+The performance of the domestic and international air transport industry directly and significantly
+impacts the performance of the Repair Group. The air transport industry s long-term outlook has,
+for many years, been for continued, steady growth. Such outlook suggested the need for additional
+aircraft and, therefore, growth in the requirement for aerospace turbine engines and related engine
+repairs. Management s current outlook for the air transport industry continues with that same
+theme. The demand for passenger travel both in the U.S. and internationally has rebounded to
+pre-September 11, 2001 levels. Due to an inherent need to optimize the efficiency and profitability
+of operations, airlines appear to be supporting such increased demand for passenger travel with
+smaller fleets consisting of new and more efficient aircraft. In addition, the financial condition
+of many airlines in the U.S. and throughout the world continues to be weak. The U.S. airline
+industry has received U.S. government assistance, while some airlines have entered bankruptcy
+proceedings, and others continue to pursue major restructuring initiatives. It is difficult to
+determine what the long-term impact of these factors may be on air travel and the demand for
+services and products provided by the Repair Group.
+
+The world s fleet of aircraft has been in transition. Several older models of certain aircraft and
+the engines that power such aircraft have been retired from use. As a result, the overall demand
+for repairs to such older model engines has significantly decreased. At the same time, newer
+generation aircraft and engines are in use with newer technology required to both operate and
+maintain such engines. The introduction of such newer generation aerospace turbine engines has in
+general reduced the frequency with which such engines and related components need to be repaired.
+The longer times between repairs have been attributed to improved technology, including the
+improved ability to monitor an engine s condition while still in operation. Although the newer
+generation aerospace turbine engines may require less frequent overhaul, such aerospace turbine
+engines generally have a greater number of components that require repair. This could result in a
+larger aerospace turbine engine component repair market in the future.
+
+Recent years have seen the installation of numerous industrial turbine engines as means of
+generating electric power for residential, commercial and industrial consumers. The high cost of
+installation and maintenance of such units has provided the Repair Group with the opportunity to
+bring value to this significant market. Industrial turbine engine units are in use throughout the
+world and such units operate in different modes. Some units operate on a continuous base loading
+at a percentage of their maximum output, while other units may operate at maximum output during
+specific periods of electric power shortages (e.g. power blackouts, peak demand periods, etc.).
+The latter units are called peak power systems. In general, industrial turbine engine units are
+managed either by a government entity, an electric power utility, or an independent power producer
+( IPP ). IPPs originated principally in response to deregulation of the organizations that operate
+electric power utilities. Electric power deregulation has created greater competition and
+therefore, more economical electric power for the end user. Repair and remanufacture of industrial
+turbine engine components is a growing element of cost management in the industrial turbine engine
+industry. The Company believes that the Repair Group s
+
+3 
+
+Table of Contents   
+
+experience, knowledge and technology in the more demanding aerospace market positions it well for
+continued participation in the industrial turbine engine market.
+
+Competition 
+
+In recent years, while the absolute number of competitors has decreased as a result of industry
+consolidation and vertical integration, competition in the turbine engine component repair business
+has nevertheless increased, principally due to the increased direct involvement of the aerospace
+turbine engine manufacturers in the turbine engine overhaul and component repair businesses. With
+the presence of the OEM in the market, there has been a general reluctance on the part of the OEM
+to issue, to the independent component repair companies, its approvals for the repair of its newer
+model engines and related components. The Company believes that the Repair Group will in the
+future, more likely than not, become more dependent on (i) its ability to successfully procure and
+market FAA approved licenses and related repair processes and/or (ii) a close collaboration with
+engine manufacturers. However, the Repair Group believes it has partially compensated for these
+factors by its success in broadening its product lines and developing new markets and customers,
+more recently by its continued expansion into the repair of industrial turbine engine components.
+
+Repair and remanufacture of industrial turbine engine components has evolved through the need for
+the operators of electric power utilities to improve the economics of their industrial turbine
+engine operations. To participate in the industrial turbine engine sector, it is necessary to have
+a proven record of application of the appropriate technologies. Most competitors involved in the
+industrial turbine engine component repair sector are either the OEM or entities that have a
+history of application of component repairs in the aerospace sector. Metallurgical analysis of
+component material removed from an industrial turbine engine determines the precise nature of the
+necessary technologies to be used to return the component to service. The determination of
+qualification to repair such components is the responsibility of the industrial turbine engine
+owner/operator. Several OEMs participate to varying degrees in the repair and remanufacture of
+industrial turbine engine components. The Company believes that the Repair Group s broad product
+capability (multiple OEM types) and technology base position it well for growth in the industrial
+sector.
+
+Customers 
+
+The identity and ranking of the Repair Group s principal customers can vary from year to year. The
+Repair Group attempts to rely on its ability to adapt its services and operations to changing
+requirements of the market in general and its customers in particular, rather than relying on high
+volume production of a particular item or group of items for a particular customer or customers.
+During fiscal 2006, the Repair Group had one customer, various business units of United
+Technologies Corporation, which accounted for 20% of the Repair Group s net sales. Although there
+is no assurance that this will continue, historically as one or more major customers have reduced
+their purchases, the business has generally been successful in replacing such reduced purchases,
+thereby avoiding a material adverse impact on the business. No material part of the Repair Group s
+business is seasonal.
+
+Backlog of Orders 
+
+The Repair Group s backlog as of September 30, 2006 decreased to $3.5 million, of which $2.4
+million is scheduled for delivery during fiscal 2007 and $1.1 million is on hold, compared with
+$4.8 million as of September 30, 2005, of which $3.9 million was scheduled for delivery during
+fiscal 2006 and $0.9 million was on hold. The backlog as of September 30, 2005 included orders
+related to the large aerospace portion of the Repair Group s business that was sold in the third
+quarter of fiscal 2006, for which there was no backlog as of September 30, 2006. All orders are
+subject to modification or cancellation by the customer with limited charges. The Repair Group
+believes that the backlog may not necessarily be indicative of actual sales for any succeeding
+period.
+
+3.  Applied Surface Concepts Group  
+
+The Company s Applied Surface Concepts Group ( ASC Group ) provides surface enhancement
+technologies principally related to selective electrochemical finishing and anodizing. The ASC
+Group s principal product offerings include (i) the sale of metal solutions and equipment required
+for selective electroplating and (ii) providing selective electroplating services on a contract
+basis.
+
+Operations 
+
+Selective electrochemical finishing of a part or component is done without the use of an immersion
+tank. A wide variety of pure metals and alloys, principally determined by the customer s design
+requirements, can be used for applications including corrosion protection, wear resistance,
+anti-galling, increased lubricity, increased hardness, increased electrical
+
+4 
+
+Table of Contents   
+
+conductivity, and re-sizing. SIFCO Process    metal solutions include: cadmium, cobalt,
+copper, nickel, tin and zinc. In addition, precious metal solutions such as gold, iridium,
+palladium, platinum, rhodium, and silver are also provided to customers. The ASC Group has also
+developed a number of alloy-plating solutions.
+
+The ASC Group can either (i) supply the selective electrochemical finishing chemicals and equipment
+to customers desiring to perform selective electrochemical finishing in-house or (ii) provide
+manual, semi-automated, or automated contract selective electrochemical finishing services at
+either the customer s site or one of the Group s facilities. The Group operates four facilities in
+the US (Cleveland, Ohio / Hartford, Connecticut / Norfolk, Virginia / Houston, Texas) and three in
+Europe (Birmingham, England / Paris, France / Rattvik, Sweden). The scope of selective
+electrochemical finishing work includes part salvage and repair, part refurbishment, and new part
+enhancement. Selective electrochemical finishing solutions are produced in the Cleveland, Ohio and
+Birmingham, England facilities.
+
+The ASC Group generally has multiple sources for its raw materials, which consist primarily of
+industrial chemicals and metal salts and, therefore, does not depend on a single source for the
+supply of key raw materials. Management believes that its sources are adequate to support its
+business.
+
+The ASC Group sells its products and services under the following brand names: SIFCO
+Process   , Dalic   , USDL    and Selectron   , all of which
+are specified in military and industrial specifications. The ASC Group s manufacturing operations
+have ISO 9001:2001 and AS 9100A certifications. In addition, two of its facilities are NADCAP
+(National Aerospace and Defense Contractors Accreditation Program) certified. Three of the service
+centers are FAA approved repair shops. Other ASC Group approvals include ABS (American Bureau of
+Ships), ARR (American Railroad Registry), JRS (Japan Registry of Shipping), and KRS (Korean
+Registry of Shipping).
+
+Industry 
+
+Selective electrochemical finishing occupies a niche within the broader metal finishing industry.
+The ASC Group s selective electrochemical finishing process is used to provide functional,
+engineered finishes rather than decorative finishes, and it serves many markets including
+aerospace, automotive, electric power generation, and oil and gas. In its planning and decision
+making processes, management of the ASC Group monitors and evaluates precious metal prices, global
+manufacturing activity, internal labor capacity, technological developments in surface enhancement,
+and the exploration and production activities relative to oil and gas products. The diversity of
+industries served helps to mitigate the impact of economic cycles on the ASC Group.
+
+Competition 
+
+Although the Company believes that the ASC Group is the largest selective electrochemical finishing
+company in the world, there are several companies globally that manufacture and sell selective
+electrochemical finishing solutions and equipment and/or provide contract selective electrochemical
+finishing services. The ASC Group seeks to differentiate itself through its technical support,
+research and development, and automation capabilities. The ASC Group also competes with other
+surface enhancement technologies such as welding and metal spray.
+
+Customers 
+
+The ASC Group has a customer base of over 1,000 customers. However, approximately 10 customers,
+who operate in a variety of industries, accounted for approximately 35% of the Group s fiscal 2006
+net sales. During fiscal 2006 the ASC Group had one customer, Halliburton Company, which accounted
+for 14% of the ASC Group s net sales. No material part of the ASC Group s business is seasonal.
+
+Backlog of Orders 
+
+The ASC Group had no material backlog at September 30, 2006 and 2005.
+
+4.  General 
+
+For financial information concerning the Company s reportable segments see Management s Discussion
+and Analysis of Financial Condition and Results of Operations included in Item 7 and Note 11 of
+Notes to Consolidated Financial Statements included in Item 8.
+
+5 
+
+Table of Contents   
+
+C. Environmental Regulations 
+
+In common with other companies engaged in similar businesses, the Company is required to comply
+with various laws and regulations relating to the protection of the environment. The costs of such
+compliance have not had, and are not presently expected to have, a material effect on the capital
+expenditures, earnings or competitive position of the Company and its subsidiaries under existing
+regulations and interpretations.
+
+D. Employees 
+
+The number of the Company s employees decreased from approximately 580 at the beginning of fiscal
+year 2006 to approximately 390 employees at the end of fiscal 2006. The decrease was principally a
+result of the Company s disposition of the large aerospace portion of its turbine engine component
+repair business, which employed approximately 160 people. The Company is a party to collective
+bargaining agreements with certain employees located at its Cleveland, Ohio; Minneapolis,
+Minnesota; and Cork, Ireland facilities. Management considers its relations with the Company s
+employees to be good.
+
+E. Non-U.S. Operations 
+
+The Company s products and services are distributed and performed in U.S. as well as non-U.S.
+markets. The Company commenced its operations in Ireland in 1981. The Company commenced its
+operations in the United Kingdom and France as a result of an acquisition of a business in 1992.
+The Company commenced its operations in the Sweden as a result of an acquisition of a business in
+2006. Wholly-owned subsidiaries operate the Company s service and distribution facilities in
+Ireland, United Kingdom, France and Sweden.
+
+Financial information about the Company s U.S. and non-U.S. operations is set forth in Note 11 to
+the Consolidated Financial Statements included in Item 8.
+
+As of September 30, 2006, the majority of the Company s cash and cash equivalents are in the
+possession of its non-U.S. subsidiaries and relate to undistributed earnings of these non-U.S.
+subsidiaries. Distributions from the Company s non-U.S. subsidiaries to the Company may be
+subject to statutory restrictions, adverse tax consequences or other limitations. In October 2004,
+the American Jobs Creation Act of 2004 ( Act ) was enacted. The Act contains a one-time provision
+allowing earnings of controlled foreign companies to be repatriated, at a reduced tax rate, during
+the tax year that includes October 2004 or during the subsequent tax year. The Company received a
+dividend from its non-U.S. subsidiaries during fiscal 2005 in the amount of $13.4 million and the
+funds were principally used to reduce the Company s outstanding indebtedness.
+
+6 
+
+Table of Contents   
+
+Item 2. Properties  
+
+The Company s property, plant and equipment include the facilities described below and a
+substantial quantity of machinery and equipment, most of which consists of industry specific
+machinery and equipment using special jigs, tools and fixtures and in many instances having
+automatic control features and special adaptations. In general, the Company s property, plant and
+equipment are in good operating condition, are well maintained and substantially all of its
+facilities are in regular use. The Company considers its investment in property, plant and
+equipment as of September 30, 2006 suitable and adequate given the current product offerings for
+the respective business segments  operations in the current business environment. The square
+footage numbers set forth in the following paragraphs are approximations:
+
+The Turbine Component Services and Repair Group operates principally two (2)
+facilities with a total of 118,000 square feet that are involved in the repair and
+remanufacture of aerospace and industrial turbine engine components. One of these
+plants is located in Cork, Ireland (59,000 square feet) and one is in Minneapolis,
+Minnesota (59,000 square feet). Both of these facilities are owned. 
+
+The Aerospace Component Manufacturing Group operates in a single owned 246,000
+square foot facility located in Cleveland, Ohio. This facility is also the site of
+the Company s corporate headquarters. 
+
+The Applied Surface Concepts Group is headquartered in an owned 34,000 square foot
+facility in Cleveland, Ohio. The Group leases space aggregating approximately 47,000
+square feet for sales offices and/or for its contract selective electrochemical
+finishing services in Norfolk, Virginia; Hartford, Connecticut; Houston, Texas; Paris,
+France; and Birmingham, England. The Group operates in an owned 4,500 square foot
+facility in Rattvik, Sweden. 
+
+Item 3. Legal Proceedings  
+
+In the normal course of business, the Company may be involved in ordinary, routine legal
+actions. The Company cannot reasonably estimate future costs, if any, related to these matters but
+does not believe any such matters are material to its financial condition or results of operations.
+The Company maintains various liability insurance coverages to protect its assets from losses
+arising out of or involving activities associated with ongoing and normal business operations,
+although it is possible that the Company s future operating results could be affected by future
+cost of litigation.
+
+Item 4. Submission of Matters to a Vote of Security Holders  
+
+No matters were submitted to a vote of security holders during the fourth quarter of the
+Company s 2006 fiscal year.
+
+7 
+
+Table of Contents   
+
+PART II 
+
+Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer
+Purchases of Equity Securities  
+
+The Company s Common Shares are traded on the American Stock Exchange under the symbol  SIF .
+The following table sets forth, for the periods indicated, the high and low closing sales price
+for the Company s Common Shares as reported by the American Stock Exchange.
+
+The Company has not declared or paid any cash dividends within the last two (2) fiscal years and
+does not anticipate paying any such dividends in the foreseeable future. The Company currently
+intends to retain all of its earnings for the operation and expansion of its businesses. The
+Company s ability to declare or pay cash dividends is limited by its credit agreement covenants.
+At October 31, 2006, there were approximately 720 shareholders of record of the Company s Common
+Shares, as reported by National City Corporation, the Company s Transfer Agent and Registrar, which
+maintains its corporate offices at National City Center, 1900 East Ninth Street, Cleveland, Ohio
+44101-0756.
+
+Item 6. Selected Consolidated Financial Data  
+
+The following table sets forth selected consolidated financial data of the Company. The data
+presented below should be read in conjunction with the audited Consolidated Financial Statements
+and Notes to Consolidated Financial Statements included in Item 8.
+
+8 
+
+Table of Contents   
+
+Item 7. Management s Discussion and Analysis of Financial Condition and Results of
+Operations  
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations may contain
+various forward-looking statements and includes assumptions concerning the Company s operation,
+future results and prospects. These forward-looking statements are based on current expectations
+and are subject to risks and uncertainties. In connection with the  safe harbor  provisions of the
+Private Securities Litigation Reform Act of 1995, the Company provides this cautionary statement
+identifying important economic, political and technological factors, among others, the absence or
+effect of which could cause the actual results or events to differ materially from those set forth
+in or implied by the forward-looking statements and related assumptions. Such factors include the
+following: (1) future business environment, including capital and consumer spending; (2)
+competitive factors, including the ability to replace business which may be lost due to increased
+direct involvement by the turbine engine manufacturers in turbine component service and repair
+markets; (3) successful procurement of certain repair materials and new repair process licenses
+from turbine engine manufacturers and/or the Federal Aviation Administration; (4) fluctuating
+foreign currency (primarily the euro) exchange rates; (5) metals and commodities price increases
+and the Company s ability to recover such price increases; (6) successful development and market
+introductions of new products, including advanced coating technologies and the continued
+development of industrial turbine repair processes; (7) regressive pricing pressures on the
+Company s products and services, with productivity improvements as the primary means to maintain
+margins; (8) success with the further development of strategic alliances with certain turbine
+engine manufacturers for turbine component repair services; (9) the impact on business conditions,
+and on the aerospace industry in particular, of the global terrorism threat; (10) successful
+replacement of declining demand for repair services for turboprop engine components with component
+repair services for small turbofan engines utilized in the business and regional aircraft markets;
+(11) continued reliance on several major customers for revenues; (12) the Company s ability to
+continue to have access to its revolving credit facility, including the Company s ability to (i)
+continue to comply with the terms of its credit agreement, including financial covenants, (ii)
+continue to enter into amendments to its credit agreement containing financial covenants, which it
+and its bank lender find mutually acceptable, or (iii) continue to obtain waivers from its bank
+lender with respect to its compliance with the covenants contained in its credit agreement; (13)
+the impact of changes in defined benefit pension plan actuarial assumptions and legislation on
+future contributions; and (14) stable governments, business conditions, laws, regulations and taxes
+in economies where business is conducted.
+
+SIFCO Industries, Inc. and its subsidiaries engage in the production and sale of a variety of
+metalworking processes, services and products produced primarily to the specific design
+requirements of its customers. The processes and services include forging, heat-treating, coating,
+welding, machining and selective electrochemical finishing. The products include forgings,
+machined forged parts and other machined metal parts, remanufactured component parts for turbine
+engines, and selective electrochemical finishing solutions and equipment. The Company s operations
+are conducted in three business segments: (1) Aerospace Component Manufacturing Group, (2) Turbine
+Component Services and Repair Group, and (3) Applied Surface Concepts Group. The Company endeavors
+to plan and evaluate its businesses  operations while taking into consideration certain factors
+including the following   (i) the projected build rate for commercial, business and military
+aircraft as well as the engines that power such aircraft, (ii) the projected maintenance, repair
+and overhaul schedules for commercial, business and military aircraft as well as the engines that
+power such aircraft, (iii) the projected maintenance, repair and overhaul schedules for industrial
+gas turbine engines, (iv) anticipated exploration and production activities relative to oil and gas
+products, etc.
+
+A. Results of Operations 
+
+1. Fiscal Year 2006 Compared With Fiscal Year 2005 
+
+Fiscal 2006 net sales increased 7.4% to $87.0 million, compared with $81.0 million in fiscal 2005.
+The net income in fiscal 2006 was $1.0 million, compared with a net loss of $0.2 million in fiscal
+2005.
+
+Aerospace Component Manufacturing Group ( ACM Group )  
+
+Net sales in fiscal 2006 increased 41.8% to $43.9 million, compared with $31.0 million in fiscal
+2005. For purposes of the following discussion, the ACM Group considers aircraft that can
+accommodate less than 100 passengers to be small aircraft and those that can accommodate 100 or
+more passengers to be large aircraft. Net sales of airframe components for small aircraft increased
+$8.5 million to $23.4 million in fiscal 2006 compared with $14.9 million in fiscal 2005. Net sales
+of turbine engine components for small aircraft, which consist primarily of business aircraft and
+regional commercial jets, as well as military transport and surveillance aircraft, increased $1.1
+million to $11.6 million in fiscal 2006 compared with $10.5 million in fiscal 2005. Net sales of
+airframe components for large aircraft increased $1.9 million to $4.4 million in fiscal 2006
+compared with $2.5 million in fiscal 2005. Net sales of turbine engine components for large
+aircraft increased $0.9 million to $1.8 million in fiscal 2006 compared with $0.9 million in fiscal
+2005. The increase in the ACM Group s net sales volumes during fiscal 2006 is in part attributable
+to an increase in the ACM Group s selling prices due to increases in
+
+9 
+
+Table of Contents   
+
+raw material prices in the market place, some of which was passed through to the ACM Group s
+customers. The commercial aerospace industry continues to experience strong demand, most notably
+for mid-size single-aisle aircraft as well as for regional aircraft. Other product and non-product
+sales were $2.7 million and $2.2 million in fiscal 2006 and 2005, respectively.
+
+The ACM Group s airframe and turbine engine component products have both military and commercial
+applications. Net sales of airframe and turbine engine components that solely have military
+applications were $20.5 million and $13.1 million in fiscal 2006 and 2005, respectively. This
+increase is attributable in part to increased military spending due to ongoing wartime demand such
+as for additional military helicopters.
+
+In fiscal 2006, the ACM Group s total material cost of goods sold as a percentage of net product
+sales increased 6.2%, compared with fiscal 2005. Overall steel capacity was tight during fiscal
+2006, especially for aerospace grade materials. Titanium pricing is impacted by limited world-wide
+supply of titanium. These factors, coupled with increased steel demand, have resulted in higher raw
+material prices. While all grades of raw material experienced cost increases during fiscal 2006,
+aerospace alloy and titanium grades experienced the most significant increases.
+
+Selling, general and administrative expenses in fiscal 2006 were $3.2 million, or 7.3% of net
+sales, compared with $2.3 million, or 7.5% of net sales, in fiscal 2005. The $0.9 million increase
+in selling, general and administrative expenses in fiscal 2006 was principally due to increases in
+the ACM Group s compensation, including incentive compensation; provision for bad debts; consulting
+services; and variable selling costs. The increases in compensation ($0.2 million) and variable
+selling ($0.3 million) expenses were principally due to the significant increase in net sales and
+operating income during fiscal 2006, compared with fiscal 2005.
+
+The ACM Group s operating income in fiscal 2006 was $1.7 million, compared with operating income of
+$0.2 million in fiscal 2005. Operating results were positively impacted in fiscal 2006 compared
+with fiscal 2005 due to the positive impact on margins resulting from significantly higher sales
+volumes, partially offset by a $2.1 million increase in the LIFO provision, which increase was due
+principally to the increased cost of raw material steel being experienced within the ACM Group s
+industry as well as increases in certain other components of its manufacturing costs. The ACM
+Group s business is heavy manufacturing in nature and consequently bears large fixed operating
+costs. Therefore, improvements in sales volume generally result in positive impacts on operating
+margins as such fixed costs are spread over more units of production, as was experienced during
+fiscal 2006. Operating income in fiscal 2006 included $0.2 million of profit on sale of excess raw
+material inventory, compared with $0.4 million in fiscal 2005. Operating income in fiscal 2006 was
+negatively impacted by a $0.4 million increase in expenditures for the purchase of new tooling and
+repairs to existing tooling. Revenue associated with sales of components manufactured with new
+tooling generally will be realized in future periods when such component products are shipped.
+
+Turbine Component Services and Repair Group ( Repair Group )  
+
+As described in Item 8, Note 9, on May 10, 2006 the Repair Group completed the sale of the large
+aerospace portion of its turbine engine component repair business and certain related assets.
+
+Net sales in fiscal 2006 decreased 19.5% to $30.7 million, compared with $38.2 million in fiscal
+2005. Net sales of the large aerospace portion of the turbine engine component repair business
+that was sold, which includes component repair services and the sale of related replacement parts,
+were $9.4 million in fiscal 2006 (through the May 10, 2006 sale date), compared with $20.5 million
+in fiscal 2005. The Repair Group s remaining net sales in fiscal 2006, which includes (i)
+component manufacturing, consisting of precision component machining and industrial coating, and
+(ii) component repair services for small aerospace turbine engines and industrial turbine engines,
+increased 20.3% to $21.3 million, compared with $17.7 million in fiscal 2005. Demand for component
+repairs for small aerospace turbine engines, industrial turbine engines and for component
+manufacturing increased in the fiscal 2006, compared with fiscal 2005.
+
+During fiscal 2006, the Repair Group s selling, general and administrative expenses decreased $0.3
+million to $4.0 million, or 13.0% of net sales, from $4.3 million, or 11.2% of net sales, in fiscal
+2005. Included in the $4.0 million of selling, general and administrative expenses in fiscal 2006
+were $0.2 million of internal transaction related charges associated with the sale of the large
+aerospace portion of its turbine engine component repair business and $0.1 million of severance and
+related charges. Included in the $4.3 million of selling, general and administrative expenses in
+fiscal 2005 were $0.2 million of severance and related charges. The remaining selling, general and
+administrative expenses in fiscal 2006 and 2005 were $3.7 million, or 12.1% of net sales, and $4.1
+million, or 10.6% of net sales, respectively.
+
+The Repair Group s operating income in fiscal 2006 was $0.9 million, compared with an operating
+loss of $4.7 million in fiscal 2005. Operating results continued to be negatively impacted in
+fiscal 2006 by (i) the $0.2 million of aforementioned internal transaction related charges
+associated with the sale of a portion of the Repair Group s turbine engine component
+
+10 
+
+Table of Contents   
+
+repair business and (ii) negative margins, resulting from decreased sales volumes, for component
+manufacturing and repair services principally for large aerospace turbine engines, partially offset
+by positive, although lower, margins on sales of replacement parts. As noted above, on May 10,
+2006, the Repair Group divested the large aerospace portion of its business. This divestiture
+resulted in a $4.4 million gain on disposal of assets being recognized in the Repair Group s
+operating income in fiscal 2006.
+
+During fiscal 2006, the Repair Group s non-U.S. operation had most of its sales, in particular its
+large aerospace turbine engine component repair sales, denominated in U.S. dollars while a
+significant portion of its operating costs were denominated in euros. Therefore, as the U.S. dollar
+strengthens against the euro, costs denominated in euros are positively impacted and vice versa.
+During the last half of fiscal 2005 and continuing into the first half of fiscal 2006, the U.S.
+dollar strengthened against the euro. However, during the second half of fiscal 2006, the U.S.
+dollar weakened against the euro. During fiscal 2006, the Repair Group hedged its exposure to the
+euro at exchange rates that were less favorable than the exchange rates used to hedge the same
+exposure in fiscal 2005 and, therefore, the Repair Group s operating results were not significantly
+impacted by a stronger U.S. dollar during the first half of fiscal 2006 compared to the same period
+in fiscal 2005. Further, the negative impact on the Repair Group s operating results of the less
+favorable exchange rates at which it hedged its exposure to the euro in fiscal 2006 compared with
+the same period in 2005 was approximately $0.5 million.
+
+Applied Surface Concepts Group ( ASC Group )  
+
+Net sales of the ASC Group increased 4.5% to $12.3 million in fiscal 2006, compared with net sales
+of $11.8 million in fiscal 2005. In fiscal 2006, product net sales, consisting of selective
+electrochemical finishing equipment and solutions, increased 5.6% to $6.4 million, compared with
+$6.0 million in fiscal 2005. In fiscal 2006, customized selective electrochemical finishing
+contract service net sales increased 5.4% to $5.8 million, compared with $5.5 million in fiscal
+2005. The increase in net sales in 2006 is principally attributable to (i) an increase in sales to
+the oil and gas industry, which remains strong in both the exploration and production sectors and
+(ii) $0.9 million of nets sales generated by the ASC Group s Swedish operation that was acquired
+during the first quarter of fiscal 2006.
+
+The ASC Group s selling, general and administrative expenses in fiscal 2006 were $4.7 million, or
+38.4% of net sales, compared with $4.4 million, or 37.4% of net sales, in fiscal 2005. The $0.3
+million increase in selling, general and administrative expenses in fiscal 2006 is attributable to
+an increase in compensation and related benefit expenses due principally to certain positions being
+filled in fiscal 2006, which were open in fiscal 2005, in anticipation of higher sales volumes in
+fiscal 2006 that did not materialize.
+
+The ASC Group s operating loss was $0.6 million in fiscal 2006 compared with operating income of
+$0.8 million in fiscal 2005 due in part to the above noted items. In addition, operating results
+were negatively impacted by (i) a shift, during the fiscal 2006, in sales mix to fewer large volume
+contract service jobs resulting in a decline in operating efficiencies generally associated with
+such jobs, (ii) expenses related to the costs of relocating two of the Group s facilities as well
+as the cost of operating inefficiencies experienced during the relocations, and (iii) higher
+precious metal raw material costs, which could not be immediately passed on to customers.
+
+Corporate Unallocated Expenses  
+
+Corporate unallocated expenses, consisting of corporate salaries and benefits, legal and
+professional and other corporate expenses, were $1.6 million in both fiscal 2006 and 2005. Included
+in the $1.6 million of corporate unallocated expenses in fiscal 2006 were $0.3 million of incentive
+expenses. Included in the $1.6 million of corporate unallocated expenses in fiscal 2005 were $0.3
+million of severance and related employee benefit expenses incurred as a result of a reorganization
+of personnel. The remaining corporate unallocated expenses in both fiscal 2006 and 2005 were $1.3
+million.
+
+Other/General  
+
+Interest expense was $0.2 million in fiscal 2006 compared with $0.4 million in fiscal 2005. The
+following table sets forth the weighted average interest rates and weighted average outstanding
+balances under the Company s credit agreements in fiscal years 2006 and 2005.
+
+11 
+
+Table of Contents   
+
+(1) 
+       
+     Industrial development variable rate demand revenue bond and the term note were paid
+off during the first quarter of fiscal 2005. 
+
+(2) 
+       
+     Debt purchase agreement was entered into on September 29, 2005 and was paid off during
+the third quarter of fiscal 2006. 
+
+Currency exchange gain was $0.1 million in fiscal 2006, compared with a nominal gain in fiscal
+2005. These gains are generally the result of the impact of currency exchange rate fluctuations on
+the Company s monetary assets and liabilities that are not denominated in U.S. dollars. During
+fiscal 2005, the U.S. dollar strengthened in relation to the euro. This strength continued during
+the first half of fiscal 2006; however, during the second half of fiscal 2006, the U.S. dollar
+weakened against the euro. Also during fiscal 2006, the Company recognized a $0.2 million currency
+exchange gain as a result of the maturity and renegotiation of certain government grant agreements,
+as described more fully in Item 8, Note 4.
+
+Other income in fiscal 2006 includes $0.7 million of grant income, as described more fully in Item
+8, Note 4, and a $0.2 million gain from an insurance settlement related to property damaged in
+fiscal 2005. Other income in fiscal 2005 includes a $6.2 million gain on the sale of certain
+non-operating assets of the Repair Group.
+
+In fiscal 2006 and 2005, the income tax benefit related to the Company s U.S. and non-U.S.
+subsidiary losses was offset by a valuation allowance based upon an assessment of the Company s
+ability to realize such benefits. In assessing the Company s ability to realize its deferred tax
+assets, management considered the scheduled reversal of deferred tax liabilities, projected future
+taxable income and tax planning strategies in making this assessment. Future reversal of the
+valuation allowance will be achieved either when the tax benefit is realized or when it has been
+determined that it is more likely than not that the benefit will be realized through future taxable
+income. A deferred tax asset of $0.6 million was recognized in fiscal 2004 and was attributable to
+the gain on the disposal of a building and land in October 2004 that was part of the Repair Group s
+Irish operations, and that was recognized for Irish income tax purposes in fiscal 2004 but was
+recognized for financial reporting purposes in fiscal 2005 in conformity with accounting principles
+generally accepted in the United States of America. The Company also recorded a U.S. income tax
+provision in fiscal 2005 under the American Jobs Creation Act of 2004 for a dividend it received
+from its non-U.S. subsidiaries. The Company recorded an Irish income tax provision of $0.5 million
+in fiscal 2006 related to the gain on sale of the large aerospace portion of it turbine engine
+component repair business.
+
+2. Fiscal Year 2005 Compared With Fiscal Year 2004 
+
+Fiscal 2005 net sales decreased 7.4% to $81.0 million, compared with $87.4 million in fiscal 2004.
+The net loss in fiscal 2005 was $0.2 million, compared with a net loss of $5.9 million in fiscal
+2004.
+
+Aerospace Component Manufacturing Group ( ACM Group )  
+
+Net sales in fiscal 2005 increased 1.7% to $31.0 million, compared with $30.5 million in fiscal
+2004. For purposes of the following discussion, the ACM Group considers aircraft that can
+accommodate less than 100 passengers to be small aircraft and those that can accommodate 100 or
+more passengers to be large aircraft. Net sales of airframe components for small aircraft increased
+$1.7 million to $14.9 million in fiscal 2005 compared with $13.2 million in fiscal 2004. Net sales
+of turbine engine components for small aircraft, which consist primarily of business aircraft and
+regional commercial jets, as well as military transport and surveillance aircraft, decreased $2.2
+million to $10.5 million in fiscal 2005 compared with $12.7 million in fiscal 2004. Net sales of
+airframe components for large aircraft increased $0.7 million to $2.5 million in fiscal 2005
+compared with $1.8 million in fiscal 2004. Net sales of turbine engine components for large
+aircraft decreased $0.1 million to $0.9 million in fiscal 2005 compared with $1.0 million in fiscal
+2004. The decrease in the ACM Group s net sales volumes during fiscal 2005 was offset by an
+increase in the ACM Group s selling prices due to increases in raw material prices in the market
+place, some of which was passed through to the ACM Group s customers. Other product and
+non-product sales were $2.2 million and $1.8 million in fiscal 2005 and 2004, respectively.
+
+12 
+
+Table of Contents   
+
+The ACM Group s airframe and turbine engine component products have both military and commercial
+applications. Net sales of airframe and turbine engine components that solely have military
+applications were $13.1 million in both fiscal 2005 and 2004.
+
+Selling, general and administrative expenses in fiscal 2005 were $2.3 million, or 7.5% of net
+sales, compared with $2.1 million, or 7.0% of net sales, in fiscal 2004. This $0.2 million increase
+in fiscal 2005 was principally due to an increase in administrative and sales salaries resulting
+from the full year impact of certain positions that were vacant during a portion of fiscal 2004, as
+well as the absence in fiscal 2005 of a reduction in the provision for uncollectible accounts
+receivable that occurred in fiscal 2004.
+
+The ACM Group s operating income in fiscal 2005 was $0.2 million, compared with operating income of
+$1.8 million in fiscal 2004. Operating results were negatively impacted in fiscal 2005, compared
+with fiscal 2004, due to the negative impact on margins resulting from lower sales volumes, as well
+as by (i) an increase in raw material prices; (ii) an increase in energy costs; (iii) an increase
+in spending on manufacturing supplies and other related expenses; and (iv) a $0.6 million increase
+in the LIFO provision due principally to the increased cost of steel alloys.
+
+Turbine Component Services and Repair Group ( Repair Group )  
+
+Net sales in fiscal 2005 decreased 17.0% to $38.2 million, compared with $46.0 million in fiscal
+2004. Component manufacturing and repair net sales decreased $4.0 million to $33.0 million in
+fiscal 2005, compared with $37.0 million in fiscal 2004. Demand for precision component machining
+and for component repairs for industrial and large aerospace turbine engines decreased, while the
+demand for component repairs for small aerospace turbine engines increased in fiscal 2005 compared
+with fiscal 2004. Net sales associated with the demand for replacement parts, which often
+complement component repair services provided to customers, decreased $3.8 million to $5.2 in
+fiscal 2005, compared with $9.0 million in fiscal 2004.
+
+During fiscal 2005, the Repair Group s selling, general and administrative expenses decreased $0.4
+million to $4.3 million, or 11.2% of net sales, from $4.7 million, or 10.2% of net sales, in fiscal
+2004. Included in the $4.3 million of selling, general and administrative expenses in fiscal 2005
+were $0.2 million related to severance charges. The remaining selling, general and administrative
+expenses in fiscal 2005 were $4.1 million, or 10.6% of net sales. Selling, general and
+administrative expenses in fiscal 2005 benefited from a $0.3 million reduction in expenses related
+to the closure of the Repair Group s Tampa, Florida facility.
+
+The Repair Group s operating loss in fiscal 2005 increased $1.4 million to a $4.7 million loss from
+a $3.3 million loss in fiscal 2004. Operating results decreased in fiscal 2005 principally due to
+the negative impact on margins of decreased sales volumes for component manufacturing and repair
+services, which was partially offset by higher margins on sales of replacement parts. The higher
+margins on sales of replacement parts was attributable to both improved market prices for such
+components as well as certain replacement part sales consisting of inventory that had been
+previously written down.
+
+During fiscal 2004, the euro strengthened against the U.S. dollar. The euro continued to be strong
+in relation to the U.S. dollar during fiscal 2005. The Repair Group s non-U.S. operation has most
+of its sales denominated in U.S. dollars while a significant portion of its operating costs are
+denominated in euros. Therefore, as the euro strengthens, costs denominated in euros are negatively
+impacted. During fiscal 2005, the Repair Group hedged most of its exposure to the euro thereby
+mitigating the negative impact on its operating results in that period. If it had not hedged such
+exposure, the impact on the Repair Group s operating results in fiscal 2005 would have been higher
+operating costs of approximately $1.1 million related to its non-U.S. operations.
+
+Applied Surface Concepts Group ( ASC Group )  
+
+Net sales of the ASC Group increased 7.9% to $11.8 million in fiscal 2005, compared with net sales
+of $10.9 million in fiscal 2004. In fiscal 2005, product net sales, consisting of selective
+electrochemical finishing equipment and solutions, increased 7.8% to $6.0 million, compared with
+$5.6 million in fiscal 2004. In fiscal 2005, customized selective electrochemical finishing
+contract service net sales increased 10.7% to $5.5 million, compared with $5.0 million in fiscal
+2004.
+
+The ASC Group s selling, general and administrative expenses in fiscal 2005 were $4.4 million, or
+37.4% of net sales, compared with $5.9 million, or 54.1% of net sales, in fiscal 2004. Included in
+the $5.9 million of selling, general and administrative expenses in fiscal 2004 was a $2.6 million
+non-cash impairment charge related to a write-off of goodwill. The remaining selling, general and
+administrative expenses in fiscal 2004 were $3.3 million, or 30.6% of net sales. The increase in
+selling, general and administrative expenses is principally attributable to (i) an increase in
+compensation and employee benefit expenses consisting primarily of severance benefits incurred as a
+result of a reorganization of personnel
+
+13 
+
+Table of Contents   
+
+that occurred in early fiscal 2005 and (ii) an increase in employee compensation and other employee
+related expenses required to complete staffing needs as a result of the reorganization of
+personnel.
+
+The ASC Group s operating income was $0.8 million in fiscal 2005 compared with a loss of $1.8
+million in fiscal 2004. Included in the $1.8 million operating loss in fiscal 2004 was a $2.6
+million non-cash impairment charge related to the previously discussed write-off of goodwill.
+
+Corporate Unallocated Expenses  
+
+Corporate unallocated expenses, consisting of corporate salaries and benefits, legal and
+professional and other corporate expenses, were $1.6 million in both fiscal 2005 and 2004. A $0.3
+million decrease in legal and professional expenses was offset by a $0.3 million increase in
+compensation and employee benefit expenses consisting primarily of severance benefits incurred as a
+result of a reorganization of personnel.
+
+Other/General  
+
+Interest expense was $0.4 million in fiscal 2005 compared with $0.8 million in fiscal 2004. The
+following table sets forth the weighted average interest rates and weighted average outstanding
+balances under the Company s credit agreements in fiscal years 2005 and 2004.
+
+(1) 
+       
+     The industrial development variable rate demand revenue bond and term note were paid off during
+the first quarter of 2005. 
+
+(2) 
+       
+     The debt purchase agreement was entered into on September 29, 2005. 
+
+Currency exchange gain was a nominal amount in fiscal 2005 compared with an exchange loss of $0.3
+million in fiscal 2004. This gain/loss is the result of the impact of currency exchange rate
+fluctuations on the Company s monetary assets and liabilities that are not denominated in U.S.
+dollars. During the first quarter of fiscal 2005, the euro strengthened in relation to the U.S.
+dollar while during the last three quarters of fiscal 2005, the euro weakened in relation to the
+U.S. dollar.
+
+Other income includes (i) a $0.1 million gain on the sale of a building and land that was part of
+the Repair Group s Tampa, Florida operation and (ii) a $6.2 million gain on the sale of a building
+and land that was part of the Repair Group s Irish operations. Both buildings and land that were
+sold were included in assets held for sale at September 30, 2004.
+
+In fiscal 2005 and 2004, the income tax benefit related to the Company s U.S. and non-U.S.
+subsidiary losses was offset by a valuation allowance based upon an assessment of the Company s
+ability to realize such benefits. In assessing the Company s ability to realize its deferred tax
+assets, management considered the scheduled reversal of deferred tax liabilities, projected future
+taxable income and tax planning strategies in making this assessment. Future reversal of the
+valuation allowance will be achieved either when the tax benefit is realized or when it has been
+determined that it is more likely than not that the benefit will be realized through future taxable
+income. The deferred tax asset of $575 recognized in fiscal 2004 is attributable to the gain on
+the disposal of a building and land in October 2004 that was part of the Repair Group s Irish
+operations, and that was recognized for Irish income tax purposes in fiscal 2004 but was recognized
+for financial reporting purposes in fiscal 2005 in conformity with accounting principles generally
+accepted in the United States of America. The Company also recorded a U.S. income tax provision in
+fiscal 2005 under the American Jobs Creation Act of 2004 for a dividend it received from its
+non-U.S. subsidiaries.
+
+14 
+
+Table of Contents   
+
+B. Liquidity and Capital Resources 
+
+Cash and cash equivalents increased to $4.7 million at September 30, 2006 from $0.9 million at
+September 30, 2005. At present, essentially all of the Company s cash and cash equivalents are in
+the possession of its non-U.S. subsidiaries. Distributions from the Company s non-U.S. subsidiaries
+to the Company may be subject to statutory restriction, adverse tax consequences or other
+limitations.
+
+The Company s operating activities consumed $1.9 million of cash in fiscal 2006, compared with $4.7
+million of cash consumed in fiscal 2005. The cash used for operating activities in fiscal 2006 was
+primarily due to (i) a cash operating loss of $0.3 million, which loss does not include a $4.4
+million gain on disposal of operating assets; (ii) a $0.9 million increase in accounts receivable
+principally attributable to the significant increase in the ACM Group s fourth quarter sales and a
+portion of the proceeds from the disposal of operating assets being earned and not yet remitted;
+(iii) a $0.3 million increase in inventory principally attributable to the ACM Group s response to
+the increased demand in its business; (iv) a $1.4 million decrease in other long term liabilities
+related to the cancellation of certain government grant obligations and the annual revaluation of
+certain retirement obligations, partially offset by (v) an increase in accounts payable of $1.1
+million principally attributable to the ACM Group s significant increase in raw material purchases
+necessary to support the aforementioned increase in sales levels. The other changes in these
+components of working capital were due to factors resulting from normal business conditions of the
+Company, including (i) sales levels, (ii) collections from customers, (iii) the relative timing of
+payments to suppliers, and (iv) inventory levels required to support customer demand in general
+and, in particular, the significant extension of raw material lead times currently experienced by
+the ACM Group.
+
+Capital expenditures were $1.3 million in fiscal 2006, compared with $2.2 million in fiscal 2005.
+Fiscal 2006 capital expenditures consist of $0.2 million by the ACM Group, $0.7 million by the ASC
+Group and $0.4 million by the Repair Group. During the first quarter of fiscal 2006, the ASC Group
+also invested $0.4 million to acquire a related business. The Company anticipates that total fiscal
+2007 capital expenditures will approximate $3.0 million. Fiscal 2007 capital expenditures are
+again anticipated to (i) provide increased range of manufacturing capabilities; (ii) automate
+certain operations; and (iii) enhance the Company s service and repair capabilities.
+
+At September 30, 2006, the Company has a $6.0 million revolving credit agreement with a U.S. bank,
+subject to sufficiency of collateral, which expires on October 1, 2007 and bears interest at the
+U.S. bank s base rate plus 0.50%. The interest rate was 8.75% at September 30, 2006. A 0.375%
+commitment fee is incurred on the unused balance of the revolving credit agreement. At September
+30, 2006, $0.4 million was outstanding and the Company had $5.5 million available under its $6.0
+million revolving credit agreement. The Company s revolving credit agreement is secured by
+substantially all of the Company s assets located in the U.S., a guarantee by its U.S. subsidiaries
+and a pledge of 65% of the Company s ownership interest in one of its non-U.S. subsidiaries.
+
+Under its revolving credit agreement with the U.S. bank, the Company is subject to certain
+customary covenants. These include, without limitation, covenants (as defined) that require
+maintenance of certain specified financial ratios, including a minimum tangible net worth level and
+a minimum EBITDA level. During 2006, the Company entered into agreements with its U.S. bank to (i)
+waive certain provisions of its revolving credit agreement for periods prior to May 1, 2006, (ii)
+amend its financial ratio covenants for future periods; and (iii) extend the maturity date of the
+revolving credit agreement. In November 2006, the Company entered into an agreement with its U.S.
+bank to waive and/or amend certain provisions of its revolving credit agreement. The amendment (i)
+waives the Company s required minimum EBITDA level for periods prior to October 1, 2006 and (ii)
+amends the Company s required minimum EBITDA level for future periods. Taking into consideration
+the impact of this amendment, the Company was in compliance with all applicable covenants at
+September 30, 2006.
+
+Effective September 29, 2005, the Company s Irish subsidiary entered into a debt purchase agreement
+and certain related agreements with an Irish bank. On May 10, 2006 the Company s Repair Group
+completed the sale of the large aerospace portion of its turbine engine component repair business
+and certain related assets. As part of this transaction, the Repair Group s Irish subsidiary used
+the related proceeds to pay off the remaining outstanding balance of its debt purchase agreement
+with the Irish bank.
+
+The Company believes that cash flows from its operations together with existing cash reserves and
+the funds available under its credit agreements will be sufficient to meet its working capital
+requirements through the end of fiscal year 2007. However, no assurances can be given as to the
+sufficiency of the Company s working capital to support the Company s operations. If the existing
+cash reserves, cash flow from operations and funds available under the revolving credit agreement
+are insufficient; if working capital requirements are greater than currently estimated; and/or if
+the Company is unable to satisfy the covenants set forth in its credit agreements, the Company may
+be required to adopt one or more alternatives, such as reducing or delaying capital expenditures,
+restructuring indebtedness, selling assets or operations, or issuing additional shares of capital
+stock in the Company. There can be no assurance that any of these actions could be
+
+15 
+
+Table of Contents   
+
+accomplished, or if so, on terms favorable to the Company, or that they would enable the Company to
+continue to satisfy its working capital requirements.
+
+C. Off-Balance Sheet Arrangements 
+
+The Company does not have any obligations that meet the definition of an off-balance sheet
+arrangement and that have, or are reasonably likely to have, a material effect on the Company s
+financial condition or results of operations. For discussion of foreign currency exchange
+contracts, see Foreign Currency Risk included in Item 7A.
+
+D. Other Contractual Obligations 
+
+The following table summarizes the Company s outstanding contractual obligations and other
+commercial commitments at September 30, 2006 and the effect such obligations are expected to have
+on liquidity and cash flow in future periods.
+
+(Amounts in thousands)
+
+Excluded from the foregoing Other Contractual Obligations table are open purchase orders at
+September 30, 2006 for raw materials and supplies required in the normal course of business.
+Included in other long-term liabilities in the Company s balance sheet as of September 30, 2006 is
+$2.4 million related to (contingent) government grant obligations, which (as is explained more
+fully in Item 8, Note 4) expire on December 31, 2006 without obligation to the Company, and $3.4
+million related to the Company s defined benefit pension plans. The Company is not able to
+accurately project the timing of the payment of such pension obligations beyond the $1.2 million
+that is expected to be funded in fiscal 2007.
+
+E. Outlook 
+
+The Company s Repair and ACM Groups  businesses continue to be heavily dependent upon the strength
+of the commercial airlines as well as aircraft and related engine manufacturers. Consequently, the
+performance of the domestic and international air transport industry directly and significantly
+impacts the performance of the Repair and ACM Groups  businesses.
+
+The financial condition of many airlines in the U.S. and throughout the world, while showing some
+improvement, continues to be weak. The U.S. airline industry has received U.S. government
+assistance, while some airlines have entered bankruptcy proceedings, and others continue to pursue
+major restructuring initiatives, which appears to have had a positive impact on operating results
+in recent periods. Modest improvements in the commercial airlines and increased demand in the
+aircraft and related engine industries have been complemented by increases in U.S. military
+spending for aircraft and related components; and the demand for passenger travel has rebounded to
+pre-September 11, 2001 levels. The air transport industry s long-term outlook has been one of
+continued, steady growth. Such outlook suggests the need for additional aircraft and, therefore,
+growth in the requirement for airframe and engine components as well as aerospace turbine engine
+repairs.
+
+It is difficult to determine the potential long-term impact that the aforementioned factors may
+have on air travel and the demand for the products and services provided by the Company. Lack of
+continued improvement could result in further credit risk associated with doing business with the
+financially troubled airlines and their suppliers. All of these consequences, to the extent that
+they may occur, could negatively impact the Company s net sales, operating profits and cash flows.
+However, in light of the current business environment, the Company believes that that cash on-hand,
+funds available under its revolving credit agreement, and anticipated funds generated from
+operations will be adequate to meet its liquidity needs through the foreseeable future.
+
+16 
+
+Table of Contents   
+
+F. Critical Accounting Policies and Estimates 
+
+Allowances for Doubtful Accounts 
+
+The Company maintains allowances for doubtful accounts for estimated losses resulting from the
+inability of certain customers to make required payments. The Company evaluates the adequacy of
+its allowances for doubtful accounts each quarter based on the customers  credit-worthiness,
+current economic trends or market conditions, past collection history, aging of outstanding
+accounts receivable and specific identified risks. As these factors change, the Company s
+allowances for doubtful accounts may change in subsequent periods. Historically, losses have been
+within management s expectations and have not been significant.
+
+Inventories 
+
+The Company maintains allowances for obsolete and excess inventory. The Company evaluates its
+allowances for obsolete and excess inventory each quarter. Each business segment maintains formal
+policies, which require at a minimum that reserves be established based on an analysis of the age
+of the inventory on a product-by-product basis. In addition, if the Company learns of specific
+obsolescence, other than that identified by the aging criteria, an additional reserve will be
+recognized as well. Specific obsolescence may arise due to a technological or market change, or
+based on cancellation of an order. Management s judgment is necessary in determining the realizable
+value of these products to arrive at the proper allowance for obsolete and excess inventory.
+
+Impairment of Long-Lived Assets 
+
+The Company reviews the carrying value of its long-lived assets, including property, plant and
+equipment, at least annually or when events and circumstances warrant such a review. This review
+is performed using estimates of future undiscounted cash flows, which include proceeds from
+disposal of assets. If the carrying value of a long-lived asset is greater than the estimated
+undiscounted future cash flows, and if that excess carrying value is determined to be permanent,
+then the long-lived asset is considered impaired and an impairment charge is recorded for the
+amount by which the carrying value of the long-lived asset exceeds its fair value.
+
+The Company has a significant amount of property, plant and equipment. The determination as to
+whether events or changes in circumstances indicate that the carrying amount of an asset may not be
+recoverable involves judgment. The Company believes that its estimate of future undiscounted cash
+flows is a critical accounting estimate because (i) it requires the Company to make assumptions
+about future results and (ii) the impact of recognizing an impairment charge could have a material
+impact on the Company s financial position and results of operations.
+
+In projecting future undiscounted cash flows, the Company relies on internal budgets and forecasts;
+and projected proceeds upon disposal of long-lived assets. The Company s budgets and forecasts
+are based on historical results and anticipated future market conditions, such as the general
+business climate and the effectiveness of competition.
+
+The Company believes that its estimates of future undiscounted cash flows and fair value are
+reasonable; however, changes in estimates of such undiscounted cash flows and fair value could
+change the Company s estimates of fair value. Further, actual results can differ significantly
+from assumptions used by the Company in making its estimates. Future changes in the Company s
+estimates could result in future impairment charges.
+
+Valuation of deferred tax allowance 
+
+The Company accounts for deferred taxes in accordance with SFAS No. 109,  Accounting for Income
+Taxes , whereby the Company recognizes an income tax benefit related to its consolidated net losses
+and other temporary differences between financial reporting basis and tax reporting basis. At
+September 30, 2006, the Company s net deferred tax asset before any valuation allowance was $4.5
+million.
+
+At September 30, 2006, the income tax benefit related to its consolidated net losses and other
+temporary differences between financial reporting basis and tax reporting basis was offset by a
+valuation allowance of $4.6 million based on an assessment of the Company s ability to realize such
+benefits. In assessing the Company s ability to realize its deferred tax assets, management
+considered the scheduled reversal of deferred tax liabilities, projected future taxable income and
+tax planning strategies in making this assessment. Future reversal of the valuation allowance will
+be achieved either when the tax benefit is realized or when it has been determined that it is more
+likely than not that the benefit will be realized through future taxable income.
+
+17 
+
+Table of Contents   
+
+G. Recently Issued Accounting Standards 
+
+In September 2006, the Financial Accounting Standards Board ( FASB ) issued Statement of Financial
+Accounting Standards ( SFAS ) No. 158,  Employers  Accounting for Defined Benefit Pension and Other
+Postretirement Plans an amendment of FASB Statements No. 87, 88, 106, and 132(R) . This Statement
+requires an employer to (i) recognize the overfunded or underfunded status of a defined benefit
+postretirement plan (other than a multiemployer plan)  measured as the difference between plan
+assets at fair value and the benefit obligation as an asset or liability in its statement of
+financial position; (ii) recognize changes in that funded status in the year in which the changes
+occur through comprehensive income; (iii) recognize as a component of other comprehensive income,
+net of tax, the gains or losses and prior service costs or credits that arise during the period but
+are not recognized as components of net periodic benefit cost pursuant to FASB Statement No. 87,
+ Employers  Accounting for Pensions , or No. 106,  Employers  Accounting for Postretirement
+Benefits Other Than Pensions  and (iv) measure defined benefit plan assets and obligations as of
+the date of the employer s fiscal year end .  Amounts recognized in accumulated other comprehensive
+income, including the gains or losses, prior service costs or credits, and the transition asset or
+obligation remaining from the initial application of Statements 87 and 106, are adjusted as they
+are subsequently recognized as components of net periodic benefit cost pursuant to the recognition
+and amortization provisions of those statements. For an employer with publicly traded equity
+securities, SFAS No 158 is effective as of the end of the fiscal year ending after December 15,
+2006. The Company is currently evaluating the impact of its adoption of SFAS No. 158 on its
+financial position and results of operations.
+
+In September 2006, the FASB issued SFAS No. 157,  Fair Value Measurement . This Statement defines
+fair value, establishes a framework for measuring fair value in generally accepted accounting
+principles (GAAP), and expands disclosures about fair value measurements. SFAS No. 157 applies
+under other accounting pronouncements that require or permit fair value measurements, the FASB
+having previously concluded in those accounting pronouncements that fair value is the relevant
+measurement attribute. Accordingly, this statement does not require any new fair value
+measurements. However, for some entities, the application of this statement will change current
+practice. SFAS No. 157 is effective for financial statements issued for fiscal years beginning
+after November 15, 2007, and interim periods within those fiscal years. The adoption of this
+statement in fiscal 2008 is not expected to have a material impact on the Company s financial
+position or results of its operations.
+
+In September 2006, the U.S. Securities and Exchange Commission ( SEC ) released Staff Accounting
+Bulletin No. 108 ( SAB No. 108 ),  Financial Statement Misstatements . SAB No. 108 expresses the
+SEC staff s view regarding the process of quantifying financial statement misstatements. The
+Interpretations in SAB No. 108 are being issued to address diversity in practice in quantifying
+financial statement misstatements and the potential under current practice for the build up of
+improper amounts on the balance sheet. SAB No. 108 is effective for annual financial statements
+covering the first fiscal year ending after November 15, 2006. The adoption of this statement in
+fiscal 2007 is not expected to have a material impact on the Company s financial position or
+results of its operations.
+
+In June 2006, FASB issued FASB Interpretation No. 48 ( FIN 48 ),  Accounting for Uncertainty in
+Income Taxes    an interpretation of FASB Statement No. 109,  Accounting for Income Taxes . FIN 48
+clarifies the accounting for uncertainty in income taxes recognized in an entity s financial
+statements and provides guidance on the recognition, derecognition, and measurement of benefits
+related to an entity s uncertain tax position(s). FIN 48 is effective for fiscal years beginning
+after December 15, 2006. The Company is currently evaluating the impact of its adoption of FIN 48
+on its financial position and results of operations.
+
+In February 2006, the FASB issued SFAS No. 155,  Accounting for Certain Hybrid Financial
+Instruments    an amendment of FASB Statements No. 133,  Accounting for Derivative Instruments and
+Hedging Activities  and No. 140,  Accounting for Transfers and Servicing of Financial Assets and
+Extinguishments of Liabilities . SFAS No. 155 resolves issues addressed in Statement 133
+Implementation Issue No. D1,  Application of Statement 133 to Beneficial Interests in Securitized
+Financial Assets . This Statement (i) permits fair value remeasurement for any hybrid financial
+instrument that contains an embedded derivative that otherwise would require bifurcation; (ii)
+clarifies which interest-only strips and principal-only strips are not subject to the requirements
+of Statement 133; (iii) establishes a requirement to evaluate interests in securitized financial
+assets to identify interests that are freestanding derivatives or that are hybrid financial
+instruments that contain an embedded derivative requiring bifurcation; (iv) clarifies that
+concentrations of credit risk in the form of subordination are not embedded derivatives; and (v)
+amends Statement 140 to eliminate the prohibition on a qualifying special-purpose entity from
+holding a derivative financial instrument that pertains to a beneficial interest other than another
+derivative financial instrument. SFAS No. 155 is effective for all financial instruments acquired
+or issued after the beginning of an entity s first fiscal year that begins after September 15,
+2006. The Company does not expect the adoption of this statement in fiscal year 2007 to have a
+material impact on the Company s financial position or results of operations.
+
+18 
+
+Table of Contents   
+
+In May 2005, the FASB issued Statement of Financial Accounting No. 154,  Accounting Changes and
+Error Corrections    a replacement of Accounting Principles Board ( APB ) Opinion No. 20,
+ Accounting Changes , and FASB Statement No. 3,  Reporting Accounting Changes in Interim Financial
+Statements . This statement changes the requirements for the accounting for and reporting of a
+change in accounting principle. This statement applies to all voluntary changes in accounting
+principle. It also applies to changes required by an accounting pronouncement in the unusual
+instance that the pronouncement does not include specific transition provisions. APB Opinion No.
+20 previously required that most voluntary changes in accounting principle be recognized by
+including in net income of the period of the change the cumulative effect of changing to the new
+accounting principle. This statement requires retrospective application to prior periods 
+financial statements of changes in accounting principle, unless it is impracticable to determine
+either the period-specific effects or the cumulative effect of the change. When it is
+impracticable to determine the period-specific effects of a change in accounting principle on one
+or more individual periods presented, this statement requires that the new accounting principle be
+applied to the balances of assets and liabilities as of the beginning of the earliest period for
+which retrospective application is practicable and that a corresponding adjustment be made to the
+opening balance of retained earnings (or other appropriate components of equity or net assets in
+the statement of financial position) for that period. When it is impracticable to determine the
+cumulative effect of applying a change in accounting principle to all prior periods, this statement
+requires that the new accounting principle be applied as if it were adopted prospectively from the
+earliest date practicable. SFAS No. 154 is effective for changes in accounting principle made in
+fiscal years beginning after December 15, 2005. The Company does not expect the adoption of this
+statement in fiscal year 2007 to have a material impact on the Company s financial position or
+results of operations.
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk  
+
+In the ordinary course of business, the Company is subject to foreign currency and interest
+rate risk. The risks primarily relate to the sale of the Company s products in transactions
+denominated in non-U.S. dollar currencies (primarily the euro); the payment in local currency of
+wages and other costs related to the Company s non-U.S. operations; and changes in interest rates
+on the Company s long-term debt obligations. The Company does not hold or issue financial
+instruments for trading purposes.
+
+The Company believes that inflation has not materially affected its results of operations in 2006,
+and does not expect inflation to be a significant factor in fiscal 2007.
+
+A. Foreign Currency Risk 
+
+The U.S. dollar is the functional currency for all of the Company s U.S. operations. Also, through
+September 30, 2006, the U.S. dollar was the functional currency for the Company s Irish subsidiary
+because a substantial majority of the subsidiary s transactions were denominated in U.S. dollars.
+For these operations, all gains and losses from completed currency transactions are included in
+income currently. For the Company s other non-U.S. subsidiaries, the functional currency is the
+local currency. Assets and liabilities are translated into U.S. dollars at the rate of exchange at
+the end of the period and revenues and expenses are translated using average rates of exchange.
+Foreign currency translation adjustments are reported as a component of accumulated other
+comprehensive income (loss) in the consolidated statements of shareholders  equity.
+
+Subsequent to September 30, 2006, as a result of the sale of the large aerospace portion of the
+Irish subsidiary s turbine engine component repair business and certain related assets, the
+majority of the Irish subsidiary s transactions are expected to be denominated in euros.
+Consequently, effective October 1, 2006, the functional currency of the remaining Irish
+subsidiary s business will be the euro.
+
+Historically, the Company has been able to mitigate the impact of foreign currency risk by means of
+hedging such risk through the use of foreign currency exchange contracts, which typically expire
+within one year. However, such risk is mitigated only for the periods for which the Company has
+foreign currency exchange contracts in effect, and only to the extent of the U.S. dollar amounts of
+such contracts. At September 30, 2006, the Company had no forward exchange contracts outstanding.
+The Company will continue to evaluate its foreign currency risk, if any, and the effectiveness of
+using similar hedges in the future to mitigate such risk.
+
+19 
+
+Table of Contents   
+
+At September 30, 2006, the Company s assets and liabilities denominated in the British pound, the
+Euro and Swedish Krona were as follows (Amounts in thousands):
+
+B. Interest Rate Risk 
+
+The Company s primary interest rate risk exposure results from the variable interest rate
+mechanisms associated with the Company s long-term debt consisting of a revolving credit agreement
+with a U.S. bank. If interest rates were to increase or decrease 100 basis points (1%) from the
+September 30, 2006 rate, and assuming no change in the amount outstanding under the revolving
+credit agreement, annual interest expense to the Company would be nominally impacted. The
+Company s sensitivity analyses of the effects of changes in interest rates do not consider the
+impact of a potential change in the level of variable rate borrowings or derivative instruments
+outstanding that could take place if these hypothetical conditions prevail.
+
+20 
+
+Table of Contents   
+
+Item 8. Financial Statements and Supplementary Data  
+
+Report of Independent Registered Public Accounting Firm  
+
+To the Board of Directors and Shareholders of SIFCO Industries, Inc. and Subsidiaries
+
+We have audited the accompanying consolidated balance sheets of SIFCO Industries, Inc. (an Ohio
+Corporation) and Subsidiaries as of September 30, 2006 and 2005 and the related consolidated
+statements of operations, shareholders  equity, and cash flows for each of the three years in the
+period ended September 30, 2006. These financial statements are the responsibility of the
+Company s management. Our responsibility is to express an opinion on these financial statements
+based on our audits.
+
+We conducted our audit in accordance with the standards of the Public Company Accounting Oversight
+Board (United States). Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement. The
+Company is not required to have, nor were we engaged to perform an audit of its internal control
+over financial reporting. Our audit included consideration of internal control over financial
+reporting as a basis for designing audit procedures that are appropriate in the circumstances, but
+not for the purpose of expressing an opinion on the effectiveness of the Company s internal control
+over financial reporting. Accordingly, we express no such opinion. An audit also includes
+examining, on a test basis, evidence supporting the amounts and disclosures in the financial
+statements, assessing the accounting principles used and significant estimates made by management,
+as well as evaluating the overall financial statement presentation. We believe that our audit
+provides a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present fairly, in all
+material respects, the financial position of SIFCO Industries, Inc. and Subsidiaries as of
+September 30, 2006 and 2005, and the results of their operations and their cash flows for each of
+the three years in the period ended September 30, 2006, in conformity with accounting principles
+generally accepted in the United States of America.
+
+Our audit was conducted for the purpose of forming an opinion on the basic financial statements
+taken as a whole. Schedule II is presented for purposes of additional analysis and is not a
+required part of the basic financial statements. This schedule has been subjected to the auditing
+procedures applied in the audit of the basic financial statements and, in our opinion, is fairly
+stated in all material respects in relation to the basic financial statements taken as a whole.
+
+/s/ GRANT THORNTON LLP
+
+Cleveland, Ohio 
+November 3, 2006 (except for Note 5 as to 
+     which the date is November 29, 2006)
+
+21 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+Consolidated Statements of Operations 
+(Amounts in thousands, except per share data) 
+
+See notes to consolidated financial statements.
+
+22 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+Consolidated Balance Sheets 
+(Amounts in thousands, except per share data) 
+
+See notes to consolidated financial statements.
+
+23 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+Consolidated Statements of Cash Flows 
+(Amounts in thousands) 
+
+See notes to consolidated financial statements.
+
+24 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+Consolidated Statements of Shareholders  Equity 
+(Amounts in thousands) 
+
+See notes to consolidated financial statements.
+
+25 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries  
+
+ Notes to Consolidated Financial Statements 
+Years ended September 30, 2006, 2005 and 2004 
+(Dollars in thousands, except share and per share data) 
+
+1 .  Summary of Significant Accounting Policies 
+
+A. DESCRIPTION OF BUSINESS 
+
+SIFCO Industries, Inc. and Subsidiaries (the  Company ) are engaged in the production and sale of a
+variety of metalworking processes, services and products produced primarily to the specific design
+requirements of its customers. The processes and services include forging, heat-treating, coating,
+welding, machining and selective electrochemical finishing; and the products include forgings,
+machined forged parts and other machined metal parts, remanufactured component parts for turbine
+engines, and selective electrochemical finishing solutions and equipment. The Company s operations
+are conducted in three business segments: (1) Aerospace Component Manufacturing Group, (2) Turbine
+Component Services and Repair Group and (3) Applied Surface Group.
+
+B. PRINCIPLES OF CONSOLIDATION 
+
+The accompanying consolidated financial statements include the accounts of the Company and its
+wholly-owned subsidiaries. All significant intercompany accounts and transactions have been
+eliminated. The U.S. dollar is the functional currency for all the Company s U.S. operations as
+well as its Irish subsidiary. The functional currency of the Irish subsidiary is the U.S. dollar
+because a substantial majority of the subsidiary s transactions are denominated in U.S. dollars.
+For these operations, all gains and losses from completed currency transactions are included in
+income currently. For the Company s other non-U.S. subsidiaries, the functional currency is the
+local currency. Assets and liabilities are translated into U.S. dollars at the rates of exchange
+at the end of the period and revenues and expenses are translated using average rates of exchange.
+Foreign currency translation adjustments are reported as a component of accumulated other
+comprehensive loss in the consolidated statements of shareholders  equity.
+
+C. CASH EQUIVALENTS 
+
+The Company considers all highly liquid short-term investments with original maturities of three
+months or less to be cash equivalents.
+
+D. INVENTORY VALUATION 
+
+Inventories are stated at the lower of cost or market. Cost is determined using the last-in,
+first-out ( LIFO ) method for approximately 59% and 60% of the Company s inventories at September
+30, 2006 and 2005, respectively. Cost is determined using the specific identification method for
+approximately 12% and 18% of the Company s inventories at September 30, 2006 and 2005,
+respectively. The first-in, first-out ( FIFO ) method is used to value the remainder of the
+Company s inventories.
+
+The Company maintains allowances for obsolete and excess inventory. The Company evaluates its
+allowances for obsolete and excess inventory each quarter. Each business segment maintains formal
+policies, which require at a minimum that reserves be established based on an analysis of the age
+of the inventory on a part-by-part basis. In addition, if the Company learns of specific
+obsolescence, other than that identified by the aging criteria, an additional reserve will be
+recognized as well. Specific obsolescence may arise due to a technological or market change, or
+based on cancellation of an order.
+
+E. PROPERTY, PLANT AND EQUIPMENT 
+
+Property, plant and equipment are stated at cost. Depreciation is generally computed using the
+straight-line and the double declining balance methods. Depreciation is provided in amounts
+sufficient to amortize the cost of the assets over their estimated useful lives. Depreciation
+provisions are based on estimated useful lives: (i) buildings, including building improvements   5
+to 50 years and (ii) machinery and equipment, including office and computer equipment   3 to 20
+years.
+
+The Company reviews the carrying value of its long-lived assets, including property, plant and
+equipment, at least annually or when events and circumstances warrant such a review. This review
+is performed using estimates of future undiscounted cash flows, which include proceeds from
+disposal of assets. If the carrying value of a long-lived asset is greater than the estimated
+undiscounted future cash flows, the long-lived asset is considered impaired and an impairment
+charge is recorded for the amount by which the carrying value of the long-lived asset exceeds its
+fair value.
+
+26 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+
+Notes to Consolidated
+Financial Statements      (Continued)  
+
+F. NET INCOME PER SHARE 
+
+The Company s net income per basic share has been computed based on the weighted-average number of
+common shares outstanding. Net income per diluted share reflects the effect of the Company s
+outstanding stock options under the treasury stock method. However, during periods of operating
+losses, outstanding stock options are not included in the calculation of net loss per diluted share
+because such inclusion would be anti-dilutive.
+
+G. REVENUE RECOGNITION 
+
+The Company recognizes revenue in accordance with the relevant portions of the Securities and
+Exchange Commission s Staff Accounting Bulletins No. 101,  Revenue Recognition in Financial
+Statements  and No. 104,  Revenue Recognition . Revenue is generally recognized when products are
+shipped or services are provided to customers.
+
+H. RECENTLY ISSUED ACCOUNTING STANDARDS 
+
+In September 2006, the Financial Accounting Standards Board ( FASB ) issued Statement of Financial
+Accounting Standards ( SFAS ) No. 158,  Employers  Accounting for Defined Benefit Pension and Other
+Postretirement Plans an amendment of FASB Statements No. 87, 88, 106, and 132(R) . This Statement
+requires an employer to (i) recognize the overfunded or underfunded status of a defined benefit
+postretirement plan (other than a multiemployer plan)  measured as the difference between plan
+assets at fair value and the benefit obligation as an asset or liability in its statement of
+financial position; (ii) recognize changes in that funded status in the year in which the changes
+occur through comprehensive income; (iii) recognize as a component of other comprehensive income,
+net of tax, the gains or losses and prior service costs or credits that arise during the period but
+are not recognized as components of net periodic benefit cost pursuant to FASB Statement No. 87,
+ Employers  Accounting for Pensions , or No. 106,  Employers  Accounting for Postretirement
+Benefits Other Than Pensions  and (iv) measure defined benefit plan assets and obligations as of
+the date of the employer s fiscal year end ..  Amounts recognized in accumulated other comprehensive
+income, including the gains or losses, prior service costs or credits, and the transition asset or
+obligation remaining from the initial application of Statements 87 and 106, are adjusted as they
+are subsequently recognized as components of net periodic benefit cost pursuant to the recognition
+and amortization provisions of those Statements. For an employer with publicly traded equity
+securities, SFAS No 158 is effective as of the end of the fiscal year ending after December 15,
+2006. The Company is currently evaluating the impact of its adoption of SFAS No. 158 on its
+financial position and results of operations.
+
+In September 2006, the FASB issued SFAS No. 157,  Fair Value Measurement . This Statement defines
+fair value, establishes a framework for measuring fair value in generally accepted accounting
+principles, and expands disclosures about fair value measurements. SFAS No. 157 applies under other
+accounting pronouncements that require or permit fair value measurements, the FASB having
+previously concluded in those accounting pronouncements that fair value is the relevant measurement
+attribute. Accordingly, this statement does not require any new fair value measurements. However,
+for some entities, the application of this statement will change current practice. SFAS No. 157 is
+effective for financial statements issued for fiscal years beginning after November 15, 2007, and
+interim periods within those fiscal years. The adoption of this statement in fiscal 2008 is not
+expected to have a material impact on the Company s financial position or results of its
+operations.
+
+In September 2006, the U.S. Securities and Exchange Commission ( SEC ) released Staff Accounting
+Bulletin No. 108 ( SAB No. 108 ),  Financial Statement Misstatements . SAB No. 108 expresses the
+SEC staff s view regarding the process of quantifying financial statement misstatements. The
+Interpretations in SAB No. 108 are being issued to address diversity in practice in quantifying
+financial statement misstatements and the potential under current practice for the build up of
+improper amounts on the balance sheet. SAB No. 108 is effective for annual financial statements
+covering the first fiscal year ending after November 15, 2006. The adoption of this statement in
+fiscal 2007 is not expected to have a material impact on the Company s financial position or
+results of its operations.
+
+In June 2006, FASB issued FASB Interpretation No. 48 ( FIN 48 ),  Accounting for Uncertainty in
+Income Taxes    an interpretation of FASB Statement No. 109,  Accounting for Income Taxes . FIN 48
+clarifies the accounting for uncertainty in income taxes recognized in an entity s financial
+statements and provides guidance on the recognition, derecognition, and measurement of benefits
+related to an entity s uncertain tax position(s). FIN 48 is effective for fiscal years beginning
+after December 15, 2006. The Company is currently evaluating the impact of its adoption of FIN 48
+on its financial position and results of operations.
+
+27 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+
+Notes to Consolidated
+Financial Statements      (Continued)  
+
+In February 2006, the FASB issued SFAS No. 155,  Accounting for Certain Hybrid Financial
+Instruments    an amendment of FASB Statements No. 133,  Accounting for Derivative Instruments and
+Hedging Activities  and No. 140,  Accounting for Transfers and Servicing of Financial Assets and
+Extinguishments of Liabilities . SFAS No. 155 resolves issues addressed in Statement 133
+Implementation Issue No. D1,  Application of Statement 133 to Beneficial Interests in Securitized
+Financial Assets . This Statement (i) permits fair value remeasurement for any hybrid financial
+instrument that contains an embedded derivative that otherwise would require bifurcation; (ii)
+clarifies which interest-only strips and principal-only strips are not subject to the requirements
+of Statement 133; (iii) establishes a requirement to evaluate interests in securitized financial
+assets to identify interests that are freestanding derivatives or that are hybrid financial
+instruments that contain an embedded derivative requiring bifurcation; (iv) clarifies that
+concentrations of credit risk in the form of subordination are not embedded derivatives; and (v)
+amends Statement 140 to eliminate the prohibition on a qualifying special-purpose entity from
+holding a derivative financial instrument that pertains to a beneficial interest other than another
+derivative financial instrument. SFAS No. 155 is effective for all financial instruments acquired
+or issued after the beginning of an entity s first fiscal year that begins after September 15,
+2006. The Company does not expect the adoption of this statement in fiscal year 2007 to have a
+material impact on the Company s financial position or results of operations.
+
+In May 2005, the FASB issued Statement of Financial Accounting No. 154,  Accounting Changes and
+Error Corrections    a replacement of Accounting Principles Board ( APB ) Opinion No. 20,
+ Accounting Changes , and FASB Statement No. 3,  Reporting Accounting Changes in Interim Financial
+Statements . This statement changes the requirements for the accounting for and reporting of a
+change in accounting principle. This statement applies to all voluntary changes in accounting
+principle. It also applies to changes required by an accounting pronouncement in the unusual
+instance that the pronouncement does not include specific transition provisions. APB Opinion No.
+20 previously required that most voluntary changes in accounting principle be recognized by
+including in net income of the period of the change the cumulative effect of changing to the new
+accounting principle. This statement requires retrospective application to prior periods 
+financial statements of changes in accounting principle, unless it is impracticable to determine
+either the period-specific effects or the cumulative effect of the change. When it is
+impracticable to determine the period-specific effects of a change in accounting principle on one
+or more individual periods presented, this statement requires that the new accounting principle be
+applied to the balances of assets and liabilities as of the beginning of the earliest period for
+which retrospective application is practicable and that a corresponding adjustment be made to the
+opening balance of retained earnings (or other appropriate components of equity or net assets in
+the statement of financial position) for that period. When it is impracticable to determine the
+cumulative effect of applying a change in accounting principle to all prior periods, this statement
+requires that the new accounting principle be applied as if it were adopted prospectively from the
+earliest date practicable. SFAS No. 154 is effective for changes in accounting principle made in
+fiscal years beginning after December 15, 2005. The Company does not expect the adoption of this
+statement in fiscal year 2007 to have a material impact on the Company s financial position or
+results of operations.
+
+I. USE OF ESTIMATES 
+
+Accounting principles generally accepted in the United States require management to make a number
+of estimates and assumptions relating to the reported amounts of assets and liabilities and the
+disclosure of contingent liabilities, at the date of the consolidated financial statements, and the
+reported amounts of revenues and expenses during the period in preparing these financial
+statements. Actual results could differ from those estimates.
+
+J. CONCENTRATIONS OF CREDIT RISK 
+
+Receivables are presented net of allowance for doubtful accounts of $669 and $682 at September 30,
+2006 and 2005, respectively. During fiscal 2006 and 2005, $135 and $65 of accounts receivable were
+written off against the allowance for doubtful accounts, respectively. Bad debt expense (income)
+totaled $121, $115 and $(104) in fiscal 2006, 2005 and 2004, respectively.
+
+Most of the Company s receivables represent trade receivables due from manufacturers of turbine
+engines and aircraft components, airlines, and turbine engine overhaul companies located throughout
+the world, including a significant concentration of U.S. based companies. Approximately 23% of the
+Company s net sales in 2006 were to two of its largest customers, with an additional 10% of
+combined net sales to various direct subcontractors to those two customers. No other single group
+or customer represents greater than 4% of total net sales in 2006. The Company performs ongoing
+credit evaluations of its customers  financial conditions. The Company believes its allowance for
+doubtful accounts is sufficient based on the credit exposures outstanding at September 30, 2006.
+However, certain customers have filed for bankruptcy protection in the last several years and it is
+possible that additional credit losses could be incurred if other customers seek bankruptcy
+protection.
+
+28 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+
+Notes to Consolidated Financial Statements      (Continued)  
+
+K. STOCK-BASED COMPENSATION 
+
+Prior to the adoption of SFAS No. 123R (revised 2004) on October 1, 2005, the Company employed the
+disclosure-only provisions of SFAS No. 123,  Accounting for Stock-Based Compensation  ( SFAS No.
+123 ). The following pro forma information regarding net income and earnings per share was
+determined as if the Company had accounted for its stock options under the fair value method
+prescribed by SFAS No. 123. For purposes of pro forma disclosure, the estimated fair value of the
+stock options is amortized over the options  vesting periods. The pro forma information is as
+follows:
+
+L. DERIVATIVE FINANCIAL INSTRUMENTS 
+
+The Company utilizes from time-to-time foreign currency exchange contracts as part of the
+management of its foreign currency risk exposure. The Company has no financial instruments held
+for trading purposes. All financial instruments are put into place to hedge specific exposure. To
+qualify as a hedge, the item to be hedged must expose the Company to foreign currency risk and the
+hedging instrument must effectively reduce that risk. If the financial instrument is designated as
+a cash flow hedge, the effective portions of changes in the fair value of the financial instrument
+are recorded in accumulated other comprehensive loss in the shareholders  equity section of the
+consolidated balance sheets. Ineffective portions of changes in the fair value of the financial
+instrument, to the extent they may exist, are recognized in the consolidated statements of
+operations.
+
+Historically, the Company has been able to mitigate the impact of foreign currency risk by means of
+hedging such risk through the use of foreign currency exchange contracts, which typically expire
+within one year. However, such risk is mitigated only for the periods for which the Company has
+foreign currency exchange contracts in effect, and only to the extent of the U.S. dollar amounts of
+such contracts. At September 30, 2006, the Company had no forward exchange contracts outstanding.
+
+Through the first quarter of fiscal 2005, the Company used an interest rate swap agreement to
+reduce risks related to variable-rate debt. This was designated as a cash flow hedge. Cash flows
+related to the interest rate swap agreement were included in interest expense. The Company s
+interest rate swap agreement and its variable-rate term debt were based upon three-month LIBOR. In
+December 2004, the Company terminated its interest rate swap agreement with a notional amount of
+$4,500 in conjunction with the repayment of the Company s variable rate term note payable to bank.
+The loss from the termination of the interest rate swap agreement, $79, was charged to interest
+expense. During 2005 through the date of its termination, the interest rate swap agreement
+qualified as a fully effective cash flow hedge against the Company s variable-rate term note
+interest risk.
+
+M. RESEARCH AND DEVELOPMENT 
+
+Research and development costs are expensed as incurred. Research and development expense was
+approximately $669, $920 and $835 in fiscal 2006, 2005 and 2004, respectively.
+
+29 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+
+Notes to Consolidated Financial Statements      (Continued)  
+
+N. ACCUMULATED OTHER COMPREHENSIVE LOSS 
+
+Comprehensive loss is net income (loss) plus certain other items that are recorded directly to
+shareholders  equity. The components of accumulated other comprehensive loss, net of tax, at
+September 30 consist of:
+
+O. RECLASSIFICATIONS 
+
+Certain amounts in prior years have been reclassified to conform to the 2006 consolidated financial
+statement presentation.
+
+2. Inventories 
+
+Inventories at September 30 consist of:
+
+If the FIFO method had been used for the entire Company, inventories would have been $6,860 and
+$4,122 higher than reported at September 30, 2006 and 2005, respectively.
+
+3. Accrued Liabilities 
+
+Accrued liabilities at September 30 consist of:
+
+4. Government Grants 
+
+The Company received grants from certain government entities as an incentive to invest in
+facilities, research and employees. The Company has historically elected to treat capital and
+employment grants as a contingent obligation and does not commence amortizing such grants into
+income until such time as it is more certain that the Company will not be required to repay a
+portion of these grants. Capital grants are amortized into income over the estimated useful lives
+of the related assets. Employment grants are amortized into income over five years.
+
+30 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+
+Notes to Consolidated Financial Statements      (Continued)  
+
+During fiscal year 2006, and in conjunction with the asset divestiture described in Note 9,
+the Company renegotiated the terms of certain of its grant agreements. The amended agreements
+revised the minimum employment level threshold that could trigger repayment of certain grants and
+cancelled any further grant repayments under certain other grant agreements. The Company s relevant
+employment levels at September 30, 2006 met or exceeded the minimum employment level threshold set
+by its grant agreements, as amended. The Company expects to meet or exceed its employment level
+threshold through December 31, 2006, the expiration date of the grants subject to repayment.
+Accordingly, the Company continues to present such contingent obligations in other long-term
+liabilities. If the employment level threshold is met at December 31, 2006, the Company will not
+be required to repay the grants and the related contingent obligation amounts will then be treated
+as deferred grant revenue and will be recognized as income at that time in accordance with the
+above described grant amortization method. The unamortized portion of deferred grant revenue
+recorded in other long-term liabilities at September 30, 2006 and September 30, 2005 was $2,423 and
+$3,251, respectively. The majority of the Company s grants are denominated in euros. The Company
+adjusts its deferred grant revenue balance in response to currency exchange rate fluctuations for
+as long as such grants are treated as obligations. Primarily as a result of the amendment and
+expiration of certain grant agreements during fiscal year 2006, the Company recognized, in other
+income in the accompanying consolidated statement of operations, grant income of $746 in fiscal
+2006. The Company recognized grant income of $66 and $116 in fiscal 2005 and 2004, respectively.
+
+Prior to expiration, a grant may be repayable in certain circumstances, principally upon the sale
+of related assets, or discontinuation or reduction of operations. The contingent liability for
+such potential repayments, including the previously discussed unamortized portion of deferred grant
+revenue, was $2,061 and $5,838 at September 30, 2006 and 2005, respectively.
+
+5. Long-Term Debt 
+
+Long-term debt at September 30 consists of:
+
+At September 30, 2006, the Company has a $6,000 revolving credit agreement with a U.S. bank subject
+to sufficiency of collateral that expires on October 1, 2007 and bears interest at the U.S. bank s
+base rate plus 0.50%. The interest rate was 8.75% and 7.25% at September 30, 2006 and 2005,
+respectively. The daily average balance outstanding against the U.S. revolving credit agreement
+was $655 and $1,685 during 2006 and 2005, respectively. A commitment fee of 0.375% is incurred on
+the unused balance. At September 30, 2006, the Company had $5,538 available under its $6,000 U.S.
+revolving credit agreement. The Company s revolving credit agreement is secured by substantially
+all of the Company s assets located in the U.S., a guarantee by its U.S. subsidiaries and a pledge
+of 65% of the Company s ownership interest in one of its non-U.S. subsidiaries.
+
+Under its revolving credit agreement with the U.S. bank, the Company is subject to certain
+customary covenants. These include, without limitation, covenants (as defined) that require
+maintenance of certain specified financial ratios, including a minimum tangible net worth level and
+a minimum EBITDA level. During 2006, the Company entered into agreements with its U.S. bank to (i)
+waive certain provisions of its revolving credit agreement for periods prior to May 1, 2006, (ii)
+amend its financial ratio covenants for future periods; and (iii) extend the maturity date of the
+revolving credit agreement. In November 2006, the Company entered into an agreement with its U.S.
+bank to waive and/or amend certain provisions of its revolving credit agreement. The amendment (i)
+waives the Company s required minimum EBITDA level for periods prior to October 1, 2006 and (ii)
+amends the Company s required minimum EBITDA level for future periods. Taking into consideration
+the impact of this amendment, the Company was in compliance with all applicable covenants at
+September 30, 2006.
+
+31 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+
+Notes to Consolidated Financial Statements      (Continued)  
+
+Effective September 29, 2005, the Company s Irish subsidiary, entered into a debt purchase
+agreement and certain related agreements with an Irish bank. On May 10, 2006 the Company s Repair
+Group completed the sale of the large aerospace portion of its turbine engine component repair
+business and certain related assets. As part of this transaction, the Repair Group s Irish
+subsidiary used the related proceeds to pay off the remaining outstanding balance of its debt
+purchase agreement with the Irish bank.
+
+6. Income Taxes 
+
+The components of income (loss) before income tax provision (benefit) are as follows:
+
+The income tax provision consists of the following:
+
+The income tax provision differs from amounts currently payable or refundable due to certain items
+reported for financial statement purposes in periods that differ from those in which they are
+reported for tax purposes. The income tax provision in the accompanying consolidated statements of
+operations differs from amounts determined by using the statutory rate as follows:
+
+32 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+Notes to Consolidated Financial Statements      (Continued)  
+
+Deferred tax assets and liabilities at September 30 consist of the following:
+
+At September 30, 2006 the Company has U.S. federal and non-U.S. tax loss carryforwards of
+approximately $11,500 and $5,500, respectively. The U.S. federal tax loss carryforwards expire in
+2022 through 2026. The non-U.S. tax loss carryforwards do not expire. The Company has U.S. federal
+tax credit carryforwards of approximately $442, which expire in 2008.
+
+At September 30, 2006, the Company recorded a decrease of $459 in the valuation allowance against
+its net deferred tax assets. In assessing the Company s ability to realize its net deferred tax
+assets, management considers whether it is more likely than not that some portion or all of its net
+deferred tax assets may not be realized. Management considered the scheduled reversal of deferred
+tax liabilities, projected future taxable income and tax planning strategies in making this
+assessment. Future reversal of the valuation allowance may be achieved either when the tax benefit
+is realized or when it has been determined that it is more likely than not that the benefit will be
+realized through future taxable income.
+
+Cumulative undistributed earnings of non-U.S. subsidiaries for which no U.S. federal deferred
+income tax liabilities have been established were approximately $10,000 at September 30, 2006. The
+incremental U.S. federal income tax related to any repatriation of these cumulative foreign
+earnings is indeterminable currently. The incremental foreign withholding taxes associated with a
+repatriation of all such earnings would approximate $500. During fiscal 2005, the Company received
+distributions from the earnings of its non-U.S. subsidiaries accumulated subsequent to September
+30, 2000. The Company elected to treat the $13,440 distribution from the earnings of its non-U.S.
+subsidiaries in 2005 under the provisions of the American Jobs Creation Act of 2004, whereby the
+qualifying portion of the distribution was eligible for favorable tax treatment.
+
+33 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+Notes to Consolidated Financial Statements      (Continued)  
+
+7. Retirement Benefit Plans 
+
+The Company and certain of its subsidiaries sponsor defined benefit pension plans covering
+most of its employees. The Company s funding policy for U.S. defined benefit pension plans is
+based on an actuarially determined cost method allowable under Internal Revenue Service
+regulations. Non-U.S. plans are funded in accordance with the requirements of regulatory bodies
+governing the plans.
+
+One of the Company s U.S. defined benefit pension plans, which plan covers substantially all
+non-union employees of the Company s U.S. operations that were hired prior to March 1, 2003, was
+frozen in 2003. Consequently, although the plan will otherwise continue, the plan ceased the
+accrual of additional pension benefits for future service.
+
+In 2006, the Company s Irish subsidiary advised the trustees of its two non-U.S. defined benefit
+pension plans that the Company would cease making contributions to such plans effective August 1,
+2006. The trustees subsequently advised the Company that (i) it is the intention of the trustees to
+initiate a wind-up of both defined benefit pension plans during fiscal 2007 and (ii) based on short
+term fluctuations in the capital markets, the plan assets of one of the defined benefit pension
+plans may not be sufficient to meet the minimum transfer value obligations to such plan s
+participants at the date of wind up. The Company agreed that, should a shortfall in plan assets
+exist relative to minimum transfer value obligations at the date of wind up, it would satisfy such
+shortfall for that one plan provided that the plan trustees do not allow certain additional
+benefits to accrue to participants during the wind up process. The trustees of its two non-U.S.
+defined benefit pension plans advised the Company that, as of September 30, 2006, the assets of
+both plans were sufficient to meet such plans  minimum transfer value obligations. For financial
+reporting purposes, the Company s actions with respect to these two plans result in the curtailment
+of both plans. No net curtailment gain or loss has been recognized in the accompanying consolidated
+statement of operations for fiscal 2006.
+
+The Company uses a July 1 measurement date for its U.S. defined benefit pension plans and a
+September 30 measurement date for its non-U.S. defined benefit pension plans. For 2006 and 2005,
+the Company s defined benefit plans had accumulated benefit obligations of $27,031 and $29,808.
+Net pension expense for the Company-sponsored defined benefit pension plans consists of the
+following:
+
+34 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+Notes to Consolidated Financial Statements      (Continued)  
+
+The status of all U.S. and non-U.S. defined benefit pension plans at September 30 is as
+follows:
+
+35 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+Notes to Consolidated Financial Statements      (Continued)  
+
+Where applicable, the following weighted-average assumptions were used in developing the
+benefit obligation and the net pension expense for defined benefit pension plans:
+
+The following table sets forth the asset allocation of the Company defined benefit pension plan
+assets at September 30, 2006 and 2005:
+
+Investment objectives of the Company s defined benefit plans  assets are to (i) optimize the
+long-term return on the plans  assets while assuming an acceptable level of investment risk, (ii)
+maintain an appropriate diversification across asset classes and among investment managers, and
+(iii) maintain a careful monitoring of the risk level within each asset class. Asset allocation
+objectives are established to promote optimal expected returns and volatility characteristics given
+the long-term time horizon for fulfilling the obligations of the Company s defined benefit pension
+plans. Selection of the appropriate asset allocation for the plans  assets was based upon a review
+of the expected return and risk characteristics of each asset class.
+
+External consultants assist the Company with monitoring the appropriateness of the investment
+strategy and the related asset mix and performance. To develop the expected long-term rate of
+return assumptions on plan assets, generally the Company uses long-term historical information for
+the target asset mix selected. Adjustments are made to the expected long-term rate of return
+assumptions when deemed necessary based upon revised expectations of future investment performance
+of the overall investments markets.
+
+The Company expects to make contributions of $1,294 to its defined benefit pension plans during
+fiscal 2007. The following benefit payments, which reflect expected future service of
+participants, are expected to be paid. Included in the $11,211 projected benefit payments for the
+year ending September 30, 2007 is $10,566 that is to be funded (entirely) out of the plan assets of
+the Company s two non-U.S. defined benefit pension plans in conjunction with the aforementioned
+wind-up of such plans in fiscal 2007:
+
+The Company also contributes to a U.S. multi-employer retirement plan for certain union employees.
+The Company s contributions to the plan in 2006, 2005 and 2004 were $48, $41 and $44, respectively.
+
+36 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+
+Notes to Consolidated Financial Statements      (Continued)  
+
+Substantially all non-union U.S. employees of the Company and its U.S. subsidiaries are
+eligible to participate in the Company s U.S. defined contribution plan. The Company makes a
+quarterly matching contribution to this Plan equal to an amount that represents up to 5% of
+eligible participant compensation. The Company s matching contribution expense for this defined
+contribution plan in 2006, 2005 and 2004 was $221, $214 and $199, respectively.
+
+The Company s Irish subsidiary sponsors, for all of its employees, a tax-advantage profit sharing
+program. Company discretionary contributions and employee elective contributions are invested in
+Common Shares of the Company without being subject to personal income taxes if held for at least
+three years. Employees have the option of taking taxable cash distributions. There was no
+contribution expense in 2006, 2005 and 2004.
+
+The Company s Irish subsidiary also sponsors, for certain of its employees, a defined contribution
+plan. The Company contributes annually 7.5% of eligible employee compensation, as defined. Total
+contribution expense in 2006, 2005 and 2004 was $75, $30 and $17, respectively. The contribution
+expense increased in 2006 due principally to the Company s Irish subsidiary s agreement, as part of
+its decision to cease making contributions to its two defined benefit pension plans effective
+August 1, 2006, to make additional contributions to its defined contribution plan over a 24-month
+period beginning in 2006.
+
+The Company s Irish subsidiary established a Personal Retirement Savings Account Plan, a portable
+retirement savings plan, which is to be funded entirely by plan participant contributions. The
+Company is not obligated to contribute to this plan.
+
+The Company s United Kingdom subsidiary sponsors, for certain of its employees, two defined
+contribution plans. The Company contributes annually 5% of eligible employees  compensation, as
+defined. Total contribution expense in 2006, 2005 and 2004 was $31, $40 and $26, respectively.
+
+8. Stock-Based Compensation 
+
+The Company awarded stock options under its shareholder approved 1995 Stock Option Plan ( 1995
+Plan ) and 1998 Long-term Incentive Plan ( 1998 Plan ). Under the 1995 Plan, the initial aggregate
+number of stock options that were available to be granted was 200,000 and, at September 30, 2006,
+no further options may be awarded under such Plan. The aggregate number of stock options that were
+available to be granted under the 1998 Plan in any fiscal year was limited to 1.5% of the total
+outstanding Common Shares of the Company as of September 30, 1998, up to a maximum of 5% of such
+total outstanding shares, subject to adjustment for forfeitures. At September 30, 2006, no further
+options may be awarded under the 1998 Plan. Option exercise price is not less than fair
+market value on date of grant and options are exercisable no later than ten years from date of
+grant. Options issued under all plans generally vest at a rate of 25% per year.
+
+Option activity is as follows:
+
+As of September 30, 2006, there was $51 of total unrecognized compensation cost related to the
+unvested stock options granted under the Company s stock option plans. That cost is expected to be
+recognized over a weighted average period of 1.5 years.
+
+37 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+
+Notes to Consolidated Financial Statements      (Continued)  
+
+The following table provides additional information regarding options outstanding as of
+September 30, 2006:
+
+On October 1, 2005, the Company adopted Statement of Financial Accounting Standards ( SFAS ) No.
+123R (revised 2004),  Share-Based Payment . This Statement focuses primarily on accounting for
+transactions in which an entity obtains employee services in share-based payment transactions. SFAS
+No 123R (revised 2004) requires all equity instrument-based payments to employees, including grants
+of employee stock options, to be recognized in the income statement based on their fair values. The
+Company adopted this statement using the modified prospective method and, accordingly, prior period
+results have not been restated. Under this method, the Company is required to record compensation
+expense for all equity instrument-based awards granted after the date of adoption and for the
+unvested portion of previously granted equity instrument-based awards that remain outstanding at
+the date of adoption. Total compensation expense recognized in fiscal 2006 was $78. No tax benefit
+was recognized for this compensation expense. Prior to the adoption of SFAS No. 123R
+(revised 2004) the Company employed the disclosure-only provisions of SFAS No. 123,  Accounting for
+Stock-Based Compensation  ( SFAS No. 123 ). Pro forma information required by this standard
+regarding net loss and net loss per share can be found in Note 1   Summary of Significant
+Accounting Policies. This information is required to be determined as if the Company had accounted
+for its stock options granted subsequent to September 30, 1996 under the fair value method of that
+standard.
+
+The fair values of options granted in fiscal years ending September 30, 2005 and 2004 were
+estimated at the dates of grants using a Black-Scholes options pricing model with the following
+weighted average assumptions:
+
+Based upon the preceding assumptions, the weighted average fair values of stock options granted
+during fiscal years 2005 and 2004 were $2.02 and $1.87 per share, respectively.
+
+Under the Company s restricted stock program, Common Shares of the Company may be granted at no
+cost to certain officers and key employees. These shares vest over either a four or five-year
+period, with either 25% or 20% vesting each year, respectively. Under the terms of the program,
+participants will not be entitled to dividends nor voting rights until the shares have vested.
+Upon issuance of Common Shares under the program, unearned compensation equivalent to the market
+value of the Common Shares at the date of award is charged to shareholders  equity and subsequently
+amortized to expense over the vesting periods. Compensation expense related to the amortization of
+unearned compensation was $61, $69 and $87 in fiscal years 2006, 2005 and 2004, respectively. At
+September 30, 2006, there was no unrecognized compensation expense related to restricted stock
+awards.
+
+38 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+Notes to Consolidated Financial Statements      (Continued)  
+
+9. Asset Divestiture 
+
+On May 10, 2006 the Company and its Irish subsidiary, SIFCO Turbine Components Limited ( SIFCO
+Turbine ), completed the sale of the large aerospace portion of its turbine engine component repair
+business and certain related assets to SR Technics, which is based in Zurich, Switzerland, through
+a wholly-owned Irish subsidiary named SR Technics Airfoil Services Limited. Historically, the
+large aerospace portion of SIFCO Turbine s turbine engine component repair business was operated in
+portions of two facilities located in Cork, Ireland, one of which was sold as part of the
+transaction. Net proceeds from the sale of the business and certain related assets, after
+approximately $800 of third party transaction charges, were $8,950 and the assets that were sold
+had a net book value of approximately $4,500. Of the $8,950 of net proceeds, $900 had been earned
+but remained in escrow as of September 30, 2006, and is expected to be received in the first
+quarter of fiscal 2007. The Company s Repair Group recognized a gain of approximately $4,400 on
+disposal of operating assets in 2006. SIFCO Turbine retains substantially all existing liabilities
+of the business and the Company has guaranteed the performance by SIFCO Turbine of all of its
+obligations under an applicable asset purchase agreement.
+
+The cash flows of the large aerospace portion of the turbine engine component repair business
+cannot be clearly distinguished operationally, and for financial reporting purposes, from the rest
+of SIFCO Turbine s operations. While the related revenues of the large aerospace portion of the
+turbine engine component repair business can be clearly distinguished, the related costs cannot be
+clearly distinguished as there are many common costs that would require allocation. Consequently,
+the large aerospace portion of the turbine engine component repair business does not represent a
+component of an entity as defined by SFAS No. 144,  Accounting for the Impairment or Disposal of
+Long-lived Assets  and the results of operations of such business were not reported in discontinued
+operations in accordance with that standard. Net sales of the large aerospace portion of the
+turbine engine component repair business that was sold were $9.4 million in fiscal 2006 through the
+date of sale and $20.5 million in fiscal 2005.
+
+10. Contingencies 
+
+In the normal course of business, the Company may be involved in ordinary, routine legal
+actions. The Company cannot reasonably estimate future costs, if any, related to these matters but
+does not believe any such matters are material to its financial condition or results of operations.
+The Company maintains various liability insurance coverages to protect its assets from losses
+arising out of or involving activities associated with ongoing and normal business operations,
+although it is possible that the Company s future operating results could be affected by future
+cost of litigation.
+
+The Company leases various facilities and equipment under leases expiring at various dates. At
+September 30, 2006, minimum rental commitments under non-cancelable leases are as follows:
+
+39 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+Notes to Consolidated Financial Statements      (Continued)  
+
+11. Business Segments 
+
+The Company identifies reportable segments based upon distinct products manufactured and
+services performed. The Turbine Component Services and Repair Group ( Repair Group ) consists
+primarily of the repair and remanufacture of aerospace and industrial turbine engine components.
+The Repair Group is also involved in precision component machining and industrial coatings for
+turbine engine applications. The Aerospace Component Manufacturing Group consists of the
+production, heat-treatment, surface-treatment, non-destructive testing, and some machining of
+forged components in various steel alloys utilizing a variety of processes for application
+principally in the aerospace industry. The Applied Surface Concepts Group is a provider of
+specialized selective electrochemical metal finishing processes and services used to apply metal
+coatings to a selective area of a component. The Company s reportable segments are separately
+managed.
+
+One customer of all three of the Company s segments accounted for 13%, 16% and 7% of the Company s
+consolidated net sales in 2006, 2005 and 2004. Another customer of all three of the Company s
+segments in 2006, two of the Company s segments in 2005 and all three of the Company s segments in
+2004 accounted for 10%, 12% and 13% of the Company s consolidated net sales in 2006, 2005 and 2004,
+respectively. The combined net sales to these two customers and to the direct subcontractors to
+these two customers accounted for 33% of the Company s consolidated net sales in 2006.
+
+Geographic net sales are based on location of customer. The U.S. is the single largest country for
+unaffiliated customer sales, accounting for 64%, 58% and 57% of consolidated net sales in fiscal
+2006, 2005 and 2004, respectively. No other single country represents greater than 10% of
+consolidated net sales in 2006, 2005 and 2004. Net sales to unaffiliated customers located in
+various European countries in fiscal 2006 accounted for 23%, 28%, and 33% of consolidated net sales
+in 2006, 2005 and 2004, respectively.
+
+Corporate unallocated expenses represent expenses that are not of a business segment operating
+nature and, therefore, are not allocated to the business segments for reporting purposes.
+Corporate identifiable assets consist primarily of cash and cash equivalents.
+
+40 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+Notes to Consolidated Financial Statements      (Continued)  
+
+The following table summarizes certain information regarding segments of the Company s
+operations:
+
+41 
+
+Table of Contents   
+
+SIFCO Industries, Inc. and Subsidiaries 
+Notes to Consolidated Financial Statements      (Continued)  
+
+12. Acquisition 
+
+On October 12, 2005, the Company s Applied Surface Concepts Group acquired the stock of Selmet
+Norden AB of Rattvik, Sweden, a supplier of contract manufacturing services for selective
+electrochemical finishing that primarily serves the industrial community in Scandinavia. The
+acquisition was accounted for as a purchase, with the results of operations included in the
+consolidated financial statements beginning with the acquisition date. The purchase price, net of
+cash acquired, was $434. The purchase price allocation resulted in current assets of $198,
+property, plant and equipment of $484, and current liabilities of $248. Pro forma financial
+information is not presented, as the effect of the acquisition is not material to the Company s
+financial position or results of operations.
+
+13. Summarized Quarterly Results of Operations (Unaudited) 
+
+42 
+
+Table of Contents   
+
+Schedule II  
+
+SIFCO Industries, Inc. and Subsidiaries 
+Valuation and Qualifying Accounts 
+Years Ended September 30, 2006, 2005 and 2004 
+(Amounts in thousands) 
+
+(a) 
+       
+     Accounts determined to be uncollectible, net of recoveries 
+
+(b) 
+       
+     Actual returns received 
+
+(c) 
+       
+     Inventory sold or otherwise disposed 
+
+(d) 
+       
+     Equipment sold or otherwise disposed 
+
+(e) 
+       
+     Payment of workers  compensation claims 
+
+43 
+
+Table of Contents   
+
+Item 9. Changes and Disagreements with Accountants on Accounting and Financial
+Disclosure  
+
+None.
+
+Item 9A. Controls and Procedures  
+
+The Company maintains disclosure controls and procedures as defined in Rules 13a-15(e) and
+15d-15(e) under the Securities Exchange Act of 1934, as amended (the  Exchange Act ) that are
+designed to ensure that information required to be disclosed in its reports filed or submitted
+under the Exchange Act is processed, recorded, summarized and reported within the time periods
+specified in the SEC s rules and forms, and that such information is accumulated and communicated
+to the Company s management, including the Company s Chief Executive Officer and Chief Financial
+Officer, as appropriate, to allow for timely decisions regarding required disclosure. In designing
+and evaluating the disclosure controls and procedures, management recognizes that any controls and
+procedures, no matter how well designed and operated, can provide only reasonable assurance of
+achieving the desired control objectives, and management is required to apply its judgment in
+evaluating the cost-benefit relationship of possible controls and procedures.
+
+The Company carried out an evaluation, under the supervision and with the participation of the
+Company s management, including the Chairman and Chief Executive Officer of the Company and Chief
+Financial Officer of the Company, of the effectiveness of the design and operation of the Company s
+disclosure controls and procedures pursuant to Exchange Act Rule 13a-15(e) as of the end of the
+period covered by this report. Based upon that evaluation, the Chairman and Chief Executive
+Officer and Chief Financial Officer concluded that, because of the material weakness noted below,
+the Company s disclosure controls and procedures were not effective in timely alerting them to
+material information relating to the Company (including its consolidated subsidiaries) required to
+be included in the Company s periodic SEC filings. Notwithstanding the existence of the
+material weakness described below, management has concluded that the consolidated financial
+statements in this Form 10-K fairly present, in all material respects, the Company s financial
+position, results of operations and cash flows for the periods presented.
+
+A material weakness is a control deficiency, or combination of control deficiencies, that results
+in more than a remote likelihood that a material misstatement of the annual or interim financial
+statements will not be prevented or detected. As of December 31, 2005, the end of the Company s
+first fiscal quarter of 2006, the Company did not maintain effective controls to determine the
+completeness and accuracy of the components of its inventory valuation. Subsequent to the issuance
+of its unaudited consolidated condensed financial statements for the quarter ended December 31,
+2005, the Company identified a clerical error in the calculation of its December 31, 2005 inventory
+valuation that resulted in a net understatement of inventory of approximately $403,000. This
+resulted in an overstatement of Cost of Goods Sold and a corresponding understatement of Income
+Before Income Tax Provision of approximately $403,000 for the quarter ended December 31, 2005. This
+control deficiency resulted in a restatement to the Company s quarterly financial statements for
+its first quarter of fiscal 2006. Accordingly, management has determined that this control
+deficiency constitutes a material weakness.
+
+Remediation of Material Weakness   the Company has accelerated the timeliness of its detailed
+account analysis with respect to inventory cost capitalization, such that a more thorough analysis
+is completed prior to the filing of each periodic financial report on Forms 10-Q and 10-K.
+
+There has been no significant change in our internal control over financial reporting that occurred
+during the period covered by this report that has materially affected, or that is reasonably likely
+to materially affect our internal control over financial reporting.
+
+Item 9B. Other Information  
+
+None
+
+44 
+
+Table of Contents   
+
+PART III 
+
+Item 10. Directors and Executive Officers of the Registrant  
+
+The following table sets forth certain information regarding the executive officers of the
+Company.
+
+The Company incorporates herein by reference the information appearing under the captions  Proposal
+to Elect Six (6) Directors ,  Stock Ownership of Executive Officers, Directors and Nominees ,
+ Section 16(a) Beneficial Ownership Reporting Compliance  and  Organization and Compensation of the
+Board of Directors  of the Company s definitive Proxy Statement to be filed with the Securities and
+Exchange Commission on or about December 15, 2006.
+
+The Directors of the Company are elected annually to serve for one-year terms or until their
+successors are elected and qualified.
+
+The Company has adopted a Code of Ethics within the meaning of Item 406(b) of Regulation S-K under
+the Securities Exchange Act of 1934, as amended. The Code of Ethics is applicable to, among other
+people, the Company s Chief Executive Officer, Chief Financial Officer, who is the Company s
+Principal Financial Officer and to the Corporate Controller, who is the Company s Principal
+Accounting Officer. The Company s Code of Ethics is available on its website: www.sifco.com.
+
+Item 11. Executive Compensation  
+
+The Company incorporates herein by reference the information appearing under the captions
+ Executive Compensation ,  Report of the Compensation Committee  and  Performance Graph  of the
+Company s definitive Proxy Statement to be filed with the Securities and Exchange Commission on or
+about December 15, 2006.
+
+45 
+
+Table of Contents   
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related
+Stockholder Matters  
+
+(1) 
+       
+     Under the 1998 Long-term Incentive Plan the aggregate number of stock options that were
+available to be granted in any fiscal year was limited to 1.5% of the total outstanding Common
+Shares of the Company at September 30, 1998, up to a cumulative maximum of 5% of such total
+outstanding shares, subject to adjustment for forfeitures. No further options may be awarded under
+this plan. During 2006, no options granted under the 1998 Long-term Incentive Plan were exercised. 
+
+(2) 
+       
+     Under the 1995 Stock Option Plan the initial aggregate number of stock options that were
+available to be granted is 200,000. No further options may be awarded under this plan. During 2006,
+no options granted under the 1995 Stock Option Plan were exercised. 
+
+(3) 
+       
+     Under the Company s restricted stock program, Common Shares may be granted at no cost to
+certain officers and key employees. These shares vest over either a four or five-year period, with
+either 25% or 20% vesting each year, respectively. Under the terms of the program, participants
+will not be entitled to dividends nor voting rights until the shares have vested. In fiscal 2002
+and 2001, the Company awarded 50,000 four-year vesting and 100,000 five-year vesting restricted
+Common Shares, respectively. 
+
+For additional information concerning the Company s equity compensation plans, refer to the
+discussion in Note 8 to the Consolidated Financial Statements.
+
+The Company incorporates herein by reference the information appearing under the caption
+ Outstanding Shares and Voting Rights  of the Company s definitive Proxy Statement to be filed with
+the Securities and Exchange Commission on or about December 15, 2006.
+
+Item 13. Certain Relationships and Related Transactions  
+
+During 2006, the Company incurred expenses of $108,000 to one of its directors for services
+rendered as an independent sales representative to the Company. The Company believes that the rate
+of compensation paid to this director in his capacity as an independent sales representative is
+consistent with rates paid to its other independent sales representatives.
+
+Item 14. Principal Accounting Fees and Services  
+
+The Company incorporates herein by reference the information appearing under the caption
+ Principal Accounting Fees and Services  of the Company s definitive Proxy Statement to be filed
+with the Securities and Exchange Commission on or about December 15, 2006.
+
+46 
+
+Table of Contents   
+
+PART IV 
+
+Item 15. Exhibits, Financial Statement Schedules  
+
+(a) (1)    Financial Statements:  
+
+The following Consolidated Financial Statements; Notes to the Consolidated Financial
+Statements and the Reports of Independent Registered Public Accounting Firm are included in
+Item 8.
+
+Report of Independent Registered Public Accounting Firm
+
+Consolidated Statements of Operations for the Years Ended September 30, 2006, 2005 and 2004
+
+Consolidated Balance Sheets   September 30, 2006 and 2005
+
+Consolidated Statements of Cash Flows for the Years Ended September 30, 2006, 2005 and
+2004
+
+Consolidated Statements of Shareholders  Equity for the Years Ended September 30, 2006, 2005
+and 2004
+
+Notes to Consolidated Financial Statements   September 30, 2006, 2005 and 2004
+
+(a) (2)    Financial Statement Schedules:  
+
+The following financial statement schedule is included in Item 8:
+
+Schedule II   Valuation and Qualifying Accounts
+
+All other schedules for which provision is made in the applicable accounting regulations of
+the Securities and Exchange Commission are not required under the related regulations, are
+inapplicable, or the information has been included in the Notes to the Consolidated
+Financial Statements.
+
+(a)(3)    Exhibits:  
+
+The following exhibits are filed with this report or are incorporated herein by
+reference to a prior filing in accordance with Rule 12b-32 under the Securities and Exchange
+Act of 1934 (Asterisk denotes exhibits filed with this report.).
+
+Exhibit  
+
+No.  
+       
+      Description  
+
+3.1
+
+Third Amended Articles of Incorporation of SIFCO Industries,
+Inc., filed as Exhibit 3(a) of the Company s Form 10-Q dated
+March 31, 2002, and incorporated herein by reference 
+
+3.2
+
+SIFCO Industries, Inc. Amended and Restated Code of
+Regulations dated January 29, 2002, filed as Exhibit 3(b) of
+the Company s Form 10-Q dated March 31, 2002, and incorporated
+herein by reference 
+
+4.2
+
+Amended and Restated Credit Agreement Between SIFCO
+Industries, Inc. and National City Bank dated April 30, 2002,
+filed as Exhibit 4(b) of the Company s Form 10-Q dated March
+31, 2002, and incorporated herein by reference 
+
+4.5
+
+Consolidated Amendment No. 1 to Amended and Restated Credit
+Agreement, Amended and Restated Reimbursement Agreement and
+Promissory Note dated November 26, 2002 between SIFCO
+Industries, Inc. and National City Bank, filed as Exhibit 4.5
+of the Company s Form 10-K dated September 30, 2002, and
+incorporated herein by reference 
+
+4.6
+
+Consolidated Amendment No. 2 to Amended and Restated Credit
+Agreement, Amended and Restated Reimbursement Agreement and
+Promissory Note dated February 13, 2003 between SIFCO
+Industries, Inc. and National City Bank, filed as Exhibit 4.6
+of the Company s Form 10-Q dated December 31, 2002, and
+incorporated herein by reference 
+
+47 
+
+Table of Contents   
+
+Exhibit  
+
+No.  
+       
+      Description  
+
+4.7
+
+Consolidated Amendment No. 3 to Amended and Restated Credit
+Agreement, Amended and Restated Reimbursement Agreement and
+Promissory Note dated May 13, 2003 between SIFCO Industries
+Inc. and National City Bank, filed as Exhibit 4.7 of the
+Company s Form 10-Q dated March 31, 2003, and incorporated
+herein by reference 
+
+4.8
+
+Consolidated Amendment No. 4 to Amended and Restated Credit
+Agreement, Amended and Restated Reimbursement Agreement and
+Promissory Note dated July 28, 2003 between SIFCO Industries,
+Inc. and National City Bank, filed as Exhibit 4.8 of the
+Company s Form 10-Q dated June 30, 2003, and incorporated
+herein by reference 
+
+4.9
+
+Consolidated Amendment No. 5 to Amended and Restated Credit
+Agreement, Amended and Restated Reimbursement Agreement and
+Promissory Note dated November 26, 2003 between SIFCO
+Industries, Inc. and National City Bank, filed as Exhibit 4.9
+of the Company s Form 10-K dated September 30, 2002, and
+incorporated herein by reference 
+
+4.10
+
+Amendment No. 6 to Amended and Restated Credit Agreement dated
+March 31, 2004 between SIFCO Industries, Inc. and National
+City Bank, filed as Exhibit 4.10 of the Company s Form 10-Q
+dated March 31, 2004, and incorporated herein by reference 
+
+4.11
+
+Consolidated Amendment No. 7 to Amended and Restated Credit
+Agreement, Amended and Restated Reimbursement Agreement and
+Promissory Note dated May 14, 2004 between SIFCO Industries,
+Inc. and National City Bank, filed as Exhibit 4.11 of the
+Company s Form 10-Q dated March 31, 2004, and incorporated
+herein by reference 
+
+4.12
+
+Consolidated Amendment No. 8 to Amended and Restated Credit
+Agreement, Amended and Restated Reimbursement Agreement and
+Promissory Note effective June 30, 2004 between SIFCO
+Industries, Inc. and National City Bank, filed as Exhibit 4.12
+of the Company s Form 10-Q dated June 30, 2004, and
+incorporated herein by reference 
+
+4.13
+
+Consolidated Amendment No. 9 to Amended and Restated Credit
+Agreement, Amended and Restated Reimbursement Agreement and
+Promissory Note effective November 12, 2004 between SIFCO
+Industries, Inc. and National City Bank, filed as Exhibit 4.13
+to the Company s Form 10-K dated September 30, 2004, and
+incorporated herein by reference 
+
+4.14
+
+Amendment No. 10 to Amended and Restated Credit Agreement
+dated as of February 4, 2005 but effective as of December 31,
+2004 between SIFCO Industries, Inc. and National City Bank,
+filed as Exhibit 4.14 to the Company s Form 10-Q dated
+December 31, 2004, and incorporated herein by reference 
+
+4.15
+
+Amendment No. 11 to Amended and Restated Credit Agreement
+dated May 19, 2005 between SIFCO Industries, Inc. and National
+City Bank, filed as Exhibit 4.15 to the Company s Form 10-Q/A
+dated March 31, 2005, and incorporated herein by reference 
+
+4.16
+
+Amendment No. 12 to Amended and Restated Credit Agreement
+dated August 10, 2005 between SIFCO Industries, Inc. and
+National City Bank, filed as Exhibit 4.16 to the Company s
+Form 10-Q dated June 30, 2005, and incorporated herein by
+reference 
+
+4.17
+
+Debt Purchase Agreement
+Between The Governor and
+Company of the Bank of
+Ireland and SIFCO Turbine
+Components Limited, filed
+as Exhibit 4.17 to the
+Company s Form 8-K dated
+September 29, 2005, and
+incorporated herein by
+reference 
+
+4.18
+
+Mortgage and Charge dated
+September 26, 2005 between
+SIFCO Turbine Components
+Limited and the Governor
+and Company of the Bank of
+Ireland, filed as Exhibit
+4.18 to the Company s Form
+8-K dated September 29,
+2005, and incorporated
+herein by reference 
+
+4.19
+
+Amendment No. 13 to
+Amended and Restated
+Credit Agreement dated
+November 23, 2005 between
+SIFCO Industries, Inc. and
+National City Bank, filed
+as Exhibit 4.19 to the
+Company s Form 10-K dated
+September 30, 2006, and
+incorporated herein by
+reference 
+
+48 
+
+Table of Contents   
+
+49 
+
+Table of Contents   
+
+50 
+
+Table of Contents   
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+
+SIFCO Industries, Inc. 
+
+By:
+
+/s/ Frank A. Cappello 
+
+Frank A. Cappello 
+
+Vice President-Finance and
+Chief 
+     Financial Officer 
+
+(Principal Financial Officer) 
+
+Date: December 15, 2006 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this Annual Report has been
+signed below on December 15, 2006 by the following persons on behalf of the Registrant in the
+capacities indicated.
+
+/s/ Jeffrey P. Gotschall
+
+Jeffrey P. Gotschall 
+     Chairman of the Board and
+
+/s/ Alayne L. Reitman
+
+Alayne L. Reitman 
+     Director
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+/s/ Hudson D. Smith
+
+/s/ J. Douglas Whelan 
+
+Hudson D. Smith
+
+J. Douglas Whelan 
+
+Director
+
+Director 
+
+/s/ Frank N. Nichols
+
+/s/ Frank A. Cappello 
+
+Frank N. Nichols 
+      Director
+
+Frank A. Cappello 
+     Vice President-Finance 
+
+and Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+/s/ P. Charles Miller
+
+/s/ Remigijus H. Belzinskas 
+
+P. Charles Miller
+
+Remigijus H. Belzinskas 
+
+Director
+
+Corporate Controller 
+
+(Principal Accounting Officer) 
+
+51 
+
+<EX-4.22>
+ 2
+ l23637aexv4w22.htm
+ EX-4.22
+
+EX-4.22 
+
+Exhibit 4.22 
+
+AMENDMENT NO. 16 TO 
+
+AMENDED AND RESTATED CREDIT AGREEMENT 
+
+This Amendment No. 16 to Amended and Restated Credit Agreement (this    Amendment   ), dated as of
+November 29, 2006, is entered into by and between  SIFCO INDUSTRIES, INC.  (the    Borrower   ) and
+ NATIONAL CITY BANK  (the    Bank   ) for the purposes amending and supplementing the documents and
+instruments referred to below.
+
+WITNESSETH:
+
+WHEREAS, Borrower and Bank are parties to an Amended and Restated Credit Agreement made as of
+April 30, 2002, as amended from time to time (as amended, the    Credit Agreement    providing for
+ $6,000,000  of revolving credits; all terms used in the Credit Agreement being used herein with the
+same meaning); and
+
+WHEREAS, Borrower and Bank desire to further amend certain provisions of the Credit Agreement
+to, among other things, amend and/or waive certain financial covenants applicable thereto;
+
+NOW, THEREFORE, in consideration of the foregoing and the mutual covenants and agreements
+contained herein and for other good and valuable consideration, the receipt and sufficiency of
+which is hereby acknowledged, the parties agree as follows:
+
+SECTION I      Amendments to Credit Agreement  
+
+Subsection 3B.03 of the Credit Agreement is hereby amended in its entirety to read as follows:
+
+3B.03 EBITDA   Borrower shall not, at the end of each EBITDA Measurement Period, permit
+the aggregate of the Reporting Group s Net Income for that period, plus the Reporting
+Group s interest expense for that period, plus the Reporting Group s federal, state, and
+local income tax expense, if any, for that period, plus the Reporting Group s depreciation
+and amortization charges for that period, minus (plus) Ireland profit (loss) before taxes
+and Ireland depreciation expense for that period, minus the Reporting Group s foreign
+currency translation adjustment to fall below the following amounts for the EBITDA
+Measurement Periods ending on the following dates:
+
+Each    EBITDA Measurement Period    shall be a period of twelve (12) consecutive monthly fiscal
+periods of Borrower ending on the last day of the twelfth such period; EXCEPT that the
+EBITDA Measurement Periods ending in 2006 shall consist of the period from January 1, 2006
+through and including that date. Commencing with the EBITDA Measurement Period ending
+January 31, 2007, the EBITDA Measurement Period shall be the previous twelve (12) months.
+Borrower shall provide Bank with its EBITDA figure on a monthly basis within fifteen (15)
+days of month end.
+
+If Borrower is in compliance with this covenant (commencing with the EBITDA Measurement Period
+ending February 28, 2007), the definition of  EBITDA Measurement Period  shall change to a
+period of four (4) consecutive quarterly fiscal periods of Borrower ending on the last day of
+the fourth such period, and Borrower shall provide Bank with its EBITDA figure on a quarterly
+basis within fifteen (15) days of quarter end.
+
+SECTION II      Waiver  
+
+Bank hereby waives all violations of section 3B.03 of the Credit Agreement, captioned EBITDA,
+which occurred prior to the date hereof. The execution, delivery and effectiveness of this
+Amendment and the specific waiver set forth herein shall not operate as a waiver of any other
+right, power or remedy of Bank under the Credit Agreement or constitute a continuing waiver of any
+kind.
+
+SECTION III      Representations and Warranties  
+
+Borrower hereby represents and warrants to Bank, to the best of Borrower s knowledge, that
+
+A. 
+       
+     none of the representations and warranties made in the Credit Agreement or any
+Related Writing, (collectively, the  Loan Documents ) has ceased to be true and
+complete in any material respect as of the date hereof; and 
+
+B. 
+       
+     as of the date hereof no  Default  has occurred that is continuing under the
+Loan Documents. 
+
+SECTION IV      Acknowledgments Concerning Outstanding Loans  
+
+Borrower acknowledges and agrees that, as of the date hereof, all of Borrower s outstanding
+loan obligations to Bank are owed without any offset, deduction, defense, claim or counterclaim of
+any nature whatsoever. Borrower authorizes Bank to share all credit and financial information
+relating to Borrower with each of Bank s parent company and with any subsidiary or affiliate
+company of such Bank or of such Bank s parent company.
+
+SECTION V      References  
+
+On and after the effective date of this Amendment, each reference in the Credit Agreement to
+ this Agreement ,  hereunder ,  hereof , or words of like import referring to the Credit Agreement
+shall mean and refer to the Credit Agreement as amended hereby. The Loan Documents, as amended by
+this Amendment, are and shall continue to be in full force and effect and are hereby ratified and
+confirmed in all respects. The execution, delivery and effectiveness of this Amendment shall not
+operate as a waiver of any right, power or remedy of Bank under the Loan Documents or constitute a
+waiver of any provision of the Loan Documents except as specifically set forth herein.
+
+SECTION VI      Counterparts and Governing Law  
+
+This Amendment may be executed in any number of counterparts, each counterpart to be executed
+by one or more of the parties but, when taken together, all counterparts shall constitute one
+agreement. This Amendment, and the respective rights and obligations of the parties hereto, shall
+be construed in accordance with and governed by Ohio law.
+
+IN WITNESS WHEREOF, Borrower and Bank have caused this Amendment to be executed by their
+authorized officers as of the date and year first above written.
+
+SIFCO INDUSTRIES, INC . 
+
+NATIONAL CITY BANK  
+
+By:
+
+/s/ Frank Cappello
+
+By:
+
+/s/ Christian S. Brown 
+
+Name:
+
+Frank Cappello
+
+Name:
+
+Christian S. Brown 
+
+Title:
+
+V.P. Finance and CFO
+
+Title:
+
+Vice President 
+
+2 
+
+</EX-4.22>
+
+<EX-21.1>
+ 3
+ l23637aexv21w1.htm
+ EX-21.1
+
+EX-21.1 
+
+Exhibit 21.1 
+
+SIFCO Industries, Inc. 
+Subsidiaries of the Company 
+September 30, 2006 
+
+State of Jurisdiction 
+
+Subsidiary 
+       
+     of Incorporation 
+
+SIFCO Custom Machining Company
+
+Minnesota 
+
+SIFCO Exports, Limited
+
+Ireland 
+
+SIFCO Holdings, Inc.
+
+Delaware 
+
+SIFCO Irish Holdings, Limited
+
+Ireland 
+
+SIFCO Research and Development, Limited
+
+Ireland 
+
+SIFCO Applied Surface Concepts
+
+France 
+
+SIFCO Applied Surface Concepts (UK), Limited
+
+United Kingdom  
+
+SIFCO Turbine Components Limited  
+SIFCO Applied Surface Concepts Sweden AB
+
+Ireland 
+Sweden 
+
+</EX-21.1>
+
+<EX-31.1>
+ 4
+ l23637aexv31w1.htm
+ EX-31.1
+
+EX-31.1 
+
+Exhibit 31.1 
+
+CERTIFICATION 
+OF THE CHIEF EXECUTIVE OFFICER 
+RULE 13A-14(A) / 15D-14(A) 
+
+I, Jeffrey P. Gotschall, certify that:
+
+1. 
+       
+     I have reviewed this Annual Report on Form 10-K of SIFCO Industries, Inc. 
+
+2. 
+       
+     Based on my knowledge, this annual report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements made, in
+light of the circumstances under which such statements were made, not misleading with
+respect to the period covered by this annual report; 
+
+3. 
+       
+     Based on my knowledge, the financial statements, and other financial information
+included in this annual report, fairly present in all material respects the financial
+condition, results of operations and cash flows of the registrant as of, and for, the
+periods presented in this annual report; 
+
+4. 
+       
+     The registrant s other certifying officers and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) for the registrant and have: 
+
+a. 
+       
+     designed such disclosure controls and procedures, or caused such internal
+controls and procedures to be designated under our supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this annual report is being prepared; and 
+
+b. 
+       
+     paragraph omitted pursuant to SEC Release Nos. 33-8238, 33-8545, 34-51293
+and 34-47986; and 
+
+c. 
+       
+     evaluated the effectiveness of the registrant s disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness of
+the disclosure controls and procedures as of the end of the period covered by this
+report based on such evaluation; and 
+
+d. 
+       
+     disclosed in this report any change in the registrant s internal control
+over financial reporting that occurred during the registrant s most recent fiscal
+quarter that has materially affected, or is reasonably likely to materially affect,
+the registrant s internal control over financial reporting; and 
+
+5. 
+       
+     The registrant s other certifying officers and I have disclosed, based on our most
+recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of registrant s board of directors (or persons performing
+the equivalent functions); 
+
+a. 
+       
+     All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably likely
+to adversely affect the registrant s ability to record, process, summarize and
+report financial information; and 
+
+b. 
+       
+     Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant s internal control over
+financial reporting. 
+
+Date: December 15, 2006
+
+/s/ Jeffrey P. Gotschall 
+
+Jeffrey P. Gotschall 
+
+Chairman of the Board and 
+
+Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ l23637aexv31w2.htm
+ EX-31.2
+
+EX-31.2 
+
+Exhibit 31.2 
+
+CERTIFICATION 
+OF THE CHIEF FINANCIAL OFFICER 
+RULE 13A-14(A) / 15D-14(A) 
+
+I, Frank A. Cappello, certify that:
+
+1. 
+       
+     I have reviewed this Annual Report on Form 10-K of SIFCO Industries, Inc. 
+
+2. 
+       
+     Based on my knowledge, this annual report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements made, in
+light of the circumstances under which such statements were made, not misleading with
+respect to the period covered by this annual report; 
+
+3. 
+       
+     Based on my knowledge, the financial statements, and other financial information
+included in this annual report, fairly present in all material respects the financial
+condition, results of operations and cash flows of the registrant as of, and for, the
+periods presented in this annual report; 
+
+4. 
+       
+     The registrant s other certifying officers and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) for the registrant and have: 
+
+a. 
+       
+     designed such disclosure controls and procedures, or caused such internal
+controls and procedures to be designated under our supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this annual report is being prepared; and 
+
+b. 
+       
+     paragraph omitted pursuant to SEC Release Nos. 33-8238, 33-8545, 34-51293
+and 34-47986; and 
+
+c. 
+       
+     evaluated the effectiveness of the registrant s disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness of
+the disclosure controls and procedures as of the end of the period covered by this
+report based on such evaluation; and 
+
+d. 
+       
+     disclosed in this report any change in the registrant s internal control
+over financial reporting that occurred during the registrant s most recent fiscal
+quarter that has materially affected, or is reasonably likely to materially affect,
+the registrant s internal control over financial reporting; and 
+
+5. 
+       
+     The registrant s other certifying officers and I have disclosed, based on our most
+recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of registrant s board of directors (or persons performing
+the equivalent functions); 
+
+a. 
+       
+     All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably likely
+to adversely affect the registrant s ability to record, process, summarize and
+report financial information; and 
+
+b. 
+       
+     Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant s internal control over
+financial reporting. 
+
+Date: December 15, 2006
+
+/s/ Frank A. Cappello 
+
+Frank A. Cappello 
+
+Vice President   Finance and 
+
+Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ l23637aexv32w1.htm
+ EX-32.1
+
+EX-32.1 
+
+Exhibit 32.1 
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+PURSUANT TO 
+18 U.S.C. SECTION 1350 
+
+In connection with the Annual Report of SIFCO Industries, Inc. ( Company ) on Form 10-K for
+the year ended September 30, 2006 as filed with the Securities and Exchange Commission on the date
+hereof ( Report ), I, Jeffrey P. Gotschall, Chairman of the Board and Chief Executive Officer of
+the Company, certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that:
+
+(1) 
+       
+     The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities
+Exchange Act of 1934; and 
+
+(2) 
+       
+     The information contained in the Report fairly presents, in all material respects, the
+financial condition and results of operations of the Company. 
+
+/s/ Jeffrey P. Gotschall 
+
+Jeffrey P. Gotschall 
+
+Chairman of the Board and 
+
+Chief Executive Officer 
+
+December 15, 2006 
+
+This certification accompanies this Report on Form 10-K pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002 and shall not, except to the extent required by such Act, be deemed
+filed by SIFCO Industries, Inc. for purposes of Section 18 of the Securities Exchange Act of 1934,
+as amended (the  Exchange Act ). Such certification will not be deemed to be incorporated by
+reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except
+to the extent that SIFCO Industries, Inc. specifically incorporates it by reference.
+
+A signed original of this written statement required by Section 906 has been provided to SIFCO
+Industries, Inc. and will be retained by SIFCO Industries, Inc. and furnished to the Securities and
+Exchange Commission or its staff upon request.
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ l23637aexv32w2.htm
+ EX-32.2
+
+EX-32.2 
+
+Exhibit 32.2 
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+PURSUANT TO 
+18 U.S.C. SECTION 1350 
+
+In connection with the Annual Report of SIFCO Industries, Inc. ( Company ) on Form 10-K for
+the year ended September 30, 2006 as filed with the Securities and Exchange Commission on the date
+hereof ( Report ), I, Frank A. Cappello, Vice President   Finance and Chief Financial Officer of
+the Company, certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that:
+
+(1) 
+       
+     The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities
+Exchange Act of 1934; and 
+
+(2) 
+       
+     The information contained in the Report fairly presents, in all material respects, the
+financial condition and results of operations of the Company. 
+
+/s/ Frank A. Cappello 
+
+Frank A. Cappello 
+
+Vice President   Finance and 
+
+Chief Financial Officer 
+
+December 15, 2006 
+
+This certification accompanies this Report on Form 10-K pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002 and shall not, except to the extent required by such Act, be deemed
+filed by SIFCO Industries, Inc. for purposes of Section 18 of the Securities Exchange Act of 1934,
+as amended (the  Exchange Act ). Such certification will not be deemed to be incorporated by
+reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except
+to the extent that SIFCO Industries, Inc. specifically incorporates it by reference.
+
+A signed original of this written statement required by Section 906 has been provided to SIFCO
+Industries, Inc. and will be retained by SIFCO Industries, Inc. and furnished to the Securities and
+Exchange Commission or its staff upon request.
+
+</EX-32.2>
+

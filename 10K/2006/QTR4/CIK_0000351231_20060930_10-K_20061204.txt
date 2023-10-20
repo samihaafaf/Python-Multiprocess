@@ -1,0 +1,3567 @@
+<Header>
+<FileStats>
+    <FileName>20061204_10-K_edgar_data_351231_0000950134-06-022562_1.txt</FileName>
+    <GrossFileSize>610201</GrossFileSize>
+    <NetFileSize>132625</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>355339</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>23</N_Tables>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950134-06-022562.hdr.sgml : 20061204
+<ACCEPTANCE-DATETIME>20061204144400
+ACCESSION NUMBER:		0000950134-06-022562
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20060930
+FILED AS OF DATE:		20061204
+DATE AS OF CHANGE:		20061204
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DAWSON GEOPHYSICAL CO
+		CENTRAL INDEX KEY:			0000351231
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL AND GAS FIELD EXPLORATION SERVICES [1382]
+		IRS NUMBER:				750970548
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10144
+		FILM NUMBER:		061253866
+
+	BUSINESS ADDRESS:	
+		STREET 1:		508 WEST WALL
+		STREET 2:		SUITE 800
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79701
+		BUSINESS PHONE:		9156843000
+
+	MAIL ADDRESS:	
+		STREET 1:		508 WEST WALL
+		STREET 2:		SUITE 800
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79701
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NLWAxbDbPNSMc+N9ynmY7Uymx9YRF8uH2192ONBDNBVMibXK6czF6E4RRTKj2+KD
+ Spoz7SO93N3ECMP2bCjXrA==
+
+ 0000950134-06-022562.txt : 20061204
+
+10-K
+ 1
+ d41705e10vk.htm
+ FORM 10-K
+
+e10vk 
+
+Table of Contents   
+
+UNITED STATES SECURITIES AND
+    EXCHANGE COMMISSION  
+
+Washington, D.C.
+    20549  
+
+Form 10-K   
+
+Commission File
+     No. 0-10144  
+
+DAWSON GEOPHYSICAL
+    COMPANY  
+
+Texas  
+
+75-0970548  
+
+(State or other jurisdiction
+    of  
+
+(I.R.S. Employer  
+
+incorporation or
+    organization)  
+
+Identification
+    No.)   
+
+508 West Wall, Suite 800, Midland, Texas 79701 
+
+(Principal Executive Office) 
+
+Telephone Number: 432-684-3000 
+
+Securities registered pursuant to Section 12(b) of the
+    Act: 
+
+None 
+
+Securities registered pursuant to Section 12(g) of the
+    Act: 
+
+Title of Each Class  
+
+Common Stock,
+    $.33 1 / 3 
+    par value
+
+Indicate by check mark if the registrant is a well-known
+    seasoned issuer, as defined in Rule 405 of the Securities
+    Act.  Yes  o      No   
+
+Indicate by check mark if the registrant is not required to file
+    reports pursuant to Section 13 or Section 15(d) of the
+    Act.  Yes  o      No   
+
+Indicate by check mark whether the registrant: (1) has
+    filed all reports required to be filed by Section 13 or
+    15(d) of the Securities Exchange Act of 1934 during the
+    preceding 12 months (or for such shorter period that the
+    Registrant was required to file such reports), and (2) has
+    been subject to such filing requirements for the past
+    90 days.  Yes         No  o
+
+Indicate by check mark if disclosure of delinquent filers
+    pursuant to Item 405 of
+     Regulation S-K 
+    is not contained herein, and will not be contained, to the best
+    of registrant s knowledge, in definitive proxy or
+    information statements incorporated by reference in
+    Part III of this
+     Form 10-K 
+    or any amendment to this
+     Form 10-K.     
+
+Indicate by check mark whether the registrant is a large
+    accelerated filer, an accelerated filer, or a non-accelerated
+    filer (as defined in Exchange Act
+     Rule 12b-2). 
+
+Large Accelerated
+    Filer  o      Accelerated
+    Filer         Non-Accelerated
+    Filer  o
+
+Indicate by check mark whether the registrant is a shell company
+    (as defined in
+     Rule 12b-2 
+    of the Exchange
+    Act).  Yes  o      No   
+
+As of March 31, 2006, the aggregate market value of Dawson
+    Geophysical Company common stock, par value
+    $0.33 1 / 3 
+    per share, held by non-affiliates (based upon the closing
+    transaction price on Nasdaq) was approximately $192,095,255.
+
+On November 24, 2006, there were 7,550,244 shares of
+    Dawson Geophysical Company Common stock,
+    $0.33 1 / 3 
+    par value, outstanding.
+
+As used in this report, the terms  we, 
+     our,   us,   Dawson  and the
+     Company  refer to Dawson Geophysical Company unless
+    the context indicates otherwise.
+
+DOCUMENTS
+    INCORPORATED BY REFERENCE  
+
+Portions of the Registrant s Proxy Statement for its 2006
+    Annual Meeting of Shareholders to be held on January 23,
+    2007, are incorporated by reference into Part III of this
+    Annual Report on
+     Form 10-K. 
+
+TABLE OF
+    CONTENTS  
+
+Page 
+
+PART I   
+
+Item 1.  
+
+Business  
+
+2
+
+Item 1A.  
+
+Risk
+    Factors  
+
+7
+
+Item 1B.  
+
+Unresolved Staff
+    Comments  
+
+10
+
+Item 2.  
+
+Properties  
+
+10
+
+Item 3.  
+
+Legal
+    Proceedings  
+
+10
+
+Item 4.  
+
+Submission of
+    Matters to a Vote of Security Holders  
+
+10
+
+PART II   
+
+Item 5.  
+
+Market for Our
+    Common Equity and Related Stockholder Matters  
+
+10
+
+Item 6.  
+
+Selected Financial
+    Data  
+
+11
+
+Item 7.  
+
+Management s
+    Discussion and Analysis of Financial Condition and Results of
+    Operations  
+
+11
+
+Item 7A.  
+
+Quantitative and
+    Qualitative Disclosures about Market Risk  
+
+17
+
+Item 8.  
+
+Financial
+    Statements and Supplementary Data  
+
+17
+
+Item 9.  
+
+Changes in and
+    Disagreements with Accountants on Accounting and Financial
+    Disclosure  
+
+17
+
+Item 9A.  
+
+Controls and
+    Procedures  
+
+18
+
+Item 9B.  
+
+Other
+    Information  
+
+18
+
+PART III   
+
+Item 10.  
+
+Directors and
+    Executive Officers of the Registrant  
+
+18
+
+Item 11.  
+
+Executive
+    Compensation  
+
+18
+
+Item 12.  
+
+Security Ownership
+    of Certain Beneficial Owners and Management  
+
+19
+
+Item 13.  
+
+Certain
+    Relationships and Related Transactions  
+
+19
+
+Item 14.  
+
+Principal
+    Accounting Fees and Services  
+
+19
+
+PART IV   
+
+Item 15.  
+
+Exhibits, Financial
+    Statement Schedules and Reports on
+     Form 8-K   
+
+19
+
+Signatures  
+
+20
+
+Index to Financial
+    Statements  
+
+F-1
+
+Index to
+    Exhibits 
+
+Consent of Independent Registered Public Accounting Firm    
+     Certification of CEO Pursuant to Rule 13a-14(a)    
+     Certification of CFO Pursuant to Rule 13a-14(a)    
+     Certification of CEO Pursuant to Rule 13a-14(b)    
+     Certification of CFO Pursuant to Rule 13a-14(b)    
+
+1
+
+Table of Contents   
+
+DAWSON
+    GEOPHYSICAL COMPANY  
+
+FORM 10-K  
+    For the Fiscal Year Ended September 30, 2006  
+
+DISCLOSURE
+    REGARDING FORWARD-LOOKING STATEMENTS  
+
+All statements other than statements of historical fact included
+    in this
+     Form 10-K, 
+    including without limitation statements under
+     Management s Discussion and Analysis of Financial
+    Condition and Results of Operations  and
+     Business  regarding technological advancements and
+    our financial position, business strategy and plans and
+    objectives of our management for future operations, are
+    forward-looking statements within the meaning of
+    Section 27A of the Securities Act and Section 21E of
+    the Securities Exchange Act of 1934, as amended (the
+     Exchange Act ). When used in this
+     Form 10-K, 
+    words such as  anticipate ,  believe ,
+     estimate ,  expect ,  intend  and
+    similar expressions, as they relate to us or our management,
+    identify forward-looking statements. Such forward-looking
+    statements are based on the beliefs of our management, as well
+    as, assumptions made by and information currently available to
+    management. Actual results could differ materially from those
+    contemplated by the forward-looking statements as a result of
+    certain factors, including but not limited to dependence upon
+    energy industry spending, the volatility of oil and gas prices,
+    weather interruptions, managing growth, inability to obtain land
+    access rights of way, and the availability of capital resources.
+    See  Risk Factors  for more information on these and
+    other factors. These forward-looking statements reflect our
+    current views with respect to future events and are subject to
+    these and other risks, uncertainties and assumptions relating to
+    our operations, results of operations, growth strategies and
+    liquidity. All subsequent written and oral forward-looking
+    statements attributable to us or persons acting on our behalf
+    are expressly qualified in their entirety by this paragraph. We
+    assume no obligation to update any such forward-looking
+    statements.
+
+Part I  
+
+Item 1.      
+
+BUSINESS   
+
+General  
+
+Dawson Geophysical Company is the leading provider of onshore
+    seismic data acquisition services in the lower 48 United States
+    as measured by the number of active data acquisition crews.
+    Founded in 1952, we acquire and process
+     2-D, 
+     3-D,  and
+    multi-component seismic data for our clients, ranging from major
+    oil and gas companies to independent oil and gas operators, as
+    well as, providers of multi-client data libraries. Our clients
+    rely on seismic data to identify areas where subsurface
+    conditions are favorable for the accumulation of hydrocarbons
+    and to optimize the development and production of hydrocarbon
+    reservoirs. During fiscal 2006, substantially all of our
+    revenues were derived from
+     3-D  seismic
+    data acquisition operations.
+
+As of September 30, 2006, we operated twelve
+     3-D  seismic
+    data acquisition crews in the lower 48 states of the United
+    States and a seismic data processing center. We market and
+    supplement our services from our headquarters in Midland, Texas
+    and from additional offices in Houston, Denver and Oklahoma
+    City. Our geophysicists perform data processing in our Midland
+    and Houston offices and our field operations are supported from
+    our field office facility in Midland. The results of a seismic
+    survey conducted for a client belong to that client. To avoid
+    potential conflicts of interest with our clients, we do not
+    acquire seismic data for our own account nor do we participate
+    in oil and gas ventures.
+
+Since 2003, higher commodity prices have led to a significant
+    increase in the level of spending for domestic exploration and
+    development of oil and natural gas reserves. This resulted in
+    greater demand for newly-acquired seismic data by many oil and
+    gas companies. These factors and changes in the competitive
+    landscape in our market in 2003 enabled us to expand our data
+    acquisition and processing capacity by adding new personnel with
+    technical and operational expertise to our existing highly
+    skilled workforce. We believe these additions fortified our
+    position as the leading provider of onshore seismic data
+    acquisition services in the United States and resulted in
+    increased market share in terms of the number of active crews
+    operating. We accelerated this expansion during fiscal 2004 with
+    the addition of three data acquisition crews, increased
+    recording capacity company-wide and improvements to our data
+    processing center. We continued this growth in 2005 with the
+    addition of two seismic data acquisition
+
+2
+
+Table of Contents   
+
+crews, as well as, increased channel count. We added our twelfth
+    data acquisition crew in June, 2006 and we provisionally fielded
+    a thirteenth crew in October 2006. These expansions were in
+    response to continued demand for our high-resolution
+     3-D  seismic
+    services as well as our clients  recognition of our
+    technical and operational expertise despite recent fluctuations
+    in oil and natural gas prices.
+
+Business
+    Strategy  
+
+Our strategy is to maintain our leadership position in the
+    U.S. onshore market. Key elements of our strategy include:
+
+Attracting and retaining skilled and experienced personnel for
+    our data acquisition and processing operations;
+
+Providing integrated in-house services necessary in each phase
+    of seismic data acquisition and processing, including project
+    design, land access permitting, surveying and related support
+    functions as well as continuing the enhancement of our in-house
+    health, safety and environmental program;
+
+Maintaining the focus of our operations solely on the domestic
+    onshore seismic market;
+
+Continuing to operate with conservative financial discipline;
+
+Updating our capabilities to incorporate advances in geophysical
+    and supporting technologies; and
+
+Acquiring equipment to expand the recording channel capacity on
+    each of our existing crews and equipping additional crews as
+    customer demand dictates.
+
+Business
+    Description  
+
+Geophysical Services Overview.   Our business
+    consists of the acquisition and processing of seismic data to
+    produce an image of the earth s subsurface. The seismic
+    method involves the recording of reflected acoustic or sonic
+    waves from below the ground. In our operations, we introduce
+    acoustic energy into the ground by using an acoustic energy
+    source, usually large vibrating machines or occasionally through
+    the detonation of dynamite. We then record the subsequent
+    reflected energy, or echoes, with recording devices placed along
+    the earth s surface. These recording devices, or geophones,
+    are placed on the ground in groups of six or more and connected
+    together as a single recording channel. We generally use
+    multiple recording channels in our seismic surveys. Additional
+    recording channels enhance the clarity of the seismic survey
+    much in the same way as additional pixels add resolution to
+    televisions and computer monitors.
+
+We are able to collect seismic data using either
+     2-D  or
+     3-D  methods.
+    The  2-D 
+    method involves the collection of seismic data in a linear
+    fashion thus generating a single plane of subsurface seismic
+    data. Recent technological advances in seismic equipment and
+    computing allow us to economically acquire and process data by
+    placing large numbers of energy sources and recording channels
+    over a broad area. The industry refers to the technique of broad
+    distribution of energy sources and recording channels as the
+     3-D  seismic
+    method. The
+     3-D  method
+    produces an immense volume of seismic data which produces more
+    precise images of the earth s subsurface. Geophysicists use
+    computers to interpret
+     3-D  seismic
+    data volumes, generate geologic models of the earth s
+    subsurface, and identify subsurface anomalies which are
+    favorable for the accumulation of hydrocarbons.
+
+3-D  seismic
+    data are used in the exploration for new reserves and enable oil
+    and gas companies to better delineate existing fields and to
+    augment their reservoir management techniques. Benefits of
+    incorporating high resolution
+     3-D  seismic
+    surveys into exploration and development programs include
+    reducing drilling risk, decreasing oil and gas finding costs and
+    increasing the efficiencies of reservoir location, delineation
+    and management. In order to meet the requirements necessary to
+    fully realize the benefits of
+     3-D  seismic
+    data, there is an increasing demand for improved data quality
+    with greater subsurface resolution. We are prepared to meet such
+    demands with the implementation of improved techniques and
+    evolving technology. One such technique is better survey design
+    integrating a greater number of recording channels, more dense
+    energy source distribution and improved seismic data processing
+    technologies. Our geophysicists perform these design tasks.
+
+3
+
+Table of Contents   
+
+We continue to pursue the use of multi-component seismic
+    technologies, which utilize shear wave seismic data. Shear waves
+    vary from the acoustic wave generally used in seismic surveys in
+    the manner in which they travel through the earth. The use of
+    shear waves in seismic surveys is relatively new in our
+    industry, and it is believed that the analysis of shear wave
+    data may allow for a more detailed model of the earth s
+    subsurface. Shear wave seismic data are acquired using both
+     2-D  and
+     3-D  methods.
+    We have been involved in several shear wave projects. Our
+    equipment includes energy sources and geophones capable of
+    generating and recording shear waves. During fiscal 2006 we
+    completed the data acquisition phase of a large
+     3-D 
+    multi-component project in West Texas utilizing both shear wave
+    energy sources and geophones, our seventh and largest such
+    project.
+
+Data Acquisition.   The seismic survey begins at
+    the time a client requests that we formulate a proposal to
+    acquire seismic data on its behalf. Geophysicists then assist
+    the client in designing the specifications of the proposed
+     3-D  survey.
+    If the client accepts our proposal, permit agents then obtain
+    access rights of way from surface and mineral estate owners or
+    lessees where the survey is to be conducted.
+
+Utilizing electronic surveying equipment, survey personnel
+    precisely locate the energy source and receiver positions from
+    which the seismic data are collected. We primarily use vibrator
+    energy sources which are mounted on vehicles, the majority of
+    which weighs 62,000 pounds each, to generate seismic energy, but
+    occasionally we detonate dynamite charges placed in drill holes
+    below the earth s surface. We use third party contractors
+    for the drilling of holes and the purchasing, handling and
+    disposition of dynamite charges.
+
+We began fiscal 2004 with an operating capacity of six
+    land-based seismic data acquisition crews with an aggregate
+    recording channel count of approximately 25,000 and 52 vibrator
+    energy source units. During fiscal 2004, we added three seismic
+    data acquisition crews with an increase in channel count to
+    approximately 38,000 channels and 70 vibrator energy source
+    units. At fiscal year end 2005, we operated eleven crews, 75
+    vibrator energy source units, and had capacity in excess of
+    58,000 recording channels. As a result of our continued
+    expansion, as of September 30, 2006, we operated twelve
+    crews, 95 vibrator energy source units, and had capacity in
+    excess of 70,000 recording channels, any of which may be
+    configured to meet the demands of specific survey designs. We
+    provisionally fielded a thirteenth crew in October, 2006. We
+    intend to deploy this crew from time to time as demand and
+    opportunity arise. Each crew consists of approximately 40 to 80
+    technicians, 25 vehicles with off-road capabilities, 60,000
+    geophones, a seismic recording system, energy sources,
+    electronic cables and a variety of other equipment.
+
+At fiscal year end 2005 we operated eleven Input/Output System
+    Two   
+    recording systems, six with radio capability and five
+    cable-based systems. During fiscal 2006, we added our twelfth
+    data acquisition crew equipped with a 5000 channel Aram ARIES
+    cable based recording system. In September 2006, we added an
+    additional 5000 channel Aram ARIES recording system which
+    replaced an Input/Output System Two on an existing crew. All of
+    our recording systems utilize similar type geophones and record
+    equivalent seismic information but vary in the manner by which
+    seismic data are transferred to the central recording unit.
+
+As of September 30, 2006, we operated twelve seismic data
+    acquisition crews. In October 2006, we provisionally fielded a
+    thirteenth crew equipped with an existing Input/Output System
+    Two cable based system. Of the thirteen crews in operation, six
+    are equipped with Input/Output System Two RSR radio based
+    recording systems, four with Input/Output System Two cable based
+    recording systems, two with Aram ARIES cable based recording
+    systems, and one WesternGeco (subsidiary of Schlumberger) Q-Land
+    recording system under an agreement described below.
+
+During fiscal 2006, we entered into an agreement with
+    WesternGeco, a subsidiary of Schlumberger, to provide Q-Land
+    seismic data acquisition services in the Lower 48 United States.
+    The Q-Land system is a unique integrated acquisition and
+    processing system that is producing superior imaging results
+    throughout the Middle East and North Africa. The Q-Land system
+    uses 30,000 channels of finely spaced point-receivers to
+    correctly sample both signal and noise. By removing noise, the
+    resolution of the subsurface is dramatically increased. Under
+    the terms of the agreement, the Company will provide crew
+    personnel, energy source units, necessary vehicles, land access
+    permitting and surveying. WesternGeco will provide survey
+    design, the seismic recording system with operators, and all
+    Q-Land data processing services. Both companies will share
+    marketing services. The Company deployed the Q-Land recording
+    system on an existing crew and is currently conducting
+    operations in West Texas on a multi-client
+
+4
+
+Table of Contents   
+
+data library program for WesternGeco. The Company will continue
+    to deploy the Q-Land system on an existing crew or additional
+    crews as demand for the technology dictates.
+
+Client demand for more recording channels continues to increase
+    as the industry strives for improved data quality with greater
+    subsurface resolution. We believe our ability to deploy a large
+    number of recording channels provides us with the competitive
+    advantages of operational versatility and increased
+    productivity, in addition to improved data quality. All of our
+    crews are capable of recording in excess of 3,000 channels with
+    the majority in excess of 5,000 channels.
+
+Data Processing.   We currently operate a
+    computer center located in Midland, Texas and provide additional
+    processing services through our Houston office. Such data
+    processing primarily involves the enhancement of seismic data by
+    improving reflected signal resolution, removing ambient noise
+    and establishing proper spatial relationships of geological
+    features. The data are then formatted in such a manner that
+    computer graphic technology may be employed for examination and
+    interpretation of the data by the user.
+
+We continue to improve data processing efficiency and accuracy
+    with the addition of improved processing software and high-speed
+    computer technology. We purchase, develop or lease, under
+    non-exclusive licensing arrangements, seismic data processing
+    software.
+
+Our computer center processes seismic data collected by our
+    crews, as well as by other geophysical contractors. In addition,
+    we reprocess previously recorded seismic data using current
+    technology to enhance the data quality. Our processing contracts
+    may be awarded jointly with, or independently from, data
+    acquisition services. Data processing services comprise a small
+    portion of our overall revenues.
+
+Integrated Services.   We maintain integrated
+    in-house operations necessary to the development and completion
+    of seismic surveys. Our experienced personnel have the
+    capability to conduct or supervise the seismic survey design,
+    permitting, surveying, data acquisition and processing functions
+    for each seismic program. In-house support operations include a
+    health, safety and environmental program as well as facilities
+    for automotive repair, automotive paint and body repair,
+    electronics repair, electrical engineering and software
+    development. In addition, we maintain a fleet of tractor
+    trailers to transport our seismic acquisition equipment to our
+    survey sites. We believe that maintaining these functions
+    in-house contributes to better quality control and improved
+    efficiency in our operations. Our clients generally undertake to
+    provide their own interpretation of the seismic data provided by
+    us.
+
+Equipment
+    Acquisition and Capital Expenditures  
+
+We monitor and evaluate advances in geophysical technology and
+    commit capital funds to purchase equipment we deem most
+    promising in order to maintain our competitive position.
+    Purchasing new assets and continually upgrading capital assets
+    requires a continuing commitment to capital spending. For fiscal
+    year 2006, we made capital expenditures of $40,377,000, in part
+    to complete the outfitting of our twelfth data acquisition crew
+    fielded in June 2006 equipped with a 5,000 channel Aram ARIES
+    recording system, to continue expansion of existing crews, to
+    add energy source units, and to replace an Input/Output
+    System II recording system on an existing crew with an Aram
+    ARIES recording system in September of 2006. The Board of
+    Directors approved an initial fiscal 2007 capital budget of
+    $20,000,000, of which, $4,900,000 was used as part of the
+    purchase of the second Aram ARIES recording system and captured
+    as an increase to the fiscal 2006 capital budget due to earlier
+    than anticipated delivery and deployment of the system. The
+    balance of the fiscal 2007 capital budget will be used to add to
+    the Company s energy source fleet, make technical
+    improvements in various phases of the Company s operations,
+    and meet maintenance capital requirements. These additions will
+    allow the Company to maintain its competitive position as it
+    responds to client desire for higher resolution subsurface
+    images.
+
+Clients  
+
+Our services are marketed by supervisory and executive personnel
+    who contact clients to determine geophysical needs and respond
+    to client inquiries regarding the availability of crews or
+    processing schedules. These contacts are based principally upon
+    professional relationships developed over a number of years.
+
+Our clients range from major oil companies to small independent
+    oil and gas operators and also include providers of multi-client
+    data libraries. The services we provide to our clients vary
+    according to the size and needs of
+
+5
+
+Table of Contents   
+
+each client. We believe that the loss of any one of our clients
+    would not have a material impact on our business. During 2006,
+    sales to our two largest clients represented 24% and 11% of our
+    revenues, respectively. The remaining balance of our fiscal 2006
+    revenue was derived from varied clients and none represented 10%
+    or more of our fiscal 2006 revenues. Although 24% of our fiscal
+    2006 revenues were derived from one client, our evaluation
+    indicates that our relationship is well founded for continued
+    contractual commitments for the foreseeable future in multiple
+    producing basins across the lower 48 states. The client
+    representing 11% of our fiscal 2006 revenues represented 15% of
+    our fiscal 2005 revenues and acts as an agent for other entities
+    that are the actual purchasers of our services. Sales to each of
+    the actual purchasers represented less than 10% of our total
+    revenues. Because of our relatively large client base, our
+    largest clients have varied from year to year. Current demand
+    for our services indicates that the loss of any single client
+    would not have a long term negative effect on our business.
+
+In order to avoid potential conflicts of interest with our
+    clients, we do not acquire data for our own account or for
+    future sale, maintain any multi-client data library or
+    participate in oil and gas ventures. The results of a seismic
+    survey conducted for a client belong to that client. It is also
+    our policy that none of our officers, directors or employees
+    participate in any oil and gas venture. All of our clients 
+    information is maintained in strictest confidence.
+
+Contracts  
+
+Our data acquisition services are conducted under master service
+    contracts with our clients. These master service contracts
+    define certain obligations for us and for our clients. A
+    supplemental agreement setting forth the terms of a specific
+    project, which may be cancelled by either party on short notice,
+    is entered into for every data acquisition project. The
+    supplemental agreements are either  turnkey 
+    agreements that provide for a fixed fee to be paid to us for
+    each unit of data acquired, or  term  agreements that
+    provide for a fixed hourly, daily or monthly fee during the term
+    of the project or projects. Turnkey agreements generally provide
+    us more profit potential, but involve more risks because of the
+    potential of crew downtime or operational delays. We attempt to
+    negotiate on a project by project basis, some level of weather
+    downtime protection within the turnkey agreements. Under the
+    term agreements, we forego an increased profit potential in
+    exchange for a more consistent revenue stream with improved
+    protection from crew downtime or operational delays.
+
+We currently operate under both turnkey and term supplemental
+    agreements.
+
+Competition  
+
+The acquisition and processing of seismic data for the oil and
+    gas industry is a highly competitive business in the United
+    States. Contracts for such services generally are awarded on the
+    basis of price quotations, crew experience and availability of
+    crews to perform in a timely manner, although factors other than
+    price, such as crew safety performance history, technological
+    and operational expertise are often determinative. Our
+    competitors include companies with financial resources that are
+    significantly greater than our own as well as companies of
+    comparable and smaller size. Our primary competitors are Veritas
+    DGC, Petroleum Geo Services, Geokinetics, Global Geophysical
+    Services, and Tidelands Geophysical.
+
+Employees  
+
+As of October 20, 2006, we employed approximately 1023
+    persons, of which 932 were engaged in providing energy sources
+    and acquiring data. With respect to the remainder of our
+    employees, 12 are engaged in data processing, 19 are
+    administrative personnel, 52 are engaged in equipment
+    maintenance and transport and 8 are officers. Of the employees
+    listed above, 9 are geophysicists. Our employees are not
+    represented by a labor union. We believe we have good relations
+    with our employees.
+
+Available
+    Information  
+
+All of our Annual Reports on
+     Form 10-K, 
+    Quarterly Reports on
+     Form 10-Q, 
+    Current Reports on
+     Form 8-K, 
+    and all amendments to those reports, filed with or furnished to
+    the Securities and Exchange Commission ( SEC ) on or
+    after May 9, 1995 are available free of charge through our
+    internet website, www.dawson3d.com, as soon as reasonably
+    practical after we have electronically filed such material with,
+    or furnished it to, the SEC. Information
+
+6
+
+Table of Contents   
+
+contained on our internet website is not incorporated by
+    reference in this Annual Report on
+     Form 10-K. 
+    In addition, the SEC maintains an internet site containing
+    reports, proxy and information statements, and other information
+    filed electronically at www.sec.gov. You may also read and copy
+    this information, for a copying fee, at the SEC s Public
+    Reference Room at 100 F Street, N.E., Washington, D.C.
+    20549. Please call the SEC at
+     1-800-SEC-0330 
+    to obtain information on the operation of the Public Reference
+    Room.
+
+Item 1A.      
+
+RISK
+    FACTORS   
+
+An investment in our common stock is subject to a number of
+    risks discussed below. You should carefully consider these
+    discussions of risk and the other information included in this
+     Form 10-K. 
+    If any of the following risks were actually to occur, our
+    business, financial condition or results of operations could be
+    materially adversely affected. 
+
+If oil
+    and gas prices or the level of capital expenditures by oil and
+    gas companies were to decline, demand for our services would
+    decline and our results of operations would be adversely
+    affected.   
+
+Demand for our services depends upon the level of spending by
+    oil and gas companies for exploration, production, development
+    and field management activities, which activities depend in part
+    on oil and gas prices. Significant fluctuations in oil and gas
+    exploration activities and commodity prices have adversely
+    affected the demand for our services and our results of
+    operations in years past and would do so again if prices for oil
+    and gas were to decline. Because a greater portion of our
+    clients are in the business of exploring for and producing
+    natural gas, a sustained significant decline in the price of
+    natural gas could have a more adverse affect on demand for our
+    services. In particular, we incurred losses in fiscal years 2000
+    through 2003 as a result of decreased demand for seismic
+    services during these years due to the effects of lower oil and
+    gas prices. While in recent years the price of oil and natural
+    gas has been historically high and exploration activities have
+    been strong, there can be no assurance that the current level of
+    energy prices will be sustained or that exploration and
+    development activities by our clients will continue to be
+    strong. Any significant decline in oil and gas related spending
+    on behalf of our clients could cause us to alter our capital
+    spending plans and would have a material adverse effect on our
+    results of operations. Additionally, increases in oil and gas
+    prices may not increase demand for our products and services or
+    otherwise have a positive effect on our results of operations or
+    financial condition.
+
+Factors affecting the price of oil and gas include:
+
+level of demand for oil and gas;
+
+worldwide political, military and economic conditions, including
+    the ability of the Organization of Petroleum Exporting Countries
+    to set and maintain production levels and prices for oil;
+
+level of oil and gas production;
+
+government policies regarding the exploration for, and
+    production and development of, oil and gas reserves;
+
+level of taxation relating to the energy industry, including
+    taxation of consumption of energy sources; and
+
+weather conditions.
+
+The markets for oil and gas have historically been volatile and
+    are likely to continue to be so in the future.
+
+The
+    high fixed costs of our operations could result in operating
+    losses.   
+
+Our business has high fixed costs.   As a
+    result, any significant downtime or low productivity caused by
+    reduced demand, weather interruptions, equipment failures,
+    permit delays or other causes could adversely affect our results
+    of operations.
+
+Our
+    revenues are subject to fluctuations that are beyond our control
+    which could adversely affect our results of operations in any
+    financial period.   
+
+Our operating results vary in material respects from quarter to
+    quarter and will continue to do so in the future. Factors that
+    cause variations include the timing of the receipt and
+    commencement of contracts for data acquisition,
+
+7
+
+Table of Contents   
+
+permit delays, weather delays and crew productivity. Combined
+    with our high fixed costs, these revenue fluctuations could
+    produce unexpected adverse results of operations in any fiscal
+    period.
+
+Our
+    operations are subject to weather conditions which could
+    adversely affect our results of operations.   
+
+Our seismic data acquisition operations could be adversely
+    affected by inclement weather conditions. Delays associated with
+    weather conditions could adversely affect our results of
+    operations. See  Business   Contracts. 
+
+Our
+    operations are subject to delays related to obtaining land
+    access rights of way from third parties which could affect our
+    results of operations.   
+
+Our seismic data acquisition operations could be adversely
+    affected by our inability to obtain timely right of way usage
+    from both public and private land
+     and/or 
+    mineral owners. Delays associated with obtaining such rights of
+    way could negatively affect our results of operations.
+
+We
+    face intense competition in our business that could result in
+    downward pricing pressure and the loss of market
+    share.   
+
+The acquisition and processing of seismic data for the oil and
+    gas industry is a highly competitive business in the United
+    States. Some of our competitors have financial resources that
+    are significantly greater than our own. Competition from these
+    and other competitors could result in downward pricing pressure
+    and the loss of market share. See  Business  
+    Competition. 
+
+If we
+    do not manage our recent growth effectively our results of
+    operations could be affected.   
+
+We have experienced substantial growth during the last three
+    fiscal years, adding seven seismic data acquisition crews during
+    this period. This growth has presented a challenge to our
+    systems, processes, resources, personnel, management and other
+    infrastructure and support mechanisms. If we do not manage these
+    growth challenges effectively, our profitability and results of
+    operations could be adversely affected, our management resources
+    may be diverted and our future growth impeded.
+
+We may
+    be unable to attract and retain skilled and technically
+    knowledgeable employees, which could adversely affect our
+    business.   
+
+Our success depends upon attracting and retaining highly skilled
+    professionals and other technical personnel. A number of our
+    employees are highly skilled scientists and highly trained
+    technicians, and our failure to continue to attract and retain
+    such individuals could adversely affect our ability to compete
+    in the seismic services industry. We may confront significant
+    and potentially adverse competition for these skilled and
+    technically knowledgeable personnel, particularly during periods
+    of increased demand for seismic services. None of our employees
+    are under employment contracts and we have no key man insurance.
+
+Capital
+    requirements for our operations are large. If we are unable to
+    finance these requirements, our ability to continue our
+    expansion and maintain our profitability could be
+    affected.   
+
+Our sources of working capital are limited. We have historically
+    funded our working capital requirements with cash generated from
+    operations, cash reserves and short term borrowings from
+    commercial banks. In the past, we have also funded our capital
+    expenditures and other financing needs through public equity
+    offerings. Our working capital requirements continue to
+    increase, primarily due to the expansion of our infrastructure.
+    If we were to expand our operations at a rate exceeding
+    operating cash flow, or if current demand or pricing of
+    geophysical services were to decrease substantially, additional
+    financing could be required. If we were not able to obtain such
+    financing when needed, our failure could have a negative impact
+    on our ability to pursue our expansion and maintain our
+    profitability. See  Management s Discussion and
+    Analysis of Financial Condition and Results of
+    Operations   Liquidity and Capital Resources. 
+
+8
+
+Table of Contents   
+
+Technological
+    change in our business creates risks of technological
+    obsolescence and requirements for future capital expenditures.
+    If we are unable to keep up with these technological advances,
+    we may not be able to compete effectively.   
+
+Seismic data acquisition and data processing technologies
+    historically have progressed rather rapidly and we expect this
+    progression to continue. Our strategy is to regularly upgrade
+    our data acquisition and processing equipment to maintain our
+    competitive position. However, due to potential advances in
+    technology and the related costs associated with such
+    technological advances, we might not be able to fulfill this
+    strategy, thus possibly affecting our ability to compete.
+
+We
+    operate under hazardous conditions that subject us to risk of
+    damage to property or personal injuries and may interrupt our
+    business.   
+
+Our business is subject to the general risks inherent in
+    land-based seismic data acquisition activities. Our activities
+    are often conducted in remote areas under extreme weather and
+    other dangerous conditions. These operations are subject to
+    risks of injury to personnel and equipment. Our crews are
+    mobile, and equipment and personnel are subject to vehicular
+    accidents. We use diesel fuel which is classified by the
+    U.S. Department of Transportation as a hazardous material.
+    These risks could cause us to experience equipment losses,
+    injuries to our personnel and interruptions in our business.
+
+In addition, we could be subject to personal injury or real
+    property damage claims in the normal operation of our business.
+    Such claims may not be covered under the indemnification
+    provisions in our master service agreements to the extent that
+    the damage was due to our negligence, gross negligence or
+    intentional misconduct.
+
+We do not carry insurance against certain risks that we could
+    experience, including business interruption resulting from
+    equipment losses or weather delays. We obtain insurance against
+    certain property and personal casualty risks and other risks
+    when such insurance is available and when our management
+    considers it advisable to do so. Such coverage is not always
+    available or applicable and, when available, is subject to
+    unilateral cancellation by the insuring companies on very short
+    notice.
+
+Our
+    industry is subject to governmental regulation which may
+    adversely affect our future operations.   
+
+Our operations are subject to a variety of federal, state and
+    local laws and regulations, including laws and regulations
+    relating to protection of the environment and archeological
+    sites. We are required to expend financial and managerial
+    resources to comply with such laws and related permit
+    requirements in our operations, and we anticipate that we will
+    continue to be required to do so in the future. The fact that
+    such laws or regulations change frequently makes it impossible
+    for us to predict the cost or impact of such laws and
+    regulations on our future operations. The adoption of laws and
+    regulations that have the effect of reducing or curtailing
+    exploration and production activities by energy companies could
+    also adversely affect our operations by reducing the demand for
+    our services.
+
+Certain
+    provisions of our charter and bylaws and our shareholder rights
+    plan may make it difficult for a third party to acquire us, even
+    in situations that may be viewed as desirable by
+    shareholders.   
+
+Our articles of incorporation and bylaws contain provisions that
+    authorize the issuance of preferred stock and establish advance
+    notice requirements for director nominations and actions to be
+    taken at shareholder meetings. These provisions could discourage
+    or impede a tender offer, proxy contest or other similar
+    transaction involving control of us, even in situations that may
+    be viewed as desirable by our shareholders. In addition, we have
+    adopted a shareholder rights plan that would likely discourage a
+    hostile attempt to acquire control of us.
+
+Failure
+    to maintain effective internal controls in accordance with
+    Section 404 of the Sarbanes-Oxley Act could have a material
+    adverse effect on our stock price.   
+
+If, in the future, we fail to maintain the adequacy of our
+    internal controls, as such standards are modified, supplemented
+    or amended from time to time, we may not be able to ensure that
+    we can conclude on an ongoing basis that we have effective
+    internal controls over financial reporting in accordance with
+    Section 404 of the
+
+9
+
+Table of Contents   
+
+Sarbanes-Oxley 
+    Act. Failure to achieve and maintain an effective internal
+    control environment could have a material adverse effect on the
+    price of our common stock.
+
+Item 1B.      
+
+UNRESOLVED
+    STAFF COMMENTS   
+
+None.
+
+Item 2.      
+
+PROPERTIES   
+
+Our principal facilities are summarized in the table below.
+
+Owned or 
+
+Building Area 
+
+Location 
+
+Leased 
+
+Purpose 
+
+Square Feet 
+
+Midland, TX
+
+Leased
+
+Executive offices and data
+    processing
+
+29,960
+
+Midland, TX
+
+Owned
+
+Field office
+
+58,472
+
+Equipment fabrication
+
+Maintenance and repairs
+
+We have operating leases in Houston, Denver and Oklahoma City
+    for general office space. In November we executed an operating
+    lease for general office purposes, maintenance and repairs in
+    Lyon Township, Michigan.
+
+Our operations are limited to one industry segment and the
+    United States.
+
+Item 3.      
+
+LEGAL
+    PROCEEDINGS   
+
+From time to time we are a party to various legal proceedings
+    arising in the ordinary course of business. Although we cannot
+    predict the outcomes of any such legal proceedings, our
+    management believes that the resolution of pending legal actions
+    will not have a material adverse effect on our financial
+    condition, results of operations or liquidity.
+
+Item 4.      
+
+SUBMISSION
+    OF MATTERS TO A VOTE OF SECURITY HOLDERS   
+
+No matter has been submitted during the fourth quarter of the
+    2006 fiscal year to a vote of our security holders, through the
+    solicitation of proxies or otherwise. However, please refer to
+    our Proxy Statement for the Annual Meeting to be held on
+    January 23, 2007 (the  Proxy Statement ), filed
+    with the Securities and Exchange Commission, notifying security
+    holders as to the election of Directors, adopting the Dawson
+    Geophysical Company 2006 Stock and Performance Incentive Plan
+    and selection of KPMG LLP as our independent registered public
+    accounting firm.
+
+Part II  
+
+Item 5.      
+
+MARKET
+    FOR OUR COMMON EQUITY AND RELATED STOCKHOLDER
+    MATTERS   
+
+Our common stock trades on the Nasdaq Stock
+    Market   
+    under the symbol  DWSN.  The table below represents
+    the high and low sales prices for the period shown.
+
+10
+
+Table of Contents   
+
+As of November 24, 2006, we had 183 common stockholders of
+    record as reported by our transfer agent.
+
+We have not paid cash dividends on our Common Stock since
+    becoming a public company and have no plans to do so in the
+    foreseeable future.
+
+The following table summarizes certain information regarding
+    securities authorized for issuance under our equity compensation
+    plans as of September 30, 2006.
+
+Equity
+    Compensation Plan Information  
+
+Number of 
+
+Securities Remaining 
+
+Available for 
+
+Number of 
+
+Future Issuance 
+
+Securities to 
+
+Under Equity 
+
+be Issued 
+
+Compensation Plans 
+
+Upon Exercise 
+
+Weighted-Average Exercise 
+
+(Excluding Securities 
+
+of Outstanding 
+
+Price of 
+
+Reflected in 
+
+Plan Category 
+
+Options 
+
+Outstanding Options 
+
+Column (a)) 
+
+(a) 
+
+(b) 
+
+(c) 
+
+Equity compensation plans approved
+    by security holders
+
+171,250
+
+$
+
+9.12
+
+300,550
+
+Equity compensation plans not
+    approved by security holders
+
+Total
+
+171,250
+
+$
+
+9.12
+
+300,550
+
+Item 6.      
+
+SELECTED
+    FINANCIAL DATA   
+
+The following selected financial data should be read in
+    conjunction with Item 7,  Management s Discussion
+    and Analysis of Financial Condition and Results of
+    Operations , and Dawson Geophysical Company s
+    financial statements and related notes included in Item 8,
+     Financial Statements and Supplementary Data .
+
+In March 2005, we successfully completed a public offering of
+    1,800,000 shares of common stock such that weighted average
+    equivalent common shares outstanding in 2005 reflect these
+    additional shares for part of the year.
+
+Item 7.      
+
+MANAGEMENT S
+    DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+    OPERATIONS   
+
+The following discussion of our financial condition and results
+    of operations should be read in conjunction with the financial
+    statements and notes to those statements included elsewhere in
+    this
+     Form 10-K. 
+    This discussion contains forward-looking statements that involve
+    risks and uncertainties. Please see  Risk Factors  and
+     Disclosure Regarding Forward Looking Statements 
+    elsewhere in this
+     Form 10-K. 
+
+Overview  
+
+We are the leading provider of onshore seismic data acquisition
+    services in the lower 48 United States as measured by the number
+    of active data acquisition crews. Substantially all of our
+    revenues are derived from the seismic data acquisition services
+    we provide to our clients, mainly domestic oil and gas
+    companies. Demand for our
+
+11
+
+Table of Contents   
+
+services depends upon the level of spending by these oil and gas
+    companies for exploration, production, development and field
+    management activities, which activities depend, in part, on oil
+    and natural gas prices. Significant fluctuations in domestic oil
+    and natural gas exploration activities and commodity prices have
+    affected the demand for our services and our results of
+    operations in years past and continue to be the single most
+    important factor affecting our business and results of
+    operations.
+
+Accordingly, our return to profitability in fiscal 2004 after
+    several years of losses was directly related to an increase in
+    the level of exploration for domestic oil and natural gas
+    reserves by the petroleum industry since 2003. The increased
+    level of exploration is a function of higher prices for oil and
+    natural gas. As a result of the increase in domestic exploration
+    spending, we have experienced an increased demand for our
+    seismic data acquisition and processing services. While the
+    markets for oil and natural gas have historically been volatile
+    and are likely to continue to be so in the future and we can
+    make no assurances as to future levels of domestic exploration
+    or commodity prices, we believe opportunities exist for us to
+    enhance our market position by responding to our client s
+    desire for higher resolution subsurface images. In addition, we
+    continue to experience high demand for our services despite
+    recent fluctuations in oil and natural gas prices.
+
+We continue to focus on increasing the revenues from and
+    profitability of our existing crews by upgrading our recording
+    capacity, expanding the channel count on existing crews and
+    adding to our energy source fleet. While our revenues are mainly
+    affected by the level of client demand for our services, our
+    revenues are also affected by the pricing for our services that
+    we negotiate with our clients and the productivity of our data
+    acquisition crews, including factors such as crew downtime
+    related to inclement weather, delays in acquiring land access
+    permits, or equipment failure. Consequently, our successful
+    efforts to negotiate more favorable weather protection
+    provisions in our supplemental service agreements, to mitigate
+    access permit delays and to improve overall crew productivity
+    may contribute to growth in our revenues. Although our clients
+    may cancel their supplemental service agreements with us on
+    short notice, we believe we currently have a sufficient order
+    book to sustain operations at full capacity well into calendar
+    2007 with our twelve crews.
+
+Fiscal
+    2006 Highlights  
+
+Our financial performance for fiscal 2006 significantly improved
+    when compared to our financial performance for fiscal 2005 as a
+    result of continuing high demand for our services due to
+    increased exploration and development activity by domestic oil
+    and gas companies and increases in oil and gas prices. As a
+    result of continuing high demand:
+
+We deployed and operated the Company s twelfth data
+    acquisition crew equipped with an Aram ARIES recording system in
+    June of 2006. We added a second Aram ARIES recording system in
+    September.
+
+We continued to experience price improvements and more favorable
+    contract terms in our agreements with clients.
+
+Our areas of operations during fiscal 2006 included South Texas,
+    California, Utah, West Texas, the Fort Worth Basin of
+    Texas, Oklahoma, North Dakota, Wyoming, Arkansas, West Virginia,
+    New York, Mississippi, and New Mexico.
+
+We increased channel count in 2006, from approximately 58,000 to
+    in excess of 70,000.
+
+We increased the size of the vibrator energy source fleet to
+    95 units.
+
+We commenced operations under an agreement with WesternGeco, a
+    subsidiary of Schlumberger, to provide Q-Land seismic data
+    acquisition services in the Lower 48 United States.
+
+We completed the data acquisition phase of a
+     large 3-D 
+    multi-component seismic project in West Texas, our seventh such
+    project in the last three years.
+
+We joined the Russell 3000 Index.
+
+12
+
+Table of Contents   
+
+Fiscal
+    Year Ended September 30, 2006 Versus Fiscal Year Ended
+    September 30, 2005  
+
+Operating Revenues.   Our operating revenues
+    increased 44% from $116,663,000 in fiscal 2005 to $168,550,000
+    in fiscal 2006 as a result of continuing high demand for our
+    services. As a result, we were able to field an additional data
+    acquisition crew, expand the capabilities of our existing crews,
+    obtain price improvements in the markets for our services and
+    negotiate favorable contract provisions. We began fiscal 2006
+    with eleven data acquisition crews and added our twelfth crew in
+    June 2006. Recorded in the fourth quarter revenues are unusually
+    high third party charges primarily related to the use of
+    helicopter support services, specialized survey technologies,
+    and dynamite energy sources all of which are utilized in areas
+    with limited access. The increase in these charges was driven by
+    our continued geographic expansion in response to increased
+    exploration activities in the Appalachian Basin, the Rocky
+    Mountains, the Fayetteville Shale, and the Arkoma Basin. We are
+    reimbursed for these expenses by our clients.
+
+Operating Costs.   Our operating expenses
+    increased 39% from $90,465,000 in fiscal 2005 to $125,848,000 in
+    fiscal 2006 primarily due to the full year of service for the
+    tenth and eleventh crews fielded in fiscal 2005 and to the
+     start-up  and
+    ongoing expenses of the twelfth data acquisition crew deployed
+    in June 2006. As discussed above, reimbursed expenses have a
+    similar impact on operating costs.
+
+General and administrative expenses were 2.9% of revenues in
+    fiscal 2006, as compared to 3.9% of revenues in fiscal 2005.
+    While the ratio of general and administrative expenses to
+    revenue declined in fiscal 2006 due to the increase in revenues,
+    the actual dollar amount increased. The increase of $318,000
+    from fiscal 2005 to fiscal 2006 reflects ongoing expenses
+    necessary to support expanded field operations.
+
+We recognized $13,338,000 of depreciation expense in fiscal 2006
+    as compared to $8,179,000 in fiscal 2005, reflecting the full
+    year of depreciation expense from our fiscal 2005 capital
+    expenditures. Our depreciation expense is expected to increase
+    in fiscal 2007 as a result of our significant capital
+    expenditures in fiscal 2006.
+
+Our total operating costs for fiscal 2006 were $143,994,000, an
+    increase of 40% from fiscal 2005 primarily due to the factors
+    described above.
+
+Taxes.   Our income tax expense was $9,358,000
+    in fiscal 2006 as compared to $4,506,000 in fiscal 2005. The
+    increase in expense for 2006 from 2005 is primarily a result of
+    our substantial increase in income before income taxes resulting
+    in increased federal and state income taxes. Dawson fully
+    utilized its federal net operating loss ( NOL )
+    carryforwards during 2006 and started remitting regular tax
+    reduced by alternative minimum tax ( AMT ) credits.
+
+Fiscal
+    Year Ended September 30, 2005 Versus Fiscal Year Ended
+    September 30, 2004  
+
+Operating Revenues.   Our operating revenues
+    increased 68% from $69,346,000 in fiscal 2004 to $116,663,000 in
+    fiscal 2005 as a result of continuing high demand for our
+    services. As a result of continuing high demand, we were able to
+    field two additional data acquisition crews, obtain price
+    improvements in the markets for our services and negotiate
+    favorable contract provisions. We began fiscal 2005 with nine
+    data acquisition crews. The tenth crew was added in January and
+    the eleventh crew was fielded in May 2005.
+
+Operating Costs.   Our operating expenses
+    increased 63% from $55,618,000 in fiscal 2004 to $90,465,000 in
+    fiscal 2005 primarily due to the
+     start-up  and
+    ongoing expenses of the two new data acquisition crews added
+    during the year and the full year of service for the eighth and
+    ninth crews fielded in the fourth quarter of fiscal 2004.
+
+General and administrative expenses were 3.9% of revenues in
+    fiscal 2005, the same as in fiscal 2004. The fact that our
+    percentage of general and administrative spending was the same
+    as in fiscal 2005 despite the significant increase in our fiscal
+    2005 total revenues reflects the increases in these expenses
+    necessary to support expanded field operations and to comply
+    with Sarbanes-Oxley reporting requirements.
+
+We recognized $8,179,000 of depreciation expense in fiscal 2005
+    as compared to $4,653,000 in fiscal 2004, reflecting the full
+    year of depreciation expense from our fiscal 2004 capital
+    expenditures. Our depreciation expense also increased in fiscal
+    2006 as a result of our significant capital expenditures in
+    fiscal 2005.
+
+13
+
+Table of Contents   
+
+Our total operating costs for fiscal 2005 were $103,134,000, an
+    increase of 64% from fiscal 2004 primarily due to the factors
+    described above.
+
+Taxes.   Our income tax expense was $4,506,000
+    in fiscal 2005 as compared to an income tax benefit of
+    $1,536,000 in fiscal 2004. The fiscal 2005 expense was primarily
+    due to recording income tax expense as a result of our continued
+    profitability in 2005. The fiscal 2004 tax benefit was primarily
+    due to a deferred income tax benefit from the elimination of a
+    valuation allowance on our deferred tax asset generated from net
+    operating loss carryforwards. The fiscal 2005 current tax
+    expense reflects AMT calculated on net income not eligible for
+    offset by AMT credit carryforwards. We anticipate we will
+    recognize increased income tax expense in future years as we
+    fully utilize our NOL carryforwards and AMT credit carryforwards.
+
+Liquidity
+    and Capital Resources  
+
+Introduction.   Our principal sources of cash
+    are amounts earned from the seismic data acquisition services we
+    provide to our clients. Our principal uses of cash are the
+    amounts used to provide these services, including expenses
+    related to our operations and acquiring new equipment.
+    Accordingly, our cash position depends (as do our revenues) on
+    the level of demand for our services. Historically, cash
+    generated from our operations along with cash reserves and short
+    term borrowings from commercial banks have been sufficient to
+    fund our working capital requirements, and to some extent, our
+    capital expenditures.
+
+Cash Flows.   Net cash provided by operating
+    activities was $25,743,000 for fiscal 2006 and $12,300,000 for
+    fiscal 2005. These amounts primarily reflect an increase in
+    total revenues resulting from our expanded business and increase
+    in accounts receivable in excess of payments of accounts payable.
+
+Net cash used in investing activities was $21,031,000 in fiscal
+    2006 and $54,431,000 in fiscal 2005. These results primarily
+    represent capital expenditures and activity in the short-term
+    investment portfolio. Capital expenditures were funded with cash
+    generated from operations, short-term investments, proceeds from
+    the public stock offering discussed below and in addition during
+    fiscal 2005 with cash from our revolving line of credit
+    agreement.
+
+Net cash provided by financing activities in fiscal 2006 was
+    $549,000 representing proceeds from the exercise of stock
+    options. In fiscal 2005 net cash provided by financing
+    activities of $41,347,000 primarily reflects proceeds from the
+    public stock offering.
+
+Capital Expenditures.   For fiscal year 2006, we
+    made capital expenditures of $40,377,000, in part to complete
+    the outfitting of our twelfth data acquisition crew fielded in
+    June 2006 equipped with a 5,000 channel Aram ARIES recording
+    system, to continue expansion of existing crews, to add energy
+    source units, and to replace an Input/Output System II
+    recording system on an existing crew with an Aram ARIES
+    recording system in September of 2006. The Board of Directors
+    had approved an initial fiscal 2007 capital budget of
+    $20,000,000, of which $4,900,000 was used as part of the
+    purchase of the second Aram ARIES recording system and captured
+    as an increase to the fiscal 2006 capital budget due to earlier
+    than anticipated delivery and deployment of the system. The
+    balance of the fiscal 2007 capital budget will be used to add to
+    the Company s energy source fleet, make technical
+    improvements in various phases of the Company s operations,
+    and meet maintenance capital requirements. These additions will
+    allow the Company to maintain its competitive position as it
+    responds to client desire for higher resolution subsurface
+    images.
+
+We continually strive to supply our clients with technologically
+    advanced  3-D 
+    data acquisition recording systems and data processing
+    capabilities. We maintain equipment in and out of service in
+    anticipation of increased future demand for our services.
+
+Capital Resources.   Historically, we have
+    primarily relied on cash generated from operations, cash
+    reserves and short term borrowings from commercial banks to fund
+    our working capital requirements and, to some extent, capital
+    expenditures. We have also funded our capital expenditures and
+    other financing needs through public equity offerings. As a
+    result of our recent increased capital needs resulting from the
+    continued expansion of our business, we obtained a
+    $10 million revolving line of credit agreement in December
+    2004 and completed a public offering of our common stock in
+    March 2005.
+
+14
+
+Table of Contents   
+
+On December 22, 2004, we entered into a revolving line of
+    credit loan agreement with Western National Bank under which we
+    may borrow, repay and reborrow, from time to time until
+    January 18, 2007, up to $10 million. Our obligations
+    under this agreement are secured by a security interest in our
+    accounts receivable and related collateral. Interest on the
+    outstanding amount under the line of credit loan agreement is
+    payable monthly at a rate equal to the greater of (i) the
+    Prime Rate or (ii) 5.0%. In connection with equipping and
+    deploying our eighth and ninth data acquisition crews we
+    borrowed $5 million under the loan agreement on
+    January 12, 2005, and borrowed the remaining
+    $5 million available under the loan agreement on
+    February 1, 2005. As of March 31, 2005 we repaid the
+    $10 million balance outstanding under the loan agreement
+    and the associated interest as a partial use of proceeds from
+    our public offering of 1,800,000 shares of our common
+    stock. We did not borrow under the loan agreement during the
+    remainder of fiscal 2005 or during fiscal 2006. The loan
+    agreement contains customary covenants for credit facilities of
+    this type, including limitations on distributions and dividends,
+    disposition of assets and mergers and acquisitions. We are also
+    obligated to meet certain financial covenants under the loan
+    agreement, including maintaining a minimum tangible net worth
+    (as defined in the loan agreement) of $40 million and
+    maintaining specified ratios with respect to cash flow coverage,
+    current assets and liabilities, and debt to tangible net worth.
+    We expect to renew this revolving line of credit loan agreement
+    for an additional year through January 2008 on the same terms
+    and conditions.
+
+On August 5, 2005, we filed a shelf registration statement
+    with the Securities and Exchange Commission covering the offer
+    and sale from time to time of up to $75 million in debt
+    securities, preferred and common stock, and warrants. The
+    registration statement allows us to sell securities, after the
+    registration statement has been declared effective by the SEC,
+    in one or more separate offerings with the size, price and terms
+    to be determined at the time of sale. The terms of any
+    securities offered would be described in a related prospectus to
+    be separately filed with the SEC at the time of the offering. We
+    do not expect to make an offering in the foreseeable future.
+    However, the filing will enable us to act quickly as
+    opportunities arise.
+
+The following table summarizes payments due in specific periods
+    related to our contractual obligations as of November 15,
+    2006:
+
+We believe that our capital resources, including our short-term
+    investments and cash flow from operations are adequate to meet
+    our current operational needs. We believe we will be able to
+    finance our capital requirements through our short-term
+    investments and cash flow from operations, through borrowings
+    under our revolving line of credit and from the shelf
+    registration of common stock discussed above. However, our
+    ability to satisfy our working capital requirements and to fund
+    future capital requirements will depend principally upon our
+    future operating performance, which is subject to the risks
+    inherent in our business.
+
+Off-Balance
+    Sheet Arrangements  
+
+As of September 30, 2006, we had no off-balance sheet
+    arrangements.
+
+Effect of
+    Inflation  
+
+We do not believe that inflation has had a material effect on
+    our business, results of operations or financial condition
+    during the past three years.
+
+Critical
+    Accounting Policies  
+
+The preparation of our financial statements in conformity with
+    generally accepted accounting principles requires us to make
+    certain assumptions and estimates that affect the reported
+    amounts of assets and liabilities at the date of our financial
+    statements and the reported amounts of revenues and expenses
+    during the reporting period. Because of the use of assumptions
+    and estimates inherent in the reporting process, actual results
+    could differ from those estimates.
+
+15
+
+Table of Contents   
+
+Revenue Recognition.   Our services are provided
+    under cancelable service contracts. These contracts are either
+     turnkey  or  term  agreements. The Company
+    recognizes revenues when services are performed under both types
+    of agreements. Services are defined as the commencement of data
+    acquisition or processing operations. Under turnkey agreements,
+    revenue is recognized on a per unit of data acquired rate, as
+    services are performed. Under term agreements, revenue is
+    recognized on a per unit of time worked rate, as services are
+    performed. In the case of a cancelled service contract, we
+    recognize revenue and bill our client for services performed up
+    to the date of cancellation. We also receive reimbursements for
+    certain
+     out-of-pocket 
+    expenses under the terms of our service contracts. We record
+    amounts billed to clients in revenue at the gross amount
+    including
+     out-of-pocket 
+    expenses that are reimbursed by the client.
+
+In some instances, we bill clients in advance of the services
+    performed. In those cases, we recognize the liability as
+    deferred revenue.
+
+Allowance for Doubtful Accounts.   We prepare
+    our allowance for doubtful accounts receivable based on our past
+    experience of historical write-offs, our current customer base
+    and our review of past due accounts. The inherent volatility of
+    the energy industry s business cycle can cause swift and
+    unpredictable changes in the financial stability of our
+    customers.
+
+Impairment of Long-lived Assets.   We review
+    long-lived assets for impairment when triggering events occur
+    suggesting deterioration in the assets recoverability or fair
+    value. Recognition of an impairment charge is required if future
+    expected net cash flows are insufficient to recover the carrying
+    value of the asset. Our forecast of future cash flows used to
+    perform impairment analysis includes estimates of future
+    revenues and future gross margins based on our historical
+    results and analysis of future oil and gas prices which is
+    fundamental in assessing demand for our services. If we are
+    unable to achieve these cash flows, we would potentially have an
+    impairment charge in the period.
+
+Depreciable Lives of Property, Plant and
+    Equipment.   Our property, plant and equipment are
+    capitalized at historical cost and depreciated over the useful
+    life of the asset. Our estimation of this useful life is based
+    on circumstances that exist in the seismic industry and
+    information available at the time of the purchase of the asset.
+    The technology of the equipment used to gather data in the
+    seismic industry has historically evolved such that obsolescence
+    does not occur quickly. As circumstances change and new
+    information becomes available these estimates could change. We
+    amortize these capitalized items using the straight-line method.
+
+Tax Accounting.   We account for our income
+    taxes in accordance with SFAS No. 109,
+     Accounting for Income Taxes,  which requires the
+    recognition of amounts of taxes payable or refundable for the
+    current year and an asset and liability approach in recognizing
+    the amount of deferred tax liabilities and assets for the future
+    tax consequences of events that have been recognized in our
+    financial statements or tax returns. We determine deferred taxes
+    by identifying the types and amounts of existing temporary
+    differences, measuring the total deferred tax asset or liability
+    using the applicable tax rate and reducing the deferred tax
+    asset by a valuation allowance if, based on available evidence,
+    it is more likely than not that some portion or all of the
+    deferred tax assets will not be realized. Our methodology for
+    recording income taxes requires judgment regarding assumptions
+    and the use of estimates, including determining our annual
+    effective tax rate and the valuation of deferred tax assets,
+    which can create variance between actual results and estimates
+    and could have a material impact on our provision or benefit for
+    income taxes.
+
+Stock Based Compensation.   On December 16,
+    2004, the Financial Accounting Standards Board issued Statement
+    of Financial Accounting Standards No. 123 (revised 2004),
+     Share-Based Payment  ( SFAS 123(R) ).
+    SFAS 123(R) requires companies to measure all employee
+    stock-based compensation awards using a fair value method and
+    recognize compensation cost in its financial statements. We
+    adopted on a prospective basis SFAS 123(R) beginning
+    October 1, 2005 for stock-based compensation awards granted
+    after that date and for unvested awards outstanding at that date
+    using the modified prospective application method. We recognize
+    the fair value of stock-based compensation awards as operating
+    or general and administrative expense as appropriate in the
+    Statements of Operations on a straight-line basis over the
+    vesting period.
+
+16
+
+Table of Contents   
+
+Recently
+    Issued Accounting Pronouncements  
+
+In May 2005, the FASB issued SFAS No. 154,
+     Accounting Changes and Error Corrections,  which
+    supersedes APB Opinion No. 20,  Accounting
+    Changes,  and SFAS No. 3,  Reporting
+    Accounting Changes in Interim Financial Statements. 
+    SFAS No. 154 changes the requirements for the
+    accounting for and reporting of changes in accounting
+    principles. The statement requires the retroactive application
+    to prior periods  financial statements of changes in
+    accounting principles, unless it is impracticable to determine
+    either the period-specific effects or the cumulative effect of
+    the change. SFAS No. 154 does not change the guidance
+    for reporting the correction of an error in previously issued
+    financial statements or the change in an accounting estimate.
+    SFAS No. 154 is effective for accounting changes and
+    corrections of errors made in fiscal years beginning after
+    December 15, 2005. We do not expect the adoption of
+    SFAS No. 154 to have a material impact on our
+    financial statements.
+
+In July 2006, the FASB issued FASB Interpretation No. 48
+    ( FIN 48 ),  Accounting for Uncertainty in
+    Income Taxes   an interpretation of FASB Statement
+    No. 109 . FIN 48 clarifies the accounting for
+    uncertainty in income taxes recognized in an enterprise s
+    financial statements in accordance with FASB Statement
+    No. 109, Accounting for Income Taxes. FIN 48
+    prescribes a recognition threshold and measurement attribute for
+    the financial statement recognition and measurement of a tax
+    position taken or expected to be taken in a tax return.
+    FIN 48 also provides guidance on derecognition,
+    classification, interest and penalties, accounting in interim
+    periods, disclosures, and transition. FIN 48 is effective
+    for fiscal years beginning after December 15, 2006. We are
+    evaluating the financial statement impact of FIN 48 on the
+    Company.
+
+In September 2006, the FASB issued SFAS No. 157,
+     Fair Value Measurements  ( SFAS 157 ).
+    SFAS 157 clarifies that fair value is the amount that would
+    be exchanged to sell an asset or transfer a liability in an
+    orderly transaction between market participants. Further, the
+    standard establishes a framework for measuring fair value in
+    generally accepted accounting principles and expands certain
+    disclosures about fair value measurements. SFAS 157 is
+    effective for fiscal years beginning after November 15,
+    2007. We do not expect the adoption of SFAS 157 to have a
+    material impact on our financial statements.
+
+In September 2006, the Securities and Exchange Commission issued
+    Staff Accounting Bulletin No. 108,  Considering
+    the Effects of Prior Year Misstatements when Quantifying
+    Misstatements in Current Year Financial Statements 
+    ( SAB 108 ). SAB 108 provides guidance on
+    how prior year misstatements should be taken into consideration
+    when quantifying misstatements in current year financial
+    statements for purposes of determining whether the current
+    year s financial statements are materially misstated.
+    SAB 108 is effective for fiscal years beginning after
+    November 15, 2006. We are evaluating SAB 108 and do
+    not expect the adoption of SAB 108 to have a material
+    impact on our financial statements.
+
+Item 7A.      
+
+QUANTITATIVE
+    AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK   
+
+The primary sources of market risk include fluctuations in
+    commodity prices which effect demand for and pricing of our
+    services and interest rate fluctuations. At September 30,
+    2006, we had no indebtedness. Our short-term investments were
+    fixed-rate and we do not necessarily intend to hold them to
+    maturity, and therefore, the short-term investments expose us to
+    the risk of earnings or cash flow loss due to changes in market
+    interest rates. As of September 30, 2006, our short-term
+    investments are stated at fair value with the offsetting
+    unrecognized gain or loss reflected as a separate component of
+    stockholders  equity, other comprehensive income (loss). We
+    have not entered into any hedge arrangements, commodity swap
+    agreements, commodity futures, options or other derivative
+    financial instruments. We do not currently conduct business
+    internationally, so we are not generally subject to foreign
+    currency exchange rate risk.
+
+Item 8.      
+
+FINANCIAL
+    STATEMENTS AND SUPPLEMENTARY DATA   
+
+The information required by this item appears on pages F-1
+    through F-18 hereof and are incorporated herein by reference.
+
+Item 9.      
+
+CHANGES
+    IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+    FINANCIAL DISCLOSURE   
+
+None.
+
+17
+
+Table of Contents   
+
+Item 9A.      
+
+CONTROLS
+    AND PROCEDURES   
+
+Management s
+    Evaluation of Disclosure Controls and Procedures  
+
+Our management, under the supervision and with the participation
+    of our chief executive officer and chief financial officer, has
+    evaluated the effectiveness of our disclosure controls and
+    procedures (as defined in
+     Rule 13a-15(e) 
+    of the Securities Exchange Act of 1934) as of
+    September 30, 2006. Based on such evaluation, our chief
+    executive officer and chief financial officer have concluded
+    that such disclosure controls and procedures were effective as
+    of September 30, 2006.
+
+Management s
+    Report on Internal Control over Financial Reporting  
+
+Management is responsible for establishing and maintaining
+    adequate internal control over financial reporting as defined in
+     Rule 13a-15(f) 
+    under the Securities Exchange Act of 1934. Our internal control
+    over financial reporting is designed to provide reasonable
+    assurance regarding the reliability of financial reporting and
+    the preparation of financial statements for external purposes in
+    accordance with generally accepted accounting principles.
+    Because of its inherent limitations, internal control over
+    financial reporting may not prevent or detect misstatements.
+    Also, projections of any evaluation of effectiveness to future
+    periods are subject to the risk that controls may become
+    inadequate because of changes in conditions, or that the degree
+    of compliance with the policies or procedures may deteriorate.
+    Under the supervision and with the participation of management,
+    including our chief executive officer and chief financial
+    officer, we evaluated the effectiveness of our internal controls
+    over financial reporting as of September 30, 2006 using the
+    criteria set forth in  Internal Control   Integrated
+    Framework  issued by the Committee of Sponsoring
+    Organizations of the Treadway Commission. Based on this
+    evaluation, management has concluded that, as of
+    September 30, 2006, our internal control over financial
+    reporting was effective. Management s assessment of the
+    effectiveness of our internal control over financial reporting
+    as of September 30, 2006, has been audited by KPMG LLP, the
+    independent registered public accounting firm who also audited
+    our consolidated financial statements. Their attestation report
+    appears on
+     page F-3. 
+
+Changes
+    in Internal Control over Financial Reporting  
+
+There have not been any changes in our internal control over
+    financial reporting (as defined in Exchange Act
+     Rule 13a-15(f) 
+    of the Securities Exchange Act of 1934) during the quarter
+    ending September 30, 2006 that have materially affected or
+    are reasonably likely to materially affect our internal control
+    over financial reporting.
+
+Item 9B.      
+
+OTHER
+    INFORMATION   
+
+None.
+
+Part III  
+
+Item 10.      
+
+DIRECTORS
+    AND EXECUTIVE OFFICERS OF THE REGISTRANT   
+
+The information required by this Item 10 with respect to
+    Directors and Executive Officers is hereby incorporated by
+    reference to the sections entitled  Election of
+    Directors ,  Election of Directors ,
+     Section 16(a) Beneficial Ownership Reporting
+    Compliance ,  Stockholder Proposals for Next Annual
+    Meeting , and  Other Matters  in our Proxy
+    Statement , filed or to be filed by us with the Securities and
+    Exchange Commission pursuant to Regulation 14A of the
+    Securities Exchange Act of 1934 within 120 days after the
+    end of the fiscal year covered by this
+     Form 10-K. 
+    Our code of ethics (as defined in Item 406 of
+     Regulation S-K) 
+    was adopted by our Board of Directors May 25, 2004. The
+    Code of Business Conduct and Ethics applies to our directors,
+    officers and employees, including our chief executive officer
+    and chief financial officer. Our Code of Business Conduct and
+    Ethics is posted on our website at http://www.dawson3d.com in
+    the  Corporate Governance  area. Changes to and
+    waivers granted with respect to our Code of Business Conduct and
+    Ethics related to officers identified above, and our other
+    executive officers and directors that we are required to
+    disclose pursuant to applicable rules and regulations of the SEC
+    will also be posted on our website.
+
+Item 11.      
+
+EXECUTIVE
+    COMPENSATION   
+
+The information required by this Item 11 is hereby
+    incorporated by reference to the section of the Proxy Statement
+    entitled  Management Compensation. 
+
+18
+
+Table of Contents   
+
+Item 12.      
+
+SECURITY
+    OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+    MANAGEMENT   
+
+The information required by this Item 12 with respect to
+    security ownership of certain beneficial owners is hereby
+    incorporated by reference to the section of the Proxy Statement
+    entitled  Security Ownership of Certain Beneficial Owners
+    and Management.  The information required with respect to
+    our equity compensation plans is set forth in Item 5 of
+    this
+     Form 10-K. 
+
+On July 13, 1999, our Board of Directors authorized and
+    declared a dividend to the holders of record on July 23,
+    1999 of one Right (a  Right ) for each outstanding
+    share of our common stock. When exercisable, each Right will
+    entitle the holder to purchase one one-hundredth of a share of
+    our Series A Junior Participating Preferred Stock, par
+    value $1.00 per share (the  Preferred Shares ),
+    at an exercise price of $50.00 per Right. The rights are
+    not currently exercisable and will become exercisable only if a
+    person or group acquires beneficial ownership of 20% or more of
+    our outstanding common stock or announces a tender offer or
+    exchange offer, the consummating of which would result in
+    attaining the triggering percentage. We may redeem the Rights
+    for $.01 per Right at any time prior to the tenth day after
+    the first public announcement of a triggering acquisition.
+
+Item 13.      
+
+CERTAIN
+    RELATIONSHIPS AND RELATED TRANSACTIONS   
+
+None.
+
+Item 14.      
+
+PRINCIPAL
+    ACCOUNTING FEES AND SERVICES   
+
+Information concerning principal accountant fees and services
+    appears in the Proxy Statement under the heading  Fees Paid
+    to the Independent Registered Public Accounting Firm  and
+    is incorporated herein by reference.
+
+Part IV  
+
+Item 15.      
+
+EXHIBITS,
+    FINANCIAL STATEMENT SCHEDULES AND REPORTS ON
+     FORM 8-K    
+
+(a) The following documents are filed as part of this
+    report:
+
+(1)  Financial Statements. 
+
+The following financial statements of Dawson Geophysical Company
+    appear on pages F-1 through F-18 and are incorporated by
+    reference into Part II, Item 8:
+
+Reports of Independent Registered Public Accounting Firm
+
+Balance Sheets
+
+Statements of Operations
+
+Stockholders  Equity and Other Comprehensive Income
+
+Statements of Cash Flows
+
+Notes to Financial Statements
+
+(2)  Financial Statement Schedules. 
+
+The following financial statement schedule appears on
+     page F-18 
+    and is hereby incorporated by reference:
+
+Schedule II   Valuation and Qualifying Accounts
+    for the three years ended September 30, 2006, 2005 and 2004.
+
+All other schedules are omitted because they are either not
+    applicable or the required information is shown in the financial
+    statements or notes thereto.
+
+(3)  Exhibits. 
+
+The information required by this item 15(a)(3) is set forth
+    in the Index to Exhibits accompanying this Annual Report of
+     Form 10-K 
+    and is hereby incorporated by reference.
+
+19
+
+Table of Contents   
+
+SIGNATURES  
+
+Pursuant to the requirements of Section 13 or 15(d) of the
+    Securities Exchange Act of 1934, the Registrant has duly caused
+    this report to be signed on its behalf by the undersigned,
+    thereunto duly authorized, in the City of Midland, and the State
+    of Texas, on the 4th day of December, 2006.
+
+DAWSON GEOPHYSICAL COMPANY
+
+By: 
+
+/s/  Stephen
+    C. Jumper
+
+Stephen C. Jumper
+
+President and Chief
+
+Executive Officer
+
+Pursuant to the requirements of the Securities Exchange Act of
+    1934, this report has been signed below by the following persons
+    on behalf of the Registrant and in the capacities and on the
+    dates indicated.
+
+Signature 
+
+Title 
+
+Date 
+
+/s/  L.
+    Decker Dawson
+
+L.
+    Decker Dawson 
+
+Chairman of the Board of Directors
+
+12-4-06
+
+/s/  Stephen
+    C. Jumper
+
+Stephen
+    C. Jumper 
+
+President, Chief Executive Officer
+    and 
+    Director
+
+12-4-06
+
+/s/  Paul
+    H. Brown
+
+Paul
+    H. Brown 
+
+Director
+
+12-4-06
+
+/s/  Gary
+    M. Hoover
+
+Gary
+    M. Hoover 
+
+Director
+
+12-4-06
+
+/s/  Tim
+    C. Thompson
+
+Tim
+    C. Thompson 
+
+Director
+
+12-4-06
+
+/s/  Christina
+    W. Hagan
+
+Christina
+    W. Hagan 
+
+Executive Vice President,
+    Secretary and 
+    Chief Financial Officer
+
+12-4-06
+
+20
+
+Table of Contents   
+
+INDEX TO
+    FINANCIAL STATEMENTS  
+
+F-1
+
+Table of Contents   
+
+REPORT OF
+    INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM  
+
+The Board of Directors and Stockholders
+
+Dawson Geophysical Company:
+
+We have audited the accompanying balance sheets of Dawson
+    Geophysical Company as of September 30, 2006 and 2005, and
+    the related statements of operations, stockholders  equity
+    and other comprehensive income, and cash flows for each of the
+    years in the three-year period ended September 30, 2006. In
+    connection with our audits of the financial statements, we also
+    have audited financial statement schedule II. These
+    financial statements and financial statement schedule are the
+    responsibility of the Company s management. Our
+    responsibility is to express an opinion on these financial
+    statements and financial statement schedule based on our audits.
+
+We conducted our audits in accordance with the standards of the
+    Public Company Accounting Oversight Board (United States). Those
+    standards require that we plan and perform the audit to obtain
+    reasonable assurance about whether the financial statements are
+    free of material misstatement. An audit includes examining, on a
+    test basis, evidence supporting the amounts and disclosures in
+    the financial statements. An audit also includes assessing the
+    accounting principles used and significant estimates made by
+    management, as well as evaluating the overall financial
+    statement presentation. We believe that our audits provide a
+    reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above
+    present fairly, in all material respects, the financial position
+    of Dawson Geophysical Company as of September 30, 2006 and
+    2005, and the results of its operations and its cash flows for
+    each of the years in the three-year period ended
+    September 30, 2006, in conformity with U.S. generally
+    accepted accounting principles. Also in our opinion, the related
+    financial statement schedule, when considered in relation to the
+    basic financial statements taken as a whole, present fairly, in
+    all material respects, the information set forth therein.
+
+We also have audited, in accordance with the standards of the
+    Public Company Accounting Oversight Board (United States), the
+    effectiveness of Dawson Geophysical Company s internal
+    control over financial reporting as of September 30, 2006,
+    based on criteria established in  Internal Control  
+    Integrated Framework  issued by the Committee of Sponsoring
+    Organizations of the Treadway Commission (COSO), and our report
+    dated November 30, 2006 expressed an unqualified opinion on
+    management s assessment of, and the effective operation of,
+    internal control over financial reporting.
+
+As discussed in Note 1 to the Financial Statements, the
+    Company adopted the provisions of the Financial Accounting
+    Standards Board s Statement of Financial Accounting
+    Standards No. 123 (revised 2004),  Share-Based
+    Payment  in fiscal year 2006.
+
+KPMG LLP
+
+Dallas,
+    Texas 
+    November 30, 2006
+
+F-2
+
+Table of Contents   
+
+REPORT OF
+    INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM  
+
+The Board of Directors and Stockholders
+
+Dawson Geophysical Company:
+
+We have audited management s assessment, included in the
+    accompanying Management s Report on Internal Control over
+    Financial Reporting, that Dawson Geophysical Company maintained
+    effective internal control over financial reporting as of
+    September 30, 2006, based on criteria established in
+     Internal Control   Integrated Framework  issued
+    by the Committee of Sponsoring Organizations of the Treadway
+    Commission (COSO). Dawson Geophysical Company s management
+    is responsible for maintaining effective internal control over
+    financial reporting and for its assessment of the effectiveness
+    of internal control over financial reporting. Our responsibility
+    is to express an opinion on management s assessment and an
+    opinion on the effectiveness of the Company s internal
+    control over financial reporting based on our audit.
+
+We conducted our audit in accordance with the standards of the
+    Public Company Accounting Oversight Board (United States). Those
+    standards require that we plan and perform the audit to obtain
+    reasonable assurance about whether effective internal control
+    over financial reporting was maintained in all material
+    respects. Our audit included obtaining an understanding of
+    internal control over financial reporting, evaluating
+    management s assessment, testing and evaluating the design
+    and operating effectiveness of internal control, and performing
+    such other procedures as we considered necessary in the
+    circumstances. We believe that our audit provides a reasonable
+    basis for our opinion.
+
+A company s internal control over financial reporting is a
+    process designed to provide reasonable assurance regarding the
+    reliability of financial reporting and the preparation of
+    financial statements for external purposes in accordance with
+    generally accepted accounting principles. A company s
+    internal control over financial reporting includes those
+    policies and procedures that (1) pertain to the maintenance
+    of records that, in reasonable detail, accurately and fairly
+    reflect the transactions and dispositions of the assets of the
+    company; (2) provide reasonable assurance that transactions
+    are recorded as necessary to permit preparation of financial
+    statements in accordance with generally accepted accounting
+    principles, and that receipts and expenditures of the company
+    are being made only in accordance with authorizations of
+    management and directors of the company; and (3) provide
+    reasonable assurance regarding prevention or timely detection of
+    unauthorized acquisition, use, or disposition of the
+    company s assets that could have a material effect on the
+    financial statements.
+
+Because of its inherent limitations, internal control over
+    financial reporting may not prevent or detect misstatements.
+    Also, projections of any evaluation of effectiveness to future
+    periods are subject to the risk that controls may become
+    inadequate because of changes in conditions, or that the degree
+    of compliance with the policies or procedures may deteriorate.
+
+In our opinion, management s assessment that Dawson
+    Geophysical Company maintained effective internal control over
+    financial reporting as of September 30, 2006, is fairly
+    stated, in all material respects, based on criteria established
+    in  Internal Control   Integrated Framework
+     issued by the Committee of Sponsoring Organizations of the
+    Treadway Commission (COSO). Also, in our opinion, Dawson
+    Geophysical Company maintained, in all material respects,
+    effective internal control over financial reporting as of
+    September 30, 2006, based on criteria established in
+     Internal Control   Integrated Framework  issued
+    by the Committee of Sponsoring Organizations of the Treadway
+    Commission (COSO).
+
+We also have audited, in accordance with the standards of the
+    Public Company Accounting Oversight Board (United States), the
+    balance sheets of Dawson Geophysical Company as of
+    September 30, 2006 and 2005, and the related statements of
+    operations, stockholders  equity and comprehensive income,
+    and cash flows for each of the years in the three-year period
+    ended September 30, 2006, and our report dated
+    November 30, 2006 expressed an unqualified opinion on those
+    financial statements, with an explanatory paragraph as the
+    Company adopted Statement of Financial Accounting Standards
+    No. 123 (revised 2004),  Share-Based Payment  in
+    fiscal year 2006.
+
+KPMG LLP
+
+Dallas,
+    Texas 
+    November 30, 2006
+
+F-3
+
+Table of Contents   
+
+DAWSON
+    GEOPHYSICAL COMPANY 
+
+BALANCE
+    SHEETS   
+
+See accompanying notes to the financial statements.
+
+F-4
+
+Table of Contents   
+
+DAWSON
+    GEOPHYSICAL COMPANY 
+
+STATEMENTS
+    OF OPERATIONS   
+
+See accompanying notes to the financial statements.
+
+F-5
+
+Table of Contents   
+
+DAWSON
+    GEOPHYSICAL COMPANY 
+
+STATEMENTS
+    OF STOCKHOLDERS  EQUITY AND OTHER COMPREHENSIVE
+    INCOME   
+
+See accompanying notes to the financial statements.
+
+F-6
+
+Table of Contents   
+
+DAWSON
+    GEOPHYSICAL COMPANY 
+
+STATEMENTS
+    OF CASH FLOWS   
+
+See accompanying notes to the financial statements.
+
+F-7
+
+Table of Contents   
+
+DAWSON
+    GEOPHYSICAL COMPANY 
+
+NOTES TO
+    FINANCIAL STATEMENTS   
+
+1.    
+
+Summary
+    of Significant Accounting Policies  
+
+Organization
+    and Nature of Operations   
+
+Founded in 1952, the Company acquires and processes
+     2-D, 
+     3-D  seismic
+    and multi-component seismic data for its clients, ranging from
+    major oil and gas companies to independent oil and gas
+    operations as well as providers of multi-client data libraries.
+
+Cash
+    Equivalents   
+
+For purposes of the financial statements, the Company considers
+    demand deposits, certificates of deposit and all highly liquid
+    debt instruments purchased with an initial maturity of three
+    months or less to be cash equivalents.
+
+Short-Term
+    Investments   
+
+The Company accounts for its short-term investments in
+    accordance with Statement of Financial Accounting Standards
+    No. 115,  Accounting for Certain Investments in Debt
+    and Equity Securities  (SFAS No. 115). In
+    accordance with SFAS No. 115, the Company has
+    classified its investment portfolio consisting of
+    U.S. Treasury Securities as
+      available-for-sale  
+    and records the net unrealized holding gains and losses as
+    accumulated comprehensive income in stockholders  equity.
+    The cost of short-term investments sold is based on the specific
+    identification method.
+
+Fair
+    Value of Financial Instruments   
+
+The carrying amounts for cash and cash equivalents, accounts
+    receivable, other current assets, accounts payable and other
+    current liabilities approximate their fair values based on their
+    short-term nature. The fair value of investments are based on
+    quoted market prices.
+
+Concentrations
+    of Credit Risk   
+
+Financial instruments which potentially expose the Company to
+    concentrations of credit risk, as defined by Statement of
+    Financial Accounting Standards No. 105,  Disclosure of
+    Information About Financial Instruments with Off-Balance Sheet
+    Risk and Financial Instruments with Concentrations of Credit
+    Risk,  consist primarily of trade accounts receivable and
+    short-term investments. The Company s sales are to clients
+    whose activities relate to oil and gas exploration and
+    production. However, accounts receivable are well diversified
+    among many clients, and a significant portion of the receivables
+    are from major oil companies, which management believes
+    minimizes potential credit risk. The Company generally extends
+    unsecured credit to these clients; therefore, collection of
+    receivables may be affected by the economy surrounding the oil
+    and gas industry. The Company closely monitors extensions of
+    credit and may negotiate payment terms that mitigate risk. The
+    Company invests primarily in short-term U.S. Treasury
+    Securities which it believes are a low risk investment.
+
+Property,
+    Plant and Equipment   
+
+Property, plant and equipment are capitalized at historical cost
+    and depreciated over the useful life of the asset.
+    Management s estimation of this useful life is based on
+    circumstances that exist in the seismic industry and information
+    available at the time of the purchase of the asset. As
+    circumstances change and new information becomes available these
+    estimates could change.
+
+Depreciation is computed using the straight-line method. When
+    assets are retired or otherwise disposed of, the cost and
+    related accumulated depreciation are removed from the balance
+    sheet, and any resulting gain or loss is reflected in the
+    results of operations for the period.
+
+F-8
+
+Table of Contents   
+
+DAWSON
+    GEOPHYSICAL COMPANY 
+
+NOTES TO
+    FINANCIAL STATEMENTS   (Continued)  
+
+Impairment
+    of Long-Lived Assets   
+
+Long-lived assets are reviewed for impairment when triggering
+    events occur suggesting a deterioration in the assets
+    recoverability or fair value. Recognition of an impairment is
+    required if future expected net cash flows are insufficient to
+    recover the carrying value of the amounts. Management s
+    forecast of future cash flow used to perform impairment analysis
+    includes estimates of future revenues and future gross margins.
+    If the Company is unable to achieve these cash flows, the
+    Company would potentially have an impairment charge in the
+    period. No impairment charges were recognized in the Statement
+    of Operations for the years ended September 30, 2006, 2005
+    and 2004.
+
+Revenue
+    Recognition   
+
+Contracts for service are provided for under cancelable
+    contracts. These contracts are either  turnkey  or
+     term  agreements. The Company recognizes revenues
+    when services are performed under both types of agreements.
+    Services are defined as the commencement of data acquisition or
+    processing operations. Under turnkey agreements, revenue is
+    recognized on a per unit of data acquired rate, as services are
+    performed. Under term agreements, revenue is recognized on a per
+    unit of time worked rate, as services are performed. In the case
+    of a cancelled contract, revenue is recognized and the customer
+    is billed for services performed up to the date of cancellation.
+
+The Company also receives reimbursements for certain
+     out-of-pocket 
+    expenses under the terms of its master contracts. Amounts billed
+    to clients are recorded in revenue at the gross amount including
+     out-of-pocket 
+    expenses which are reimbursed by the client.
+
+In some instances, customers are billed in advance of services
+    performed, and the Company recognizes the liability as deferred
+    revenue.
+
+Allowance
+    for Doubtful Accounts   
+
+Management prepares its allowance for doubtful accounts
+    receivable based on its past experience of historical
+    write-offs, its current customer base and review of past due
+    accounts. The inherent volatility of the energy industry s
+    business cycle can cause swift and unpredictable changes in the
+    financial stability of the Company s clients.
+
+Income
+    Taxes   
+
+The Company accounts for state and federal income taxes in
+    accordance with Statement of Financial Accounting Standards
+    No. 109,  Accounting for Income Taxes 
+    (SFAS No. 109). Under the asset and liability method
+    of SFAS No. 109, deferred income taxes are recognized
+    for the future tax consequences attributable to differences
+    between the financial statement carrying amounts of existing
+    assets and liabilities and their respective tax bases. Deferred
+    tax assets and liabilities are measured using enacted tax rates
+    expected to apply to taxable income in the years in which those
+    temporary differences are expected to be recovered or settled.
+    Under SFAS No. 109, the effect on deferred taxes of a
+    change in tax rates is recognized in income in the period that
+    includes the enactment date.
+
+Use of
+    Estimates in the Preparation of Financial
+    Statements   
+
+Preparation of the accompanying financial statements in
+    conformity with generally accepted accounting principles
+    requires management to make estimates and assumptions that
+    affect the reported amounts of assets and liabilities and
+    disclosure of contingent assets and liabilities at the date of
+    the financial statements and the reported amounts of revenues
+    and expenses during the reporting period. Actual results could
+    differ from those estimates.
+
+F-9
+
+Table of Contents   
+
+DAWSON
+    GEOPHYSICAL COMPANY 
+
+NOTES TO
+    FINANCIAL STATEMENTS   (Continued)  
+
+Stock-Based
+    Compensation   
+
+On December 16, 2004, the Financial Accounting Standards
+    Board issued Statement of Financial Accounting Standards
+    No. 123 (revised 2004),  Share-Based Payment 
+    ( SFAS 123(R) ). SFAS 123(R) requires
+    companies to measure all employee stock-based compensation
+    awards using a fair value method and recognize compensation cost
+    in its financial statements. The Company adopted on a
+    prospective basis SFAS 123(R) beginning October 1,
+    2005 for stock-based compensation awards granted after that date
+    and for unvested awards outstanding at that date using the
+    modified prospective application method. The Company recognizes
+    the fair value of stock-based compensation awards as operating
+    or general and administrative expense as appropriate in the
+    Statements of Operations on a straight-line basis over the
+    vesting period.
+
+Prior to October 1, 2005, the Company accounted for
+    stock-based compensation utilizing the intrinsic value method
+    prescribed by Accounting Principles Board Opinion No. 25
+     Accounting for Stock Issued to Employees 
+    ( APB 25 ) and related interpretations. Under
+    APB 25, no compensation expense was recognized for
+    stock-based compensation. The following pro forma information,
+    as required by Statement of Financial Accounting Standards
+    No. 123  Accounting for Stock-Based Compensation 
+    ( SFAS 123 ), as amended by Statement of
+    Financial Accounting Standards No. 148
+    ( SFAS 148 ), presents net income and earnings
+    per share information as if the stock options issued since
+    February 2, 1999 were accounted for using the fair value
+    method. The fair value of stock options issued for each year was
+    estimated at the date of grant using the Black-Scholes option
+    pricing model.
+
+The SFAS 123 pro forma information for the fiscal years
+    ended September 30, 2005 and 2004 is as follows:
+
+The adoption of SFAS 123(R) in the first quarter of fiscal
+    year 2006 resulted in prospective changes in the accounting for
+    stock-based compensation awards including recording stock-based
+    compensation expense related to stock options that became vested
+    during each quarter on a prospective basis. Because the
+    Company s plans are incentive stock option plans, no tax
+    deduction is recorded when options are granted. If an exercise
+    and sale of vested options results in a disqualifying
+    disposition, a tax deduction for the Company occurs. The excess
+    tax benefit from the disqualifying disposition of options is
+    reflected both in cash flows from operating activities and cash
+    flows from financing activities in the Statements of Cash Flows.
+
+The adoption of SFAS 123(R) resulted in the recognition of
+    compensation expense of $289,000, or $0.04 per share in
+    operating costs in the Statement of Operations for the twelve
+    months ended September 30, 2006. In accordance with the
+    modified prospective application method of SFAS 123(R),
+    prior period amounts have not been restated to reflect the
+    recognition of stock-based compensation costs. The total cost
+    related to non-vested awards not
+
+F-10
+
+Table of Contents   
+
+DAWSON
+    GEOPHYSICAL COMPANY 
+
+NOTES TO
+    FINANCIAL STATEMENTS   (Continued)  
+
+yet recognized at September 30, 2006 totals approximately
+    $266,000 which is expected to be recognized over a weighted
+    average of 1.6 years.
+
+In periods ending prior to October 1, 2005, the income tax
+    benefits from the exercise of stock options were classified as
+    net cash provided by operating activities pursuant to Emerging
+    Issues Task Force Issue
+     No. 00-15. 
+    However, for periods ending after December 31, 2005,
+    pursuant to SFAS 123(R), the excess tax benefits are
+    required to be reported in net cash provided by financing
+    activities. For the twelve months ended September 30, 2006,
+    excess tax benefits from disqualifying dispositions of options
+    of $180,000 were reflected in both cash flows from operating
+    activities and cash flows from financing activities in the
+    Statements of Cash Flows.
+
+The Company adopted the 2000 Incentive Stock Plan during fiscal
+    1999, which provides options to purchase 500,000 shares of
+    authorized but unissued common stock of the Company. The option
+    price is the market value of the Company s common stock at
+    date of grant. Options are exercisable 25% annually from the
+    date of the grant and the options expire five years from the
+    date of grant. The 2000 Plan provided that 50,000 of the
+    500,000 shares of authorized but unissued common stock may
+    be awarded to officers, directors and employees of the Company
+    for the purpose of additional compensation.
+
+In fiscal 2004, the Company adopted the 2004 Incentive Stock
+    Plan which provides 375,000 shares of authorized but
+    unissued common stock of the Company. The 2004 Incentive Stock
+    Plan operates like the 2000 Incentive Stock Plan except that of
+    the 375,000 shares, up to 125,000 shares may be
+    awarded to officers, directors, and employees of the Company for
+    the purpose of additional compensation and up to
+    125,000 shares may be awarded with restrictions.
+
+Options for 99,250, 80,500 and 55,500 shares were
+    exercisable with weighted average exercise prices of $7.50,
+    $7.02 and $7.42 as of September 30, 2006, 2005 and 2004,
+    respectively.
+
+Outstanding options at September 30, 2006 expire between
+    April 2007 and November 2009 and have exercise prices ranging
+    from $5.21 to $17.91.
+
+There were no stock options granted during fiscal 2006. For
+    stock options granted in fiscal 2005, the model assumed expected
+    volatility of 44% and risk-free interest rate of 5.25%. The fair
+    value of each stock option is estimated on the date of grant
+    using the Black-Scholes valuation model. The expected volatility
+    is based on historical volatility over the expected vesting term
+    of 48 months. As the Company has not declared dividends
+    since it became a public entity, no dividend yield is used in
+    the calculation. Actual value realized, if any, is dependent on
+    the future performance of the Company s common stock and
+    overall stock market conditions. There is no assurance
+
+F-11
+
+Table of Contents   
+
+DAWSON
+    GEOPHYSICAL COMPANY 
+
+NOTES TO
+    FINANCIAL STATEMENTS   (Continued)  
+
+the value realized by an optionee will be at or near the value
+    estimated by the Black-Scholes model. Option activity is
+    summarized as follows:
+
+The weighted average grant date fair value of options granted
+    during fiscal 2005 was $10.18. There were no options granted
+    during fiscal 2006. The total intrinsic value of options
+    exercised during fiscal years ended September 30, 2006 and
+    2005 were $1,029,484 and $838,383, respectively.
+
+2.    
+
+Short-Term
+    Investments  
+
+Investment in securities consists of U.S. Treasury
+    Securities. At September 30, 2006, the Company has an
+    unrealized loss on short-term investments of $33,000, which is
+    $52,000 net of the tax effect of $19,000 and is in
+     Other comprehensive income, net of tax .
+
+The short-term investment held at September 30, 2006 has a
+    contractual maturity of May, 2007.
+
+3.    
+
+Property,
+    Plant and Equipment  
+
+Property, plant and equipment, together with annual depreciation
+    rates, consist of the following:
+
+(a)  
+
+Other represents accumulated costs associated with equipment
+    fabrication and modification not yet completed. 
+
+F-12
+
+Table of Contents   
+
+DAWSON
+    GEOPHYSICAL COMPANY 
+
+NOTES TO
+    FINANCIAL STATEMENTS   (Continued)  
+
+The Company has a revolving line of credit loan agreement with
+    Western National Bank. This agreement permits the Company to
+    borrow, repay and reborrow, from time to time until
+    January 18, 2007, up to $10.0 million. The
+    Company s obligations under this agreement are secured by a
+    security interest in the Company s accounts receivable and
+    related collateral. Interest on the outstanding amount under the
+    line of credit loan agreement is payable monthly at a rate equal
+    to the greater of (i) the Prime Rate or (ii) 5.0%. The
+    loan agreement contains customary covenants for credit
+    facilities of this type, including limitations on distributions
+    and dividends, disposition of assets and mergers and
+    acquisitions. There are certain financial covenants under the
+    loan agreement, including maintaining a minimum tangible net
+    worth (as defined in the loan agreement) of $40.0 million
+    and maintaining specified ratios with respect to cash flow
+    coverage, current assets and liabilities, and debt to tangible
+    net worth. The Company is in compliance with all covenants and
+    no funds were borrowed under this credit loan agreement during
+    fiscal 2006.
+
+5.    
+
+Employee
+    Benefit Plans  
+
+The Company provides a 401(k) plan as part of its employee
+    benefits package in order to retain quality personnel. During
+    2006, 2005 and 2004, the Company elected to match 100% of
+    employee contributions up to a maximum of 5% of the
+    participant s gross salary. For fiscal 2007, the Company
+    has elected to match 100% of the employee contributions up to a
+    maximum of 6% of the participant s gross salary and to
+    offer a Roth 401(k) plan. The Company s matching
+    contributions for fiscal 2006, 2005 and 2004 were approximately
+    $724,000, $555,000 and $438,000, respectively.
+
+6.    
+
+Income
+    Taxes  
+
+The Company recorded income tax expense in the current year of
+    $9,358,000 as compared to $4,506,000 in 2005. The increase in
+    the provision for 2006 from 2005 is primarily a result of a
+    substantial increase in income before income taxes resulting in
+    increased federal and state income taxes. The Company fully
+    utilized its federal net operating loss ( NOL )
+    carryforwards during 2006 and started remitting regular tax
+    reduced by alternative minimum tax ( AMT ) credits.
+
+Income tax expense (benefit) from continuing operations.
+
+The income tax provision (benefit) differs from the amount
+    computed by applying the statutory federal income tax rate to
+    income from continuing operations before income taxes as follows:
+
+F-13
+
+Table of Contents   
+
+DAWSON
+    GEOPHYSICAL COMPANY 
+
+NOTES TO
+    FINANCIAL STATEMENTS   (Continued)  
+
+The principal components of the Company s net deferred tax
+    liability are as follows:
+
+As of September 30, 2006, the Company has utilized all its
+    net operating loss carryforward for U.S. federal income tax
+    purposes. As of September 30, 2006, the Company had
+    individual state net operating loss carryforwards of
+    approximately $400,000. Most of these carryforwards are
+    primarily available in states where the Company believes the
+    assets cannot be deemed to be realizable with any degree of
+    confidence. Based on management s belief a $29,000
+    valuation allowance was established to offset these deferred tax
+    assets. As of September 30, 2006 an additional valuation
+    allowance of $61,000 was established against the Company s
+    deferred tax asset for capital loss carryforwards that the
+    Company doesn t deem realizable in the foreseeable future.
+    The Company has alternative minimum tax credit carryforwards
+    totaling approximately $1,119,000 to offset regular income tax,
+    which have no scheduled expiration date.
+
+7.    
+
+Net
+    Income per Common Share  
+
+The Company accounts for earnings per share in accordance with
+    Statement of Financial Accounting Standards No. 128,
+     Earnings per Share  (SFAS 128). Unlike primary
+    earnings per share, basic earnings per share excludes any
+    dilutive effects of options, warrants and convertible securities.
+
+F-14
+
+Table of Contents   
+
+DAWSON
+    GEOPHYSICAL COMPANY 
+
+NOTES TO
+    FINANCIAL STATEMENTS   (Continued)  
+
+The following table sets forth the computation of basic and
+    diluted net income per common share:
+
+8.    
+
+Major
+    Customers  
+
+The Company operates in only one business segment, contract
+    seismic data acquisition and processing services. The major
+    customers in 2006, 2005, and 2004 varied and sales to these
+    customers, as a percentage of operating revenues, for periods in
+    which sales to these customers exceeded 10%, were as follows:
+
+Although 24% of our fiscal 2006 revenues are derived from one
+    client, our evaluation indicates that our relationship is well
+    founded for continued contractual commitments for the
+    foreseeable future in multiple producing basins across the lower
+    48 states. The Company s client  B  in the
+    table above acts as an agent for other entities that are the
+    actual purchasers of the Company s services. Sales to each
+    of the actual purchasers represent less than 10% of the
+    Company s total revenues. Because of our relatively large
+    client base, our largest clients have varied from year to year.
+    Current demand for our services indicates that the loss of any
+    single client would not have a long term negative effect on our
+    business.
+
+9.    
+
+Commitments
+    and Contingencies  
+
+The Company is party to various legal actions arising in the
+    ordinary course of its business, none of which management
+    believes will result in a material adverse effect on the
+    Company s financial position or results of operation, as
+    the Company believes it is adequately indemnified and insured.
+
+The Company has non-cancelable operating leases for office space
+    in Midland, Houston, Denver, Oklahoma City and Lyon Township,
+    Michigan.
+
+F-15
+
+Table of Contents   
+
+DAWSON
+    GEOPHYSICAL COMPANY 
+
+NOTES TO
+    FINANCIAL STATEMENTS   (Continued)  
+
+The following table summarizes payments due in specific periods
+    related to our contractual obligations as of November 15,
+    2006:
+
+On July 13, 1999, the Board of Directors of the Company
+    authorized and declared a dividend to the holders of record on
+    July 23, 1999 of one Right (a  Right ) for each
+    outstanding share of the Company s common stock. When
+    exercisable, each Right will entitle the holder to purchase one
+    one-hundredth of a share of a Series A Junior Participating
+    Preferred Stock, par value $1.00 per share, of the Company (the
+     Preferred Shares ) at an exercise price of
+    $50.00 per Right. The rights are not currently exercisable
+    and will become exercisable only if a person or group acquires
+    beneficial ownership of 20% or more of the Company s
+    outstanding common stock or announces a tender offer or exchange
+    offer, the consummating of which would result in attaining the
+    triggering percentage. The Rights are subject to redemption by
+    the Company for $.01 per Right at any time prior to the
+    tenth day after the first public announcement of a triggering
+    acquisition.
+
+If the Company is acquired in a merger or other business
+    combination transaction after a person has acquired beneficial
+    ownership of 20% or more of the Company s common stock,
+    each Right will entitle its holder to purchase, at the
+    Right s then current exercise price, a number of the
+    acquired Company s shares of common stock having a market
+    value of two times such price. In addition, if a person or group
+    acquires beneficial ownership of 20% or more of the
+    Company s common stock, each Right will entitle its holder
+    (other than the acquiring person or group) to purchase, at the
+    Right s then current exercise price, a number of the
+    Company s shares of common stock having a market value of
+    two times the exercise price.
+
+Subsequent to the acquisition by a person or group of beneficial
+    ownership of 20% or more of the Company s common stock and
+    prior to the acquisition of beneficial ownership of 50% or more
+    of the Company s common stock, the Board of Directors of
+    the Company may exchange the Rights (other than Rights owned by
+    such acquiring person or group, which will have become null and
+    void and nontransferable), in whole or in part, at an exchange
+    ratio of one share of the Company s common stock (or one
+    one-hundredth of a Preferred Share) per Right.
+
+The Rights dividend distribution was made on July 23, 1999,
+    payable to shareholders of record at the close of business on
+    that date. The Rights will expire on July 23, 2009.
+
+11.    
+
+Recently
+    Issued Accounting Pronouncements  
+
+In May 2005, the FASB issued SFAS No. 154,
+     Accounting Changes and Error Corrections,  which
+    supersedes APB Opinion No. 20,  Accounting
+    Changes,  and SFAS No. 3,  Reporting
+    Accounting Changes in Interim Financial Statements. 
+    SFAS No. 154 changes the requirements for the
+    accounting for and reporting of changes in accounting
+    principles. The statement requires the retroactive application
+    to prior periods  financial statements of changes in
+    accounting principles, unless it is impracticable to determine
+    either the period-specific effects or the cumulative effect of
+    the change. SFAS No. 154 does not change the guidance
+    for reporting the correction of an error in previously issued
+    financial statements or the change in an accounting estimate.
+    SFAS No. 154 is effective for accounting changes and
+    corrections of errors made in fiscal years beginning after
+    December 15, 2005. The Company does not expect the adoption
+    of SFAS No. 154 to have a material impact on its
+    financial statements.
+
+In July 2006, the FASB issued FASB Interpretation No. 48
+    ( FIN 48 ),  Accounting for Uncertainty in
+    Income Taxes   an interpretation of FASB Statement
+    No. 109 . FIN 48 clarifies the accounting for
+    uncertainty in income taxes recognized in an enterprise s
+    financial statements in accordance with FASB Statement
+    No. 109, Accounting
+
+F-16
+
+Table of Contents   
+
+DAWSON
+    GEOPHYSICAL COMPANY 
+
+NOTES TO
+    FINANCIAL STATEMENTS   (Continued)  
+
+for Income Taxes. FIN 48 prescribes a recognition threshold
+    and measurement attribute for the financial statement
+    recognition and measurement of a tax position taken or expected
+    to be taken in a tax return. FIN 48 also provides guidance
+    on derecognition, classification, interest and penalties,
+    accounting in interim periods, disclosures, and transition.
+    FIN 48 is effective for fiscal years beginning after
+    December 15, 2006. The Company is evaluating the impact of
+    FIN 48 on its financial position and results of operations
+    and financial condition.
+
+In September 2006, the FASB issued SFAS No. 157,
+     Fair Value Measurements  ( SFAS 157 ).
+    SFAS 157 clarifies that fair value is the amount that would
+    be exchanged to sell an asset or transfer a liability in an
+    orderly transaction between market participants. Further, the
+    standard establishes a framework for measuring fair value in
+    generally accepted accounting principles and expands certain
+    disclosures about fair value measurements. SFAS 157 is
+    effective for fiscal years beginning after November 15,
+    2007. The Company does not expect the adoption of SFAS 157
+    to have a material impact on its financial statements.
+
+In September 2006, the Securities and Exchange Commission issued
+    Staff Accounting Bulletin No. 108,  Considering
+    the Effects of Prior Year Misstatements when Quantifying
+    Misstatements in Current Year Financial Statements 
+    ( SAB 108 ). SAB 108 provides guidance on
+    how prior year misstatements should be taken into consideration
+    when quantifying misstatements in current year financial
+    statements for purposes of determining whether the current
+    year s financial statements are materially misstated.
+    SAB 108 is effective for fiscal years beginning after
+    November 15, 2006. The Company is evaluating SAB 108
+    and does not expect the adoption of SAB 108 to have a
+    material impact on its financial statements.
+
+12.    
+
+Quarterly
+    Financial Data (Unaudited)  
+
+F-17
+
+Table of Contents   
+
+Schedule II  
+
+Dawson
+    Geophysical Company 
+
+Valuation
+    and Qualifying Accounts  
+
+*  
+
+Deductions related to allowance for doubtful accounts represent
+    amounts that have been deemed uncollectible and written off by
+    the Company. 
+
+F-18
+
+Table of Contents   
+
+INDEX TO
+    EXHIBITS  
+
+*  
+
+Filed herewith. 
+
+Identifies Exhibit that consists of or includes a management
+    contract or compensatory plan or arrangement. 
+
+<EX-23.1>
+ 2
+ d41705exv23w1.htm
+ CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+exv23w1 
+
+Exhibit
+23.1
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+The Board of Directors 
+Dawson Geophysical Company:
+
+We consent to the incorporation by reference in the registration statement (Reg. No. 333-113576) on
+Form S-8 of Dawson Geophysical Company and the registration statement (Reg. No. 333-127268) on Form
+S-3 of Dawson Geophysical Company of our reports dated November 30, 2006, with respect to the
+balance sheets of Dawson Geophysical Company as of September 30, 2006 and 2005, and the related
+statements of operations, stockholders  equity and other comprehensive income, and cash flows for
+each of the years in the three-year period ended September 30, 2006, and the related financial
+statement schedule, management s assessment of the effectiveness of internal control over financial
+reporting as of September 30, 2006, and the effectiveness of internal control over financial
+reporting as of September 30, 2006, which reports appear in the Annual Report on Form 10-K of
+Dawson Geophysical Company for the fiscal year ended September 30, 2006. Our report refers to the
+adoption of the Financial Accounting Standards Board s Statement of Financial Accounting Standards
+No. 123 (revised 2004),  Share-Based Payment  in fiscal year 2006.
+
+KPMG LLP
+
+Dallas, Texas 
+November 30, 2006
+
+</EX-23.1>
+
+<EX-31.1>
+ 3
+ d41705exv31w1.htm
+ CERTIFICATION OF CEO PURSUANT TO RULE 13A-14(A)
+
+exv31w1 
+
+Exhibit 31.1 
+
+CERTIFICATION 
+
+I, Stephen C. Jumper, certify that:
+
+1. 
+       
+     I have reviewed this annual report on Form 10-K of Dawson Geophysical Company; 
+
+2. 
+       
+     Based on my knowledge, this report does not contain any untrue statement of a material
+fact or omit to state a material fact necessary to make the statements made, in light of
+the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3. 
+       
+     Based on my knowledge, the financial statements, and other financial information
+included in this report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods
+presented in this report; 
+
+4. 
+       
+     The registrant s other certifying officer and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+       
+     Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated subsidiaries, is
+made known to us by others within those entities, particularly during the period in
+which this report is being prepared; 
+
+(b) 
+       
+     Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision, to
+provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+(c) 
+       
+     Evaluated the effectiveness of the registrant s disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this report
+based on such evaluation; and 
+
+(d) 
+       
+     Disclosed in this report any change in the registrant s internal control over
+financial reporting that occurred during the registrant s most recent fiscal quarter
+(the registrant s fourth fiscal quarter in the case of an annual report) that has
+materially affected, or is reasonably likely to materially affect, the registrant s
+internal control over financial reporting; and 
+
+5. 
+       
+     The registrant s other certifying officer and I have disclosed, based on our most
+recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of the registrant s board of directors (or persons
+performing the equivalent functions): 
+
+(a) 
+       
+     All significant deficiencies and material weaknesses in the design or operation
+of internal control over financial reporting which are reasonably likely to adversely
+affect the registrant s ability to record, process, summarize and report financial
+information; and 
+
+(b) 
+       
+     Any fraud, whether or not material, that involves management or other employees
+who have a significant role in the registrant s internal control over financial
+reporting. 
+
+Dated:
+December 4, 2006
+
+/s/ Stephen C. Jumper
+
+Stephen C. Jumper  
+
+President and Chief Executive Officer
+ (principal executive officer)  
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ d41705exv31w2.htm
+ CERTIFICATION OF CFO PURSUANT TO RULE 13A-14(A)
+
+exv31w2 
+
+Exhibit 31.2 
+
+CERTIFICATION 
+
+I, Christina W. Hagan, certify that:
+
+1. 
+       
+     I have reviewed this annual report on Form 10-K of Dawson Geophysical Company; 
+
+2. 
+       
+     Based on my knowledge, this report does not contain any untrue statement of a material
+fact or omit to state a material fact necessary to make the statements made, in light of
+the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3. 
+       
+     Based on my knowledge, the financial statements, and other financial information
+included in this report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods
+presented in this report; 
+
+4. 
+       
+     The registrant s other certifying officer and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+       
+     Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated subsidiaries, is
+made known to us by others within those entities, particularly during the period in
+which this report is being prepared; 
+
+(b) 
+       
+     Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision, to
+provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+(c) 
+       
+     Evaluated the effectiveness of the registrant s disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this report
+based on such evaluation; and 
+
+(d) 
+       
+     Disclosed in this report any change in the registrant s internal control over
+financial reporting that occurred during the registrant s most recent fiscal quarter
+(the registrant s fourth fiscal quarter in the case of an annual report) that has
+materially affected, or is reasonably likely to materially affect, the registrant s
+internal control over financial reporting; and 
+
+5. 
+       
+     The registrant s other certifying officer and I have disclosed, based on our most
+recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of the registrant s board of directors (or persons
+performing the equivalent functions): 
+
+(a) 
+       
+     All significant deficiencies and material weaknesses in the design or operation
+of internal control over financial reporting which are reasonably likely to adversely
+affect the registrant s ability to record, process, summarize and report financial
+information; and 
+
+(b) 
+       
+     Any fraud, whether or not material, that involves management or other employees
+who have a significant role in the registrant s internal control over financial
+reporting. 
+
+Dated:
+December 4, 2006
+
+/s/ Christina W. Hagan
+
+Christina W. Hagan  
+
+Executive Vice President, Secretary
+and Chief Financial Officer
+ (principal financial and accounting officer)  
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ d41705exv32w1.htm
+ CERTIFICATION OF CEO PURSUANT TO RULE 13A-14(B)
+
+exv32w1 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the annual report of Dawson Geophysical Company (the  Company ) on
+Form 10-K for the fiscal year ended September 30, 2006, as filed with the Securities and Exchange
+Commission (the  Report ), I, Stephen C. Jumper, President and Chief Executive Officer of the
+Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that to my knowledge:
+
+(1) 
+       
+     The Report fully complies with the requirements of Section 13(a) or 15(d) of
+the Securities Exchange Act of 1934 (15 U.S.C. 78m or 78o(d)); and 
+
+(2) 
+       
+     The information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company. 
+
+Dated:
+December 4, 2006
+
+/s/ Stephen C. Jumper
+
+Stephen C. Jumper  
+
+President and Chief Executive Officer  
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ d41705exv32w2.htm
+ CERTIFICATION OF CFO PURSUANT TO RULE 13A-14(B)
+
+exv32w2 
+
+Exhibit 32.2 
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the annual report of Dawson Geophysical Company (the  Company ) on
+Form 10-K for the fiscal year ended September 30, 2006, as filed with the Securities and Exchange
+Commission (the  Report ), I, Christina W. Hagan, Executive Vice President, Secretary and Chief
+Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant
+to Section 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge:
+
+(1) 
+       
+     The Report fully complies with the requirements of Section 13(a) or 15(d) of
+the Securities Exchange Act of 1934 (15 U.S.C. 78m or 78o(d)); and 
+
+(2) 
+       
+     The information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company. 
+
+Dated:
+December 4, 2006
+
+/s/ Christina W. Hagan
+
+Christina W. Hagan  
+
+Executive Vice President, Secretary
+and Chief Financial Officer  
+
+</EX-32.2>
+

@@ -1,0 +1,3619 @@
+<Header>
+<FileStats>
+    <FileName>20061220_10-K_edgar_data_27673_0001104659-06-082834_1.txt</FileName>
+    <GrossFileSize>2023916</GrossFileSize>
+    <NetFileSize>160796</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1280823</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>53</N_Tables>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-06-082834.hdr.sgml : 20061220
+<ACCEPTANCE-DATETIME>20061220151900
+ACCESSION NUMBER:		0001104659-06-082834
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20061031
+FILED AS OF DATE:		20061220
+DATE AS OF CHANGE:		20061220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DEERE JOHN CAPITAL CORP
+		CENTRAL INDEX KEY:			0000027673
+		STANDARD INDUSTRIAL CLASSIFICATION:	SHORT-TERM BUSINESS CREDIT INSTITUTIONS [6153]
+		IRS NUMBER:				362386361
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06458
+		FILM NUMBER:		061289734
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 EAST FIRST STREET
+		STREET 2:		SUITE 600
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89501
+		BUSINESS PHONE:		(702) 786-5527
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE JOHN DEERE PLACE
+		CITY:			MOLINE
+		STATE:			IL
+		ZIP:			61265-8098
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DEERE JOHN CREDIT CO
+		DATE OF NAME CHANGE:	19890130
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KyH9SeS/cQbd06OetK3W2IjYuIntCGI8vIab3Huufm0xOjOBb03LPDgCWcIZJcJ+
+ btI44pB1SePSZGyr6s+KCg==
+
+ 0001104659-06-082834.txt : 20061220
+
+10-K
+ 1
+ a06-25737_110k.htm
+ ANNUAL REPORT PURSUANT TO SECTION 13 AND 15(D)
+
+UNITED STATES   
+
+   SECURITIES AND EXCHANGE
+COMMISSION   
+
+   WASHINGTON,
+D.C. 20549   
+
+FORM 10-K   
+
+ANNUAL REPORT PURSUANT TO SECTION
+13 OR 15(d)   
+
+   OF THE SECURITIES EXCHANGE ACT OF
+1934   
+
+   FOR THE FISCAL YEAR ENDED OCTOBER 31, 2006   
+
+   Commission
+file number 1-6458   
+
+   JOHN DEERE CAPITAL CORPORATION   
+
+  (Exact name of
+registrant as specified in its charter)  
+
+SECURITIES
+REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:   
+
+Title of each class 
+
+Name of each exchange on which registered   
+
+6% Debentures Due 2009  
+
+New
+  York Stock Exchange  
+
+SECURITIES
+REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT: NONE   
+
+  Indicate by check
+mark if the registrant is a well-known seasoned issuer, as defined in Rule 405
+of the Securities Act.  
+
+  Yes   o      No  x    
+
+  Indicate by check
+mark if the registrant is not required to file reports pursuant to Section 13
+or Section 15(d) of the Act.  
+
+  Yes   o      No  x    
+
+  Indicate by check
+mark whether the registrant (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding
+12 months (or for such shorter period that the registrant was required to file
+such reports), and (2) has been subject to such filing requirements for the
+past 90 days.  
+
+  Yes   x      No  o  
+
+  Indicate by check
+mark whether the registrant is a large accelerated filer, an accelerated filer,
+or a non-accelerated filer. See definition of  accelerated filer and large
+accelerated filer  in Rule 12b-2 of the Exchange Act.  
+
+  Large accelerated
+filer   o                      Accelerated filer   o             Non-accelerated filer   x  
+
+  Indicate by check
+mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Act).  
+
+  Yes   o      No  x  
+
+  At November 30,
+2006, 2,500 shares of common stock, without par value, of the registrant were
+outstanding, all of which were owned by John Deere Credit Company.  
+
+  The registrant
+meets the conditions set forth in General Instruction I(1)(a) and (b) of Form
+10-K and is therefore filing this Form with certain reduced disclosures as
+permitted by Instruction I(2).  
+
+PART I    
+
+    Item 1  .   Business .  
+
+   The Company   
+
+  John Deere Capital Corporation
+(Capital Corporation) and its subsidiaries are collectively called the
+Company.  John Deere Credit Company, a
+wholly-owned finance holding subsidiary of Deere   Company, owns all of the
+outstanding common stock of the Capital Corporation. See  Relationships of the
+Company with John Deere  for additional information regarding agreements
+between the Company and Deere   Company. The Company conducts business in
+Australia, New Zealand, the U.S., and in several countries in Europe and Latin
+America.  
+
+  The Company provides and administers financing for
+retail purchases of new equipment manufactured by Deere   Company s
+agricultural equipment, commercial and consumer equipment, and construction and
+forestry divisions and used equipment taken in trade for this equipment. The
+Company purchases retail installment sales and loan contracts (retail notes)
+from Deere   Company and its wholly-owned subsidiaries (collectively called
+John Deere). John Deere acquires these retail notes through John Deere retail
+dealers. The Company also purchases and finances a limited amount of non-Deere
+retail notes and continues to service a small portfolio of recreational
+products and other retail notes. In addition, the Company leases John Deere
+equipment and a limited amount of non-Deere equipment to retail customers
+(financing and operating leases). The Company also finances and services
+revolving charge accounts, in most cases   acquired from and offered
+through merchants in the agricultural, commercial and consumer, and
+construction and forestry markets (revolving charge accounts). Further, the
+Company finances and services operating loans, in most cases offered through
+and acquired from farm input providers or through direct relationships with
+agricultural producers (operating loans). The Company also provides wholesale
+financing for inventories of John Deere agricultural, commercial and consumer
+and construction and forestry equipment owned by dealers of those products (wholesale
+receivables). The Company also offers credit enhanced international export
+financing to select customers which generally involves John Deere products and
+offers certain crop risk mitigation products in the U.S. In addition, the
+Company invests in wind energy generation by making loans to certain affiliated
+companies that have directly invested in wind energy projects. Retail notes,
+revolving charge accounts, operating loans, financing leases and wholesale
+receivables are collectively called  Receivables.  Receivables and operating
+leases are collectively called  Receivables and Leases.     
+
+  The Capital Corporation was incorporated under the
+laws of Delaware and commenced operations in 1958. At November 30, 2006, the
+Company had 1,476 full-time and part-time employees.  
+
+   Business of John Deere   
+
+  John Deere s operations are
+categorized into four major business segments:  
+
+  The  agricultural equipment  segment manufactures and distributes
+a full line of farm equipment and related service parts   including tractors; combine,
+cotton and sugarcane harvesters; tillage, seeding and soil preparation
+machinery; sprayers; hay and forage equipment; integrated agricultural
+management systems technology; and precision agricultural irrigation equipment.  
+
+  The  commercial and consumer equipment  segment manufactures and
+distributes equipment, products and service parts for commercial and
+residential uses   including tractors for lawn, garden, commercial and utility
+purposes; mowing equipment, including walk-behind mowers; golf course equipment;
+utility vehicles; landscape products and irrigation equipment; and other
+outdoor power products.  
+
+  The  construction and forestry  segment manufactures, distributes
+to dealers and sells at retail a broad range of machines and service parts used
+in construction, earthmoving, material handling and timber harvesting  
+including backhoe loaders; crawler dozers and loaders; four-wheel-drive
+loaders; excavators; motor graders; articulated dump trucks; landscape loaders;
+skid-steer loaders; and log skidders, feller bunchers, log loaders, log
+forwarders, log harvesters and related attachments.  
+
+1     
+
+John Deere s
+worldwide agricultural equipment, commercial and consumer equipment, and
+construction and forestry operations are commonly referred to as the Equipment
+Operations. The products and services produced by the segments above are
+marketed primarily through independent retail dealer networks and major retail
+outlets.  
+
+  The  credit operations  segment
+includes the operations of the Company (described herein), John Deere
+Credit Company, John Deere Credit Inc. (Canada), Banco John Deere, S.A.
+(Brazil), John Deere Credit Oy (Finland) and John Deere Renewables, LLC, and
+primarily finances sales and leases by John Deere dealers of new and used
+agricultural, commercial and consumer, and construction and forestry equipment.
+In addition, it provides wholesale financing to dealers of the foregoing
+equipment, provides operating loans, finances retail revolving charge accounts,
+offers certain crop risk mitigation products and invests in wind energy
+generation.  
+
+  John Deere had net income of $1,694 million, or $7.18
+per share diluted ($7.26 per share basic), in 2006, compared with $1,447
+million, or $5.87 per share diluted ($5.95 per share basic), in 2005. Income
+from continuing operations, which excludes John Deere s discontinued health
+care business, was $1,453 million, or $6.16 per share diluted ($6.23 basic) in
+2006, compared to $1,414 million, or $5.74 per share diluted ($5.81 basic) last
+year.  
+
+  John Deere s net sales and revenues from continuing
+operations increased 5 percent to $22,148 million in 2006, compared with
+$21,191 million in 2005. Net sales of the Equipment Operations increased
+2 percent in 2006 to $19,884 million from $19,401 million last year.
+This included a positive effect for price changes of 3 percent. Equipment net
+sales in the U.S. and Canada increased 3 percent in 2006. Net sales outside the
+U.S. and Canada increased by 2 percent, which included a negative effect
+of 1 percent for currency translation.  
+
+  The agricultural equipment segment had net sales of
+$10,232 million in 2006, compared to $10,567 million in 2005. The commercial
+and consumer equipment segment had net sales of $3,877 million in 2006,
+compared to $3,605 million in 2005. The construction and forestry segment
+had net sales of $5,775 million in 2006, compared to $5,229 million in
+2005. The credit operations segment had revenues of $1,819 million in 2006,
+compared to $1,450 million in 2005.  
+
+   Outlook for John Deere    
+
+  John
+Deere s equipment sales are projected to be roughly flat for the full year and
+to increase approximately 5 percent for the first quarter of 2007,
+compared to the same periods in 2006. Consistent with ongoing asset management
+initiatives, production levels are expected to be down about 4 percent for both
+the year and first quarter of 2007. Construction and forestry production in the
+U.S. and Canada is expected to be down about 16 percent in the first
+quarter. Based on the above, net income is forecast to be around $1.325 billion
+for the year and in a range of $150 million to $175 million for the first
+quarter.  
+
+   Agricultural Equipment.     Worldwide farm economic conditions remain
+quite promising. Demand for crops is benefiting from a global population that
+is gaining in both size and affluence, and from a sharp rise in the use of
+renewable fuels in the U.S. and other parts of the world. Prices for key farm
+commodities have surged recently and worldwide carryover stocks for wheat and
+corn are at 30-year lows in relation to consumption. Nevertheless, fiscal 2007
+sales in the U.S. and Canada are expected to get off to a slow start as a
+result of higher than desired used equipment inventories and customer
+uncertainty regarding the direction of U.S. farm legislation. In addition,
+farmers  concerns over the sustainability of the recent commodity price rally,
+and with respect to input costs, are expected to weigh on 2007 sales. Based on
+these factors, Deere   Company projects that industry retail sales in the
+U.S. and Canada will be approximately flat for the year.  
+
+  In
+Western Europe, industry retail sales are forecast to be flat to down slightly
+for the year due to the effect of a higher value-added tax in Germany and
+further farm consolidation. Following the sharp downturn of the last two years,
+industry retail sales in South America are expected to be down about 10 percent
+for 2007. The forecast reduction is primarily related to uncertainty over
+government sponsored financing programs in Brazil. Sales in Australia are
+expected to be down by nearly 25 percent for the year, due in part to the
+effect of serious drought on the nation s wheat crop.  
+
+2     
+
+Based on
+these factors and market conditions, worldwide sales of John Deere agricultural
+equipment are forecast to increase by about 4 percent for fiscal year 2007. First
+quarter sales are expected to rise about 10 percent, being driven by new
+products in Europe and by a late calendar year 2006 sales pickup in Germany,
+expected in advance of the value-added tax hike on January 1. Farm machinery
+production in the U.S. and Canada is expected to be down approximately 8
+percent for the first quarter in comparison with the same period a year ago.  
+
+   Commercial and Consumer Equipment  .  Sales of John Deere commercial and consumer
+equipment are forecast to be up about 4 percent for the year. Growth in the
+landscapes operations and the successful introduction of new products are
+expected to more than offset the impact of a softer market for residential
+housing. 
+
+   Construction and Forestry.    Markets for construction and forestry
+equipment are expected to see a slowdown in 2007. While nonresidential spending
+is forecast for further improvement, residential housing construction is
+expected to be lower. In this environment, John Deere s worldwide sales of
+construction and forestry equipment are forecast to decrease by about 5 percent
+for fiscal 2007. 
+
+   Credit Operations  .  Fiscal year 2007 net income for the credit operations is forecast to be
+approximately $345 million. The expected improvement is being
+driven by growth in the credit portfolio, largely offset by higher selling and
+administrative expenses in support of the segment s growth initiatives. The
+Company s net income for 2007, which does not include the credit operations in
+Canada, Brazil and Finland or the wind energy operations in the U.S., is
+projected to be approximately $295 million for 2007. 
+
+   Relationships of the Company with John Deere   
+
+  The results of operations of the Company are affected
+by its relationships with John Deere, including among other items, the terms on
+which the Company acquires Receivables and Leases and borrows funds from John
+Deere, the reimbursement for interest waiver and low-rate finance programs from
+John Deere, the compensation paid by John Deere in connection with the Company s
+purchase of trade receivables from John Deere and the payment to John Deere for
+various expenses applicable to the Company s operations. The Company also has
+loans to John Deere for direct investments in wind energy projects. In
+addition, the Company and John Deere have joint access to certain lines of
+credit of the Company.  
+
+  The Company s acquisition volume of Receivables and
+Leases is largely dependent upon the level of retail sales and leases of John
+Deere products. The level of John Deere retail sales and leases is responsive
+to a variety of economic, financial, climatic, legislative and other factors
+that influence demand for its products. All of the Company s businesses are
+affected by changes in interest rates, demand for credit and competition.  
+
+  The Company bears substantially all of the credit risk
+(net of recovery from withholdings from certain John Deere dealers, and Farm
+Plan     and PowerPlan   
+merchants) associated with its holding of Receivables and Leases. A small
+portion of the Receivables and Leases held (less than 5 percent) is guaranteed
+by certain subsidiaries of Deere   Company. The Company also performs
+substantially all servicing and collection functions. Servicing and collection
+functions for a small portion of the Receivables and Leases held (less than 5
+percent) are provided by John Deere. John Deere is reimbursed for staff and
+other administrative services at estimated cost, and for credit lines provided
+to the Company based on utilization of those lines. 
+
+  The terms and the basis on which the Company acquires
+retail notes and certain wholesale receivables from John Deere are governed by
+agreements with John Deere, generally terminable by either John Deere or the
+Company on 30 days notice. As provided in these agreements, the Company agrees
+to the terms and conditions for purchasing the retail notes and wholesale
+receivables from John Deere. Under these agreements, John Deere is not
+obligated to sell notes to the Company, and the Company is obligated to
+purchase notes from John Deere only if the notes comply with the terms and
+conditions set by the Company.  
+
+  The basis on which John Deere acquires retail notes
+and wholesale receivables from the dealers is governed by agreements with the
+John Deere dealers, terminable at will by either the dealers or John Deere. In
+acquiring these notes  
+
+3     
+
+from dealers, the terms and conditions, as set forth in agreements with
+the dealers, conform with the terms and conditions adopted by the Company in
+determining the acceptability of retail and certain wholesale notes to be
+purchased from John Deere. The dealers are not obligated to sell these notes to
+John Deere and John Deere is not obligated to accept these notes from the
+dealers. In practice, retail and wholesale notes are acquired from dealers only
+if the terms of these notes and the creditworthiness of the customers are
+acceptable to the Company. The Company acts on behalf of both itself and John
+Deere in determining the acceptability of the notes and in acquiring acceptable
+notes from dealers.  
+
+  The basis on which the Company enters into leases with
+retail customers through John Deere dealers is governed by agreements between
+dealers and the Company. Leases are accepted based on the terms and conditions,
+the lessees  creditworthiness, the anticipated residual values of the equipment
+and the intended uses of the equipment.  
+
+  Deere   Company has an agreement with the Company
+pursuant to which it has agreed to continue to own at least 51 percent of the
+voting shares of capital stock of the Company and to maintain the Company s
+consolidated tangible net worth at not less than $50 million. This agreement
+also obligates Deere   Company to make income maintenance payments to the
+Company such that its consolidated ratio of earnings to fixed charges is not
+less than 1.05 to 1 for each fiscal quarter. For 2006 and 2005, the Company s
+ratios were 1.60 to 1 and 1.88 to 1, respectively, and never less than 1.53 to
+1 and 1.74 to 1 for any fiscal quarter of 2006 and 2005, respectively.
+Deere   Company s obligations to make payments to the Company
+under the agreement are independent of whether the Company is in default on its
+indebtedness, obligations or other liabilities. Further, Deere   Company s
+obligations under the agreement are not measured by the amount of the Company s
+indebtedness, obligations or other liabilities. Deere   Company s
+obligations to make payments under this agreement are expressly stated not to
+be a guaranty of any specific indebtedness, obligation or liability of the
+Company and are enforceable only by or in the name of the Company. No payments
+were required under this agreement during the periods included in the financial
+statements.  
+
+  The Company purchases certain wholesale receivables
+(trade receivables) from John Deere. These trade receivables arise from John
+Deere s sales of goods to dealers. Under the terms of the sales to dealers,
+interest is charged to dealers on outstanding balances, from the earlier of the
+date when goods are sold to retail customers by the dealer or the expiration of
+certain interest-free periods granted to the dealer at the time of the sale,
+until payment is received by the Company. 
+Dealers cannot cancel purchases after goods are shipped and are
+responsible for payment even if the equipment is not sold to retail customers.
+The interest-free periods are determined based on the type of equipment sold
+and the time of year of the sale. These periods range from one to twelve months
+for most equipment. Interest-free periods may not be extended. Interest charged
+may not be forgiven and interest rates, which exceed the prime rate, are set
+based on market factors. The Company receives compensation from John Deere
+equal to competitive market interest rates for these interest-free periods. The
+Company computes the compensation from John Deere for interest-free periods
+based on the Company s estimated funding costs, administrative and operating
+expenses, credit losses, and required return on equity. The finance income
+earned following the interest-free period is not significantly different from
+the compensation earned from John Deere.  
+
+   Description of
+Receivables and Leases   
+
+  Receivables and Leases arise mainly from retail and
+wholesale sales and leases of John Deere products and used equipment accepted
+in trade for them, and from retail sales of equipment of unrelated
+manufacturers. Receivables and Leases also include revolving charge accounts
+receivable and operating loans. At October 31, 2006 and 2005, approximately
+90 percent of the Receivables and Leases administered by the Company were
+for financing John Deere products.  
+
+  FPC Financial, f.s.b. (Thrift), a
+wholly-owned subsidiary of the Company, holds a federal charter issued by the
+Office of Thrift Supervision. The Thrift is headquartered in Madison, Wisconsin
+and offers revolving charge products such as John Deere Credit Revolving Plan,
+Farm Plan      and PowerPlan      on a nationwide basis. John Deere
+Credit Revolving Plan is used primarily by retail customers of John Deere
+dealers to finance purchases of commercial and consumer equipment. Through its
+Farm Plan      product, the Thrift
+finances revolving charge accounts offered by approximately 5,000 participating
+agri-businesses to their retail customers for the purchase of goods and
+services. Farm Plan      account holders purchase equipment parts and service at
+implement dealerships and farm inputs such as feed,  
+
+4     
+
+seed, fertilizer, bulk fuel and building supplies
+from other agribusinesses. The PowerPlan      revolving charge account is used by construction and
+forestry customers to finance the purchase of parts and service work performed
+at John Deere construction and forestry dealers. See Note 2 to the Consolidated
+Financial Statements under  Revolving Charge Accounts Receivable.   
+
+  The Company also works with several leading farm input
+providers to offer crop input production loans for materials such as seeds and
+fertilizer. Additionally, the Company provides production loans directly to
+farmers for their total operating needs. Generally, these loans are secured by
+crops and equipment.  
+
+  The Company finances wholesale inventories of John
+Deere agricultural equipment, commercial and consumer equipment and
+construction and forestry equipment. A large portion of the wholesale financing
+provided by the Company is with dealers from whom it also purchases
+agricultural, commercial and consumer and construction and forestry retail
+notes. See Note 2 to the Consolidated Financial Statements under  Wholesale
+Receivables.   
+
+  The Company requires that theft and physical damage
+insurance be carried on all goods leased or securing retail notes. The
+customers may, at their expense, have the Company or the seller of the goods
+purchase this insurance or obtain it from other sources. Theft and physical
+damage insurance is also required on goods securing wholesale notes and can be
+purchased through the Company or from other sources. Insurance is not required
+for goods purchased under revolving charge accounts.  
+
+  Receivables and Leases are eligible for acceptance if
+they conform to prescribed finance and lease plan terms. Guidelines relating to
+down payments and contract terms on retail notes and leases are described in
+Note 2 and Note 5 to the Consolidated Financial Statements.  
+
+  In limited circumstances, Receivables and Leases may
+be accepted and acquired even though they do not conform in all respects to the
+established guidelines. The Company determines whether Receivables and Leases
+should be accepted and how they should be serviced. Acceptance of these
+Receivables and Leases is dependent on having one or more of the following risk
+mitigation enhancements: the pledge of additional collateral as security, the
+assignment of specific earnings to the Company or the acceptance of accelerated
+payment schedules. Officers of the Company are responsible for establishing
+policies and reviewing the performance of the Company in accepting and collecting
+Receivables and Leases. The Company normally makes all of its own routine
+collections, settlements and repossessions on Receivables and Leases.  
+
+  John Deere retail notes and
+wholesale receivables are supported by perfected security interests in goods
+financed under laws such as the Uniform Commercial Code (UCC), certain federal
+statutes and state motor vehicle laws. UCC financing statements are also
+prepared and filed on leases; however, filings for operating leases are made
+for informational purposes only.  
+
+   Finance Rates on Retail Notes   
+
+  As of October 31, 2006 and 2005, approximately 85
+percent and 75 percent, respectively, of the retail notes held by the Company
+bore a fixed finance rate. A portion of the finance income earned by the
+Company arises from reimbursements from John Deere in connection with financing
+the retail sales of John Deere equipment on which finance charges are waived or
+reduced by John Deere for a period from the date of sale to a specified
+subsequent date. See Note 2 to the Consolidated Financial Statements for
+additional information.  
+
+5     
+
+Average Original Term and
+Average Actual Life of Retail Notes and Leases   
+
+  Due to prepayments (often from trade-ins and
+refinancing), the average actual life of retail notes and financing leases is
+considerably shorter than the average original term. The following table shows
+the average original term for retail notes and leases acquired and the average
+actual life for retail notes and leases liquidated (in months):  
+
+Maturities   
+
+  The following table presents the maturities of net
+Receivables and Leases owned by the Company at October 31, 2006 (in
+millions of dollars), and a summary of net Receivables and Leases owned by the
+Company at the end of the last five years (in millions of dollars):  
+
+6     
+
+Total Receivables and
+Leases by geographic area are as follows (in millions of dollars):  
+
+Delinquencies   
+
+  Total Receivable amounts 60 days or more past due
+representing the amount of all customer payments past due 60 days or more are
+as follows (in millions of dollars):  
+
+Total non-performing Receivables, which represent
+loans the Company has ceased accruing interest for are as follows (in millions
+of dollars):  
+
+7     
+
+Write-offs and Recoveries   
+
+  Total Receivable
+write-offs and recoveries, by product, were as follows (in millions of
+dollars):  
+
+8     
+
+Total Receivable
+write-offs and recoveries from outside the U.S. were as follows (in millions of
+dollars):  
+
+Allowance for Credit Losses   
+
+  The total Receivable allowance for credit losses, by
+product, at October 31, and the Receivable portfolio, by product, as a percent
+of total portfolio is presented below (in millions of dollars):  
+
+9     
+
+The total Receivable allowance for credit losses, by
+geographic area, at October 31, and the Receivable portfolio, by geographic
+area, as a percent of total portfolio is presented below (in millions of
+dollars):  
+
+The allowance for credit
+losses is an estimate of the losses expected from the Company s Receivable
+portfolio.  The level of the allowance is
+based on many quantitative and qualitative factors, including historical loss
+experience by product category, portfolio duration, delinquency trends,
+economic conditions and credit risk quality. The Company has an established
+process to calculate a range of possible outcomes and determine the adequacy of
+the allowance. No single statistic or measurement determines the adequacy of
+the allowance. Historical receivable recoveries and charge-offs are considered
+as part of the loss experience by product category.  The adequacy of the allowance is assessed
+quarterly in accordance with Financial Accounting Standards Board (FASB)
+Statement No. 5, Accounting for Contingencies, and FASB Statement No. 114,
+Accounting by Creditors for Impairment of a Loan. Different assumptions or
+changes in economic conditions would result in changes to the allowance for
+credit losses and provision for credit losses.  
+
+  The allowance is
+determined at an aggregate level by product category for all Receivables that
+are performing in accordance with payment terms and are not materially past
+due. The Company assigns loss factors to each aggregation and loss factors are
+applied to the applicable Receivable balance to determine the allowance level
+for each product category. The loss factors are determined based on
+quantitative and qualitative factors, including historical loss experience by
+product category, portfolio duration, delinquency trends, economic conditions
+and credit risk quality.  
+
+  The
+Company also separately reviews non-performing Receivables for impairment based
+on delinquencies and changes in cash flows or collateral. These non-performing
+Receivables consist of materially past due Receivables, customers that have
+provided bankruptcy notification and other Receivables requiring significant
+collection efforts including litigation. The Company identifies these
+Receivables during reviews of portfolio credit quality. The Company includes
+the impairment on non-performing Receivables as a separate component included
+in the allowance unless it has already been recognized as a loss.  
+
+  In
+addition to the calculations discussed above, other qualitative factors are
+taken into account to arrive at the allowance balance. The total allowance
+reflects management s estimate of credit losses inherent in the Receivables
+portfolio at the balance sheet date. See further discussion of the allowance
+for credit losses in the Critical Accounting Policies.  
+
+   Competition   
+
+  The businesses in which the Company is engaged are
+highly competitive. The Company competes for customers with commercial banks
+and finance and leasing companies based upon its service, finance rates charged
+and other finance terms. The proportion of John Deere equipment retail sales
+and leases financed by the Company is influenced by conditions prevailing in
+the agricultural equipment, commercial and consumer equipment, and construction
+and forestry equipment industries, in the financial markets, and in business
+generally. The Company financed a significant portion of John Deere equipment
+retail sales and leases in the U.S. during 2006 and 2005.  
+
+  The Company emphasizes convenient service to customers
+and endeavors to offer terms desired in its specialized markets such as
+seasonal schedules of repayment and rentals. The Company s retail note finance
+rates and lease rental rates are generally believed to be in the range offered
+by other sales finance and leasing companies, although not as low as those of
+some banks and other lenders and lessors.  
+
+10  
+
+Regulation   
+
+  In a number of states, state law limits the maximum
+finance rate on receivables. The present state limitations have not, thus far,
+significantly limited variable-rate finance charges or the fixed-rate finance
+charges established by the Company. However, if interest rate levels should
+increase significantly, maximum state rates could affect the Company by
+preventing the variable rates on outstanding variable-rate retail notes from
+increasing above the maximum state rate, and by limiting the fixed rates on new
+notes. In some states, the Company may be able to qualify new retail notes for
+a higher maximum rate limit by using retail installment sales contracts (rather
+than loan contracts) or by using fixed-rate rather than variable-rate
+contracts.  
+
+  In addition to rate regulation, various state and
+federal laws and regulations apply to some Receivables and Leases, principally
+retail notes for goods sold for personal, family or household use and Farm Plan    ,
+PowerPlan    and John Deere Credit Revolving Plan accounts
+receivable for such goods. To date, these laws and regulations have not had a
+significant adverse effect on the Company. 
+
+  FPC Financial, f.s.b. (Thrift), a wholly-owned
+subsidiary of the Company, holds a federal charter issued by the Office of Thrift
+Supervision (OTS) and is subject to federal regulation and examination by the
+OTS. The Thrift is headquartered in Madison, Wisconsin and offers revolving
+charge products such as John Deere Credit Revolving Plan, Farm Plan    
+and PowerPlan    on a nationwide basis. 
+
+  Financing outside the U.S. is affected by a variety of
+laws, customs and regulations.  
+
+    Item 1A  .   Risk Factors .  
+
+  The Company is a wholly-owned finance holding
+subsidiary of Deere   Company. The results of operations of the Company are
+affected by its relationships with Deere   Company. See  Relationships of
+the Company with John Deere  on page 3 for additional information regarding the
+relationship between the Company and Deere   Company.  
+
+   Economic
+Condition and Outlook.    General economic conditions can affect the
+demand for John Deere s equipment. Negative economic conditions or a negative
+outlook, for example, can decrease housing starts and other construction and
+dampen demand for equipment. Strength or weakness in the overall farm economy
+can have a similar effect on Deere   Company s agricultural equipment
+sales. 
+
+   Consumer
+Attitudes.    The confidence John Deere s customers have in
+the general economic outlook can have a significant effect on their propensity
+to purchase equipment and, consequently, on Deere   Company s sales. John
+Deere s ability to match its new product offerings to its customers 
+anticipated preferences for different types and sizes of equipment is important
+as well. 
+
+   Interest
+Rates and Credit Ratings.    If interest rates rise, they
+could have a dampening effect on overall economic activity and could affect the
+demand for John Deere s equipment. In addition, funding costs are very
+important to the Company. Decisions and actions by credit rating agencies can
+affect the availability and cost of funding for the Company.  Credit rating downgrades or negative changes
+to ratings outlooks can increase the Company s cost of capital and hurt its
+competitive position. 
+
+  The
+risks identified above should be considered in conjunction with  Management s
+Discussion and Analysis  beginning on page 12, and, specifically, the other
+risks described in the  Safe Harbor Statement  on page 20. The Company s
+results of operations may be affected by these identified risks and/or by risks
+not currently contemplated.  
+
+    Item 1B  .  Unresolved Staff Comments .  
+
+   None.   
+
+11     
+
+Item 2  .   Properties .  
+
+  The Company s properties principally consist of office
+equipment, Company-owned office buildings in Johnston, Iowa and Madison,
+Wisconsin; and leased office space in Reno, Nevada; Pittsburgh, Pennsylvania;
+Rosario, Argentina; Brisbane, Australia; Gloucester, England; Langar, England;
+Bruchsal, Germany; Vignate, Italy; Luxembourg City, Luxembourg; Monterrey,
+Mexico; and Getafe, Spain.  
+
+    Item 3  .   Legal Proceedings .  
+
+  The Company is subject to various unresolved legal
+actions which arise in the normal course of its business, the most prevalent of
+which relate to state and federal laws and regulations concerning retail
+credit. Although it is not possible to predict with certainty the outcome of
+these unresolved legal actions or the range of possible loss, the Company
+believes these unresolved legal actions will not have a material effect on its
+financial statements.  
+
+    Item 4  .   Submission of Matters to a Vote of
+Security Holders .  
+
+  Omitted pursuant to instruction I(2).  
+
+    PART II    
+
+    Item 5  .   Market for Registrant s Common Equity,
+Related Stockholder Matters and Issuer Purchases of Equity Securities .  
+
+  (a)             All of the Company s
+common stock is owned by John Deere Credit Company, a finance holding company
+that is wholly-owned by Deere   Company. The Company declared and paid cash
+dividends to John Deere Credit Company of $85 million in 2006 and $150
+million in 2005. In each case, John Deere Credit Company paid comparable
+dividends to Deere   Company. 
+
+  (b)             Not applicable. 
+
+  (c)              Not applicable. 
+
+    Item 6  .   Selected Financial Data .  
+
+  Omitted pursuant to instruction I(2).  
+
+    Item 7  .   Management s Discussion and Analysis of
+Financial Condition and Results of Operations .  
+
+   Results of Operations    
+
+   Overview   
+
+   Organization   
+
+  The Company primarily generates revenues and cash by
+financing sales and leases of new and used agricultural, commercial and
+consumer, and construction and forestry equipment by John Deere dealers.  In addition, the Company also provides
+wholesale financing to dealers of the foregoing equipment, provides operating
+loans, finances retail revolving charge accounts, offers certain crop risk
+mitigation products and invests in wind energy generation.  
+
+12     
+
+Trends and Economic Conditions   
+
+  The Company s business is currently affected by the
+following key trends and economic conditions. The Company s business is closely
+related to John Deere s business. Worldwide farm economic conditions remain
+promising as demand for crops is benefiting from a global population that is
+gaining in both size and affluence, and a sharp rise in the use of renewable
+fuels. However, fiscal 2007 Deere   Company sales in the U.S. and Canada
+are expected to have a slow start as a result of the level of used equipment
+inventories and customer uncertainty regarding the direction of U.S. farm
+legislation. Industry retail sales of agricultural equipment in the U.S. and
+Canada in 2007 are expected to be approximately flat for the year, while sales
+in Western Europe are forecast to be flat to down slightly. In South America
+and Australia, the outlook for industry retail sales for 2007 is expected to be
+down about 10 percent and nearly 25 percent, respectively. Deere   Company s
+agricultural equipment net sales were down 3 percent for 2006 and are forecast
+to be up approximately 4 percent in 2007. Deere   Company s commercial and
+consumer equipment net sales were up 8 percent in 2006. These sales are
+forecast to be up about 4 percent in 2007, reflecting the impact of higher
+sales from the landscapes operations and the introduction of new products.
+Markets for construction and forestry equipment are expected to see a slowdown
+in 2007. Deere   Company s construction and forestry net sales increased 10
+percent in 2006 and are forecast to decrease about 5 percent in 2007. The
+Company expects to report net income of approximately $295 million in 2007 as a result of further growth in the loan
+portfolio, largely offset by higher administrative and operating expenses in
+support of the Company s growth initiatives.  
+
+   2006 Compared with 2005   
+
+  Consolidated
+net income was $291.2 million for the year, compared with $274.7 million last
+year. The higher results for the year were primarily due to growth in the
+portfolio, partially offset by narrower financing spreads and a higher
+provision for credit losses. The ratio of earnings to fixed charges was 1.60 to
+1 for 2006, compared with 1.88 to 1 for 2005.  
+
+  Revenues totaled $1,705 million in 2006, compared to
+$1,377 million a year ago. Revenues increased primarily due to a 14 percent
+increase in the average balance of Receivables and Leases financed and higher
+financing rates. Finance income earned on retail notes totaled $713 million in
+2006, up $191 million compared to  $522 million in 2005. The increase was primarily due to a
+23 percent increase in the average retail note portfolio balances and
+increasing yields. Lease revenues increased $30 million to $286 million in
+2006, primarily due to a 10 percent increase in the average balance of
+equipment on operating leases. Revenues earned on revolving charge accounts
+amounted to $210 million in 2006, a 9 percent increase over revenues
+of $193 million earned during 2005. The increase was primarily due to an
+increase in Farm Plan    and PowerPlan   
+average receivables in 2006 and higher financing rates, compared with 2005.
+Finance income earned on wholesale receivables increased $64 million, to
+$355 million in 2006, from $291 million in 2005. The increase was
+primarily due to increasing yields and a 3 percent increase in the average
+balance of wholesale receivables. Revenues earned on operating loans amounted
+to $27 million in 2006, compared with $24 million in 2005. Revenues earned
+from Deere   Company totaled $468 million in 2006 compared to
+$401 million a year ago. 
+
+  The net loss on Receivables sold, including adjustments
+to prior sales related to cleanup calls and revaluations of retained interests
+and the related permanent impairments, totaled $1 million during 2006, compared
+with a net gain of $5 million for 2005. Securitization and servicing fee
+income totaled $30 million in 2006, compared with $40 million during
+2005. Securitization and servicing fee income relates to Receivables sold to
+other financial institutions or limited-purpose business trusts and primarily
+includes the interest earned on retained interests and reimbursed
+administrative expenses received.  
+
+  Crop
+insurance commissions totaled $35 million in 2006, compared with $8 million in
+2005. The increase was primarily due to increased crop insurance sales to
+producers as a result of expanded market coverage. At October 31, 2006, the
+Company was offering crop insurance products in 30 states compared to 17 states
+a year ago.  
+
+13     
+
+Interest
+expense totaled $727 million in 2006, compared with $473 million in 2005. The
+increase was primarily due to an increase in the weighted-average annual
+interest rate incurred on all borrowings from 3.9 percent in 2005 to
+5.0 percent in 2006 and higher average borrowings.  
+
+  Administrative
+and operating expenses totaled $274 million in 2006, compared with $251 million
+in 2005. The increase was primarily due to higher costs associated with
+administering a larger Receivable and Lease portfolio and higher costs in
+support of the Company s growth initiatives.  
+
+  Depreciation
+of equipment on operating leases totaled $190 million in 2006, compared with
+$169 million in 2005 .
+The increase was primarily the result of higher average amounts of equipment on
+operating leases. 
+
+  Interest
+and support fees paid to John Deere were $42 million in 2006, compared with
+$53 million in 2005. The decrease was primarily due to lower average
+borrowings from Deere   Company.  
+
+  The
+provision for credit losses was $31 million in 2006, compared with $6 million
+in 2005. The Company has experienced higher write-offs of retail notes,
+revolving charge accounts, operating loans and financing leases. The provision
+for credit losses, as a percentage of the total average balance of Receivables
+financed, was .19 percent for 2006 and .04 percent for 2005. Total net
+write-offs of Receivables financed were $34 million during 2006, compared with
+$22 million in 2005.  
+
+   Receivables and Leases Acquired and Held   
+
+  Receivables and Leases acquired by the Company during
+2006 totaled $29,557 million, an increase of 2 percent, compared with
+volumes of $29,088 million during 2005. These higher volumes in 2006 resulted
+mainly from increased volumes of wholesale receivables, operating loans,
+revolving charge accounts and equipment on operating leases. Excluding the
+trade receivables acquired from John Deere, acquisitions of Receivables and
+Leases were 6 percent higher in 2006 compared to last year. Receivables
+and Leases held by the Company at October 31, 2006 totaled $17,669 million,
+compared with $16,002 million at October 31, 2005. For the 2006 and 2005
+fiscal years, Receivable and Lease acquisition volumes and balances held were
+as follows (in millions of dollars):  
+
+Retail note volumes increased by approximately $34 million
+in 2006, compared with 2005. Lease volumes increased $81 million in 2006,
+compared with 2005. The increases in retail note and lease volumes were
+primarily due to increases in retail sales of John Deere construction and
+forestry equipment. Revolving charge account volumes increased primarily as a
+result of increased market coverage. Wholesale receivable volumes increased
+primarily due to increased shipments of John Deere equipment as a result of
+increased retail sales activity in the construction and forestry markets.  
+
+14     
+
+Receivables and Leases administered by the Company,
+which include retail notes sold, were as follows (in millions):  
+
+*                                           The Company s maximum
+exposure under all Receivable and Lease recourse provisions at October 31, 2006
+and 2005 was $105 million and $140 million, respectively. In addition, the
+Company has provided letters of credit for John Deere Credit Inc., the John
+Deere finance subsidiary in Canada, as part of retail note sales. At
+October 31, 2006 and 2005, the Company s maximum exposure under these
+agreements was approximately $7 million. The Company does not record the
+recourse obligations as liabilities as they are contingent liabilities that are
+remote at this time. However, the probable loss on receivables that have been
+sold was accrued at the time of sale, and any subsequent necessary adjustments
+are made as part of ongoing reviews.  
+
+  **                                    These receivables represent retail notes
+that the Company has sold but continues to administer for a fee.  
+
+  Retail notes bearing fixed finance rates totaled 85
+percent of the total retail note portfolio at October 31, 2006,
+compared with 75 percent at October 31, 2005.  
+
+  Total
+Receivable amounts 60 days or more past due represent the amount of all
+customer payments past due 60 days or more. These amounts were $43 million
+at October 31, 2006, compared with $33 million at October 31, 2005.
+In addition, these past due amounts represented .26 percent and .21 percent of
+the total Receivables held at those respective dates. The balance of retail
+notes held (principal plus accrued interest) with any installment 60 days or
+more past due represents the total retail note balance for a customer that has
+any portion of his note 60 days or more past due. These amounts were $116
+million and $78 million at October 31, 2006 and 2005, respectively.
+The balances of retail notes held on which any installment was 60 days or more
+past due as a percentage of the ending retail notes receivable was
+1.08 percent at October 31, 2006 and .84 percent at October
+31, 2005. See Note 3 to the Consolidated Financial Statements for additional
+past due information.  
+
+  Deposits withheld from dealers and merchants,
+representing mainly the aggregate dealer retail note and lease withholding
+accounts from individual John Deere dealers to which losses from retail notes and
+leases originating from the respective dealers can be charged, amounted to $177
+million at October 31, 2006, compared to $166 million at October 31, 2005. The
+Company s allowance for credit losses on all Receivables financed at October
+31, 2006 totaled $93 million and represented .55 percent of the total
+Receivables financed, compared with $96 million and .63 percent,
+respectively, one year earlier. The allowance is subject to an ongoing
+evaluation based on many quantitative and qualitative factors, including
+historical loss experience by product category, portfolio duration, delinquency
+trends, economic conditions and credit risk quality. The Company believes its
+allowance is sufficient to provide for losses in its existing receivable
+portfolio.  
+
+   2005 Compared with 2004   
+
+  Consolidated
+net income for the fiscal year ended October 31, 2005 was $274.7 million,
+compared with $270.6 million in 2004. The higher results for 2005 were
+primarily due to growth in the portfolio and a lower provision for credit
+losses, partially offset by narrower financing spreads and lower gains on
+retail note sales. The ratio of earnings to fixed charges was 1.88 to 1 for
+2005, compared with 2.23 to 1 for 2004.  
+
+15     
+
+Revenues
+totaled $1,377 million in 2005, compared to $1,219 million in 2004. Revenues
+increased primarily due to a 19 percent increase in the average balance of
+Receivables and Leases financed, partially offset by lower gains on receivable
+sales. Finance income earned on retail notes totaled $522 million in 2005, up
+$138 million compared to  $384 million
+in 2004. The increase was primarily due to a 30 percent increase in the average
+retail note portfolio balances and increasing yields. Lease revenues decreased
+$7 million to $256 million in 2005, primarily due to a 3 percent
+decrease in the average balance of equipment on operating leases. Revenues
+earned on revolving charge accounts amounted to $193 million in 2005, a
+14 percent increase over revenues of $169 million earned during 2004. The
+increase was primarily due to growth of Farm Plan   
+and John Deere Credit Revolving Plan average receivables in 2005, compared with
+2004. Finance income earned on wholesale receivables increased
+$46 million, to $291 million in 2005, from $245 million in 2004.
+The increase was primarily due to a 15 percent increase in the average balance
+of wholesale receivables. Revenues earned on operating loans amounted to $24
+million in 2005, compared with $23 million in 2004. Revenues earned from
+Deere   Company totaled $401 million in 2005 compared to $365 million
+in 2004. 
+
+  The net gains on Receivables sold, including
+adjustments to prior sales related to cleanup calls and revaluations of
+retained interests and the related permanent impairments, totaled $5 million
+during 2005, compared with $46 million for 2004. During 2004, the Company
+benefited from the sale of agricultural and construction and forestry retail
+notes of approximately $2,156 million total principal value. Securitization and
+servicing fee income totaled $40 million in 2005, compared with $51 million
+during 2004. Securitization and servicing fee income relates to Receivables
+sold to other financial institutions or limited-purpose business trusts and
+primarily includes the interest earned on retained interests and reimbursed
+administrative expenses received.  
+
+  Interest
+expense totaled $473 million in 2005, compared with $327 million in 2004. The
+increase was primarily due to higher average borrowings and an increase in the
+weighted-average annual interest rate incurred on all borrowings from 3.1
+percent in 2004 to 3.9 percent in 2005.  
+
+  Administrative
+and operating expenses totaled $251 million in 2005, compared with $245 million
+in 2004. Administrative and operating expenses as a percent of average
+Receivables and Leases administered were 1.48 percent in 2005, compared with
+1.61 percent in 2004.  
+
+  Depreciation
+of equipment on operating leases totaled $169 million in 2005, compared with
+$170 million in 2004 . 
+
+  Interest
+and support fees paid to John Deere were $53 million in 2005, compared with
+$34 million in 2004. The increase was primarily due to higher average
+borrowings from Deere   Company and an increase in the weighted-average
+annual interest rate in 2005.  
+
+  The
+provision for credit losses was $6 million in 2005, compared with $32 million
+in 2004. The decrease reflects solid portfolio quality. The Company has
+experienced lower write-offs of retail notes, operating loans, wholesale
+receivables and financing leases. The provision for credit losses, as a
+percentage of the total average balance of Receivables financed, was .04
+percent for 2005 and .28 percent for 2004. Total net write-offs of Receivables
+financed were $22 million during 2005, compared with $34 million in 2004.  
+
+16     
+
+Receivables
+and Leases Acquired and Held   
+
+  Receivables and Leases acquired by the Company during
+2005 totaled $29,088 million, an increase of 10 percent, compared with
+volumes of $26,443 million during 2004. These higher volumes in 2005 resulted
+mainly from increased volumes of wholesale receivables, retail notes, and
+revolving charge accounts. Excluding the trade receivables acquired from John
+Deere, acquisitions of Receivables and Leases were 7 percent higher in 2005
+compared to 2004. Receivables and Leases held by the Company at October 31,
+2005 totaled $16,002 million, compared with $13,342 million at October 31,
+2004. For the 2005 and 2004 fiscal years, Receivable and Lease acquisition
+volumes and balances held were as follows (in millions of dollars):  
+
+Retail note volumes increased by approximately $378
+million in 2005, compared with 2004. Lease volumes increased $99 million in
+2005, compared with 2004. The increases in retail note and lease volumes were
+primarily due to increases in retail sales of John Deere agricultural and
+construction and forestry equipment. Revolving charge accounts volumes
+increased primarily as a result of increased market coverage. Wholesale
+receivable volumes increased primarily due to increased shipments of John Deere
+equipment as a result of increased retail sales activity in the agricultural
+and construction and forestry markets.  
+
+  The
+balance of retail notes at October 31, 2005 and 2004 was $9,234 million and
+$6,874 million, respectively. The increase was due to retail note volumes
+exceeding collections and a change in structure of new securitizations of
+retail notes. Beginning in 2005, the Company s new securitizations of retail
+notes held by special purpose entities met the criteria for secured borrowings
+rather than sales of receivables under FASB Statement No. 140, Accounting for
+Transfers and Servicing of Financial Assets and Extinguishments of Liabilities.
+As a result, these securitized retail notes are classified as  Restricted
+securitized retail notes  on the balance sheet. See Note 4 to the Consolidated
+Financial Statements.  
+
+  Receivables
+and Leases administered by the Company, which include retail notes sold, were
+as follows (in millions):  
+
+17     
+
+*                                          The
+Company s maximum exposure under all Receivable and Lease recourse provisions
+at October 31, 2005 and 2004 was $140 million and $203 million, respectively.
+In addition, the Company has provided letters of credit for John Deere Credit
+Inc., the John Deere finance subsidiary in Canada, as part of retail note
+sales. At October 31, 2005 and 2004, the Company s maximum exposure
+under these agreements was approximately $7 million and $8 million,
+respectively. The Company does not record the recourse obligations as
+liabilities as they are contingent liabilities that are remote at this time.
+However, the probable loss on receivables that have been sold was accrued at
+the time of sale, and any subsequent necessary adjustments are made as part of
+ongoing reviews. 
+
+  **                                    These receivables represent retail notes
+that the Company has sold but continues to administer for a fee.  
+
+  Retail notes bearing fixed finance rates totaled 75
+percent of the total retail note portfolio at October 31, 2005,
+compared with 80 percent at October 31, 2004.  
+
+  Total
+Receivable amounts 60 days or more past due represent the amount of all
+customer payments past due 60 days or more. These amounts were $33 million
+at October 31, 2005, compared with $40 million at October 31, 2004.
+In addition, these past due amounts represented .21 percent and .32 percent of
+the total Receivables held at those respective dates. The balance of retail
+notes held (principal plus accrued interest) with any installment 60 days or
+more past due represents the total retail note balance for a customer that has
+any portion of his note 60 days or more past due. These amounts were $78
+million and $71 million at October 31, 2005 and 2004,
+respectively. The balances of retail notes held on which any installment was 60
+days or more past due as a percentage of the ending retail notes receivable was
+..84 percent at October 31, 2005 and 1.03 percent at October
+31, 2004. See Note 3 to the Consolidated Financial Statements for additional
+past due information.  
+
+  Deposits withheld from dealers and merchants,
+representing mainly the aggregate dealer retail note and lease withholding
+accounts from individual John Deere dealers to which losses from retail notes
+and leases originating from the respective dealers can be charged, amounted to
+$166 million at October 31, 2005, compared to $168 million at October 31, 2004.
+The Company s allowance for credit losses on all Receivables financed at
+October 31, 2005 totaled $96 million and represented .63 percent of the total
+Receivables financed, compared with $113 million and .89 percent,
+respectively, at October 31, 2004. The allowance is subject to an ongoing
+evaluation based on many quantitative and qualitative factors, including
+historical loss experience by product category, portfolio duration, delinquency
+trends, economic conditions and credit risk quality. The Company believes its
+allowance is sufficient to provide for losses in its existing receivable
+portfolio.  
+
+   Capital Resources and Liquidity   
+
+  The
+aggregate cash provided by operating and financing activities was used
+primarily to increase Receivables and Leases. Cash provided by operating
+activities was $481 million in 2006. Cash provided by financing activities
+totaled $1,464 million resulting from a net increase in external
+borrowings, partially offset by a decrease in payables to Deere   Company
+and dividends paid to John Deere Credit Company, which in turn paid comparable
+dividends to Deere   Company. Cash used for investing activities totaled
+$2,078 million in 2006, primarily due to the cost of Receivables and Leases
+acquired exceeding collections. Cash and cash equivalents decreased
+$131 million during 2006.  
+
+  Over the last three years, operating activities have
+provided $1,348 million in cash. In addition, the sale of Receivables and
+Leases provided $3,227 million and an increase in total net borrowings provided
+$5,171 million. These amounts have been used mainly to fund Receivable and
+Lease acquisitions, which exceeded collections by $9,212 million, and to
+pay $655 million in dividends.  
+
+  The
+financing of retail purchases and leases of John Deere products and of wholesale
+receivables due from John Deere dealers represented approximately 85 percent of
+the Company s acquisition volume for 2006 and 2005. Any extended reduction or
+suspension of John Deere s sale or production of products due to a decline in
+demand or production, governmental actions or other events could have an
+adverse effect on the Company s acquisition volume of Receivables and Leases.  
+
+18     
+
+The Company relies on its ability to raise substantial
+amounts of funds to finance its Receivable and Lease portfolios. Because of the
+multiple funding sources that have been and continue to be available to the
+Company, the Company expects to have sufficient sources of liquidity to meet
+its ongoing funding needs. The Company s ability to meet its debt obligations
+is supported in a number of ways. The assets of the Company are
+self-liquidating in nature. A strong equity position is available to absorb
+unusual losses on these assets and all commercial paper is backed by unsecured,
+committed borrowing lines from various banks. Liquidity is also provided by the
+Company s ability to securitize these assets.  
+
+  During 2006, the Company issued $2,670 million of
+medium-term notes, obtained $1,668 million of secured borrowings, maintained an
+average commercial paper balance of $1,936 million and received proceeds of
+$143 million from sales of Receivables. At October 31, 2006, the
+Company s funding profile included $2,290 million of commercial paper,
+$2,194 million of notes payable related to on-balance sheet securitization
+funding, $178 million of intercompany loans from Deere   Company,
+$10,880 million of unsecured term debt, $842 million of off-balance sheet
+securitization funding and $2,154 million of equity capital. The Company s
+funding profile may be altered to reflect such factors as relative costs of
+funding sources, assets available for securitizations and capital market
+accessibility.  
+
+  The Company s commercial paper outstanding at October
+31, 2006 and 2005 was approximately $2,290 million and
+$1,696 million, respectively, while the total cash and cash equivalents
+position was $119 million and $250 million, respectively.  
+
+  The Company issued $2,670 million and retired
+$2,443 million of other borrowings during the year, which were primarily
+medium-term notes.  
+
+  The Company utilizes a revolving
+multi-bank conduit facility to securitize floating rate retail notes (see
+Note 4). This facility has the capacity, or  purchase limit,  of up to
+$1.75 billion in secured financings or sales outstanding at any time. This
+facility has no final maturity date. Instead, upon the Company s request, each
+conduit may elect to renew its commitment on an annual basis. If this facility
+is not renewed, the Company would liquidate the securitizations as the payments
+on these retail notes are collected. At October 31, 2006, $1,575 million was
+outstanding under the facility of which $1,036 million was recorded on the
+balance sheet. See Note 4 to the Consolidated Financial Statements.  
+
+  Total interest-bearing indebtedness amounted to
+$15,555 million at October 31, 2006, compared with $13,958 million at
+October 31, 2005. Included in this debt are secured borrowings of $2,194
+million and $1,353 million for the same periods. Total external borrowings have
+increased generally corresponding with the level of the Receivable and Lease
+portfolio, the level of cash and cash equivalents and the change in payable to
+Deere   Company. Total short-term indebtedness amounted to $7,143 million
+at October 31, 2006, which included $2,194 million of secured borrowings,
+compared with $5,767 million at October 31, 2005, which included $1,353 million
+of secured borrowings, while total long-term indebtedness amounted to $8,413
+million at October 31, 2006 and $8,191 million at October 31, 2005.
+The ratio of total interest-bearing debt to stockholder s equity was 7.2 to 1
+both at October 31, 2006 and at 2005.  
+
+  Stockholder s
+equity was $2,154 million at October 31, 2006, compared with $1,940 million and
+$1,807 million at October 31, 2005 and 2004, respectively.  The increase in 2006 was primarily due to net
+income of $291 million and an increase in the cumulative translation adjustment
+of $10 million, partially offset by dividend payments of $85 million.  
+
+  The Capital Corporation declared and paid cash
+dividends to John Deere Credit Company of $85 million in 2006 and $150 million
+in 2005. In each case, John Deere Credit Company paid comparable dividends to
+Deere   Company.  
+
+19     
+
+Lines of Credit   
+
+  The Company also has access to bank lines of credit
+with various banks throughout the world. Some of the lines are available to
+both the Company and Deere   Company. Worldwide lines of credit totaled
+$3,016 million at October 31, 2006, $410 million of which was unused. For the purpose of computing unused credit lines,
+commercial paper and short-term bank borrowings, excluding secured borrowings
+and the current portion of long-term borrowings, of the Company and John Deere
+were considered to constitute utilization. Included in the total credit lines
+at October 31, 2006 was a long-term credit facility agreement of $3 billion,
+expiring in February 2011.  The credit agreement requires the Company to maintain its consolidated
+ratio of earnings to fixed charges at not less than 1.05 to 1 for each fiscal
+quarter and its ratio of senior debt, excluding securitization indebtedness, to
+capital base (total subordinated debt and stockholder s equity excluding
+accumulated other comprehensive income (loss)) at not more than 8.5 to 1
+at the end of any fiscal quarter. All of these requirements of the credit
+agreement have been met during the periods included in the financial
+statements. For information regarding Deere   Company and its
+business, see Business of John Deere, Outlook for John Deere, Relationships of
+the Company with John Deere above and Exhibit 99. 
+
+   Debt Ratings   
+
+  The Company s ability to obtain funding is affected by
+its debt ratings, which are closely related to the outlook for and the
+financial condition of Deere   Company, and the nature and availability of
+support facilities, such as its lines of credit and the support agreement from
+Deere   Company.  
+
+  To access public debt capital markets, the Company
+relies on credit rating agencies to assign short-term and long-term credit
+ratings to the Company s securities as an indicator of credit quality for fixed
+income investors. A credit rating agency may change or withdraw Company ratings
+based on its assessment of the Company s current and future ability to meet
+interest and principal repayment obligations. Lower credit ratings generally
+result in higher borrowing costs and reduced access to debt capital markets.  
+
+  The
+senior long-term and short-term debt ratings and outlook currently assigned to
+unsecured Company securities by the rating agencies engaged by the Company are
+the same as those for Deere   Company. Those ratings are as follows:  
+
+Senior Long-Term   
+
+Short-Term   
+
+Outlook   
+
+Moody s
+  Investors Service, Inc.  
+
+A3  
+
+Prime-2  
+
+Positive  
+
+Standard   Poor s  
+
+A  
+
+A-1  
+
+Stable  
+
+Safe Harbor
+Statement   
+
+   Safe Harbor Statement under the
+Private Securities Litigation Reform Act of 1995:   Statements
+herein that relate to future operating periods are subject to important risks
+and uncertainties that could cause actual results to differ materially. Actions
+by the U.S. Federal Reserve Board and other central banks may affect the costs
+and expenses of financing the Company and the rates it is able to offer. The
+Company s business is affected by general economic conditions in and the
+political instability of the global markets in which the Company operates
+because deteriorating economic conditions and political instability can result
+in higher loan losses. The Company s business is also affected by actions of
+banks, financing and leasing companies and other lenders that compete with the
+Company for customers. In addition, the Company s business is closely related
+to John Deere s business. Further information, including factors that
+potentially could materially affect the Company s and John Deere s financial
+results, is included in the most recent Deere   Company Form 10-K and other
+Deere   Company and Capital Corporation filings with the Securities and
+Exchange Commission. 
+
+   Off-Balance Sheet
+Arrangements   
+
+  The Company has periodically sold retail notes to
+special purpose entities (SPEs) in securitization transactions.  The Company has used these SPEs in a manner
+consistent with conventional practices in the securitization industry to   
+
+20     
+
+isolate the retail notes for the benefit of securitization investors.
+The use of the SPEs has enabled the Company to access the highly liquid and
+efficient securitization markets for the sales of these types of financial
+assets. The amounts of funding the Company chooses to obtain from
+securitizations reflect such factors as capital market accessibility, relative
+costs of funding sources and assets available for securitization. The Company s
+total exposure to recourse provisions related to securitized retail notes,
+which were sold in prior periods, was $97 million and the total assets held by
+the SPEs related to these securitizations were $903 million at October 31,
+2006.  
+
+  At  October
+31, 2006, the Company had approximately $3 million of guarantees issued
+primarily to banks outside the U.S. related to third-party receivables for the
+retail financing of John Deere equipment. The Company may recover a portion of
+any required payments incurred under these agreements from repossession of the
+equipment collateralizing the receivables. At October 31, 2006, the Company had
+accrued losses of approximately $.2 million under these agreements. The maximum
+remaining term of the receivables guaranteed at October 31, 2006 was
+approximately five years. 
+
+  At
+October 31, 2006, the Company had $410 million of guarantees issued to turbine
+manufacturers for John Deere Renewables, LLC wind turbine purchases. John Deere
+Renewables, LLC is an affiliated company that has commitments to purchase wind
+turbines related to its direct investments in wind energy projects.  
+
+  The Company s subsidiary, John Deere Risk
+Protection, Inc., offers crop insurance products through a managing general
+agency agreement (Agreement) with an insurance company (Insurance Carrier)
+rated  Excellent  by A.M. Best Company. As a managing general agent, John Deere
+Risk Protection, Inc. will receive commissions from the Insurance Carrier for
+selling crop insurance to producers.  The
+Company has guaranteed certain obligations under the Agreement, including the
+obligation to pay the Insurance Carrier for any uncollected premiums. At
+October 31, 2006 the maximum exposure for uncollected premiums was
+approximately $34 million. Substantially all of the Company s crop insurance
+risk under the Agreement has been mitigated by a syndicate of private
+reinsurance companies. These reinsurance companies are rated  Excellent  or
+higher by A.M. Best Company. In the event of a widespread catastrophic crop
+failure throughout the U.S. and the default of these highly rated private
+reinsurance companies on their reinsurance obligations, the Company would be
+required to reimburse the Insurance Carrier for the maximum exposure under the
+Agreement of approximately $432 million at October 31, 2006. The Company
+believes that the likelihood of the occurrence of substantially all of the
+events that give rise to the exposure under this Agreement is extremely remote
+and as a result, at October 31, 2006, the Company has accrued probable losses
+of approximately $.2 million under the Agreement.  
+
+   Aggregate
+Contractual Obligations   
+
+  Most
+of the Company s contractual obligations to make payments to third parties are
+on-balance-sheet debt obligations. In addition, the Company has
+off-balance-sheet obligations for the purchase of services along with interest
+on debt and operating lease payments. The payment schedule for these
+contractual obligations at October 31, 2006 in millions of dollars is as follows:  
+
+*                                            Principal
+payments 
+
+  **                                     Notes
+payable of $2,194 million classified as short-term on the balance sheet related
+to securitization of retail notes are included in this table based on the
+expected payment schedule (see Note 7). 
+
+  These contractual obligations do not include unused
+commitments to extend credit to customers and John Deere dealers as discussed
+in Note 16 to the Consolidated Financial Statements.  
+
+21     
+
+Critical Accounting
+Policies   
+
+  The
+preparation of the Company s consolidated financial statements in conformity
+with accounting principles generally accepted in the U.S. requires management
+to make estimates and assumptions that affect reported amounts of assets,
+liabilities, revenues and expenses. Changes in these estimates and assumptions
+could have a significant effect on the financial statements. The accounting
+policies below are those management believes are the most critical to the
+preparation of the Company s financial statements and require the most
+difficult, subjective or complex judgments. The Company s other accounting
+policies are described in the Notes to the Consolidated Financial Statements.  
+
+   Allowance for Credit Losses   
+
+  The allowance for credit losses
+represents an estimate of the losses expected from the Company s Receivable
+portfolio.  The level of the allowance is
+based on many quantitative and qualitative factors, including historical loss
+experience by product category, portfolio duration, delinquency trends,
+economic conditions and credit risk quality. The adequacy of the allowance is
+assessed quarterly.  Different
+assumptions or changes in economic conditions would result in changes to the
+allowance for credit losses and the provision for credit losses.  
+
+  The total allowance for credit losses at October 31,
+2006, 2005, and 2004 were $93 million, $96 million, and $113 million,
+respectively. The decrease in 2006 was primarily due to continued strong credit
+quality and a decrease in non-performing Receivables.  
+
+  The assumptions used in evaluating the Company s
+exposure to credit losses involve estimates and significant judgment. The
+historical loss experience on the Receivable portfolios represents one of the
+key assumptions involved in determining the allowance for credit losses. Over
+the last five fiscal years, the average loss experience has fluctuated between
+1 basis point and 11 basis points in any given fiscal year over the applicable
+prior period. Holding other estimates constant, a 5 basis point increase or
+decrease in estimated loss experience on the Receivable portfolios would result
+in an increase or decrease of approximately $8 million to the allowance for
+credit losses at October 31, 2006.  
+
+   Operating Lease Residual Values   
+
+  The carrying value of the equipment
+on operating leases is affected by the estimated fair values of the equipment
+at the end of the lease (residual values). 
+Upon termination of the lease, the equipment is either purchased by the
+lessee or sold to a third party, in which case the Company may record a gain or
+a loss for the difference between the estimated residual value and the sales
+price.  The residual values are dependent
+on current economic conditions and are reviewed quarterly. Changes in residual
+value assumptions would affect the amount of depreciation expense and the
+amount of investment in equipment on operating leases.  
+
+  The total operating lease residual values at October
+31, 2006, 2005, and 2004 were $511 million, $450 million, and $461
+million, respectively.  The increase in
+2006 was primarily due to the increase in the level of operating leases.  
+
+  Estimates used in determining end of lease market
+values for equipment on operating leases significantly impact the amount and
+timing of depreciation expense.  If
+future market values for this equipment were to decrease 5 percent from
+the Company s present estimates, the total impact would be to increase the
+Company s annual depreciation for equipment on operating leases by
+approximately $9 million.  
+
+    Item 7A  .   Quantitative and Qualitative Disclosures
+About Market Risk .  
+
+   Financial Instrument Risk Information   
+
+  The Company is naturally exposed to various interest
+rate and foreign currency risks. As a result, the Company enters into
+derivative transactions to manage certain of these exposures that arise in the
+normal course of business and not for the purpose of creating speculative
+positions or trading. The Company manages the relationship of the types and   
+
+22     
+
+amounts of its funding sources to its Receivable and Lease portfolios
+in an effort to diminish risk due to interest rate and foreign currency
+fluctuations, while responding to favorable financing opportunities.
+Accordingly, from time to time, the Company enters into interest rate swap
+agreements to manage its interest rate exposure. The Company also has foreign
+currency exposures at some of its foreign and domestic operations related to
+buying, selling and financing in currencies other than the local currencies.
+The Company has entered into agreements related to the management of these
+currency transaction risks. The credit risk under these interest rate and
+foreign currency agreements is not considered to be significant. See Note 18 to
+the Consolidated Financial Statements for additional detailed financial
+instrument information.  
+
+   Interest Rate Risk   
+
+  Quarterly, the Company uses a combination of cash flow
+models to assess the sensitivity of its financial instruments with interest
+rate exposure to changes in market interest rates. The models calculate the
+effect of adjusting interest rates as follows. Cash flows for Receivables are
+discounted at the current prevailing rate for each Receivable portfolio. Cash
+flows for borrowings are discounted at the treasury yield curve plus a market
+credit spread for similarly rated borrowers. Cash flows for securitized
+borrowings are discounted at the industrial composite bond curve for similarly
+rated borrowers. Cash flows for interest rate swaps are projected and
+discounted using forecasted rates from the swap yield curve at the repricing
+dates. The net loss in these financial instruments  fair values which would be
+caused by increasing the interest rates by 10 percent from the market rates at
+October 31, 2006 and October 31, 2005 would have been approximately $63 million
+and $35 million, respectively.  
+
+   Foreign Currency
+Risk   
+
+  The Company s policy is to hedge the foreign currency
+risk if the currency of the borrowings does not match the currency of the
+Receivable portfolio.  As a result, a
+hypothetical 10 percent adverse change in the value of the U.S. dollar relative
+to all other foreign currencies would not have a material effect on the Company s
+cash flows.  
+
+    Item 8  .   Financial Statements and Supplementary
+Data .  
+
+  See accompanying table of contents of financial
+statements.  
+
+    Item 9  .   Changes in and Disagreements with Accountants
+on Accounting and Financial Disclosure .  
+
+  Not applicable.  
+
+    Item 9A  .   Controls and Procedures .  
+
+  The Company s principal executive officer and its
+principal financial officer have concluded that the Company s disclosure
+controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the
+Securities Exchange Act of 1934, as amended ( the Act )) were effective as of
+October 31, 2006, based on the evaluation of these controls and procedures
+required by Rule 13a-15(b) or 15d-15(b) of the Act.  
+
+    Item 9B  .
+  Other Information .  
+
+   Not applicable.   
+
+    PART III    
+
+    Item 10  .   Directors and Executive Officers of the
+Registrant .  
+
+  Omitted pursuant to instruction I(2).  
+
+    Item 11  .   Executive Compensation .  
+
+  Omitted pursuant to instruction I(2).  
+
+23     
+
+Item 12  .   Security Ownership of Certain Beneficial
+Owners and Management and Related Stockholder Matters.   
+
+  Omitted pursuant to instruction I(2).  
+
+    Item 13  .   Certain Relationships and Related
+Transactions .  
+
+  Omitted pursuant to instruction I(2).  
+
+    Item 14  .   Principal Accountant Fees and Services.   
+
+  For
+the years ended October 31, 2006 and 2005, professional services were performed
+by Deloitte   Touche LLP, the member firms of Deloitte Touche Tohmatsu, and
+their respective affiliates (collectively,  Deloitte   Touche ).  
+
+   Audit
+Fees   
+
+  The
+aggregate fees billed include amounts for the audit of the Company s annual
+financial statements, the reviews of the financial statements included in the
+Company s Quarterly Reports on Form 10-Q, including services related thereto
+such as comfort letters, statutory audits, attest services, consents, and
+assistance with and review of documents filed with the SEC and other regulatory
+bodies. Audit fees for the fiscal years ended October 31, 2006 and 2005, were
+$1,725 thousand and $1,959 thousand, respectively.  
+
+   Audit-Related
+Fees   
+
+  During
+the last two fiscal years, Deloitte   Touche has provided the Company with
+assurance and related services that are reasonably related to the performance
+of the audit of our financial statements. The aggregate fees billed for such
+audit-related services for the fiscal years ended October 31, 2006 and 2005,
+were $163 thousand and $156 thousand, respectively. These services
+included various attest services.  
+
+   Tax
+Fees   
+
+  The
+aggregate fees billed for professional services provided by Deloitte  
+Touche in connection with tax advice and tax planning services for the fiscal
+years ended October 31, 2006 and 2005 were $4 thousand.  
+
+   All
+Other Fees   
+
+  There were no aggregate
+fees billed for services not included above for the fiscal years ended October
+31, 2006 and 2005.  
+
+   Pre-approval
+of Services by the External Auditor   
+
+  As a
+wholly-owned subsidiary of Deere   Company, audit and non-audit services
+provided by the Company s external auditor are subject to Deere   Company s
+Audit Review Committee pre-approval policies and procedures as described in the
+Deere   Company 2006 proxy statement. 
+During the fiscal year ended October 31, 2006, all services provided by
+the external auditor were pre-approved by Deere   Company s Audit Review
+Committee in accordance with such policy.  
+
+24     
+
+PART IV    
+
+    Item 15  .   Exhibits and Financial Statement Schedules .  
+
+  (1)                                     Financial
+Statements 
+
+  (2)                                     Financial
+Statement Schedules 
+
+  See the table of contents to financial statements and
+schedules immediately preceding  
+
+  the financial statements and schedules to consolidated
+financial statements.  
+
+  (3)                                     Exhibits 
+
+  See the index to
+exhibits immediately preceding the exhibits filed with this report.  
+
+25  
+
+SIGNATURES   
+
+  Pursuant to the requirements of Section 13 or 15(d) of
+the Securities Exchange Act of 1934, the registrant has duly caused this report
+to be signed on its behalf by the undersigned, thereunto duly authorized.  
+
+JOHN DEERE CAPITAL
+  CORPORATION  
+
+By:  
+
+/s/ R. W. Lane   
+
+R. W. Lane  
+
+Chairman and
+  Principal Executive Officer  
+
+Date:                       December
+20, 2006 
+
+  Pursuant to the requirements of the Securities
+Exchange Act of 1934, this report has been signed below by the following
+persons on behalf of the registrant and in the capacities and on the date
+indicated.  
+
+  Each person
+signing below also hereby appoints Robert W. Lane, James A. Israel and Marc A.
+Howze, and each of them singly, his or her lawful attorney-in-fact with full
+power to execute and file any and all amendments to this report together with
+exhibits thereto and generally to do all such things as such attorney-in-fact
+may deem appropriate to enable John Deere Capital Corporation to comply with
+the provisions of the Securities Exchange Act of 1934 and all requirements of
+the Securities and Exchange Commission.  
+
+Signature 
+
+Title   
+
+Date   
+
+/s/ R. W. Lane   
+
+Director, Chairman and  
+
+)  
+
+R. W. Lane  
+
+Principal Executive
+  Officer  
+
+)  
+
+)  
+
+)  
+
+/s/ Samuel R. Allen   
+
+Director  
+
+)  
+
+Samuel R. Allen  
+
+)  
+
+)  
+
+)  
+
+/s/ David C. Everitt   
+
+Director  
+
+)  
+
+December 20, 2006  
+
+David C. Everitt  
+
+)  
+
+)  
+
+)  
+
+/s/ James A. Israel   
+
+Director and President  
+
+)  
+
+James A. Israel  
+
+)  
+
+)  
+
+)  
+
+/s/ James R. Jabanoski   
+
+Director  
+
+)  
+
+James R.
+  Jabanoski  
+
+)  
+
+26     
+
+Signature 
+
+Title   
+
+Date   
+
+/s/
+  Nathan J. Jones    
+
+Director  
+
+)  
+
+Nathan J. Jones   
+
+)  
+
+)  
+
+)  
+
+/s/
+  M. J. Mack, Jr.    
+
+Director, Senior Vice
+  President   
+
+)  
+
+M. J. Mack, Jr.   
+
+and Principal Financial
+  Officer  
+
+)  
+
+)  
+
+)  
+
+/s/
+  H. J. Markley   
+
+Director  
+
+)  
+
+December 20, 2006  
+
+H. J. Markley  
+
+)  
+
+)  
+
+)  
+
+/s/ Stephen Pullin   
+
+Director  
+
+)  
+
+Stephen Pullin  
+
+)  
+
+)  
+
+)  
+
+/s/
+  Lawrence W. Sidwell   
+
+Director  
+
+)  
+
+Lawrence W.
+  Sidwell  
+
+)  
+
+27  
+
+Table of
+Contents    
+
+SCHEDULES OMITTED   
+
+  The following
+schedules are omitted because of the absence of conditions under which they are
+required or because the required information is included in the Notes to the
+Consolidated Financial Statements:  
+
+  I, II, III, IV,
+and V.  
+
+28     
+
+Deloitte   Touche LLP  
+
+  111 S. Wacker Drive  
+
+  Chicago, Illinois 
+60606  
+
+   REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM   
+
+  John
+Deere Capital Corporation:  
+
+  We
+have audited the accompanying consolidated balance sheets of John Deere Capital
+Corporation and subsidiaries (the  Company ) as of October 31, 2006 and 2005
+and the related statements of consolidated income and retained earnings, of
+changes in consolidated stockholder s equity and of consolidated cash flows for
+each of the three years in the period ended October 31, 2006.  These financial statements are the
+responsibility of the Company s management. 
+Our responsibility is to express an opinion on these financial
+statements based on our audits.  
+
+  We
+conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). 
+Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of
+material misstatement.  The Company is
+not required to have, nor were we engaged to perform, an audit of its internal
+control over financial reporting.  Our
+audits included consideration of internal control over financial reporting as a
+basis for designing audit procedures that are appropriate in the circumstances,
+but not for the purpose of expressing an opinion on the effectiveness of the
+Company s internal control over financial reporting.  Accordingly, we express no such opinion. An
+audit also includes examining, on a test basis, evidence supporting the amounts
+and disclosures in the financial statements. 
+An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation.  We
+believe that our audits provide a reasonable basis for our opinion.  
+
+  In
+our opinion, such consolidated financial statements present fairly, in all
+material respects, the financial position of the Company at October 31, 2006
+and 2005 and the results of its operations and its cash flows for each of the
+three years in the period ended October 31, 2006 in conformity with accounting
+principles generally accepted in the United States of America.  
+
+  Deloitte   Touche LLP  
+
+  Chicago,
+Illinois  
+
+  December
+18, 2006  
+
+29  
+
+John
+Deere Capital Corporation and Subsidiaries     
+
+   Statements
+of Consolidated Income and Retained Earnings     
+
+   For the Years Ended October 31,
+2006, 2005 and 2004   
+
+  (in millions)  
+
+The accompanying Notes to
+Consolidated Financial Statements are an integral part of this statement.  
+
+30     
+
+John Deere Capital Corporation
+and Subsidiaries   
+
+   Consolidated
+Balance Sheets     
+
+   As of October 31, 2006 and 2005   
+
+  (in millions)  
+
+The accompanying Notes to
+Consolidated Financial Statements are an integral part of this statement.  
+
+31     
+
+John Deere Capital Corporation
+and Subsidiaries   
+
+   Statements
+of Consolidated Cash Flows     
+
+   For the Years Ended October 31,
+2006, 2005 and 2004   
+
+  (in millions)  
+
+The accompanying
+Notes to Consolidated Financial Statements are an integral part of this
+statement.  
+
+32     
+
+John Deere Capital Corporation
+and Subsidiaries   
+
+   Statement
+of Changes in Consolidated Stockholder s Equity     
+
+   For the Years Ended October 31,
+2004, 2005 and 2006   
+
+  (in millions)  
+
+The accompanying Notes to
+Consolidated Financial Statements are an integral part of this statement.  
+
+33  
+
+John Deere Capital Corporation and Subsidiaries 
+Notes to Consolidated Financial Statements     
+
+Note 1  .    Summary of Significant Accounting Policies   
+
+  The following are significant accounting policies in
+addition to those included in other notes to the consolidated financial
+statements.  
+
+   Corporate Organization   
+
+  John Deere Capital Corporation (Capital Corporation)
+and its subsidiaries are collectively called the Company. John Deere Credit
+Company, a wholly-owned finance holding subsidiary of Deere   Company, is
+the parent of the Company. The Company conducts business in Australia, New
+Zealand, the U.S., and in several countries in Europe and Latin America. Deere
+  Company and its wholly-owned subsidiaries are collectively called John
+Deere.  
+
+  Retail notes, revolving charge accounts, operating
+loans, financing leases and wholesale receivables are collectively called  Receivables. 
+Receivables and operating leases are collectively called  Receivables and
+Leases.   
+
+  The Company bears substantially all of the credit risk
+(net of recovery from withholdings from certain John Deere dealers, and
+customer guarantees from certain John Deere dealers and Farm Plan    
+and PowerPlan    merchants) associated with its holding of
+Receivables and Leases. A small portion of the Receivables and Leases held
+(less than 5 percent) is guaranteed by certain subsidiaries of Deere  
+Company. The Company also performs substantially all servicing and collection
+functions. Servicing and collection functions for a small portion of the
+Receivables and Leases held (less than 5 percent) are provided by John Deere.
+John Deere is reimbursed for staff and other administrative services at
+estimated cost, and for credit lines provided to the Company based on
+utilization of those lines. 
+
+   Principles of
+Consolidation   
+
+  The consolidated financial statements include the
+financial statements of the Capital Corporation and its subsidiaries. The
+consolidated financial statements represent the consolidation of all companies
+in which the Capital Corporation has a controlling interest. The Capital
+Corporation records its investment in each unconsolidated affiliated company at
+its related equity in the net assets of such affiliate. Certain special purpose
+entities (SPEs) related to the securitization of financing receivables for secured
+borrowings, which are variable interest entities (VIEs), are consolidated since
+the Company is the primary beneficiary for these VIEs. Certain other SPEs
+related to the securitization and sale of financing receivables, which are also
+VIEs, are not consolidated since the Company does not control these entities,
+and they either meet the requirements of qualified SPEs or the Company is not
+the primary beneficiary.  In addition,
+the specified assets in these unconsolidated VIEs related to the Company s
+securitizations are not the only source of payment for specified liabilities or
+other interests of these VIEs and, therefore, do not require consolidation (see
+Note 4).  
+
+   Use of Estimates
+in Financial Statements   
+
+  The preparation of financial statements in conformity
+with accounting principles generally accepted in the U.S. requires management
+to make estimates and assumptions that affect the reported amounts and related
+disclosures. Actual results could differ from those estimates.  
+
+   Revenue Recognition   
+
+  Financing revenue is recorded over
+the lives of the related receivables using the interest method. Deferred costs
+on the origination of receivables are recognized as a reduction in finance
+revenue over the expected lives of the receivables using the interest method. Income
+from operating leases is recognized on a straight-line basis over the scheduled
+lease terms.  
+
+34     
+
+Securitization of
+Receivables    
+
+  Certain
+financing receivables are periodically transferred to SPEs in securitization
+transactions (see Note 4). For securitizations that qualify as sales of
+receivables, the gains or losses from the sales are recognized in the period of
+sale based on the relative fair value of the portion sold and the portion
+allocated to retained interests. The retained interests are recorded at fair
+value estimated by discounting future cash flows. Changes in these fair values
+are recorded after-tax in other comprehensive income in unrealized gain or loss
+on investments. Other-than-temporary impairments are recorded in net income.
+For securitizations that qualify as collateral for secured borrowings, no gains
+or losses are recognized at the time of securitization. These receivables
+remain on the balance sheet and are classified as  Restricted securitized
+retail notes.  The Company recognizes finance income over the lives of these
+retail notes using the interest method.  
+
+   Depreciation   
+
+  Equipment on
+operating leases is depreciated over the terms of the leases using the
+straight-line method (see Note 5).  
+
+   Derivative Financial
+Instruments   
+
+  It is the Company s policy that derivative
+transactions are executed only to manage exposures arising in the normal course
+of business and not for the purpose of creating speculative positions or
+trading. The Company manages the relationship of the types and amounts of funding
+sources to its receivable and lease portfolio in an effort to diminish risk due
+to interest rate and foreign currency fluctuations, while responding to
+favorable financing opportunities. The Company also has foreign currency
+exposures at some of its foreign and domestic operations related to financing
+in currencies other than the local currencies.  
+
+  All
+derivatives are recorded at fair value on the balance sheet. Each derivative is
+designated as either a cash flow hedge or a fair value hedge, or remains undesignated.
+Changes in the fair value of derivatives that are designated and effective as
+cash flow hedges are recorded in other comprehensive income and reclassified to
+the income statement when the effects of the item being hedged are recognized
+in the income statement. Changes in the fair value of derivatives that are
+designated and effective as fair value hedges are recognized currently in net
+income and offset to the extent the hedge was effective by the fair value
+changes in the hedged item. Changes in the fair value of undesignated hedges
+are recognized currently in the income statement. All ineffective changes in
+derivative fair values are recognized currently in net income.  
+
+  All
+designated hedges are formally documented as to the relationship with the
+hedged item as well as the risk-management strategy. Both at inception and on
+an ongoing basis the hedging instrument is assessed as to its effectiveness,
+when applicable. If and when a derivative is determined not to be highly
+effective as a hedge, or the underlying hedged transaction is no longer likely
+to occur, or the derivative is terminated, the hedge accounting discussed above
+is discontinued and any past or future changes in the derivative s fair value
+that will not be effective as an offset to the income effects of the item being
+hedged are recognized currently in the income statement (see Note 18).  
+
+   Foreign Currency
+Translation   
+
+  The functional currencies for most of the Company s
+foreign operations are their respective local currencies. The assets and
+liabilities of these operations are translated into U.S. dollars at the end of
+the period exchange rates, and the revenues and expenses are translated at
+weighted-average rates for the period. The gains or losses from these
+translations are included in other comprehensive income, which is part of
+stockholder s equity. Gains or losses from transactions denominated in a
+currency other than the functional currency of the subsidiary involved and
+foreign exchange forward contracts and options are included in net income or
+other comprehensive income as appropriate. The total foreign exchange pretax
+net loss for 2006, 2005 and 2004 was $.5 million, $.5 million and $1.0 million,
+respectively.  
+
+35     
+
+New Accounting Standards Adopted   
+
+  Certain employees of the
+Company participate in Deere   Company share-based compensation plans.
+Accordingly, in the first quarter of 2006, the Company adopted FASB Statement
+No. 123 (revised 2004), Share-Based Payment, using the modified prospective
+method of adoption, which does not require restatement of prior periods. The
+revised standard eliminated the intrinsic value method of accounting for
+share-based employee compensation under APB Opinion No. 25, Accounting for
+Stock Issued to Employees. The revised standard generally requires the recognition
+of the cost of employee services for share-based compensation based on the
+grant date fair value of the equity or liability instruments issued. The effect
+of adoption of the new standard in 2006 for the Company was an additional
+expense of $5.7 million pretax, or $3.6 million after-tax. Further
+disclosure for these plans is included in Deere   Company s Form 10-K
+for the year ended October 31, 2006.  
+
+  At October 31, 2006, the Company
+adopted FASB Interpretation (FIN) No. 47, Accounting for Conditional Asset
+Retirement Obligations. This Interpretation relates to legal obligations
+associated with retirement of tangible long-lived assets that result from the
+acquisition, construction, or normal operations of the asset. Under this
+standard, an accrual is required for these legal asset retirement obligations
+in which the timing or method of settlement is conditional on future events
+that may or may not be within the control of the entity. The accrual is
+recorded as an increase in the cost basis of the related property and
+recognized in expense over the useful life of the asset. The adoption of this
+Interpretation did not have a material effect on the Company s financial
+position or net income. The pro forma effects on all years presented were also
+not material.  
+
+   New Accounting Standards to be Adopted    
+
+  In May 2005, the FASB issued Statement No. 154, Accounting Changes and
+Error Corrections. This Statement requires voluntary changes in accounting
+principles to be recorded retrospectively for prior periods presented rather
+than a cumulative adjustment in the current period. This treatment would also
+be required for new accounting pronouncements if there are no specific
+transition provisions. The accounting for changes in estimates in the current
+period and the accounting for errors as restatements of prior periods has not
+changed. In February 2006, the FASB issued Statement No. 155, Accounting for
+Certain Hybrid Financial Instruments. This Statement primarily resolves certain
+issues addressed in the implementation of FASB Statement No. 133 concerning
+beneficial interests in securitized financial assets. In March 2006, the FASB
+issued Statement No. 156, Accounting for Servicing of Financial Assets. This
+Statement clarifies the criteria for recognizing servicing assets and
+liabilities, requires these items to be initially measured at fair value and
+permits subsequent measurements on either an amortization or fair value basis.
+The effective date of these Statements is the beginning of fiscal year 2007.
+The adoption of these Statements is not expected to have a material effect on
+the Company s financial position or net income.  
+
+  In September 2006, FASB issued
+Statement No. 157, Fair Value Measurements. This statement defines fair value
+and expands disclosures about fair value measurements. These methods will apply
+to other accounting standards, which use fair value measurements and may change
+the application of certain measurements used in current practice. The effective
+date is the beginning of fiscal year 2009. The adoption is not expected to have
+a material effect on the Company s financial position or net income.  
+
+   The Company is a
+participating employer in certain Deere   Company sponsored defined benefit
+pension plans for employees in the U.S. and certain defined benefit pension
+plans outside the U.S. In September 2006, the FASB issued Statement No. 158,
+Employers  Accounting for Defined Benefit Pension and Other Postretirement
+Plans. This Statement requires retirement benefit accruals or prepaid benefit
+costs on the balance sheet to be adjusted to the difference between the benefit
+obligations and the plan assets at fair value. The offset to the adjustment is
+recorded directly in stockholder s equity net of tax. The amount recorded in
+stockholder s equity would represent the after-tax unrecognized actuarial gains
+or losses and unamortized prior service costs. This Statement also requires all
+benefit obligations and plan assets to be measured at fiscal year end. The
+effective date for the funded status adjustment is the end of fiscal year 2007
+and the year-end measurement date is fiscal year 2009. The adoption of this
+Statement is not expected to have a material effect on the Company s financial
+position or net income. The Company does not expect violations of any credit agreements
+as a result of adopting this new standard.    Further disclosure for these plans is
+included in Deere   Company s Form 10-K for the year ended
+October 31, 2006. 
+
+36     
+
+In June 2006, the
+FASB issued Interpretation No. 48, Accounting for Uncertainty in Income Taxes.
+This interpretation clarifies the recognition for uncertain tax positions
+should be based on a more-likely-than-not threshold that the tax position will
+be sustained upon audit. The tax position is measured as the amount of benefit
+that is greater than 50 percent likely of being realized upon ultimate
+settlement. The effective date is the beginning of fiscal year 2008 with the
+cumulative effect reported as an adjustment to the beginning retained earnings.
+The Company is currently reviewing the impact of this new standard and has not
+determined the potential effect on the financial statements.  
+
+    Note 2  .    Receivables    
+
+   Retail Notes Receivable   
+
+  The Company provides and administers financing for
+retail purchases of new equipment manufactured by John Deere s agricultural,
+construction and forestry, and commercial and consumer equipment divisions and
+used equipment taken in trade for this equipment. The Company purchases retail
+installment sales and loan contracts (retail notes) from John Deere. These
+retail notes are acquired by John Deere through John Deere equipment retail
+dealers. The Company also purchases and finances a limited amount of retail
+notes unrelated to John Deere.  
+
+  Retail notes receivable
+by product category at October 31 are as follows (in millions of dollars):  
+
+Retail notes acquired by the Company during the years
+ended October 31, 2006, 2005 and 2004 had an estimated average original term
+(based on dollar amounts) of 53, 53 and 54 months, respectively. Historically,
+because of prepayments, the average actual life of retail notes has been
+considerably shorter than the average original term. The average actual life
+for retail notes liquidated in 2006, 2005 and 2004 was 34, 35 and
+35 months, respectively.  
+
+37     
+
+Gross retail note installments at October 31 are
+scheduled to be received as follows (in millions of dollars):  
+
+Company guidelines relating to down payment
+requirements and contract terms on retail notes are generally as follows:  
+
+During 2006, 2005 and 2004, the Company received
+proceeds from the sale of Receivables (including securitized sales) of $143
+million, $133 million and $2,219 million, respectively. The Company acts as
+agent for the buyers in collection and administration for virtually all of the
+Receivables it has sold. All Receivables sold are collateralized by security
+agreements on the related equipment. The Company s estimated maximum exposure
+under all Receivable and Lease recourse provisions at October 31, 2006, 2005
+and 2004 was $105 million, $140 million and $203 million, respectively. In
+addition, the Company has provided letters of credit for John Deere Credit
+Inc., the John Deere finance subsidiary in Canada, as part of retail note
+sales. At October 31, 2006, 2005 and 2004, the maximum exposure under these
+agreements was approximately $7 million, $ 7 million and $8 million,
+respectively. The Company does not record the recourse obligations as
+liabilities as they are contingent liabilities that are remote at this time.
+However, the probable loss on receivables that have been sold was accrued at
+the time of sale, and any subsequent necessary adjustments are made as part of
+ongoing reviews. At October 31, 2006, 2005 and 2004, the balance of all
+Receivables and Leases previously sold, but still administered by the Company,
+was $954 million, $1,719 million and $3,052 million, respectively.  
+
+  Finance income is recognized over the lives of the
+retail notes using the interest method. During 2006, the average effective
+yield on retail notes held by the Company was approximately 7.3 percent,
+compared with 6.6 percent in 2005 and 6.3 percent in 2004. Unearned
+finance income on variable-rate retail notes is adjusted monthly based on
+fluctuations in the base rate of a specified bank. Costs incurred in the
+acquisition of retail notes are deferred and recognized over the expected lives
+of the retail notes using the interest method.  
+
+  A portion of the finance income earned by the Company
+arises from financing of retail sales of John Deere equipment on which finance
+charges are waived or reduced by John Deere for a period from the date of sale
+to a specified subsequent date. The Company receives compensation from John
+Deere equal to competitive market interest rates for periods during which
+finance charges have been waived or reduced on retail notes and leases.  The Company computes the compensation from
+John Deere for waived or reduced finance charges based on the  
+
+38     
+
+Company s estimated funding costs, administrative and operating
+expenses, credit losses, and required return on equity. The finance income
+earned following the waiver or interest reduction period is not significantly
+different from the compensation earned from John Deere. The portions of the
+Company s finance income earned that were received from John Deere on retail
+notes containing waiver of finance charges or reduced rates were 22 percent in
+2006, 22 percent in 2005 and 25 percent in 2004. During 2006, 2005 and
+2004, the finance income earned from Deere   Company on retail notes
+containing waiver of finance charges or reduced rates was $158 million,
+$116 million and $96 million, respectively.  
+
+  A deposit equal to one percent of the face amount of
+certain John Deere agricultural and commercial and consumer equipment retail
+notes originating from each dealer is withheld by the Company from that dealer.
+Any subsequent retail note losses are charged against the withheld deposits. At
+the end of each calendar quarter, the balance of each dealer s withholding
+account in excess of a specified percent (ranging from one to three percent
+based on dealer qualifications) of the total balance outstanding on retail
+notes originating with that dealer is remitted to the dealer. To the extent that
+these deposits withheld from the dealer from whom the retail note was acquired
+cannot absorb a loss on a retail note, it is charged against the Company s
+allowance for credit losses. There is no withholding of dealer deposits on John
+Deere construction and forestry equipment retail notes or recreational product
+retail notes.  
+
+  The Company requires that theft and physical damage
+insurance be carried on all goods leased or securing retail notes and wholesale
+receivables. The customer may, at his own expense, have the Company or the
+seller of the goods purchase this insurance or obtain it from other sources.  
+
+   Revolving Charge Accounts Receivable   
+
+  Revolving charge account income is generated primarily
+by three revolving credit products: Farm Plan    ,
+PowerPlan    and the John Deere Credit Revolving Plan. Farm
+Plan    is primarily used by farmers and ranchers to
+finance day-to-day operating expenses, such as parts and services. Merchants
+offer Farm Plan    as an alternative to carrying in-house accounts
+receivable, and can initially sell existing balances to the Company under a
+recourse arrangement. Farm Plan    income includes a
+discount paid by merchants for transaction processing and support, and finance
+charges paid by customers on their outstanding account balances. PowerPlan   
+is primarily used by construction companies to finance day-to-day operating
+expenses, such as parts and service, and is otherwise similar to Farm Plan   .  Merchants offer PowerPlan   
+as an alternative to carrying in-house accounts receivable, and can initially
+sell existing balances to the Company under a recourse arrangement. PowerPlan   
+income includes a discount paid by merchants for transaction processing and
+support and finance charges paid by customers on their outstanding account
+balances.  The John Deere Credit
+Revolving Plan is used primarily by retail customers of John Deere dealers to
+finance commercial and consumer equipment. Income includes a discount paid by
+dealers on most transactions and finance charges paid by customers on their
+outstanding account balances. Revolving charge accounts receivable at October
+31, 2006 and 2005 totaled $1,512 million and $1,528 million, respectively.
+Generally, account holders may pay the account balance in full at any time, or
+make payments over a number of months according to a payment schedule. 
+
+   Operating Loans   
+
+  Operating loan income is generated primarily by
+operating loans that are offered through several leading farm input providers
+or through direct relationships with agricultural producers to finance the
+acquisition of materials such as seeds and fertilizers. Income on this product
+is generated from finance charges paid by customers on their outstanding
+account balances. Operating loan receivables totaled $379 million and $384
+million at October 31, 2006 and 2005, respectively.  
+
+39     
+
+Financing Leases   
+
+  The Company leases agricultural, construction and
+forestry, commercial and consumer and certain other equipment directly to
+retail customers. At the time of accepting a lease that qualifies as a
+financing lease under FASB Statement No. 13, Accounting for Leases, the Company
+records the gross amount of lease payments receivable, estimated residual value
+of the leased equipment and unearned finance income. The unearned finance
+income is equal to the excess of the gross lease receivable plus the estimated
+residual value over the cost of the equipment. The unearned finance income is
+recognized as revenue over the lease term using the interest method. Lease
+acquisition costs are accounted for in a manner similar to the procedures for
+retail notes.  
+
+  Financing leases
+receivable by product category at October 31 are as follows (in millions of
+dollars):  
+
+Initial lease terms for financing leases generally
+range from 36 months to 60 months. Payments on financing leases receivable at
+October 31 are scheduled as follows (in millions of dollars):  
+
+Deposits withheld from John Deere dealers and related
+losses on financing leases are handled in a manner similar to the procedures
+for retail notes. As with retail notes, there are no deposits withheld from
+dealers on financing leases related to construction and forestry equipment. In
+addition, a lease payment discount program, allowing reduced payments over the
+term of the lease, is administered in a manner similar to finance waiver on
+retail notes.  
+
+  Equipment returned to the Company upon termination of
+leases and held for subsequent sale or lease is recorded at the lower of net
+book value or estimated market value of the equipment.  
+
+40     
+
+Wholesale Receivables   
+
+  The Company also finances wholesale
+inventories of John Deere agricultural equipment, commercial and consumer
+equipment and construction and forestry equipment owned by dealers of those
+products in the form of wholesale receivables. Wholesale finance income related
+to these notes is generally recognized monthly based on the daily balance of
+wholesale receivables outstanding and the applicable effective interest rate.
+Interest rates vary with a bank base rate, the type of equipment financed and
+the balance outstanding. Substantially all of wholesale receivables are secured
+by equipment financed. The average actual life for wholesale receivables is
+less than 12 months.  
+
+  The Company purchases certain wholesale receivables
+(trade receivables) from John Deere. These trade receivables arise from John
+Deere s sales of goods to dealers. Under the terms of the sales to dealers,
+interest is charged to dealers on outstanding balances, from the earlier of the
+date when goods are sold to retail customers by the dealer or the expiration of
+certain interest-free periods granted to the dealer at the time of the sale,
+until payment is received by the Company. Dealers cannot cancel purchases after
+goods are shipped and are responsible for payment even if the equipment is not
+sold to retail customers. The interest-free periods are determined based on the
+type of equipment sold and the time of year of the sale. These periods range
+from one to twelve months for most equipment. Interest-free periods may not be
+extended. Interest charged may not be forgiven and interest rates, which exceed
+the prime rate, are set based on market factors. The Company receives
+compensation from John Deere equal to competitive market interest rates for
+these interest-free periods. The Company computes the compensation from John
+Deere for interest-free periods based on the Company s estimated funding costs,
+administrative and operating expenses, credit losses, and required return on
+equity. The finance income earned following the interest-free period is not
+significantly different from the compensation earned from John Deere. During
+2006, 2005 and 2004, the compensation earned from John Deere was $240 million,
+$219 million and $200 million, respectively.  
+
+   Other Receivables   
+
+  The Company has sold retail notes to limited-purpose
+business trusts and to private third parties, which utilize the notes as
+collateral for asset-backed securities issued. Other receivables related to
+securitizations are recorded at net present value and relate to payments to be
+received for retained interests. These retained interests are subsequently
+carried at estimated fair value with other-than-temporary impairments to fair
+value included in income. Securitization and servicing fee income includes the
+interest earned on these retained interests and reimbursed administrative
+expenses.  
+
+   Concentration of Credit Risk   
+
+  Receivables have significant concentrations of credit
+risk in the agricultural, construction and forestry, and commercial and
+consumer business sectors as shown in the previous tables. On a geographic
+basis, there is not a disproportionate concentration of credit risk in any area
+in which the Company operates. The Company retains as collateral a security
+interest in the goods associated with Receivables other than certain revolving
+charge accounts.  
+
+41  
+
+Note 3  .    Allowance for Credit Losses, Delinquencies and Write-offs   
+
+   Allowance for Credit Losses   
+
+  Allowances for credit losses on Receivables are
+maintained in amounts considered to be appropriate in relation to the
+Receivables outstanding based on collection experience, economic conditions and
+credit risk quality.  
+
+  An analysis of the allowance for credit losses on
+total Receivables follows (in millions of dollars):  
+
+The allowance for credit losses represented .55
+percent, .63 percent and .89 percent of Receivables financed at October 31,
+2006, 2005 and 2004, respectively. In addition, the Company had $177 million,
+$166 million and $168 million at October 31, 2006, 2005 and 2004,
+respectively, of deposits primarily withheld from John Deere dealers available
+for certain potential credit losses originating from those dealers.  
+
+   Delinquencies   
+
+  Generally, when retail notes become 120 days
+delinquent, accrual of finance income is suspended, the collateral is
+repossessed or the account is designated for litigation and the estimated
+uncollectible amount, after charging the dealer s withholding account, if any,
+is written off to the allowance for credit losses. Accrual of revolving charge
+account income is suspended generally when the account becomes 120 days
+delinquent. Accounts are deemed to be uncollectible and written off to the
+allowance for credit losses when delinquency reaches 120 days for a Farm Plan    ,
+PowerPlan    or John Deere Credit Revolving Plan account.
+When a financing lease account becomes 120 days delinquent, the accrual of
+lease revenue is suspended, the equipment is repossessed or the account is
+designated for litigation, and the estimated uncollectible amount, after
+charging the dealer s withholding account, if any, is written off to the
+allowance for credit losses. Generally, when a wholesale receivable becomes 60
+days delinquent, the Company determines whether the accrual of finance income
+on interest-bearing wholesale receivables should be suspended, the collateral
+should be repossessed or the account should be designated for litigation and
+the estimated uncollectible amount written off to the allowance for credit
+losses. 
+
+42     
+
+Total Receivable amounts
+60 days or more past due in the table below represent the amount of all
+customer payments past due 60 days or more, by product, and as a percent of the
+respective receivables. They are as follows (in millions of dollars):  
+
+*                                           Due to the nature of
+revolving charge accounts, the customer payments past due 60 days or more also
+represent the total balance.  
+
+  Total non-performing Receivables, which represent
+loans the Company has ceased accruing interest for, by product, and as a
+percent of the respective receivables were as follows (in millions of dollars):  
+
+43     
+
+Write-offs    
+
+  Total Receivable write-off amounts, net of recoveries,
+by product, and as a percentage of average balances held during the year, were
+as follows (in millions of dollars):  
+
+Note 4  .    Retail Note Securitizations   
+
+  The Company, as a part of its overall funding
+strategy, periodically transfers certain receivables (retail notes) into
+special purpose entities (SPEs) as part of its asset-backed securities programs
+(securitizations) involving its retail notes. 
+For securitizations entered into prior to 2005, the structure of these
+transactions is such that the transfer of the retail notes met the criteria of
+sales in accordance with FASB Statement No. 140, Accounting for Transfers and
+Servicing of Financial Assets and Extinguishment of Liabilities. Beginning in
+2005, the transfer of retail notes into new securitization transactions did not
+meet the sales criteria of FASB Statement No. 140 and are, therefore, accounted
+for as secured borrowings.  SPEs
+utilized in securitizations of retail notes differ from other entities included
+in the Company s consolidated statements because the assets they hold are
+legally isolated. For bankruptcy analysis purposes, the Capital Corporation has
+sold the receivables to the SPEs in a true sale and the SPEs are separate legal
+entities. Use of the assets held by the SPEs is restricted by terms of the
+documents governing the securitization transaction. Further information related
+to the secured borrowings and sales of retail notes is provided below. 
+
+   Secured Borrowings   
+
+  Beginning in 2005, the Company s new securitizations
+of retail notes were accounted for as secured borrowings. Retail notes related
+to these programs were transferred to certain SPEs which in turn issued debt to
+investors. The resulting secured borrowings are included in short-term
+borrowings on the balance sheet as shown in the following table. The
+securitized retail notes are recorded as  Restricted securitized retail notes 
+on the balance sheet. The total restricted assets on the balance sheet related
+to these securitizations include the restricted securitized retail notes less
+an allowance for credit losses, and other assets representing restricted cash
+as shown in the following table. In addition to the restricted assets shown in
+the table, a reserve fund included in  Other receivables  related to retained
+interests for certain securitizations that qualified as sales of receivables is
+also available as a credit enhancement for securitizations related to certain
+secured borrowings. The amounts of this reserve fund at October 31, 2006 and
+2005 were $22 million and $42 million, respectively. The SPEs supporting
+the secured borrowings to which the retail notes are transferred are
+consolidated unless the Company is not the primary beneficiary or the SPE is a
+qualified special purpose entity as defined in FASB Statement No. 140.  
+
+44     
+
+The total components of consolidated restricted assets related to secured
+borrowings in securitization transactions at October 31 were as follows (in
+millions of dollars):  
+
+The components of the secured borrowings and other
+liabilities related to these securitizations at October 31 were as follows (in
+millions of dollars):  
+
+The secured borrowings related to these restricted
+securitized retail notes are obligations that are payable as the retail notes
+are liquidated. Repayment of the secured borrowings depends primarily on cash
+flows generated by the restricted assets and the reserve fund mentioned above.
+The consolidated assets (restricted retail notes) relating to an SPE in which
+the Company is the primary beneficiary, and, therefore, the SPE is consolidated
+under FASB Interpretation No. 46 (revised December 2003), Consolidation of
+Variable Interest Entities, were $1,147 million and $650 million at October 31,
+2006 and 2005, respectively. These restricted retail notes are included in the
+restricted securitized retail notes related to securitizations shown in the
+table above. At October 31, 2006, the maximum remaining term of all restricted
+receivables was approximately six years.  
+
+   Sales of Receivables   
+
+  Prior to 2005, the Company
+periodically transferred certain retail notes into SPEs as part of its
+securitization program in transactions that were structured such that the
+transfer of the retail notes met the criteria of sales in accordance with FASB
+Statement No. 140. The SPEs issue asset-backed securities to investors and use
+the proceeds of the debt issuance to pay for the retail notes. However, the
+Company retains certain interests in the SPE s assets including interest-only
+strips and, in some cases, reserve accounts and subordinated certificates.
+These retained interests are carried at estimated fair value in  Other
+receivables  or  Other assets  on the balance sheet. Gains or losses on sales
+of the receivables depended in part on the previous carrying amount of the
+financial assets involved in the transfer, allocated between the assets sold
+and the retained interest based on their relative fair values at the date of
+transfer. The Company generally estimates fair values based on the present
+value of future expected cash flows using management s key assumptions as
+discussed below. The Company retains the rights to certain future cash flows
+and receives annual servicing fees approximating one percent of the outstanding
+balance. No significant balances for servicing assets or liabilities exist
+because the benefits received for servicing are just adequate to compensate the
+servicer for the costs of providing the servicing. The Company s maximum exposure
+under recourse provisions related to securitized sold retail notes at October
+31, 2006 and 2005 was $97 million and $138 million, respectively. The
+recourse provisions contractually specified by the documents governing the
+securitization transaction are contingent liabilities that are remote at this
+time. Except for this exposure, the investors and securitization trusts have no
+recourse to the Company for failure of debtors to pay when due. The Company s
+retained interests are subordinate to investors  interests and their values are
+subject to certain key assumptions as shown below. The total assets of the
+unconsolidated SPEs related to these securitizations at October 31, 2006 and
+2005 were $903 million and $1,754 million, respectively. At October
+31, 2006, the maximum remaining term of these receivables sold was
+approximately four years.  
+
+45     
+
+Pretax
+gains on securitized retail notes sold (none in 2006 and 2005) and key
+assumptions used to initially determine the fair value of the retained
+interests were as follows:  
+
+2004   
+
+Pretax gains in
+  millions  
+
+$  
+
+45  
+
+Weighted-average
+  maturity in months  
+
+20  
+
+Average annual
+  prepayment rate  
+
+20  
+
+%  
+
+Average expected
+  annual credit losses  
+
+.37  
+
+%  
+
+Discount rate on
+  retained interests and subordinate tranches  
+
+13  
+
+%  
+
+Cash
+flows received from securitization trusts for retail notes sold in millions of
+dollars were as follows:  
+
+Components of retained
+interests in securitized retail notes sold at October 31 were as follows (in
+millions of dollars):  
+
+The total retained
+interests, weighted-average life, weighted-average current key economic
+assumptions and the sensitivity analysis showing the hypothetical effects on
+the retained interests from immediate 10 percent and 20 percent adverse
+changes in those assumptions with dollars in millions were as follows:  
+
+These
+sensitivities are hypothetical changes in fair value and cannot be extrapolated
+because the relationship of the changes in assumption to the changes in fair
+value may not be linear.  Also, the
+effect of a variation in a particular assumption is calculated without changing
+any other assumption, whereas changes in one factor may result in changes in another.  Accordingly, no assurance can be given that
+actual results would be consistent with the results of these estimates.  
+
+46     
+
+Principal balances of
+owned, securitized retail notes sold and total managed retail notes; past due
+amounts; and credit losses (net of recoveries), as of and for the years ended
+October 31, 2006 and October 31, 2005 in millions of dollars follow:  
+
+The amount of actual and projected future credit
+losses as a percent of the original balance of securitized retail notes sold
+(expected static pool losses) were as follows:  
+
+Note 5  .    Equipment on Operating Leases   
+
+  Rental payments applicable to equipment on operating
+leases are recorded as income on a straight-line method over the lease terms.
+Operating lease assets are recorded at cost and depreciated to their estimated
+residual value generally on a straight-line method over the terms of the
+leases. Residual values represent estimates of the value of the leased assets
+at the end of the contract terms and are initially determined based upon
+appraisals and estimates. Residual values are continually reviewed to determine
+that estimated amounts are appropriate.  
+
+  The cost of equipment on operating leases by product
+category at October 31 is as follows (in millions of dollars):  
+
+47     
+
+Initial lease terms for
+equipment on operating leases generally range from 36 months to 60 months.
+Rental payments for equipment on operating leases at October 31 are scheduled
+as follows (in millions of dollars):  
+
+As with construction and forestry retail notes, there
+are no deposits withheld from dealers on operating leases related to
+construction and forestry equipment. In addition, a lease payment discount
+program, allowing reduced payments over the term of the lease, is administered
+in a manner similar to finance waiver on retail notes.  
+
+  Equipment returned to the Company upon termination of
+leases and held for subsequent sale or lease is recorded at the lower of net
+book value or estimated market value of the equipment.  
+
+  Total
+operating lease amounts 60 days or more past due represent the amount of all
+customer payments past due 60 days or more. These amounts were $1 million at
+October 31, 2006, 2005 and 2004.  
+
+    Note 6  .    Notes Receivable from John Deere   
+
+  The Company invests in wind energy generation by
+making loans to certain affiliated companies that have directly invested in
+wind energy projects. On October 31, 2006, notes receivable from John Deere
+related to wind energy loans were $239 million. The Company receives interest
+from John Deere equal to competitive market interest rates. These notes
+generally have original contractual maturities of up to ten years. At October
+31, 2006, the maximum remaining term of the notes was approximately ten years.
+The Company has received security interests in the assets of John Deere
+Renewables, LLC as collateral on these loans.  
+
+    Note 7  .    Short-Term Borrowings   
+
+  On October 31, 2006, short-term borrowings were $7,143
+million, $2,290 million of which was commercial paper. Short-term borrowings
+were $5,767 million on October 31, 2005, $1,696 million of which was commercial
+paper. The Company s short-term borrowings include $2,194 million and $1,353
+million of secured borrowings at October 31, 2006 and 2005, respectively (see
+Note 4). Although these notes payable are classified as short-term since
+payment is required if the retail notes are liquidated early, the payment
+schedule for these borrowings based on the expected liquidations of the retail
+notes in millions of dollars is as follows: 2007 - $811, 2008 - $614, 2009 -
+$442, 2010 - $267 and 2011 - $60. The Company s short-term debt also includes
+amounts borrowed from John Deere, which totaled $178 million and $275
+million at October 31, 2006 and 2005, respectively. The Company pays interest
+on a monthly basis to John Deere for these borrowings based on a current market
+rate. The weighted-average interest rate on total short-term borrowings at
+October 31, 2006 and 2005, excluding current maturities of long-term
+borrowings, was 5.2 percent and 4.0 percent, respectively.  
+
+  Lines of credit available from U.S. and foreign banks
+were $3,016 million at October 31, 2006. Some of these credit lines are
+available to both the Company and Deere   Company. At October 31, 2006,
+$410 million of these worldwide lines of credit were unused. For the purpose of computing unused credit lines,
+commercial paper and short-term bank borrowings, excluding secured borrowings
+and the current portion of long-term borrowings, of the Company and John Deere
+were considered to constitute utilization.  
+
+48     
+
+Included in the above lines of credit was a long-term credit facility
+agreement for $3 billion, expiring in February 2011.  The agreement is
+mutually extendable and the annual facility fee is not significant. The credit
+agreement requires the Company to maintain its consolidated ratio of earnings
+to fixed charges at not less than 1.05 to 1 for each fiscal quarter and the
+ratio of senior debt, excluding securitization indebtedness, to capital base
+(total subordinated debt and stockholder s equity excluding accumulated other
+comprehensive income (loss)) at not more than 8.5 to 1 at the end of any
+fiscal quarter.  Senior debt  consists of the Company s total interest-bearing
+obligations, excluding subordinated debt and certain securitization
+indebtedness, but including borrowings from John Deere. All of these
+requirements of the credit agreement have been met during the periods included
+in the financial statements. The facility fee on these lines of credit is
+divided between Deere   Company and the Company based on the proportion of
+their respective commercial paper outstanding.  
+
+  Deere   Company has an agreement with the Company
+pursuant to which it has agreed to continue to own at least 51 percent of the
+voting shares of capital stock of the Company and to maintain the Company s
+consolidated tangible net worth at not less than $50 million.  This agreement also obligates Deere  
+Company to make income maintenance payments to the Company such that its
+consolidated ratio of earnings to fixed charges is not less than 1.05 to 1 for
+each fiscal quarter. For 2006 and 2005, the Company s ratios were 1.60 to 1 and
+1.88 to 1, respectively, and never less than 1.53 to 1 and 1.74 to 1 for any
+fiscal quarter of 2006 and 2005, respectively. Deere   Company s
+obligations to make payments to the Company under the agreement are independent
+of whether the Company is in default on its indebtedness, obligations or other
+liabilities. Further, Deere   Company s obligations under the agreement are
+not measured by the amount of the Company s indebtedness, obligations or other
+liabilities. Deere   Company s obligations to make payments under this
+agreement are expressly stated not to be a guaranty of any specific
+indebtedness, obligation or liability of the Company and are enforceable only
+by or in the name of the Company. No payments were required under this
+agreement during the periods included in the financial statements.  
+
+    Note 8  .    Long-Term Borrowings   
+
+  Long-term
+borrowings of the Company at October 31 consisted of the following (in millions
+of dollars):  
+
+*               Includes fair
+value adjustments related to interest rate swaps.  
+
+  **           All interest rates
+are as of year-end.  
+
+  The approximate principal amounts of long-term
+borrowings maturing in each of the next five years, in millions of dollars, are
+as follows: 2007 - $2,469, 2008 - $2,893, 2009 - $1,760, 2010 - $849 and 2011 -
+$746.  
+
+49  
+
+Note 9  .    Leases   
+
+  Total rental expense for operating leases was $4
+million, $5 million and $4 million for 2006, 2005 and 2004, respectively. At
+October 31, 2006, future minimum lease payments under operating
+leases amounted to $8 million as follows (in millions of dollars): 2007 - $3,
+2008 - $2, 2009 - $1, 2010 - $1 and 2011 - $1.  
+
+    Note 10  .  Common
+Stock   
+
+  All of the Company s
+common stock is owned by John Deere Credit Company, a wholly-owned finance
+holding subsidiary of Deere   Company. No shares of common stock of the
+Company were reserved for officers or employees or for options, warrants,
+conversions or other rights at October 31, 2006 or 2005. At October 31,
+2006, the Company had authorized, but not issued, 10,000 shares of $1 par value
+preferred stock.    
+
+    Note 11  .  Dividends   
+
+  The Capital Corporation declared and paid $85 million in dividends to
+John Deere Credit Company in 2006 and $150 million in 2005.  In each case, John Deere Credit Company paid
+comparable dividends to Deere   Company.   
+
+    Note 12  .  Pension
+and Other Retirement Benefits   
+
+  The Company is a participating employer in certain
+Deere   Company sponsored defined benefit pension plans for employees in
+the U.S. and certain defined benefit pension plans outside the U.S. These
+pension plans provide for benefits that are based primarily on years of service
+and employee compensation. Pension expense is actuarially determined based on
+the Company s employees included in the plan. The Company s pension expense
+amounted to $5.3 million in 2006, $4.1 million in 2005 and $3.9 million in
+2004.   The accumulated
+benefit obligation and plan net assets for the employees of the Company are not
+determined separately from Deere   Company. 
+  The Company generally provides defined benefit health care and life
+insurance plans for retired employees in the U.S. as a participating employer
+in Deere   Company s sponsored plans. Health care and life insurance
+benefits expense is actuarially determined based on the Company s employees
+included in the plans and amounted to $6.0 million in 2006, $5.5 million
+in 2005 and $6.5 million in 2004. Further disclosure for these plans is
+included in the notes to the Deere   Company 2006 Annual Report
+on Form 10-K.  
+
+    Note 13  .  Income
+Taxes   
+
+   Taxes on Income and
+Income Tax Credits   
+
+  The taxable income
+of the Company is included in the consolidated U.S. income tax return of
+Deere   Company. Provisions for income taxes are made generally
+as if the Capital Corporation and each of its subsidiaries filed separate
+income tax returns.  
+
+50     
+
+Deferred Income Taxes   
+
+  Deferred income
+taxes arise because certain items are treated differently for financial
+accounting than for income tax reporting purposes. An analysis of deferred
+income tax assets and liabilities at October 31 is as follows (in millions of
+dollars):  
+
+The provision for income taxes consisted of the following (in
+millions of dollars):  
+
+At October 31,
+2006, certain tax loss and tax credit carryforwards for $3.4 million were
+available, expiring from 2007 through 2023.  
+
+   Effective Income Tax
+Provision   
+
+  A comparison of
+the statutory and effective income tax provisions and reasons for related
+differences follows (in millions of dollars):  
+
+51     
+
+Note 14    . 
+ Administrative and Operating Expenses    
+
+  The major
+components of administrative and operating expenses are as follows (in millions
+of dollars):  
+
+Note 15  .   Cash Flow Information   
+
+  For purposes of the statements of consolidated cash flows, the Company
+considers investments with purchased maturities of three months or less to be
+cash equivalents. Substantially all of the Company s short-term borrowings,
+excluding the current maturities of long-term borrowings, mature or may require
+payment within three months or less.  
+
+  Cash payments by
+the Company for interest incurred on borrowings in 2006, 2005 and 2004 were
+$742 million, $484 million and $325 million, respectively. Cash payments
+for income taxes during these same periods were $161 million, $164 million and
+$136 million, respectively.  
+
+  The
+Company had non-cash investing activities not included in the statements of
+consolidated cash flows of $128 million for receipt of notes receivable with
+John Deere in exchange for property and equipment in 2006.  
+
+    Note 16  .   Commitments and Contingent Liabilities   
+
+  The Company has certain recourse obligations on Receivables
+that it has previously sold. If the Receivables sold are not collected, the
+Company would be required to cover those losses up to the amount of its
+recourse obligation. At October 31, 2006, the maximum amount of exposure to
+losses under these agreements was $105 million. The estimated credit risk
+associated with sold receivables totaled $3 million at October 31, 2006. This
+risk of loss is recognized primarily in the retained interests recorded on the
+Company s balance sheet (See Note 4). The Company may recover a portion of any
+required payments incurred under these agreements from the repossession of the
+equipment collateralizing the Receivables. At October 31, 2006, the maximum
+remaining term of the Receivables guaranteed was approximately four years.  
+
+  At October 31, 2006, John Deere Credit Inc., the John Deere finance
+subsidiary in Canada, had $63 million of commercial paper and $935 million of
+medium-term notes outstanding that were guaranteed by the Company. In addition,
+the Company has provided letters of credit for John Deere Credit Inc. as part
+of retail note sales. At October 31, 2006, the Company s maximum
+exposure under these agreements was approximately $7 million.   At   October 31, 2006, the
+Company had approximately $3 million of guarantees issued primarily to banks
+outside the U.S. related to third-party receivables for the retail financing of
+John Deere equipment. The Company may recover a portion of any required
+payments incurred under these agreements from repossession of the equipment collateralizing
+the receivables. At October 31, 2006, the Company had accrued losses of
+approximately $.2 million under these agreements. The maximum remaining term of
+the receivables guaranteed at October 31, 2006 was approximately five years.  
+
+  At
+October 31, 2006, the Company had $410 million of guarantees issued to turbine
+manufacturers for John Deere Renewables, LLC wind turbine purchases. John Deere
+Renewables, LLC is an affiliated company that has commitments to purchase wind
+turbines related to its direct investments in wind energy projects.  
+
+  The Company s subsidiary, John Deere Risk Protection, Inc., offers crop
+insurance products through a managing general agency agreement (Agreement) with
+an insurance company (Insurance Carrier) rated  Excellent  by A.M. Best
+Company. As a managing general agent, John Deere Risk Protection, Inc. will
+receive commissions from the Insurance Carrier for selling crop insurance to
+producers.  The Company has guaranteed
+certain obligations under the Agreement, including the obligation to pay the
+Insurance Carrier for any uncollected premiums. At  
+
+52     
+
+October
+31, 2006 the maximum exposure for uncollected premiums was approximately $34
+million. Substantially all of the Company s crop insurance risk under the
+Agreement has been mitigated by a syndicate of private reinsurance companies.
+These reinsurance companies are rated  Excellent  or higher by A.M. Best
+Company. In the event of a widespread catastrophic crop failure throughout the
+U.S. and the default of these highly rated private reinsurance companies on
+their reinsurance obligations, the Company would be required to reimburse the
+Insurance Carrier for the maximum exposure under the Agreement of approximately
+$432 million at October 31, 2006. The Company believes that the likelihood
+of the occurrence of substantially all of the events that give rise to the
+exposure under this Agreement is extremely remote and as a result, at October
+31, 2006, the Company has accrued probable losses of approximately $.2 million
+under the Agreement.  
+
+  The
+Company has commitments to extend credit to customers and John Deere dealers
+through lines of credit and other pre-approved credit arrangements. The Company
+applies the same credit policies and approval process for these commitments to
+extend credit as it does for its Receivables. 
+Collateral is not required for these commitments, but if credit is
+extended, collateral may be required upon funding. The amount of unused
+commitments to extend credit to John Deere dealers was $2.5 billion at October
+31, 2006. The amount of unused commitments to extend credit to customers was
+$31.7 billion at October 31, 2006. A significant portion of these commitments
+is not expected to be fully drawn upon; therefore, the total commitment amounts
+do not represent a future cash requirement. The Company generally has the right
+to unconditionally cancel, alter, or amend the terms of these commitments at
+any time. Over 95 percent of these unused commitments to extend credit to
+customers relate to revolving charge accounts.  
+
+  The Company is
+subject to various unresolved legal actions which arise in the normal course of
+its business, the most prevalent of which relate to state and federal laws and
+regulations concerning retail credit. Although it is not possible to predict
+with certainty the outcome of these unresolved legal actions or the range of
+possible loss, the Company believes these unresolved legal actions will not
+have a material effect on its financial statements.  
+
+53     
+
+Note 17  .  Other
+Comprehensive Income Items   
+
+  Other
+comprehensive income items under FASB Statement No. 130, Reporting
+Comprehensive Income, are transactions recorded in stockholder s equity during
+the year, excluding net income and transactions with the stockholder. Following
+are the items included in other comprehensive income (loss) and the related tax
+effects in millions of dollars:  
+
+*       Reclassification of
+retained interest realized gains or losses to net income were not material.  
+
+    Note 18  .   Financial Instruments   
+
+  The fair values of
+financial instruments which do not approximate the carrying values in the
+financial statements at October 31 are as follows (in millions of dollars):  
+
+*       See Note 7.  
+
+54     
+
+Fair Value Estimates   
+
+  Fair values of the
+long-term Receivables with fixed rates were based on the discounted values of
+their related cash flows at current market interest rates. The fair values of
+the remaining Receivables approximated the carrying amounts.  
+
+  Fair values of long-term borrowings and short-term secured borrowings
+with fixed rates were based on the discounted values of their related cash
+flows at current market interest rates. Certain long-term borrowings have been
+swapped to current variable interest rates. The carrying values of these
+long-term borrowings include adjustments related to fair value hedges.                 
+
+   Derivatives   
+
+  All derivative
+instruments are recorded at fair values and classified as either other assets
+or accounts payable and accrued expenses on the balance sheet (see Note 1).  
+
+   Interest Rate Swaps   
+
+  The Company enters
+into interest rate swap agreements primarily to more closely match the fixed or
+floating interest rates of the borrowings to those of the assets being funded.  
+
+  Certain interest rate swaps were designated as
+hedges of future cash flows from commercial paper and variable interest rate
+borrowings.  The effective portion of the
+fair value gains or losses on these cash flow hedges are recorded in other
+comprehensive income and subsequently reclassified into interest expense as
+payments are accrued and the swaps approach maturity.  These amounts offset the effects of interest
+rate changes on the related borrowings. 
+The amount of the gain recorded in other comprehensive income at October
+31, 2006 that is expected to be reclassified to earnings in the next 12 months
+if interest rates remain unchanged is approximately $6 million after-tax. These
+swaps mature in up to 55 months.  
+
+  Certain interest
+rate swaps were designated as fair value hedges of fixed-rate, long-term
+borrowings. The effective portion of the fair value gains or losses on these
+swaps was offset by fair value adjustments in the underlying borrowings.  
+
+  Any ineffective
+portions of the gains or losses on all cash flow and fair value interest rate
+swaps designated as hedges were recognized currently in interest expense and
+were not material. The amounts of gains or losses reclassified from unrealized
+in other comprehensive income to realized in earnings as a result of the
+discontinuance of cash flow hedges were not material. There were no components
+of cash flow or fair value hedges that were excluded from the assessment of
+effectiveness.  
+
+  The Company has
+certain interest rate swap agreements that are not designated as hedges under
+FASB Statement No. 133, Accounting for Derivative Instruments and Hedging
+Activities, and the fair value gains or losses are recognized currently in
+earnings. These instruments relate to swaps that are used to facilitate certain
+borrowings.  
+
+   Foreign Exchange Forward Contracts and Swaps   
+
+  The Company has
+entered into foreign exchange forward contracts and swaps in order to manage
+the currency exposure of certain receivables and liabilities. For transactions
+not designated as hedges under FASB Statement No. 133, the fair value
+gains or losses from these foreign currency derivatives are recognized
+currently in earnings, generally offsetting the foreign exchange gains or
+losses on the exposures being managed.  
+
+  The Company has designated foreign exchange currency
+swaps as cash flow hedges of certain borrowings. The effective portion of the
+fair value gains or losses on these swaps is recorded in other comprehensive
+income and subsequently reclassified into other operating expenses as payments
+are accrued and these instruments approach maturity. This offsets the exchange
+rate effects on the borrowing being hedged included in other operating
+expenses.  
+
+55     
+
+Any ineffective
+portions of the gains or losses on all cash flow and fair value foreign
+exchange contracts or swaps designated as hedges were recognized currently in
+earnings and were not material. The amounts of gains or losses reclassified
+from unrealized in other comprehensive income to realized in earnings as a
+result of the discontinuance of cash flow hedges were not material. There were
+no components of cash flow or fair value hedges that were excluded from the assessment
+of effectiveness.  
+
+    Note 19  .   Geographic Area Information   
+
+  Based on the way
+the operations are managed and evaluated by management and materiality
+considerations, the Company is viewed as one operating segment. However,
+geographic area information for revenues and operating profit, which is net
+income before income taxes, attributed to the U.S. and countries outside the
+U.S. is disclosed below. Geographic area information for the years ended
+October 31, 2006, 2005, and 2004 is presented below (in millions of dollars):  
+
+Note 20.     Unconsolidated Affiliated Companies   
+
+  The Capital Corporation s affiliated companies are
+those in which it generally maintains 20 to 50 percent ownership. These
+companies are not controlled by the Capital Corporation and are accounted for
+by the equity method. The Company s equity in the income of these affiliates is
+reported in the consolidated income statement under  Equity in income of
+unconsolidated affiliates.  The investment in these companies is recorded in
+the consolidated balance sheet under  Investments in unconsolidated affiliates.   
+
+56     
+
+Summarized financial
+information of the affiliated companies is as follows (in millions of dollars):  
+
+Supplemental Information
+(Unaudited)    
+
+   Quarterly Information   
+
+  Supplemental
+quarterly information for the Company follows (in millions of dollars):  
+
+Subsequent Events   
+
+  On
+November 30, 2006, the Capital Corporation declared a $40 million dividend,
+which was paid to John Deere Credit Company on December 7, 2006. John Deere
+Credit Company, in turn, declared a $40 million dividend to Deere  
+Company, also paid on December 7, 2006.  
+
+57  
+
+Index to Exhibits    
+
+2. 
+
+Not applicable  
+
+3.  
+
+1  
+
+Certificate of Incorporation, as amended (Exhibit
+  3.1 to Form 10-K of the registrant for the year ended October 31, 1999,
+  Securities and Exchange Commission File No. 1-6458*)  
+
+3.  
+
+2  
+
+Bylaws, as amended (Exhibit 3.2 to Form 10-K of the
+  registrant for the year ended October 31, 1999, Securities and Exchange
+  Commission File No. 1-6458*)  
+
+4.  
+
+1  
+
+Five-Year Credit Agreement among registrant, Deere
+    Company, registrant, various financial institutions, JPMorgan Chase
+  Bank N.A. as administrative agent, Citibank N.A. and Credit Suisse as
+  documentation agents, Merrill Lynch Bank USA as co-documentation agent, and
+  Bank of America, N.A. and Deutsche Bank AG, New York Branch as syndication
+  agents, et al, dated as of February 14, 2006 (Exhibit 4.1 to Form 10-Q of
+  Deere   Company for the quarter ended January 31, 2006, Securities and
+  Exchange Commission file number 1-4121*)  
+
+4.  
+
+2  
+
+Senior Indenture dated as of March 15, 1997 between
+  the registrant and JP Morgan Chase Bank (formerly The Chase Manhattan Bank
+  National Association), as Trustee (Exhibit 4.1 to registration statement on
+  Form S-3 no. 333-68355, filed December 4, 1998, Securities and Exchange
+  Commission file number 1-6458*)  
+
+4.  
+
+3  
+
+Subordinated Indenture dated as of September 1, 2003
+  between the registrant and U.S. Bank National Association, as Trustee
+  (Exhibit 4.3 to registration statement on Form S-3 no. 333-108705, filed
+  September 11, 2003*)  
+
+4.  
+
+4  
+
+Terms and Conditions of the Notes, published on May
+  31, 2002, applicable to the U.S. $3,000,000,000 Euro Medium Term Note
+  Programme of registrant, John Deere Capital Corporation, John Deere Bank
+  S.A., John Deere Credit Limited, John Deere B.V., John Deere Credit Inc. and
+  John Deere Limited. (Exhibit 4.5 to Form 10-K of Deere   Company for the
+  year ended October 31, 2002, Securities and Exchange Commission file number
+  1-4121*)  
+
+Certain instruments relating to long-term debt
+  constituting less than 10% of the registrant s total assets may not be filed
+  as exhibits herewith pursuant to Item 601(b)(4)(iii)(A) of Regulation S-K.
+  The registrant will file copies of such instruments upon request of the
+  Commission.  
+
+9.  
+
+Not applicable  
+
+10.  
+
+1  
+
+Agreement as amended November 1, 1994 between the
+  registrant and Deere   Company concerning agricultural retail notes
+  (Exhibit 10.1 to Form 10-K of Deere   Company for the year ended October
+  31, 1998, Securities and Exchange Commission file number 1-4121*)  
+
+10.  
+
+2  
+
+Agreement as amended November 1, 1994 between the
+  registrant and Deere   Company concerning lawn and grounds care retail
+  notes (Exhibit 10.2 to the Form 10-K of Deere   Company for the year
+  ended October 31, 1998, Securities and Exchange Commission file number
+  1-4121*)  
+
+10.  
+
+3  
+
+Agreement as amended November 1, 1994 between the
+  registrant and John Deere Industrial Equipment Company concerning industrial
+  retail notes (Exhibit 10.3 to the Form 10-K of Deere   Company for the
+  year ended October 31, 1998, Securities and Exchange Commission file number
+  1-4121*)  
+
+10.  
+
+4  
+
+Agreement dated November 1, 2003 between the
+  registrant and Deere   Company relating to fixed charges ratio, ownership
+  and minimum net worth (Exhibit 10.5 to Form 10-K of Deere   Company for
+  the year ended October 31, 2003, Securities and Exchange Commission File No.
+  1-4121*)  
+
+58     
+
+*
+Incorporated by reference. Copies of these exhibits are available from the
+Company upon request.  
+
+59  
+
+<EX-12>
+ 2
+ a06-25737_1ex12.htm
+ EX-12
+
+Exhibit 12   
+
+   John Deere Capital Corporation and Subsidiaries 
+Computation of Ratio of Earnings to Fixed Charges   
+(thousands of dollars)   
+
+Earnings  consist of income before income taxes, the cumulative effect
+of changes in accounting and fixed charges.  Fixed charges  consist of interest
+on indebtedness, amortization of debt discount and expense, an estimated amount
+of rental expense under capitalized leases which is deemed to be representative
+of the interest factor and rental expense under operating leases.  
+
+  *        The Company has not issued
+preferred stock. Therefore, the ratios of earnings to combined fixed charges
+and preferred stock dividends are the same as the ratios presented above. 
+
+60  
+
+</EX-12>
+
+<EX-23>
+ 3
+ a06-25737_1ex23.htm
+ EX-23
+
+Exhibit 23   
+
+CONSENT OF
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM     
+
+  We consent to the
+incorporation by reference in Registration Statement Nos. 333-86790, 333-108705,
+and 333-128071 of John Deere Capital Corporation and subsidiaries on Form S-3 of
+our report dated December 18, 2006, appearing in the Annual Report on Form 10-K
+of John Deere Capital Corporation and subsidiaries for the year ended October
+31, 2006.  
+
+  Deloitte   Touche LLP 
+Chicago, Illinois  
+
+  December 18, 2006  
+
+61  
+
+</EX-23>
+
+<EX-31.1>
+ 4
+ a06-25737_1ex31d1.htm
+ EX-31
+
+Exhibit
+31.1     
+
+   CERTIFICATIONS   
+
+  I, R. W. Lane, certify
+that:  
+
+  1.        I
+have reviewed this annual report on Form 10-K of John Deere Capital
+Corporation; 
+
+  2.        Based
+on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; 
+
+  3.        Based
+on my knowledge, the financial statements, and other financial information
+included in this report, fairly present in all material respects the financial
+condition, results of operations and cash flows of the registrant as of, and
+for, the periods presented in this report; 
+
+  4.        The
+registrant s other certifying officer(s) and I are responsible for establishing
+and maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+  a)        Designed
+such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; 
+
+  b)       Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; and 
+
+  c)        Disclosed
+in this report any change in the registrant s internal control over financial
+reporting that occurred during the registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of an annual report) that has
+materially affected, or is reasonably likely to materially affect, the
+registrant s internal control over financial reporting; and  
+
+  5.        The
+registrant s other certifying officer(s) and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant s auditors and the audit committee of registrant s board of
+directors (or persons performing the equivalent functions): 
+
+  a)        All
+significant deficiencies and material weaknesses in the design or operation of
+internal control over financial reporting which are reasonably likely to
+adversely affect the registrant s ability to record, process, summarize and
+report financial information; and 
+
+  b)       Any
+fraud, whether or not material, that involves management or other employees who
+have a significant role in the registrant s internal controls over financial
+reporting. 
+
+62  
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ a06-25737_1ex31d2.htm
+ EX-31
+
+Exhibit
+31.2     
+
+   CERTIFICATIONS   
+
+  I, M. J. Mack, Jr., certify that:  
+
+  1.        I
+have reviewed this annual report on Form 10-K of John Deere Capital
+Corporation; 
+
+  2.        Based
+on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; 
+
+  3.        Based
+on my knowledge, the financial statements, and other financial information
+included in this report, fairly present in all material respects the financial
+condition, results of operations and cash flows of the registrant as of, and
+for, the periods presented in this report; 
+
+  4.        The
+registrant s other certifying officer(s) and I are responsible for establishing
+and maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+  a)        Designed
+such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; 
+
+  b)       Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; and 
+
+  c)        Disclosed
+in this report any change in the registrant s internal control over financial
+reporting that occurred during the registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of an annual report) that has
+materially affected, or is reasonably likely to materially affect, the
+registrant s internal control over financial reporting; and 
+
+  5.        The
+registrant s other certifying officer(s) and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant s auditors and the audit committee of registrant s board of
+directors (or persons performing the equivalent function): 
+
+  a)        All
+significant deficiencies and material weaknesses in the design or operation of
+internal control over financial reporting which are reasonably likely to
+adversely affect the registrant s ability to record, process, summarize and
+report financial information; and 
+
+  b)       Any
+fraud, whether or not material, that involves management or other employees who
+have a significant role in the registrant s internal control over financial
+reporting. 
+
+Date: 
+
+December 20,
+  2006  
+
+By:  
+
+/s/ M.
+  J. Mack, Jr.   
+
+M. J. Mack, Jr.  
+
+Principal
+  Financial Officer  
+
+63  
+
+</EX-31.2>
+
+<EX-32>
+ 6
+ a06-25737_1ex32.htm
+ EX-32
+
+EXHIBIT 32     
+
+   STATEMENT
+PURSUANT TO 
+18 U.S.C. SECTION 1350 
+AS REQUIRED BY 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+  In connection with
+the Annual Report of John Deere Capital Corporation (the  Company ) on Form
+10-K for the year ending October 31, 2006, as filed with the Securities and
+Exchange Commission on the date hereof (the  Report ), the undersigned hereby
+certify that to the best of our knowledge:  
+
+  1.        The Report fully
+complies with the requirements of section 13(a) or 15(d) of the Securities and
+Exchange Act of 1934; and 
+
+  2.        The information
+contained in the Report fairly presents, in all material respects, the
+financial condition and results of operations of the Company. 
+
+December 20, 2006 
+
+/s/ R.
+  W. Lane   
+
+Chairman and Principal Executive Officer  
+
+December 20, 2006  
+
+/s/ M.
+  J. Mack, Jr.   
+
+Senior Vice President and Principal Financial
+  Officer  
+
+A signed original of
+this written statement required by Section 906 has been provided to John Deere
+Capital Corporation and will be retained by John Deere Capital Corporation and
+furnished to the Securities and Exchange Commission or its staff upon request.  
+
+64  
+
+</EX-32>
+

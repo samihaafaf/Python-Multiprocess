@@ -1,0 +1,2834 @@
+<Header>
+<FileStats>
+    <FileName>20061222_10-K_edgar_data_716688_0000716688-06-000006_1.txt</FileName>
+    <GrossFileSize>154226</GrossFileSize>
+    <NetFileSize>139592</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>512</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>6</N_Tables>
+    <N_Exhibits>2</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000716688-06-000006.hdr.sgml : 20061222
+<ACCEPTANCE-DATETIME>20061222142824
+ACCESSION NUMBER:		0000716688-06-000006
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20060930
+FILED AS OF DATE:		20061222
+DATE AS OF CHANGE:		20061222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MICROWAVE FILTER CO INC /NY/
+		CENTRAL INDEX KEY:			0000716688
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPONENTS, NEC [3679]
+		IRS NUMBER:				160928443
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10976
+		FILM NUMBER:		061296580
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6743 KINNE ST
+		CITY:			E SYRACUSE
+		STATE:			NY
+		ZIP:			13057
+		BUSINESS PHONE:		3154373953
+
+	MAIL ADDRESS:	
+		STREET 1:		6743 KINNE ST
+		CITY:			EAST SYRACUSE
+		STATE:			NY
+		ZIP:			13057
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ C6B0TifD9EKvNAlyXlaZa5x0uRp9wMoDafGLxobjM5J1aX/2kw38Hgt8OtVom/0C
+ MHWZgP+oCHKaS4xJmmC5HA==
+
+ 0000716688-06-000006.txt : 20061222
+
+10-K
+ 1
+ mfc10k.txt
+ MFC FORM 10-K FOR 2006
+ 
+                    SECURITIES AND EXCHANGE COMMISSION
+                           WASHINGTON, D.C 20549
+
+                                FORM 10-K
+
+(Mark one)
+_X_  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934 (FEE REQUIRED)
+
+For the fiscal year ended_______September 30, 2006_____________________________
+                                    OR
+__TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934 (NO FEE REQUIRED)
+
+For the transition period from____________to___________________________________
+
+Commission file number__________________0-10976________________________________
+
+______________________Microwave Filter Company, Inc____________________________
+           (Exact name of registrant as specified in its charter)
+
+__________New York__________________________16-0928443_________________________
+(State or other jurisdiction of incorporation or organization)
+                                            (I.R.S. Employer Identification No.)
+
+_____6743 Kinne Street,  East Syracuse, NY________13057________________________
+(Address of principal executive offices)          (Zip code)
+
+Registrant's telephone number including area code____(315) 438-4700_____________
+
+Securities registered pursuant to Section 12(b) of the Act:_____None____________
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+____________________Common stock, par value $.10 per share_________________
+                              Title of class
+
+  Indicate by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act.
+
+YES ______     NO ___X___
+
+  Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act.
+
+YES ______     NO ___X___
+
+  Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by section 13 or 15(d) of  the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports, and (2) has been subject to such
+filing requirements for the past 90 days.
+
+YES __X__  NO____
+
+  Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to
+the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K.  __
+
+1
+
+Indicate by check mark whether the registrant is a large accelerated filer,
+an accelerated filer or a non-accelerated filer (as defined in Rule 12b-2 of
+the Exchange Act).
+
+Large accelerated filer ______
+Accelerated filer ______
+Non-accelerated filer ___X___.
+
+  Indicate by check mark whether the registrant is a shell company (as defined
+in Rule 12b-2 of the Exchange Act).
+
+YES ____  NO__X__
+
+  The aggregate market value of the voting stock held by non-affiliates of the
+registrant, based on the closing price of the common stock on December 1,
+2006, was approximately $3,266,382.
+
+  Indicate the number of shares outstanding of each of the issuer's classes of
+common stock, as of the latest practicable date.
+
+  Shares of common stock outstanding at December 1, 2006:   2,902,352
+
+DOCUMENTS INCORPORATED BY REFERENCE
+     Part III: Portions of the Definitive Proxy Statement to be filed with the
+Securities and Exchange Commission in connection with the solicitation of
+proxies for the Company's 2007 Annual Meeting of Shareholders  are
+incorporated by reference into Part III. (With the exception of those portions
+which are specifically incorporated by reference in this Form 10-K, the Proxy
+Statement is not deemed to be filed or incorporated by reference as part of
+this report.)
+
+2
+
+PART I
+
+ITEM 1. BUSINESS.
+
+FORWARD-LOOKING CAUTIONARY STATEMENT
+- ------------------------------------
+  In an effort to provide investors a balanced view of the Company's current
+condition and future growth opportunities, this Annual Report on Form 10-K may
+include comments by the Company's management about future performance. These
+statements which are not historical information are "forward-looking
+statements" pursuant to the safe harbor provisions of the Private Securities
+Litigation Reform Act of 1995. These, and other forward-looking statements,
+are subject to business and economic risks and uncertainties that could cause
+actual results to differ materially from those discussed. These risks and
+uncertainties include, but are not limited to: risks associated with demand
+for and market acceptance of existing and newly developed products as to which
+the Company has made significant investments; general economic and industry
+conditions; slower than anticipated penetration into the satellite
+communications, mobile radio and commercial and defense electronics markets;
+competitive products and pricing pressures; increased pricing pressure from
+our customers; risks relating to governmental regulatory actions in broadcast,
+communications and defense programs; as well as other risks and uncertainties,
+including but not limited to those detailed from time to time in the Company's
+Securities and Exchange Commission filings. These forward-looking statements
+are made only as of the date hereof, and the Company undertakes no obligation
+to update or revise the forward-looking statements, whether as a result of new
+information, future events or otherwise. You are encouraged to review
+Microwave Filter Company's 2006 Annual Report and Form 10-K for the fiscal
+year ended September 30, 2006 and other Securities and Exchange Commission
+filings. Forward-looking statements may be made directly in this document or
+"incorporated by reference" from other documents. You can find many of these
+statements by looking for words like "believes," "expects," "anticipates,"
+"estimates," or similar expressions.
+
+GENERAL DEVELOPMENT OF BUSINESS
+- -------------------------------
+  Microwave Filter Company, Inc. (hereinafter referred to as MFC) was
+incorporated in New York State on September 26, 1967.  MFC is the successor of
+Microwave Filter Company which was founded in April of 1967.
+
+  On July 1, 1990, MFC acquired Niagara Scientific, Inc. (hereinafter referred
+to as NSI.)
+
+  MFC and its subsidiaries are sometimes referred to collectively as the
+"Company."
+
+3
+
+NARRATIVE DESCRIPTION OF BUSINESS
+- ----------------------------------
+Microwave Filter Company, Inc. (MFC)
+
+  Established in 1967 in East Syracuse, New York, MFC occupies a modern 40,000
+square foot facility with an impressive complement of analytical and design
+software, test instrumentation, prototype and manufacturing equipment to create
+passive filters, components and sub systems in the frequency range of 10 MHz to
+50 GHz.
+
+  MFC manufactures RF filters and related components for eliminating
+interference and facilitating signal processing for such markets as Cable
+Television, Broadcast, Commercial and Military Communications, Avionics,
+Radar, Navigation and Defense. The Company designs waveguide, stripline/
+microstrip, transmission line, miniature/subminiature and lumped constant
+filters. Configurations include bandpass, highpass, lowpass, bandstop,
+multiplexers, tunable notch, tunable bandpass, high power filters, amplitude
+equalized, delay equalized and filter networks.  The Company actively produces
+over 1,700 standard products and has designed more than 5,000 custom products
+for specialized applications.
+
+  The manufacturing facility includes a modern CAD system, a test department
+with automated network analyzers to 50 GHz, a high capacity conveyor soldering
+oven, a fully compliant finishing operation and a TQM/ISO9000 based quality
+assurance program to insure the intrinsic quality of the products produced.
+
+  Efficient computer simulation, design and analysis software enhanced by
+proprietary MFC developed software, allow rapid and accurate filter
+development at reasonable cost. Automated network analyzers provide rigorous
+product testing and performance data storage on a serial number basis in most
+cases.
+
+  A network based CAD system allows the transfer of data and programs to the
+CNC turning and milling centers for fabrication of machined parts. Prototype
+PC boards are similarly produced by computer controlled PC board mills.
+
+  A Grieve high capacity conveyor soldering oven is used for production of
+large quantity assemblies while smaller production quantities are assembled at
+hand soldering or brazing stations.
+
+  ISO-9000 contract and design review procedures coupled with a QA department
+that is compliant with MIL-I-45208 inspection systems and MIL-STD-45622
+calibration system standards assures process and product integrity. A
+certified staff instructor regularly trains associates to MIL-STD-2000A (now
+superceded by J-STD-001.)
+
+  Other in-house testing facilities include three environmental chambers
+capable of testing products for temperatures of -0 to 200 degrees Celsius and
+humidity up to 100 percent. Several high power amplifiers are available for
+power tests up to 2500 watts at 220 MHz and 100 watts at 1,000 MHz. An
+automated in-house anechoic chamber provides antenna pattern measurement
+capability in the 2 to 8 GHz frequency range. Facilities are also available
+for salt spray, sand and dust, shock and vibration, RFI leakage and altitude
+testing.
+
+4
+
+Niagara Scientific, Inc. (NSI)
+- ------------------------------
+
+  NSI manufactures material handling equipment for suppliers of consumer
+goods. Such suppliers would include food processors or any other manufacturer
+of packaged consumer products that need to be moved into a corrugated shipping
+case at a constant rate of speed.
+
+  The Schroeder Machines Division (SMD), in existence for over 50 years, is a
+division of Niagara Scientific. SMD manufactures a number of case packing
+solutions but is most noted for its Quadnumatic. The Quadnumatic is an
+automatic case packing machine that performs all the functions of collating,
+case forming, loading and sealing products into their shipping cartons at
+packing speeds ranging from 12 to 30 cases per minute depending upon model.
+
+  Other products offered by Schroeder include a servo pick-and-place machine
+for top loading packaging applications and a case erector/bottom taping
+machine for customers who still hand pack or need to add a case former to an
+existing case packing machine. Most revenue for NSI is derived from spare parts
+and services for an installed base of Quadnumatic case packers throughout the
+United States and Canada.
+
+MARKETS
+- -------
+Microwave Filter Company, Inc. (MFC)
+- ------------------------------------
+
+  Cable Television (CATV) - MFC serves this market principally with three
+product groups.  One popular area includes standard and custom filters used at
+the headend to process signals and remove interference.  A very popular
+application involves removing or re-routing analog channels to organize
+programming line-ups.
+
+  A family of trap filters, "Fastrap," is used by cable operators to restrict
+or permit the viewing of pay per view or other premium programming.  The traps
+can be ordered in small and large quantities, are 100% inspected and delivered
+overnight.
+
+  Since all operators initially receive programming via satellite, products
+from our satellite market cross over into the cable television market. C-band
+satellite receive systems are prone to various types of terrestrial
+interference which are curable in many cases by applying MFC bandpass filters.
+
+5
+
+The CATV marketplace is changing due to the transition from analog to
+digital television. Digital Televison (DTV) is a new type of broadcasting
+technology that will transform television viewing. DTV enables broadcasters to
+offer television with movie-quality picture and sound. It also offers greater
+multicasting and interactive capabilities. DTV is a more flexible and
+efficient technology than the current NTSC "analog" broadcast system. Rather
+than being limited to providing one analog programming channel, a broadcaster
+will be able to provide a super sharp "high definition" (HDTV) program or
+multiple "standard definition" DTV programs simultaneously using the RF
+spectrum more efficiently. Providing several program streams on one broadcast
+channel is called "multicasting." The number of programs a station can send on
+one digital channel depends on the level of picture detail, also known as
+"resolution." DTV can provide interactive video and data services that are not
+possible with "analog" technology. Converting to DTV will eventually free up
+parts of the scarce and valuable broadcast airwaves. Those portions of the
+spectrum can then be used for other important services, such as advanced
+wireless and public safety services (police, fire, rescue squads, etc.).
+Televison stations serving all markets in the United States are currently
+airing digital television programming, although they still must provide analog
+programming until the target date set by Congress for completion of the
+transition to DTV - April 7, 2009. That date may be extended, however, until
+most homes (85%) in an area are able to watch the DTV programming. At that
+point, broadcasting on the current (analog) channels will end and that
+spectrum will be put to other uses reducing the need for analog filters which
+MFC currently supplies. Until the transition to DTV is complete, television
+stations will continue broadcasting on both their digital and analog channels.
+MFC has developed and is supplying filters for digital television; however,
+the demand for these filters is unknown at this time.
+
+  Broadcast - Several areas of broadcast are served by Microwave Filter
+Company with the most active being in the MDS/MMDS and UHF bands.
+
+  Formally used for Wireless Cable, the MDS/MMDS bands are now becoming
+popular for use by Internet Service Providers (ISP). Wireless Cable was a
+video delivery service that attempted to compete with cable television with
+limited success. This service delivered programming over-the-air using
+microwave frequencies. Television programming is received via a small rooftop
+antenna. The signals are then down converted for reception by the television
+set. At the home, the equipment looks the same as that supplied by a cable
+television company with the exception of the rooftop antenna. Currently the
+trend is to use the same concept to provide internet service to the home
+(receive only).
+
+  The most significant product sold to this market is our channel combiner
+used at the broadcast site to reduce tower costs.  By combining channels at
+the transmitter site, additional expensive coaxial or waveguide runs up the
+tower become unnecessary. It remains to be seen whether activity will be
+popular in these bands.
+
+  MFC offers the widest selection of channel combiners to meet a variety of
+system specifications.  Combiners in different configurations and constructed
+of different materials offer the operator better or best options depending on
+budget or other system requirements.
+
+6
+
+Radio and Television Broadcast - MFC primarily serves these broadcast areas
+with interference filters to reduce equipment harmonics and combiners for low
+power UHF applications. Other broadcast areas served also include AML,
+telemetry and STL/ENG relays.
+
+  Similar to cable television, the broadcast industry is also moving towards
+the digital delivery of both audio and video broadcast.
+
+  Satellite - Microwave filters and IF filters for removing interference are
+provided to both commercial and home C-band TVRO antennas.  A variety of
+products are available that offer protection and or solutions to interference
+that affects the feedhorn, downconverter, and receiver. A variety of filters
+are also available for satellite services utilizing higher frequency bands
+such as 12, 13 and 18 GHz.
+
+  Mobile Radio and Data Links - MFC provides filters to a variety of mobile
+radio services such as cellular telephone, two way radio and paging to
+eliminate interference in transmit or receive equipment. More recently there
+has been demand for filters and diplexers for broadband microwave applications
+for Voice Over Internet Protocol ("VOIP") With the number of services
+increasing and ISP use. The advent of license exempt applications has
+increased the need for interference filtering. With the number of services
+increasing and our air waves becoming more congested, filters are increasingly
+important to many transmit operations.
+
+  RF and Microwave - This market encompasses both commercial and military
+applications.  Filters in defense applications are used for such purposes as
+air to ground communications, radar and land communications.  In commercial
+areas, filters are used to protect such equipment as receivers, transmitters,
+transceivers and any other electronics used for signal processing. In addition
+to filters, this market is also served with MFC's Ferrosorb product line.
+Ferrosorb is a microwave absorbing material available in sheets, loads and a
+variety of other shapes.  The product is used to offer protection by shielding
+signals or absorbing selective bands.
+
+  In 1992, MFC's acquisition of certain assets of Chesterfield Products added
+an expanded line of products to enhance the RF filter line.  Many of MFC's
+traditional filters are components added onto a system.  Chesterfield provided
+MFC with the capability to manufacture miniature and subminiature filters
+which are components built into electronic systems.  Another Chesterfield
+capability has provided us with the resources to expand our filter design
+range down to 5 KHz.
+
+  There has been an increased demand for filters in the OEM (Original Equipment
+Manufacturer) market. In response to this demand, MFC has purchased new design,
+fabrication and test equipment to design filters up to 50 GHz. OEM orders are
+larger than those received for other markets and facilities such as a soldering
+oven have been added in the manufacturing area for large volume production.
+
+7
+
+Niagara Scientific, Inc. (NSI)
+- ------------------------------
+
+  NSI - Like MFC, NSI and its divisions seek niche markets arising from
+certain demographic changes in the industrial work force which promotes
+acceptance of automation in both large and small factories.  NSI's typical
+product is customized to the purchaser's operation and is the result of system
+engineering.  The product makes tactical use of precision mechanical movements
+or sensors of physical characteristics under microprocessor control.  These
+smart machines reduce labor costs through faster operation and increased
+quality.
+
+  Typical customers for case packing machines are food processors or makers of
+cosmetics, pharmaceuticals, candies or hardware whose product must be cased
+for shipping and storage.
+
+  Other custom equipment is designed for inspection-rejection, counting,
+analyzing or otherwise monitoring, reporting or controlling a continuous
+manufacturing or industrial process.
+
+  Typical customers are commodity mass producers in the food, drug and paint
+industries.
+
+WORLD TRADE
+- -----------
+
+  Management believes that world marketing is a route to substantial expansion
+of sales for MFC/NSI. Export opportunities for MFC's communication related
+products are many - especially in areas of the world such as China, the
+Pacific Rim and South America. Marketing research reveals that the Company's
+products are in high demand in these areas of the world. Significant efforts
+have been made over the last year to identify key international markets and to
+establish distributors with appropriate technical backgrounds to represent our
+interests in those regions.
+
+  NSI products are less suitable for export for a number of reasons, including
+their large size and complexity, less demand in underdeveloped areas for
+automation and significant local competition.  However, NSI is well qualified
+to produce and or distribute complementary products under license.
+
+SUPPLIERS
+- ---------
+
+  The Company depends on outside suppliers for raw materials, components and
+parts, and services. Although items are generally available from a number of
+suppliers, the Company purchases certain raw materials and components from a
+single supplier. If such a supplier should cease to supply an item, the
+Company believes that new sources could be found to provide the raw materials
+and components. However, manufacturing delays and added costs could result.
+The Company has not experienced significant delays of this nature in the past,
+but there can be no assurance that delays in delivery due to supply shortages
+will not occur in the future. Substantial periods of lead time for delivery of
+certain materials are sometimes experienced by the Company, making it
+necessary to inventory varied quantities of materials.
+
+8
+ 
+PATENTS AND LICENSES
+- --------------------
+
+ The Company has no patents, trademarks, copyrights, licenses or franchises of
+material importance.
+
+SEASONAL FLUCTUATIONS
+- ---------------------
+
+  There are no significant seasonal fluctuations in the Company's business.
+
+GOVERNMENT CONTRACTS
+- --------------------
+
+  The Company is not dependent in any material respect on government contracts.
+
+BACKLOG
+- -------
+
+  At September 30, 2006, the Company's total backlog of orders, which
+represents firm orders from customers, was $731,941 compared to $692,595 at
+September 30, 2005. Approximately 76% of the total Company backlog at
+September 30, 2006 is scheduled to ship during fiscal 2007. However, backlog
+is not necessarily indicative of future sales. Accordingly, the Company does
+not believe that its backlog as of any particular date is representative of
+actual sales for any succeeding period.
+
+EMPLOYEES
+- ---------
+
+  At September 30, 2006, the Company employed 57 full-time employees.
+
+RESEARCH AND DEVELOPMENT
+- ------------------------
+
+  The Company maintains and expects to continue to maintain an active research
+and development program.  The Company believes that such a program is needed
+to maintain its competitive position in existing markets and to provide
+products for emerging markets.  Costs in connection with research and
+development were $420,570, $373,080 and $312,189 for the fiscal years 2006,
+2005 and 2004, respectively. Research and development costs are charged to
+operations as incurred.
+
+COMPETITION
+- -----------
+
+  The principal competitive factors facing both MFC and NSI are price,
+technical performance, service and the ability to produce in quantity to
+specific delivery schedules. Based on these factors, the Company believes it
+competes favorably in its markets.
+
+9
+
+ITEM 1A. RISK FACTORS
+
+  An investment in our common stock involves a high degree of risk. The risks
+and uncertainties described below are not the only ones we face. Additional
+risks and uncertainties that we are unaware of, or that we may currently deem
+immaterial, may become important factors that harm our business, financial
+condition or results of operations. If any of the following risks actually
+occurs, our business, financial condition or results of operations could
+suffer. In that case, the trading price of our common stock could decline, and
+you may lose all or part of your investment.
+
+Demand for existing products may decline.
+
+    Demand for our products depends upon, among other factors, the level of
+capital expenditures by current and prospective customers, the rate of
+economic growth in the markets in which we compete and the competitiveness of
+our products. Changes in any of these factors could have an adverse effect on
+our financial condition or results of operations.
+
+  We must continue to assess and predict customer needs and evolving
+technologies. We must develop new products, including enhancements to existing
+products, and successfully manufacture, market and sell these products. If we
+are unsuccessful in these areas, our financial condition or results of
+operations could be adversely affected.
+
+  Our inability to introduce new and enhanced products on a timely basis.
+
+  Delays in development, testing, manufacture and/or release of new products
+could adversely affect our sales and results of operations. In addition, there
+can be no assurance that we will successfully identify new product
+opportunities, develop and bring new products to market in a timely manner and
+achieve market acceptance of our products, or that products and technologies
+developed by others will not render our products or technologies obsolete or
+noncompetitive.
+
+  Market acceptance of newly developed products may be slower than anticipated.
+
+  The markets for our products are competitive and may be characterized by
+rapid technological change, new product development and evolving industry
+standards. If technologies supported by our products become obsolete or fail
+to gain widespread acceptance, our business could be harmed. Current and
+potential competitors may have substantially greater financial, technical,
+marketing, distribution and other resources than us, and have greater name
+recognition and market acceptance of their products and technologies. Our
+competitors may develop new technologies or products that may offer superior
+price or performance features and may render our products and technologies
+obsolete and noncompetitive.
+
+10
+
+Pricing pressures from our customers and/or market pressure from competitors
+may reduce selling prices.
+
+  Many of customers are under continuous pressure to reduce costs and,
+therefore, we expect to continue to experience pressure from these customers
+to reduce the prices of the products that we sell to them. To offset declining
+average sales prices, we believe that we must achieve manufacturing cost
+reductions and increase our sales volumes. If we are unable to offset
+declining average selling prices, our gross margins will decline, and this
+decline could materially harm our business, financial condition and operating
+results. We also compete with companies which have substantially larger
+operations and greater financial, engineering, marketing, production and other
+resources than we have. These competitors may develop their products more
+quickly, devote greater marketing and sales resources, or offer more
+aggressive pricing, than we can. As a result, this could cause us to lose
+orders or customers or force reductions in selling prices, all of which would
+have a material adverse impact on our financial position and results of
+operations.
+
+Difficulty in obtaining an adequate supply of raw materials or components at
+reasonable prices.
+
+  The Company depends on outside suppliers for raw materials, components and
+parts, and services. Although items are generally available from a number of
+suppliers, the Company purchases certain raw materials and components from a
+single supplier. If such a supplier should cease to supply an item, the
+Company believes that new sources could be found to provide the raw materials
+and components. However, manufacturing delays and added costs could result.
+The Company has not experienced significant delays of this nature in the past,
+but there can be no assurance that delays in delivery due to supply shortages
+will not occur in the future. Substantial periods of lead time for delivery of
+certain materials are sometimes experienced by the Company, making it
+necessary to inventory varied quantities of materials.
+
+Loss of key personnel or the inability to attract new employees.
+
+     Our success depends in large part on the continued service of our key
+technical and management personnel, and on our ability to attract and retain
+qualified employees, particularly those involved in the development of new
+products and processes and the manufacture of existing products. The
+competition for these individuals is significant, and the loss of key
+employees could harm our business.
+
+11
+
+AVAILABLE INFORMATION
+- ---------------------
+  Our Internet address is www.microwavefilter.com. There we make available,
+free of charge, our annual report on Form 10-K, quarterly reports on Form 10-
+Q, current reports on Form 8-K and any amendments to those reports, as soon as
+reasonably practicable after we electronically file such material with, or
+furnish it to, the Securities and Exchange Commission (SEC). Our SEC reports
+can be accessed through the investor relations link of our Web site. The
+information found on our Web site is not part of this or any other report we
+file with or furnish to the SEC.
+
+     The public may read and copy any materials that we file with the SEC at
+the SEC's Public Reference Room located at 450 Fifth Street NW, Washington, DC
+20549. The public may obtain information on the operation of the Public
+Reference Room by calling the SEC at 1-800-SEC-0330. The SEC also maintains
+electronic versions of our reports on its website at www.sec.gov.
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+
+  None.
+
+ITEM 2. PROPERTIES.
+
+  MFC's office and manufacturing facility is located at 6743 Kinne Street,
+East Syracuse, New York.  This facility, which is owned by MFC, consists of
+40,000 square feet of office and manufacturing space located on 3.7 acres.
+MFC presently occupies approximately 35,000 square feet with the balance
+(approximately 5,000 square feet) occupied by NSI.
+
+ITEM 3. LEGAL PROCEEDINGS.
+
+  There are currently no material pending legal proceedings against the Company
+or its subsidiaries.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+  During the fourth quarter of the fiscal year covered by this Form 10-K, there
+were no matters submitted to a vote of security holders.
+
+12
+
+PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED
+STOCKHOLDER MATTERS.
+
+MFC's common stock is traded on the NASDAQ over-the-counter market under the
+symbol MFCO.  The information set forth was obtained from statements provided
+by the NASD. The following table shows the high and low sales prices for MFC's
+common stock for each full quarterly period within the two most recent fiscal
+years. The quotations represent prices in the over-the-counter market between
+dealers in securities.  They do not include retail mark-ups, mark-downs or
+commissions.
+
+Fiscal 2006                        High      Low
+
+Oct. 1, 2005 to Dec. 31, 2005   $  2.26   $  1.30
+Jan. 1, 2006 to Mar. 31, 2006      1.95      1.51
+Apr. 1, 2006 to June 30, 2006      1.84      1.29
+July 1, 2006 to Sept. 30, 2006     1.59      1.20
+
+Fiscal 2005                        High      Low
+
+Oct. 1, 2004 to Dec. 31, 2004   $  2.47   $  1.10
+Jan. 1, 2005 to Mar. 31, 2005      3.30      1.31
+Apr. 1, 2005 to June 30, 2005      2.24      1.21
+July 1, 2005 to Sept. 30, 2005     2.05      1.33
+
+The Company had approximately 650 holders of record of its common stock at
+September 30, 2006.
+
+  On November 9, 2005, the Board of Directors declared a ten cents per share
+cash dividend to shareholders of record on December 9, 2005 to be distributed
+on January 9, 2006.
+
+  On December 18, 2002, the Board of Directors declared a ten cents per share
+cash dividend to shareholders of record on January 17, 2003 to be distributed
+on January 31, 2003.
+
+  On February 13, 2002, the Board of Directors declared a seven cents per
+share cash dividend to shareholders of record on February 27, 2002 to be
+distributed on March 13, 2002.
+
+  Payment of future dividends, if any, will be at the discretion of the Board
+of Directors after taking into consideration various factors, including the
+Company's financial condition, operating results and current and anticipated
+cash needs.
+
+13
+
+On April 9, 1998, the Board of Directors and Shareholders of Microwave
+Filter Company, Inc. approved the 1998 Microwave Filter Company, Inc.
+Incentive Stock Plan (the "1998 Plan"). Under the 1998 Plan, the Company may
+grant incentive stock options ("ISOs"), non-qualified stock options ("NQSOs")
+and stock appreciation rights to directors, officers and employees of the
+Company and its affiliates. The 1998 Plan reserves 150,000 shares for
+issuance. The exercise price of the ISOs and NQSOs will be 100% of the fair
+market value of the Common Stock on the date the ISOs and NQSOs are granted.
+The 1998 Plan will terminate on April 10, 2008. On June 21, 2004, the Board of
+Directors granted ISOs totaling 115,000 shares and NQSOs totaling 35,000
+shares at an exercise price of $1.47. All options were 100% vested.
+
+  Additional information regarding our stock option plan and plan activity for
+2006 is provided in our consolidated financial statements. See "Notes to
+Consolidated Financial Statements, Note 9 - Stock options."
+
+ITEM 6. SELECTED FINANCIAL DATA.
+
+  The following selected financial information is derived from and should be
+read in conjunction with the financial statements, including the notes
+thereto, appearing in Item 8. - "Financial Statements and Supplemental Data."
+
+Five Year Summary of Financial Data
+
+14
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+  Microwave Filter Company, Inc. operates primarily in the United States and
+principally in two industries. The Company extends credit to business
+customers, including original equipment manufacturers (OEMs), distributors and
+other end users, based upon ongoing credit evaluations. Microwave Filter
+Company, Inc. designs, develops, manufactures and sells electronic filters,
+both for radio and microwave frequencies, to help process signal distribution
+and to prevent unwanted signals from disrupting transmit or receive
+operations. Markets served include cable television, television and radio
+broadcast, satellite broadcast, mobile radio, commercial and defense
+electronics. Niagara Scientific, Inc., a wholly owned subsidiary, custom
+designs case packing machines to automatically pack products into shipping
+cases. Customers are processors of food and other commodity products with a
+need to reduce labor cost with a modest investment and quick payback.
+
+RESULTS OF OPERATIONS
+- ---------------------
+
+  The following table sets forth the Company's net sales by major product
+groups for each of the fiscal years in the three year period ended September
+30, 2006.
+
+Product group (in thousands) Fiscal 2006    Fiscal 2005   Fiscal 2004
+
+Microwave Filter:
+  Cable TV                      $1,882         $2,598        $2,179
+  RF/Microwave                   1,624          1,561         1,149
+  Satellite                        893          1,020         1,082
+  Broadcast TV                     116            166           235
+Niagara Scientific                  21            188           231
+                                ------         ------        ------
+    Total                       $4,536         $5,533        $4,876
+                                ======         ======        ======
+Sales backlog at 9/30           $  732         $  693        $  805
+                                ======         ======        ======
+
+Fiscal 2006 compared to fiscal 2005
+
+  Consolidated net sales for the fiscal year ended September 30, 2006 equaled
+$4,536,715, a decrease of $996,683 or 18%, when compared to consolidated net
+sales of $5,533,398 during the fiscal year ended September 30, 2005.
+
+  Microwave Filter Company, Inc. (MFC) sales decreased $829,927 or 15.5% to
+$4,515,502 during the fiscal year ended September 30, 2006 when compared to
+sales of $5,345,429 during the fiscal year ended September 30, 2005.
+
+  The decrease in MFC sales can primarily be attributed to the decrease in the
+sales of the Company's standard Cable TV products.
+
+15
+
+MFC's Cable TV product sales decreased $715,890 or 27.6% to $1,881,866
+during the fiscal year ended September 30, 2006 when compared to Cable TV
+product sales of $2,597,756 during the fiscal year ended September 30, 2005.
+The decrease in sales can be attributed to the transition from analog to
+digital television. Digital Televison (DTV) is a new type of broadcasting
+technology that will transform television viewing. DTV enables broadcasters to
+offer television with movie-quality picture and sound. It also offers greater
+multicasting and interactive capabilities. DTV is a more flexible and
+efficient technology than the current NTSC "analog" broadcast system. Rather
+than being limited to providing one analog programming channel, a broadcaster
+will be able to provide a super sharp "high definition" (HDTV) program or
+multiple "standard definition" DTV programs simultaneously using the RF
+spectrum more efficiently. Providing several program streams on one broadcast
+channel is called "multicasting." The number of programs a station can send on
+one digital channel depends on the level of picture detail, also known as
+"resolution." DTV can provide interactive video and data services that are not
+possible with "analog" technology. Converting to DTV will eventually free up
+parts of the scarce and valuable broadcast airwaves. Those portions of the
+spectrum can then be used for other important services, such as advanced
+wireless and public safety services (police, fire, rescue squads, etc.).
+Televison stations serving all markets in the United States are currently
+airing digital television programming, although they still must provide analog
+programming until the target date set by Congress for completion of the
+transition to DTV - April 7, 2009. That date may be extended, however, until
+most homes (85%) in an area are able to watch the DTV programming. At that
+point, broadcasting on the current (analog) channels will end and that
+spectrum will be put to other uses reducing the need for analog filters which
+MFC currently supplies. Until the transition to DTV is complete, television
+stations will continue broadcasting on both their digital and analog channels.
+MFC has developed and is supplying filters for digital television; however,
+the demand for these filters is unknown at this time.
+
+  MFC's RF/Microwave product sales increased $62,794 or 4% to $1,624,435
+during the fiscal year ended September 30, 2006 when compared to sales of
+$1,561,641 during the fiscal year ended September 30, 2005. These products are
+primarily sold to original equipment manufacturers (OEMs) that serve the
+mobile radio and commercial and defense electronics markets. Typical customers
+include the U.S. Government, General Dynamics, Motorola, Rockwell Collins,
+Lockheed Martin, Northrup Gruman and Raytheon. The Company continues to invest
+in production engineering and infrastructure development to penetrate OEM
+market segments as they become popular. MFC is concentrating its technical
+resources and product development efforts toward potential high volume
+customers as part of a concentrated effort to provide substantial long-term
+growth.
+
+  MFC's Satellite product sales decreased $127,729 or 12.5% to $892,717 during
+the fiscal year ended September 30, 2006 when compared to $1,020,446 during
+the fiscal year ended September 30, 2005. The decrease can be attributed to a
+decrease in demand for the Company's filters which suppress strong out-of-band
+interference caused by military and civilian radar systems and other sources.
+Despite the decrease in sales, management expects demand for these types of
+filters to continue with the proliferation of earth stations world wide and
+increased sources of interference.
+
+  MFC's BTV/Wireless cable sales decreased $49,102 or 29.7% to $116,484 for
+the fiscal year ended September 30,2006 when compared to sales of $165,586 for
+the fiscal year ended September 30, 2005 primarily due to a decrease in demand
+for UHF Broadcast products.
+
+16
+
+Niagara Scientific, Inc. (NSI) sales decreased $166,756 or 88.7% to $21,213
+for the fiscal year ended September 30, 2006 when compared to sales of
+$187,969 for the fiscal year ended September 30, 2005. NSI sales consisted
+primarily of spare part orders during fiscal 2006. NSI has been concentrating
+on quoting low risk jobs in an effort to maintain targeted profit margins.
+Although this may impact sales levels, it should improve profit margins and
+also allow engineering resources to focus on higher priorities. Based on
+backlog, recent quote activity and the general economic climate, management is
+expecting little, if any, growth in sales for NSI for fiscal 2007.
+
+  At September 30, 2006, the Company's total backlog of orders, which
+represents firm orders from customers, equaled $731,941 compared to $692,595
+at September 30, 2005. Approximately 76% of the total Company backlog at
+September 30, 2006 is scheduled to ship during fiscal 2007. However, backlog
+is not necessarily indicative of future sales. Accordingly, the Company does
+not believe that its backlog as of any particular date is representative of
+actual sales for any succeeding period.
+
+  Gross profit decreased $702,192 or 32% to $1,492,995 during the fiscal year
+ended September 30, 2006 when compared to gross profit of $2,195,187 during
+the fiscal year ended September 30, 2005. The dollar decrease can primarily be
+attributed to the lower sales volume. As a percentage of sales, gross profit
+decreased to 32.9% during the fiscal year ended September 30, 2006 compared to
+39.7% during the fiscal year ended September 30, 2005. The decrease in gross
+profit as a percentage of sales can also be attributed to the lower sales
+volume, resulting in a lower base to absorb fixed expenses.
+
+  Selling, general and administrative (SG&A) expenses increased $111,534 or
+5.8% to $2,022,485 during the fiscal year ended September 30, 2006 when
+compared to SG&A expenses of $1,910,951 during the fiscal year ended September
+30, 2005. The increase is primarily due to planned increases in promotional
+expenses and higher payroll and payroll related expenses when compared to last
+year.
+
+  Income from operations decreased $813,726 to a loss of $529,490 during the
+fiscal year ended September 30, 2006 when compared to income from operations
+of $284,236 during the fiscal year ended September 30, 2005. The decrease can
+primarily be attributed to the lower sales volume this year when compared to
+last year.
+
+  Other income increased $12,879 to $80,609 for the twelve months ended
+September 30, 2006 compared to other income of $67,730 for the twelve months
+ended September 30, 2005. Other income is primarily interest income earned on
+invested cash balances. The increase in other income can primarily be
+attributed to the rise in market interest rates during this fiscal year when
+compared to the same period last year. Other income may fluctuate based on
+market interest rates and levels of invested cash balances.
+
+  The Company recorded a benefit for income taxes of $37,532, an effective
+rate of (8.4%), for the fiscal year ended September 30, 2006 compared to a
+provision for income taxes of $39,755, or an effective rate of 11.3%, for the
+fiscal year ended September 30, 2005. The benefit for the current year is
+primarily due to the Company's ability to carry back it's operating loss to
+fiscal 2005 and an increase in deferred tax assets offset by an increase in
+the valuation allowance since the realization of the deferred tax benefit is
+not considered more likely than not.
+
+17
+
+Fiscal 2005 compared to fiscal 2004
+
+  Consolidated net sales for the fiscal year ended September 30, 2005 equaled
+$5,533,398, an increase of $657,179 or 13.5% when compared to consolidated net
+sales of $4,876,219 during the fiscal year ended September 30, 2004.
+
+  Microwave Filter Company, Inc. (MFC) sales increased $700,073 or 15.1% to
+$5,345,429 during the fiscal year ended September 30, 2005 when compared to
+sales of $4,645,356 during the fiscal year ended September 30, 2004.
+
+  The increase in MFC sales can primarily be attributed to an increase in the
+sales of the Company's standard Cable TV product sales and an increase in the
+sales of the Company's RF/Microwave product sales when compared to last year.
+
+  MFC's Cable TV product sales increased $418,976 or 19.2% to $2,597,756
+during the fiscal year ended September 30, 2005 when compared to Cable TV
+product sales of $2,178,780 during the fiscal year ended September 30, 2004.
+The increase in sales can be attributed to the improved economy mitigating any
+drop off in demand due to the transition from analog to digital television.
+Digital Televison (DTV) is a new type of broadcasting technology that will
+transform television viewing. DTV enables broadcasters to offer television
+with movie-quality picture and sound. It also offers greater ulticasting and
+interactive capabilities. DTV is a more flexible and efficient technology than
+the current NTSC "analog" broadcast system. Rather than being limited to
+providing one analog programming channel, a broadcaster will be able to
+provide a super sharp "high definition" (HDTV) program or multiple "standard
+definition" DTV programs simultaneously using the RF spectrum more
+efficiently. Providing several program streams on one broadcast channel is
+called "multicasting." The number of programs a station can send on one
+digital channel depends on the level of picture detail, also known as
+"resolution." DTV can provide interactive video and data services that are not
+possible with "analog" technology. Converting to DTV will eventually free up
+parts of the scarce and valuable broadcast airwaves. Those portions of the
+spectrum can then be used for other important services, such as advanced
+wireless and public safety services (police, fire, rescue squads, etc.).
+Televison stations serving all markets in the United States are currently
+airing digital television programming, although they still must provide analog
+programming until the target date set by Congress for completion of the
+transition to DTV - April 7, 2009. That date may be extended, however, until
+most homes (85%) in an area are able to watch the DTV programming. At that
+point, broadcasting on the current (analog) channels will end and that
+spectrum will be put to other uses reducing the need for analog filters which
+MFC currently supplies. Until the transition to DTV is complete, television
+stations will continue broadcasting on both their digital and analog channels.
+MFC has developed and is supplying filters for digital television; however,
+the demand for these filters is unknown at this time.
+
+  MFC's RF/Microwave product sales increased $412,951 or 35.9% to $1,561,641
+during the fiscal year ended September 30, 2005 when compared to sales of
+$1,148,690 during the fiscal year ended September 30, 2004. These products are
+primarily sold to original equipment manufacturers (OEMs) that serve the
+mobile radio and commercial and defense electronics markets. Typical customers
+include the U.S. Government, General Dynamics, Motorola, Rockwell Collins,
+Lockheed Martin, Northrup Gruman and Raytheon. The Company continues to invest
+in production engineering and infrastructure development to penetrate OEM
+market segments as they become popular. MFC is concentrating its technical
+resources and product development efforts toward potential high volume
+customers as part of a concentrated effort to provide substantial long-term
+growth.
+
+18
+
+MFC's Satellite product sales decreased $61,940 or 5.7% to $1,020,446 during
+the fiscal year ended September 30, 2005 when compared to $1,082,386 during
+the fiscal year ended September 30, 2004. The decrease can be attributed to a
+decrease in demand for the Company's filters which suppress strong out-of-band
+interference caused by military and civilian radar systems and other sources.
+Despite the slight decrease in sales, management expects demand for these
+types of filters to continue with the proliferation of earth stations world
+wide and increased sources of interference.
+
+  MFC's BTV/Wireless cable sales decreased $69,914 or 29.7% to $165,586 for
+the fiscal year ended September 30,2005 when compared to sales of $235,500 for
+the fiscal year ended September 30, 2004 primarily due to a decrease in demand
+for UHF Broadcast products.
+
+  Niagara Scientific, Inc. (NSI) sales decreased $42,894 or 18.6% to $187,969
+for the fiscal year ended September 30, 2005 when compared to sales of
+$230,863 for the fiscal year ended September 30, 2004. Sales of NSI related
+equipment can be impacted by the timing of the shipment of the custom designed
+equipment and the customer's scheduled delivery dates. NSI has been
+concentrating on quoting low risk jobs in an effort to maintain targeted
+profit margins. Although this may impact sales levels, it should improve
+profit margins and also allow engineering resources to focus on higher
+priorities. Based on backlog, recent quote activity and the general economic
+climate, management is expecting little, if any, growth in sales for NSI for
+fiscal 2006.
+
+  At September 30, 2005, the Company's total backlog of orders, which
+represents firm orders from customers, equaled $692,595 compared to $805,244
+at September 30, 2004.  At September 30, 2005, MFC's backlog of orders equaled
+$692,595 compared to $661,109 at September 30, 2004. At September 30, 2005,
+NSI's backlog of orders equaled $0 compared to $144,135 at September 30, 2004.
+The total Company backlog at September 30, 2005 is scheduled to ship during
+fiscal 2006. However, backlog is not necessarily indicative of future sales.
+Accordingly, the Company does not believe that its backlog as of any
+particular date is representative of actual sales for any succeeding period.
+
+  Gross profit increased $515,745 or 30.7% to $2,195,187 during the fiscal
+year ended September 30, 2005 when compared to gross profit of $1,679,442
+during the fiscal year ended September 30, 2004. As a percentage of sales,
+gross profit increased to 39.7% during the fiscal year ended September 30,
+2005 compared to 34.4% during the fiscal year ended September 30, 2004. The
+increases in gross profit can primarily be attributed to the higher sales
+volume and a favorable product sales mix this year when compared to last year.
+Typically, CATV products generate a higher gross margin than other product
+groups and; this year, the increase in the RF/Microwave product sales were
+from higher margin products.
+
+  Selling, general and administrative (SG&A) expenses increased $167,330 or
+9.6% to $1,910,951, or 34.5% of sales, during the fiscal year ended September
+30, 2005 when compared to SG&A expenses of $1,743,621, or 35.8% of sales,
+during the fiscal year ended September 30, 2004. The dollar increase is
+primarily related to increases in payroll and payroll related expenses.
+
+19
+
+Income from operations increased $348,415 to $284,236 during the fiscal year
+ended September 30, 2005 when compared to a loss from operations of $64,179
+during the fiscal year ended September 30, 2004. The improvement can primarily
+be attributed to the higher sales volume and improved margins this year when
+compared to last year. MFC's income from operations increased $265,017 to
+$297,337 for the fiscal year ended September 30, 2005 compared to income from
+operations of $32,320 for the fiscal year ended September 30, 2004, due
+primarily to MFC's higher sales volume and improved margins. NSI recorded a
+loss from operations of $13,101 for the fiscal year ended September 30, 2005
+compared to a loss from operations of $96,499 for the fiscal year ended
+September 30, 2004. NSI's improvement can be attributed to improved margins
+and planned reductions in SG&A expenses.
+
+  The Company recorded a provision for income taxes of $39,755, or an
+effective rate of 11.3%, for the fiscal year ended September 30, 2005 which
+reflects the U.S. Federal Alternative Minimum Tax and State income taxes that
+are due based on certain statutory limitations on the use of the Company's net
+operating loss carryforwards. The Company recorded a provison for income taxes
+of $145,889 for the fiscal year ended September 30, 2004 due primarily to the
+Company providing a full valuation allowance on its deferred tax assets.
+
+LIQUIDITY AND CAPITAL RESOURCES
+- -------------------------------
+
+  MFC defines liquidity as the ability to generate adequate funds to meet its
+operating and capital needs.  The Company's primary source of liquidity has
+been funds provided by operations.
+
+                                         September 30
+                                 2006        2005         2004
+Cash & cash equivalents        $705,646   $1,251,594    $817,338
+Investments                    $798,544     $822,651    $851,157
+Working capital              $2,063,269   $2,622,768  $2,213,155
+Current ratio                 5.05 to 1    5.02 to 1   4.60 to 1
+Long-term debt                  $     0      $     0     $     0
+
+Cash and cash equivalents decreased $545,948 to $705,646 at September 30,
+2006 when compared to $1,251,594 at September 30, 2005. The decrease was a
+result of $209,258 in net cash used in operating activities, $34,497 in net
+cash used in investing activities and $302,193 in net cash used in financing
+activities.
+
+    The net decrease of $151,048 in accounts receivable at September 30, 2006,
+when compared to September 30, 2005, can primarily be attributed to the
+decrease in shipments during the month ended September 30, 2006 when compared
+to the month ended September 30, 2005.
+
+20
+
+The net decrease of $64,755 in inventories at September 30, 2006, when
+compared to September 30, 2005, can primarily be attributed to a decrease in
+purchases due to the lower sales volume this year compared to last year, our
+customers scheduled delivery dates and an increase in the reserve for
+obsolescence. The Company provides for a valuation reserve for certain
+inventory that is deemed to be obsolete, of excess quantity or otherwise
+impaired. The Company's inventory valuation reserves equaled $389,200 at
+September 30, 2006 compared to $362,139 at September 30, 2005. The increase of
+$27,061 in inventory reserves at September 30, 2006, when compared to
+September 30, 2005, can primarily be attributed to the obsolescence of
+specific inventory items due to product enhancements or the slow movement of
+certain inventory items due to a decrease in demand. Based on current and
+expected inventory levels, management believes any change to the inventory
+valuation reserves will not have a material impact on future results of
+operations, capital resources or liquidity. All such inventory items are
+written down to their estimated net realizable value.
+
+  The net decrease in other current assets of $55,364 at September 30, 2006,
+when compared to September 30, 2005, can primarily be attributed to a decrease
+in prepaid expenses due primarily to the timing of the payments when compared
+to last year.
+
+  The net decrease of $88,342 in other current liabilities at September 30,
+2006, when compared to September 30, 2005, can primarily be attributed to a
+discretionary profit sharing contribution of $62,000 accrued at September 30,
+2005. No discretionary profit sharing contribution was accrued at September
+30, 2006.
+
+  Cash used in investing activities during fiscal 2006 consisted of funds
+provided by the sale of investments of $24,107 and funds used for capital
+expenditures of $58,604.
+
+  Cash used in financing activities during fiscal 2006 consisted of funds used
+to pay a cash dividend of $290,916 and cash used to purchase treasury stock of
+$11,277.
+
+   At September 30, 2006, the Company had unused aggregate lines of credit
+totaling $750,000 collateralized by all inventory, equipment and accounts
+receivable.
+
+  Management believes that its working capital requirements for the foreseeable
+future will be met by its existing cash balances, future cash flows from
+operations and its current credit arrangements.
+
+21
+
+FACTORS THAT MAY AFFECT FUTURE RESULTS OF OPERATIONS,
+FINANCIAL CONDITON OR BUSINESS
+- -------------------------------------------------------------------------------
+
+  An investment in our common stock involves a high degree of risk. The
+risks and uncertainties described below are not the only ones we face.
+Additional risks and uncertainties that we are unaware of, or that we may
+currently deem immaterial, may become important factors that harm our
+business, financial condition or results of operations. If any of the
+following risks actually occurs, our business, financial condition or results
+of operations could suffer. In that case, the trading price of our common
+stock could decline, and you may lose all or part of your investment.
+
+Demand for existing products may decline.
+
+  Demand for our products depends upon, among other factors, the level of
+capital expenditures by current and prospective customers, the rate of
+economic growth in the markets in which we compete and the competitiveness of
+our products. Changes in any of these factors could have an adverse effect on
+our financial condition or results of operations.
+
+  We must continue to assess and predict customer needs and evolving
+technologies. We must develop new products, including enhancements to existing
+products, and successfully manufacture, market and sell these products. If we
+are unsuccessful in these areas, our financial condition or results of
+operations could be adversely affected.
+
+  Our inability to introduce new and enhanced products on a timely basis.
+
+  Delays in development, testing, manufacture and/or release of new products
+could adversely affect our sales and results of operations. In addition, there
+can be no assurance that we will successfully identify new product
+opportunities, develop and bring new products to market in a timely manner and
+achieve market acceptance of our products, or that products and technologies
+developed by others will not render our products or technologies obsolete or
+noncompetitive.
+
+  Market acceptance of newly developed products may be slower than anticipated.
+
+  The markets for our products are competitive and may be characterized by
+rapid technological change, new product development and evolving industry
+standards. If technologies supported by our products become obsolete or fail
+to gain widespread acceptance, our business could be harmed. Current and
+potential competitors may have substantially greater financial, technical,
+marketing, distribution and other resources than us, and have greater name
+recognition and market acceptance of their products and technologies. Our
+competitors may develop new technologies or products that may offer superior
+price or performance features and may render our products and technologies
+obsolete and noncompetitive.
+
+22
+
+Pricing pressures from our customers and/or market pressure from competitors
+may reduce selling prices.
+
+  Many of customers are under continuous pressure to reduce costs and,
+therefore, we expect to continue to experience pressure from these customers
+to reduce the prices of the products that we sell to them. To offset declining
+average sales prices, we believe that we must achieve manufacturing cost
+reductions and increase our sales volumes. If we are unable to offset
+declining average selling prices, our gross margins will decline, and this
+decline could materially harm our business, financial condition and operating
+results. We also compete with companies which have substantially larger
+operations and greater financial, engineering, marketing, production and other
+resources than we have. These competitors may develop their products more
+quickly, devote greater marketing and sales resources, or offer more
+aggressive pricing, than we can. As a result, this could cause us to lose
+orders or customers or force reductions in selling prices, all of which would
+have a material adverse impact on our financial position and results of
+operations.
+
+  Difficulty in obtaining an adequate supply of raw materials or components at
+reasonable prices.
+
+  The Company depends on outside suppliers for raw materials, components and
+parts, and services. Although items are generally available from a number of
+suppliers, the Company purchases certain raw materials and components from a
+single supplier. If such a supplier should cease to supply an item, the
+Company believes that new sources could be found to provide the raw materials
+and components. However, manufacturing delays and added costs could result.
+The Company has not experienced significant delays of this nature in the past,
+but there can be no assurance that delays in delivery due to supply shortages
+will not occur in the future. Substantial periods of lead time for delivery of
+certain materials are sometimes experienced by the Company, making it
+necessary to inventory varied quantities of materials.
+
+  Loss of key personnel or the inability to attract new employees.
+
+  Our success depends in large part on the continued service of our key
+technical and management personnel, and on our ability to attract and retain
+qualified employees, particularly those involved in the development of new
+products and processes and the manufacture of existing products. The
+competition for these individuals is significant, and the loss of key
+employees could harm our business.
+
+Off-Balance Sheet Arrangements
+
+   At September 30, 2006 and 2005, the Company did not have any unconsolidated
+entities or financial partnerships, such as entities often referred to as
+structured finance or special purpose entities, which might have been
+established for the purpose of facilitating off-balance sheet arrangements.
+
+23
+
+Critical Accounting Policies
+
+  The Company's consolidated financial statements are based on the application
+of accounting principles generally accepted in the United States of America
+(GAAP). GAAP requires the use of estimates, assumptions, judgments and
+subjective interpretations of accounting  principles that have an impact on
+the assets, liabilities, revenue and expense  amounts  reported.  The Company
+believes its use of estimates and underlying  accounting assumptions adhere to
+GAAP and are consistently applied. Valuations based on estimates are reviewed
+for reasonableness and adequacy on a consistent  basis  throughout  the
+Company. Primary areas where financial information of the Company is subject
+to the use of estimates, assumptions and the application  of judgment include
+revenues, receivables, inventories, and taxes.
+
+  Revenues from product sales are recorded as the products are shipped and
+title and risk of loss have passed to the customer, provided that no
+significant vendor or post-contract support obligations remain and the
+collection of the related receivable is probable. Billings in advance of the
+Company's performance of such work are reflected as customer deposits in the
+accompanying consolidated balance sheet.
+
+  Allowances for doubtful accounts are based on estimates of losses related to
+customer receivable balances.  The establishment of reserves requires the use
+of judgment and assumptions regarding the potential for losses on receivable
+balances.
+
+  The Company's inventories are valued at the lower of cost or market.  The
+Company uses certain estimates and judgments and considers several factors
+including product demand and changes in technology to provide for excess and
+obsolescence reserves to properly value inventory.
+
+  The Company established a warranty reserve which provides for the estimated
+cost of product returns based upon historical experience and any known
+conditions or circumstances. Our warranty obligation is affected by product
+that does not meet specifications and performance requirements and any related
+costs of addressing such matters.
+
+  The Company has deferred tax assets that are reviewed for recoverability and
+valued accordingly. These assets are evaluated by using estimates of future
+taxable income streams and the impact of tax planning strategies. Valuations
+related to tax accruals and assets can be impacted by changes to tax codes,
+changes in statutory tax rates and the Company's future taxable income levels.
+The Company has provided a full valuation allowance against its deferred tax
+assets.
+
+24
+
+NEW ACCOUNTING PRONOUNCEMENTS
+- -----------------------------
+
+  FASB Interpretation 48 was issued in July 2006 to clarify the criteria for
+recognizing tax benefits under FASB Statement No. 109, Accounting for Income
+Taxes. The Interpretation defines the threshold for recognizing the benefits
+of tax-return positions in the financial statements as "more-likely-than-not"
+to be sustained by the taxing authority and will affect many companies'
+reported results and their disclosures of uncertain tax positions. The
+Interpretation does not prescribe the type of evidence required to support
+meeting the more-likely-than-not threshold, stating that it depends on the
+individual facts and circumstances. The benefit recognized for a tax position
+meeting the more-likely-than-not criterion is measured based on the largest
+benefit that is more than 50 percent likely to be realized. The measurement of
+the related benefit is determined by considering the probabilities of the
+amounts that could be realized upon ultimate settlement, assuming the taxing
+authority has full knowledge of all relevant facts and including expected
+negotiated settlements with the taxing authority. Interpretation 48 is
+effective as of the beginning of the first fiscal year beginning after
+December 15, 2006 (the Company's 2008 fiscal year). The company is currently
+analyzing the financial statement impact of adopting this pronouncement.
+
+  Accounting for Pension and Other Postretirement Benefits -- In September
+2006, the FASB published Statement of Financial Accounting No. 158, Employers
+Accounting for Defined Benefit Pension and Other Postretirement Plans. This
+statement requires companies to report on their balance sheets the funded
+status of pension and other post retirement benefit plans. The proposal would
+also require companies to measure plan assets and obligations as of the
+employer's balance-sheet date. As a result, companies would recognize on their
+balance sheets actuarial gains and losses and prior service cost that have not
+yet been included in income. This could significantly increase reported
+liabilities for many companies with a corresponding reduction in equity
+reported as accumulated other comprehensive income. The provisions for the
+statement are effective for fiscal years ending after December 15, 2006, (the
+Company's 2007 fiscal year) with earlier application encouraged. The Company
+does not expect the adoption of SFAS No. 158 in fiscal 2008 to have an impact
+on its results of operations or financial position.
+
+  In September 2006, SEC Staff Accounting Bulletin No. 108 was issued to
+provide guidance on Quantifying Financial Statement Misstatements. Staff
+Accounting Bulletin No. 108 addresses how the effects of prior-year
+uncorrected misstatements should be considered when quantifying misstatements
+in current-year financial statements. The SAB requires registrants to quantify
+misstatements using both the balance sheet and income-statement approaches and
+to evaluate whether either approach results in quantifying an error that is
+material in light of relevant quantitative and qualitative factors. The SAB
+does not change the staff's previous guidance in SAB 99 on evaluating the
+materiality of misstatements. When the effect of initial adoption is
+determined to be material, the SAB allows registrants to record that effect as
+a cumulative-effect adjustment to beginning-of-year retained earnings. The
+requirements are effective for annual financial statements covering the first
+fiscal year ending after November 15, 2006 (the Company's fiscal 2007).
+
+25
+
+Fair Value Measurements. In September 2006, the FASB published Statement of
+Financial Accounting No. 157, Fair Value Measurements. This Statement
+establishes a single authoritative definition of fair value, sets out a
+framework for measuring fair value, and requires additional disclosures about
+fair-value measurements. The Statement applies only to fair-value measurements
+that are already required or permitted by other accounting standards and is
+expected to increase the consistency of those measurements. It will also
+affect current practices by nullifying the Emerging Issues Task Force (EITF)
+guidance that prohibited recognition of gains or losses at the inception of
+derivative transactions whose fair value is estimated by applying a model and
+by eliminating the use of "blockage" factors by brokers, dealers, and
+investment companies that have been applying AICPA Guides. The Statement is
+effective for fair-value measures already required or permitted by other
+standards for financial statements issued for fiscal years beginning after
+November 15, 2007 (the Company's fiscal 2009) and interim periods within those
+fiscal years. Early application is permissible only if no annual or interim
+financial statements have been issued for the earlier periods. The
+requirements of the Statement are applied prospectively, except for changes in
+fair value related to estimating he fair value of a large block position and
+instruments measured at fair value at initial recognition based on transaction
+price in accordance with EITF 02-3 or Statement 155.
+
+SAFE HARBOR STATEMENT UNDER THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995
+- --------------------------------------------------------------------------------
+
+  In an effort to provide investors a balanced view of the Company's current
+condition and future growth opportunities, this Annual Report on Form 10-K may
+include comments by the Company's management about future performance. These
+statements which are not historical information are "forward-looking
+statements" pursuant to the safe harbor provisions of the Private Securities
+Litigation Reform Act of 1995. These, and other forward-looking statements,
+are subject to business and economic risks and uncertainties that could cause
+actual results to differ materially from those discussed. These risks and
+uncertainties include, but are not limited to: risks associated with demand
+for and market acceptance of existing and newly developed products as to which
+the Company has made significant investments; general economic and industry
+conditions; slower than anticipated penetration into the satellite
+communications, mobile radio and commercial and defense electronics markets;
+competitive products and pricing pressures; increased pricing pressure from
+our customers; risks relating to governmental regulatory actions in broadcast,
+communications and defense programs; as well as other risks and uncertainties,
+including but not limited to those detailed from time to time in the Company's
+Securities and Exchange Commission filings. These forward-looking statements
+are made only as of the date hereof, and the Company undertakes no obligation
+to update or revise the forward-looking statements, whether as a result of new
+information, future events or otherwise. You are encouraged to review
+Microwave Filter Company's 2006 Annual Report and Form 10-K for the fiscal
+year ended September 30, 2006 and other Securities and Exchange Commission
+filings. Forward looking statements may be made directly in this document or
+"incorporated by reference" from other documents. You can find many of these
+statements by looking for words like "believes," "expects," "anticipates,"
+"estimates," or similar expressions.
+
+26
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+  The Company has limited exposure to market risk as the Company has no long
+term debt as of September 30, 2006. The Company's available line of credit is
+based on a factor of the prime rate; however, there are no outstanding
+borrowings under the line of credit. The Company does not trade in derivative
+financial instruments. Investments generally consist of commercial paper,
+government backed obligations and other guaranteed commercial debt that have
+an original maturity of more than three months and a remaining maturity of
+less than one year. Investments are carried at cost which approximates market.
+The Company's policy is to hold investments until maturity. The Company's
+practice is to invest cash with financial institutions that have acceptable
+credit ratings.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+  The Financial Statements and Financial Statement Schedule called for by this
+item are submitted as a separate section of this report.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE.
+
+1. On January 31, 2005, PricewaterhouseCoopers LLP ("PwC") resigned as the
+independent  registered public accounting firm for Microwave Filter Company,
+Inc. (the "Company"). The reports of PwC on the Company's financial statements
+as of and for the years ended September 30, 2004 and 2003 did not contain an
+adverse opinion, a disclaimer of opinion, nor were the reports qualified or
+modified as to uncertainty, audit scope or accounting principle. During the
+years ended September 30, 2004 and 2003 and  through January 31, 2005, there
+were no disagreements with PWC on any matter of accounting principles or
+practices, financial statement disclosure, or auditing scope or procedure,
+which disagreements, if not resolved, to PwC's  satisfaction, would have
+caused them to make reference thereto in their reports on the financial
+statements for such years.
+
+2. On March 8, 2005, the Audit Committee of the Board of Directors of
+Microwave Filter Company, Inc. engaged the services of Rotenberg & Co. LLP as
+its new independent accountants to audit its financial statements for the
+fiscal year ended September 30, 2005.
+
+27
+
+ITEM 9A.   CONTROLS AND PROCEDURES
+
+1. Evaluation of disclosure controls and procedures. Based on their
+   evaluation of the Company's disclosure controls and procedures (as
+   defined in Rule 13a-15(e) and 15d-15(e) under the Securities
+   Exchange Act of 1934) as of the end of the period covered by this
+   Annual Report on Form 10-K, the Company's chief executive officer
+   and chief financial officer have concluded that the Company's
+   disclosure controls and procedures are effective.
+
+2. Changes in internal control over financial reporting. During the
+   quarter ended September 30, 2006, there were no changes in the
+   Company's internal control over financial reporting (as defined
+   in Rule 13a-15(f)) that have materially affected, or are reasonably
+   likely to materially affect, the Company's internal control over
+   financial reporting.
+
+ITEM 9B. OTHER INFORMATION
+
+  None.
+
+28
+
+PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+  The names of, and certain information with respect to, the directors of MFC
+is set forth below:
+
+                                                         Common Shares
+                                                          Actually or   Percent
+                                                         Beneficially     of
+Director             Principal occupation                Owned 12/1/06   Class
+
+ROBERT R. ANDREWS     Mr. Andrews is the President and        1,214        *
+(a)(c)                Principal shareholder of Morse
+Age 65                Manufacturing Co., Inc., East
+Director since 1992   Syracuse, N.Y. which produces
+                      specialized material handling
+                      equipment and has served in that
+                      capacity since prior to 1985.  He
+                      received a B.A degree from
+                      Arkansas University and has
+                      served as Vice President and a
+                      director of the Manufacturers'
+                      Association of Central New York,
+                      President of the Citizens
+                      Foundation, a Trustee of Dewitt
+                      Community Church, director of the
+                      Salvation Army and Chairman of
+                      the Business and Industry
+                      Council of Onondaga Community
+                      College. Mr. Andrews was elected
+                      Chairman of the Board of Directors
+                      of Microwave Filter Company, Inc. on
+                      November 17, 2004.
+
+TRUDI B. ARTINI       Mrs. Artini is an independent          32,435       1.1%
+(a)(b)(d)             investor in MFC and various other
+Age 84                business enterprises in Syracuse,
+Director since 1974   New York.
+
+SIDNEY CHONG          Mr. Chong is a corporate                  335        *
+(a)(b)(c)             accountant for Carrols Corp. in
+Age 65                Syracuse. Prior to joining Carrols
+Director since 1995   Corp., he was a Senior Accountant
+                      with Price Waterhouse and Co. in
+                      New York City.  Mr. Chong has a
+                      Bachelor of Science degree in
+                      accounting from California State
+                      University.
+
+29
+ 
+                                                            Common Shares
+                                                         Actually or    Percent
+                                                        Beneficially      of
+Director             Principal occupation               Owned 12/1/06    Class
+
+CARL F. FAHRENKRUG PE Mr. Fahrenkrug was appointed           72,298       2.5%
+(a)                   President and Chief Executive
+Age 64                Officer of MFC on October 7,
+Director since 1984   1992.  He has also served as
+                      President and Chief Executive
+                      Officer of NSI since prior to
+                      1986.  He served as Vice
+                      President of Engineering at
+                      Microwave Systems, Inc.,
+                      Syracuse, N.Y. from 1972-1976.
+                      Mr. Fahrenkrug has a B.S. and
+                      M.S. in Engineering and an MBA
+                      from Syracuse University.
+
+DANIEL GALBALLY       Mr. Galbally is an accountant               0
+(b)(c)(d)             for Nucor Steel Auburn, Inc.
+Age 59                in Auburn, New York. Prior to
+Director since 1995   joining Nucor Steel Auburn, he
+                      was the controller of Diamond Card
+                      Exchange, Inc. in Syracuse, New
+                      York. He was the controller of
+                      Evaporated Metal Films (EMF) in
+                      Ithaca, N.Y. Before joining EMF,
+                      he worked as controller and acting
+                      vice president of finance at
+                      Philips Display Components Co.
+                      He has a bachelor's degree in
+                      accounting and an MBA from
+                      Syracuse University.
+
+RICHARD L. JONES      Mr. Jones was appointed a Director          0
+Age 58                of Microwave Filter Company, Inc. on
+Director since 2004   September 7, 2004. Mr. Jones has
+                      served as a Vice President and the
+                      Chief Financial Officer of Microwave
+                      Filter Company, Inc. since October 7,
+                      1992. He has a Bachelor of Science
+                      degree in accounting from Syracuse
+                      University.
+
+30
+
+Common Shares
+                                                          Actually or   Percent
+                                                         Beneficially     of
+Director             Principal occupation                Owned 12/1/06   Class
+
+FRANK S. MARKOVICH    Mr. Markovich is a consultant in        4,340        *
+(c)(d)                the manufacturing operations
+Age 61                and training field. Prior to that
+Director since 1992   he was the Director of the
+                      Manufacturing Extension
+                      Partnership at UNIPEG Binghamton.
+                      He held various high level
+                      positions in operations, quality
+                      and product management in a 20
+                      year career with BF Goodrich
+                      Aerospace, Simmonds Precision
+                      Engine Systems of Norwich, New
+                      York.  He completed US Navy
+                      Electronics and Communications
+                      Schools and received an MBA from
+                      Syracuse University.
+
+MILO PETERSON         Mr. Peterson has served as             42,250       1.5%
+(a)                   Executive Vice President and
+Age 66                Corporate Secretary of NSI since
+Director since 1990   January 1, 1992. Mr. Peterson
+                      graduated from programs at Yale
+                      University and Syracuse
+                      University.  He served as Vice
+                      President of Manufacturing of
+                      Microwave Systems, Inc.,
+                      Syracuse, N.Y. from 1970-1976.
+                      He was elected Vice President
+                      And Corporate Secretary of MFC
+                      On March 27, 1993.
+
+ARNOLD POLTENSON      Mr. Poltenson retired in 1989 as            0
+Age 70                president and owner of Salina Press,
+Director since 2006   Inc., a commercial printing company.
+                      He holds a BA from Amherst College
+                      and a MBA from Syracuse University.
+                      After his retirement, Mr. Poltenson
+                      spent several years teaching at the
+                      Business School at Syracuse University
+                      in the department of Law and Public
+                      Policy. He has worked for the Hospice
+                      of Central New York and the Central
+                      New York Community Foundation. He has
+                      been active on many non-profit boards
+                      in the area and currently serves on the
+                      executive committee of the Onondaga
+                      Historical Association.
+
+31
+
+(a)Member of Executive Committee
+(b)Member of Compensation Committee
+(c)Member of Finance and Audit Committee
+(d)Member of Nominating Committee
+
+*  Denotes less than one percent of class.
+
+The Directors listed above and executive officers as a group own 152,872
+shares or approximately 5% of the outstanding common shares of the Company.
+
+The Board of Directors of Microwave Filter Company, Inc. has determined that
+Mr. Chong and Mr. Galbally, both members of the Audit Committee, are "audit
+committee financial experts" as defined by the SEC's regulations.
+
+IDENTIFICATION OF EXECUTIVE OFFICERS
+
+        Name                   Age      Position
+
+        Carl F. Fahrenkrug      64      President and Chief Executive Officer
+
+        Richard L. Jones        58      Vice President and Chief Financial
+                                        Officer
+
+        Milo J. Peterson        66      Vice President and Corporate Secretary
+
+        Paul W. Mears           47      Vice President of Engineering
+
+All of the officers serve at the pleasure of the Board of Directors.
+
+Carl F. Fahrenkrug was elected President and Chief Executive Officer of MFC on
+October 7, 1992.  Prior to that date, he had been Executive Vice President and
+Chief Operating Officer of MFC.  Prior to January 1, 1992, he was President and
+CEO of NSI and Vice President of Corporate Development for MFC.
+
+Richard L. Jones joined MFC in August 1983 as controller. In February 1985, he
+was appointed Vice President and Treasurer of MFC.  On October 7, 1992, he was
+appointed Vice President and Chief Financial Officer.
+
+Milo J. Peterson was elected Vice President and Corporate Secretary of MFC on
+March 27, 1993. Mr. Peterson has served as Executive Vice President and
+Corporate Secretary of NSI. He served as Vice President of Manufacturing of
+Microwave Systems, Inc., Syracuse, NY, from 1970 - 1976.
+
+Paul W. Mears began his association with MFC as a Co-op while attending RIT in
+1981. He became a full time employee in 1984 when he began his duties as an
+Electrical Engineer in Research and Development. In 1988 he became a Senior
+Design and Quotation Engineer and in 1989, he was promoted to Assistant Chief
+Engineer, Manager of Engineering of the Filter Division and in April of 1998,
+Was appointed Vice President of Engineering.
+
+32
+
+The Company has adopted a Code of Ethics and Business Conduct for all of our
+employees and directors, including our Chief Executive Officer and Chief
+Financial Officer. A copy of our Code of Ethics and Business Conduct is
+available free of charge on our Company web site at www.microwavefilter.com.
+
+ITEM 11. EXECUTIVE COMPENSATION.
+
+  The following table sets forth for the fiscal years ended September 30, 2006,
+2005 and 2004, compensation paid by MFC to the named executive officers in all
+capacities in which they served.
+
+                            SUMMARY COMPENSATION TABLE
+                                Annual Compensation
+                                            Salary    Bonus
+   Name and principal position     Year    ___$___   ___$___
+
+   Carl F. Fahrenkrug              2006    116,188       -
+   President and CEO               2005    122,687       -
+                                   2004    117,869       -
+
+PROFIT SHARING
+- --------------
+
+  MFC has a profit sharing plan for all employees over the age of 21 with one
+year of service. Annual contributions are determined by the Board of Directors
+and are made from current or accumulated net income. Allocation of
+contributions to plan participants are based upon annual compensation.
+Participants vest on the basis of 20% after 3 years of service, 40% at 4
+years, 60% at 5 years, 80% at 6 years and 100% at 7 years.
+
+  MFC also has a voluntary 401-K plan.  Eligibility is the same as the Profit
+Sharing Plan. Contributions to the 401-K plan were matched at a rate of 100%
+of an employee's first 6% of contributions during fiscal 2006. The maximum
+corporate match was 6% of an employee's compensation during fiscal 2006.
+
+  MFC's contributions to the plans for the years ended September 30, 2006,
+2005 and 2004 amounted to $97,748, $134,126 and $67,675, respectively.
+
+STOCK OPTIONS
+- -------------
+
+  On April 9, 1998, the Board of Directors and Shareholders of Microwave
+Filter Company, Inc. approved the 1998 Microwave Filter Company, Inc.
+Incentive Stock Plan (the "1998 Plan"). Under the 1998 Plan, the Company may
+grant incentive stock options ("ISOs"), non-qualified stock options ("NQSOs")
+and stock appreciation rights to directors, officers and employees of the
+Company and its affiliates. The 1998 Plan reserves 150,000 shares for
+issuance. The exercise price of the ISOs and NQSOs will be 100% of the fair
+market value of the Common Stock on the date the ISOs and NQSOs are granted.
+The 1998 Plan will terminate on April 10, 2008. On June 21, 2004, the Board of
+Directors granted ISOs totaling 115,000 shares and NQSOs totaling 35,000
+shares at an exercise price of $1.47. All options were 100% vested.
+
+33
+
+A summary of all stock option activity and information related to all options
+outstanding follows:
+
+34
+
+COMPENSATION OF DIRECTORS
+- -------------------------
+
+  Non-officer directors currently receive fees of $300.00 per board and
+committee meetings. MFC also reimburses directors for reasonable expenses
+incurred in attending meetings. The Chairman of the Board receives $500.00 per
+board and committee meetings. Officer members receive no compensation for
+their attendance at meetings.
+
+ITEM 12.  SECURITIES OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+AND MANAGEMENT.
+
+  The following table sets forth information as to the only persons known by
+the Company to own beneficially more than 5% of the Common Stock of the Company
+on December 1, 2006.
+
+                                                                    % of
+                                                                 Outstanding
+                                                               Number of shares
+                                                                   Common
+Name of Beneficial Owner   Address           Beneficially Owned ____Stock____
+
+Frederick A. Dix &         209 Watson Rd.          244,007           8.4%
+Marjorie Dix               N. Syracuse, NY 13212
+
+The information relating to the ownership of common stock held by the
+directors and executive officers of the corporation is set forth in item 10 of
+this report.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+  None
+
+ITEM 14.  PRINCIPAL ACCOUNTING FEES AND SERVICES
+
+  Information required by this Item is contained in the Company's proxy
+statement filed with respect to the 2007 Annual Meeting of Shareholders and is
+incorporated by reference herein.
+
+35
+
+PART IV
+
+ITEM 15.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K.
+
+(a)    1. and 2.   Financial Statements and Schedule:
+
+                   Reference is made to the list of Financial Statements and
+                   the Financial Statement Schedule submitted as a separate
+                   section of this report.
+
+(b)    Reports On Form 8-K:
+
+       None
+
+(C)    Exhibits:
+
+       Reference is made to the List of Exhibits submitted as a separate
+       section of this report.
+
+36
+
+SIGNATURES
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, Microwave Filter Company, Inc. has duly caused this
+report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+MICROWAVE FILTER COMPANY, INC.
+
+|S| Carl F. Fahrenkrug
+- --------------------------
+By:  Carl F. Fahrenkrug
+(President and Chief Executive Officer)
+
+|S| Richard Jones
+- ---------------------
+By:  Richard Jones
+(Vice President and Chief Financial Officer)
+
+Dated:  December 21, 2006
+
+  Pursuant to the requirements Of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the date indicated:
+
+|S| Robert R. Andrews         |S| Carl F. Fahrenkrug
+- ------------------------      --------------------------
+Robert R. Andrews             Carl F. Fahrenkrug
+(Director)                    (Director)
+
+|S| Milo J. Peterson          |S| Richard L. Jones
+- ------------------------      -----------------------
+Milo J. Peterson              Richard L. Jones
+(Director)                    (Director)
+
+|S| Sidney Chong
+- --------------------
+Sidney Chong
+(Director)
+
+Dated:  December 21, 2006
+
+37
+
+ANNUAL REPORT ON FORM 10-K
+
+               MICROWAVE FILTER COMPANY, INC.
+                      AND SUBSIDIARIES
+
+         INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+              AND FINANCIAL STATEMENT SCHEDULE
+
+                 ITEM 8, ITEM 15(a)(1) and (2)
+
+CONSOLIDATED FINANCIAL STATEMENTS:                              Page
+
+Reports of Independent Registered Public Accounting Firms........39-40
+Consolidated Balance Sheets as of September 30, 2006 and 2005....41
+Consolidated Statements of Operations for the Years
+  Ended September 30, 2006, 2005 and 2004 .......................42
+Consolidated Statements of Stockholders' Equity for the Years
+  Ended September 30, 2006, 2005 and 2004 .......................43
+Consolidated Statements of Cash Flows for the Years
+  Ended September 30, 2006, 2005 and 2004 .......................44
+Notes to Consolidated Financial Statements.......................45-56
+
+SCHEDULE FOR THE YEARS ENDED SEPTEMBER 30, 2006, 2005 AND 2004:
+
+II-Valuation and Qualifying Accounts.............................58
+
+  All other schedules for which provision is made in the applicable accounting
+regulation of the Securities and Exchange Commission are not required under the
+related instructions or are inapplicable and therefore have been omitted.
+
+38
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Board of Directors
+  and Stockholders
+Microwave Filter Company, Inc. and Subsidiary
+East Syracuse, New York
+
+  We have audited the accompanying consolidated balance sheets of Microwave
+Filter Company, Inc. and Subsidiary as of September 30, 2006 and 2005, and the
+related consolidated statements of operations, changes in stockholders' equity
+(deficit), and cash flows for each of the two years in the period ended
+September 30, 2006 and 2005. These consolidated financial statements are the
+responsibility of the Company's management.  Our responsibility is to express
+an opinion on these consolidated financial statements based on our audits.
+
+  We conducted our audits in accordance with the standards of the Public
+Company Accounting Oversight Board (United States).  Those standards require
+that we plan and perform the audits to obtain reasonable assurance about
+whether the consolidated financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the consolidated financial
+statements. An audit also includes assessing the accounting principles used
+and significant estimates made by management, as well as evaluating the
+overall consolidated financial statement presentation.  We believe that our
+audits provide a reasonable basis for our opinion.
+
+  In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of the
+Company as of September 30, 2006 and 2005, and the results of its operations
+and its cash flows for each of the two years in the period ended September 30,
+2006 and 2005, in conformity with accounting principles generally accepted in
+the United States of America.
+
+Rotenberg & Co., LLP
+Rochester, New York
+  November 17, 2006
+
+39
+
+Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors and Shareholders
+of Microwave Filter Company, Inc.
+
+In our opinion, the consolidated financial statements listed in the
+accompanying index appearing under Item 15(a) (1) present fairly, in all
+material respects, the results of  operations and cash flows of Microwave
+Filter Company, Inc. and its subsidiaries for the year ended September 30,
+2004 in conformity with accounting principles generally accepted in the United
+States of America. In addition, in our opinion, the financial statement
+schedules listed in the accompanying index appearing under Item 15(a) (2)
+present fairly, in all material respects, the information set forth therein
+when read in conjunction with the related consolidated financial statements.
+These financial statements and financial statement schedules are the
+responsibility of the Company's management. Our responsibility is to express
+an opinion on these financial statements and financial statement schedules
+based on our audits. We conducted our audits of these statements in accordance
+with the standards of the Public Company Accounting Oversight Board (United
+States). Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements, assessing
+the accounting principles used and significant estimates made by management,
+and evaluating the overall financial statement presentation. We believe that
+our audits provide a reasonable basis for our opinion.
+
+PricewaterhouseCoopers LLP
+Syracuse, New York
+December 10, 2004
+
+40
+
+Microwave Filter Company and Subsidiaries
+                 Consolidated Balance Sheets
+
+                                                              September 30
+Assets                                                       2006       2005
+- ------                                                       ----       ----
+Current assets:
+  Cash and cash equivalents                              $  705,646  $1,251,594
+  Investments                                               798,544     822,651
+  Accounts receivable-trade, net of allowance for
+    doubtful accounts of $12,000 and $16,000                344,134     495,182
+  Accrued federal and state income tax recoverable          137,986           0
+  Inventories                                               491,135     555,890
+  Prepaid expenses and other current assets                  94,826     150,190
+                                                          ---------   ---------
+    Total current assets                                  2,572,271   3,275,507
+
+Property, plant and equipment, net                          554,102     658,898
+
+Deferred tax asset - noncurrent                                   0      49,247
+                                                         ----------  ----------
+
+      Total Assets                                       $3,126,373  $3,983,652
+                                                         ==========  ==========
+Liabilities and Stockholders' Equity
+- ------------------------------------
+Current liabilities:
+  Accounts payable                                       $  179,800  $  190,372
+  Customer deposits                                          20,298       9,874
+  Accrued federal and state income taxes                          0      23,099
+  Accrued payroll and related expenses                       61,028      59,432
+  Accrued compensated absences                              210,825     227,717
+  Other current liabilities                                  37,051     142,245
+                                                          ---------   ---------
+    Total current liabilities                               509,002     652,739
+                                                          ---------   ---------
+    Total liabilities                                       509,002     652,739
+                                                          ---------   ---------
+Commitments (Note 6)
+
+Stockholders' equity:
+  Common stock, $.10 par value. Authorized 5,000,000 shares
+    Issued 4,324,140 in 2006 and 2005                       432,414     432,414
+  Additional paid-in capital                              3,248,706   3,248,706
+  Retained earnings                                         456,183   1,158,448
+
+  Common stock in treasury, at cost, 1,421,788
+  shares in 2006 and 1,414,840 shares in 2005            (1,519,932) (1,508,655)
+                                                          ---------   ---------
+    Total stockholders' equity                            2,617,371   3,330,913
+                                                          ---------   ---------
+    Total Liabilities and Stockholders' Equity           $3,126,373  $3,983,652
+                                                         ==========  ==========
+
+The accompanying notes are an integral part of the consolidated financial
+statements.
+
+41
+ 
+                   Microwave Filter Company and Subsidiaries
+                     Consolidated Statements of Operations
+
+                                         For the Years Ended September 30
+                                       2006             2005            2004
+                                       ----             ----            ----
+
+Net sales                           $4,536,715       $5,533,398      $4,876,219
+
+Cost of goods sold                   3,043,720        3,338,211       3,196,777
+                                     ---------        ---------       ---------
+
+    Gross profit                     1,492,995        2,195,187       1,679,442
+
+Selling, general
+  and administrative expenses        2,022,485        1,910,951       1,743,621
+                                     ---------        ---------       ---------
+
+ (Loss) income from operations        (529,490)         284,236         (64,179)
+
+Non-operating Income
+    Interest income                     71,297           41,862          14,734
+    Miscellaneous                        9,312           25,868          19,017
+                                       -------          -------         -------
+
+    (Loss) income before
+       income taxes                   (448,881)         351,966         (30,428)
+
+(Benefit) provision for
+  income taxes                         (37,532)          39,755         145,889
+                                      --------        ---------       ---------
+
+NET (LOSS) INCOME                    ($411,349)        $312,211       ($176,317)
+                                      ========        =========       =========
+
+Per share data:
+Basic (Loss) Earnings Per
+  Common Share                        ($0.14)            $0.11          ($0.06)
+                                     =========        =========       =========
+Diluted (Loss) Earnings per
+  Common Share                        ($0.13)            $0.10          ($0.06)
+                                     =========        =========       =========
+Shares used in computing net
+  (loss) earnings per common share:
+  Basic                              2,905,355        2,908,503       2,904,669
+  Diluted                            3,043,903        3,049,115       2,946,482
+
+The accompanying notes are an integral part of the consolidated financial
+statements.
+
+42
+ 
+                   Microwave Filter Company and Subsidiaries
+                Consolidated Statements of Stockholders' Equity
+            For the Years Ended September 30, 2006, 2005 and 2004
+
+            -----------------------------------------------------
+
+The accompanying notes are an integral part of the consolidated financial
+statements.
+
+43
+
+Microwave Filter Company and Subsidiaries
+                     Consolidated Statements of Cash Flows
+                Increase (Decrease) in Cash and Cash Equivalents
+                ------------------------------------------------
+
+                                              For the Years Ended September 30
+                                              --------------------------------
+                                                  2006      2005       2004
+                                                  ----      ----       ----
+
+Cash flows from operating activities:
+       Net (loss) income                      ($411,349)  $312,211  ($176,317)
+
+Adjustments to reconcile net (loss) income to
+  net cash (used in) provided by operating
+  activities:
+    Depreciation                                163,400    198,476    222,799
+    Provision for doubtful accounts              (4,853)    (8,473)   (40,137)
+    Inventory obsolescence provision            (27,061)   (24,610)   (15,225)
+    Deferred income taxes                        32,395    (32,395)   246,377
+  Changes in assets and liabilities:
+    Accounts receivable-trade                   155,901    (32,865)   (95,356)
+    Federal and state income taxes             (161,085)    22,673     39,910
+    Inventories                                  91,816    106,890     84,645
+    Other assets                                 55,364    (82,568)    25,044
+    Accounts payable and customer deposits         (148)   (46,468)   (69,513)
+    Accrued payroll, compensated absences and
+      related expenses                          (15,296)   (47,526)   (16,695)
+    Other current liabilities                   (88,342)    92,232    (12,310)
+                                              ---------   --------    -------
+    Net cash (used in) provided by
+      operating activities                     (209,258)   457,577    193,222
+                                              ---------   --------  ---------
+Cash flows from investing activities:
+  Investments                                    24,107     28,506     24,514
+  Capital expenditures                          (58,604)   (58,900)   (46,754)
+                                               --------   --------   --------
+    Net cash used in investing activities       (34,497)   (30,394)   (22,240)
+                                               --------   --------   --------
+Cash flows from financing activities:
+  Purchase of treasury stock                    (11,277)    (2,411)      (530)
+  Stock options exercised                             0      9,484          0
+  Cash dividend paid                           (290,916)         0          0
+                                               --------   --------   --------
+    Net cash (used in) provided by
+      financing activities                     (302,193)     7,073       (530)
+                                               --------   --------   --------
+    Net (decrease) increase
+        in cash and cash equivalents           (545,948)   434,256    170,452
+
+Cash and cash equivalents at
+  beginning of year                           1,251,594    817,338    646,886
+                                              ---------  ---------   --------
+CASH AND CASH EQUIVALENTS AT END OF YEAR       $705,646 $1,251,594   $817,338
+                                              ========= ==========   ========
+
+Supplemental disclosures of cash flows:
+  Cash paid (refunded) during the year
+   for (approximately):
+    Interest                                         $0         $0         $0
+    Income taxes                                $91,000    $50,000  ($116,000)
+
+  The accompanying notes are an integral part of the consolidated financial
+statements.
+
+44
+
+Microwave Filter Company and Subsidiaries
+                   Notes to Consolidated Financial Statements
+                   ------------------------------------------
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+a. Nature of Business
+
+ Microwave Filter Company, Inc. operates primarily in the United States and
+principally in two industries. The Company extends credit to business
+customers, including original equipment manufacturers (OEMs), distributors
+and other end users, based upon ongoing credit evaluations. Microwave Filter
+Company, Inc. designs, develops, manufactures and sells electronic filters,
+both for radio and microwave frequencies, to help process signal distribution
+and to prevent unwanted signals from disrupting transmit or receive operations.
+Markets served include cable television, television and radio broadcast,
+satellite broadcast, mobile radio, commercial and defense electronics. Niagara
+Scientific, Inc. custom designs case packing machines to automatically pack
+products into shipping cases. Customers are processors of food and other
+commodity products with a need to reduce labor cost with a modest investment
+and quick payback.
+
+b.  Basis of Consolidation
+
+  The consolidated financial statements include the accounts of Microwave
+Filter Company, Inc. (MFC) and its wholly-owned subsidiaries, Niagara
+Scientific, Inc. (NSI) and Microwave Filter International, LTD. (MFI)
+(dormant); located in Syracuse, New York. All significant intercompany
+balances and transactions have been eliminated in consolidation.
+
+c.  Revenue Recognition
+
+  The Company recognizes revenue at the time products are shipped to customers
+and title and risk of loss have passed to the customer. The Company is not
+required to install any of its products. Payments received from customers in
+advance of products shipped are recorded as customer advance payments until
+earned.
+
+d. Cash and Cash Equivalents
+
+  The Company's financial instruments that are exposed to concentrations of
+credit risk consist primarily of cash and accounts receivable.  The Company's
+cash is held at federally insured institutions and balances may periodically
+exceed insured limits. The Company has not experienced any losses in such
+accounts and believes it is not exposed to any significant credit risk with
+respect to cash.  The Company also routinely assesses the financial strength
+of its customers and, as a consequence, believes that its trade accounts
+receivable credit risk exposure is limited.
+
+e. Investments
+
+ Investments generally consist of commercial paper, government backed
+obligations and other guaranteed commercial debt that have an original maturity
+of more than three months and a remaining maturity of less than one year.
+Investments are carried at cost which approximates market. The Company's policy
+is to hold investments until maturity. The Company's practice is to invest cash
+with financial institutions that have acceptable credit ratings.
+
+45
+
+f. Trade Accounts Receivable and Allowance for Doubtful Accounts
+
+  Trade accounts receivable are recorded at the invoiced amount and do not
+bear  interest. The allowance for doubtful accounts is the Company's best
+estimate of the amount of probable credit losses in the Company's existing
+accounts receivable.  The Company reviews its allowance for doubtful accounts
+monthly. Past due balances over 90 days are reviewed individually for
+collectibility. Account balances are charged off against the allowance after
+all means of collection have been exhausted and the potential for recovery is
+considered remote. The Company does not have  any off-balance-sheet credit
+exposure related to its customers.
+
+g. Inventories and Reserve for Obsolescence
+
+ Inventories are stated at the lower of cost determined on the first-in, first-
+out method or market.
+
+ The Company records a reserve for obsolete or excess inventory.  The Company
+considers inventory quantities greater than a one-year supply based on current
+year activity as well as any additional specifically identified inventory to
+be excess. The Company also provides for the total value of inventories that
+are determined to be obsolete based on criteria such as customer demand and
+changing technologies.
+
+h.  Research and Development
+
+ Costs in connection with research and development, which amount to $420,570,
+$373,080 and $312,189 for the fiscal years 2006, 2005 and 2004, respectively,
+are charged to operations as incurred.
+
+i. Property, Plant and Equipment
+
+ Property, plant and equipment are recorded at cost. Depreciation is provided
+using the straight-line method over the estimated useful lives of the
+respective assets. Buildings and building improvements are depreciated over an
+estimated service life of 20 to 30 years. Machinery and equipment are
+depreciated over an estimated useful life of 3 to 10 years. Office equipment
+and fixtures are depreciated over an estimated useful life of 3 to 10 years.
+At the time of sale or retirement, the cost and accumulated depreciation are
+removed from the respective accounts and the resulting gain or loss is
+recognized in income.
+
+j. Income Taxes
+
+ The Company accounts for income taxes under Statement of Financial Accounting
+Standards (SFAS) No. 109.  Deferred tax assets and liabilities are based on
+the difference between the financial statement and tax basis of assets and
+liabilities as measured by the enacted tax rates which are anticipated to be
+in effect when these differences reverse. The deferred tax provision is the
+result of the net change in the deferred tax assets and liabilities.  A
+valuation allowance is established when it is necessary to reduce deferred
+tax assets to amounts expected to be realized. The Company has provided a full
+valuation allowance against its deferred tax assets.
+
+46
+
+k. Earnings Per Share
+
+  The Company presents basic earnings per share ("EPS"), computed based on the
+weighted average number of common shares outstanding for the period, and when
+applicable diluted EPS, which gives the effect to all dilutive potential
+shares outstanding (i.e. options) during the period after restatement for any
+stock dividends. Income used in the EPS calculation is net income for each
+year.
+
+l. Fair Value of Financial Instruments
+
+  The carrying values of the Company cash and cash equivalents, accounts
+receivable and accounts payable approximate fair value because of the short
+maturity of those instruments.
+
+  The Company currently does not trade in or utilize derivative financial
+instruments.
+
+m. Miscellaneous Non-operating Income
+
+  Miscellaneous non-operating income generally consists of sales of scrap
+material, stock transfer fees, the forfeiture of non-refundable deposits and
+other incidental items.
+
+n. Use of Estimates
+
+  The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions
+that affect the reported amounts of assets and liabilities and disclosure of
+contingent assets and liabilities at the date of the financial statements.
+Estimates also affect the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+
+o. Warranty Costs
+
+  The Company established a warranty reserve which provides for the estimated
+cost of product returns based upon historical experience and any known
+conditions or circumstances. Our warranty obligation is affected by product
+that does not meet specifications and performance requirements and any related
+costs of addressing such matters. Warranty costs were approximately $3,000,
+$7,000 and $6,000 for the fiscal years 2006, 2005 and 2004, respectively.
+
+p. Impairment of Long-Lived Assets
+
+  The carrying values of long-lived assets other than goodwill are generally
+evaluated for impairment only if events or changes in facts and circumstances
+indicate that carrying values may not be recoverable. Any impairment
+determined would be recorded in the current period and would be measured by
+comparing the fair value of the related asset to its carrying value. Fair
+value is generally determined by identifying estimated undiscounted cash flows
+to be generated by those assets.  No impairments have been recorded for the
+years ended September 30, 2006, 2005, and 2004.
+
+47
+
+q. New Accounting Pronouncements
+
+  FASB Interpretation 48 was issued in July 2006 to clarify the criteria for
+recognizing tax benefits under FASB Statement No. 109, Accounting for Income
+Taxes. The Interpretation defines the threshold for recognizing the benefits
+of tax-return positions in the financial statements as "more-likely-than-not"
+to be sustained by the taxing authority and will affect many companies'
+reported results and their disclosures of uncertain tax positions. The
+Interpretation does not prescribe the type of evidence required to support
+meeting the more-likely-than-not threshold, stating that it depends on the
+individual facts and circumstances. The benefit recognized for a tax position
+meeting the more-likely-than-not criterion is measured based on the largest
+benefit that is more than 50 percent likely to be realized. The measurement of
+the related benefit is determined by considering the probabilities of the
+amounts that could be realized upon ultimate settlement, assuming the taxing
+authority has full knowledge of all relevant facts and including expected
+negotiated settlements with the taxing authority. Interpretation 48 is
+effective as of the beginning of the first fiscal year beginning after
+December 15, 2006 (the Company's 2008 fiscal year). The company is currently
+analyzing the financial statement impact of adopting this pronouncement.
+
+  Accounting for Pension and Other Postretirement Benefits -- In September
+2006, the FASB published Statement of Financial Accounting No. 158, Employers
+Accounting for Defined Benefit Pension and Other Postretirement Plans. This
+statement requires companies to report on their balance sheets the funded
+status of pension and other post retirement benefit plans. The proposal would
+also require companies to measure plan assets and obligations as of the
+employer's balance-sheet date. As a result, companies would recognize on their
+balance sheets actuarial gains and losses and prior service cost that have not
+yet been included in income. This could significantly increase reported
+liabilities for many companies with a corresponding reduction in equity
+reported as accumulated other comprehensive income. The provisions for the
+statement are effective for fiscal years ending after December 15, 2006, (the
+Company's 2007 fiscal year) with earlier application encouraged. The Company
+does not expect the adoption of SFAS No. 158 in fiscal 2008 to have an impact
+on its results of operations or financial position.
+
+  In September 2006, SEC Staff Accounting Bulletin No. 108 was issued to
+provide guidance on Quantifying Financial Statement Misstatements. Staff
+Accounting Bulletin No. 108 addresses how the effects of prior-year
+uncorrected misstatements should be considered when quantifying misstatements
+in current-year financial statements. The SAB requires registrants to quantify
+misstatements using both the balance sheet and income-statement approaches and
+to evaluate whether either approach results in quantifying an error that is
+material in light of relevant quantitative and qualitative factors. The SAB
+does not change the staff's previous guidance in SAB 99 on evaluating the
+materiality of misstatements. When the effect of initial adoption is
+determined to be material, the SAB allows registrants to record that effect as
+a cumulative-effect adjustment to beginning-of-year retained earnings. The
+requirements are effective for annual financial statements covering the first
+fiscal year ending after November 15, 2006 (the Company's fiscal 2007).
+
+48
+
+Fair Value Measurements. In September 2006, the FASB published Statement of
+Financial Accounting No. 157, Fair Value Measurements. This Statement
+establishes a single authoritative definition of fair value, sets out a
+framework for measuring fair value, and requires additional disclosures about
+fair-value measurements. The Statement applies only to fair-value measurements
+that are already required or permitted by other accounting standards and is
+expected to increase the consistency of those measurements. It will also affect
+current practices by nullifying the Emerging Issues Task Force (EITF) guidance
+that prohibited recognition of gains or losses at the inception of derivative
+transactions whose fair value is estimated by applying a model and by
+eliminating the use of "blockage" factors by brokers, dealers, and investment
+companies that have been applying AICPA Guides. The Statement is effective for
+fair-value measures already required or permitted by other standards for
+financial statements issued for fiscal years beginning after November 15, 2007
+(the Company's fiscal 2009) and interim periods within those fiscal years. Early
+application is permissible only if no annual or interim financial statements
+have been issued for the earlier periods. The requirements of the Statement are
+applied prospectively, except for changes in fair value related to estimating
+the fair value of a large block position and instruments measured at fair value
+at initial recognition based on transaction price in accordance with EITF 02-3
+or Statement 155.
+
+2. INVENTORIES
+
+Inventories net of provision for obsolescence
+consisted of the following:                     September 30
+                                          2006                 2005
+                                          ----                 ----
+  Raw materials and stock parts         $411,885             $448,176
+  Work-in-process                         20,437               42,250
+  Finished goods                          58,813               65,464
+                                        --------            ---------
+                                        $491,135             $555,890
+                                        ========           ==========
+
+  The Company's reserve for obsolescence equaled $389,200 at September 30,
+2006 and $362,139 at September 30, 2005.
+
+49
+
+3. PROPERTY, PLANT AND EQUIPMENT
+Property, plant and equipment consisted of the following:
+
+                                                 September 30
+                                          2006                 2005
+                                          ----                 ----
+
+  Land                                  $143,000             $143,000
+  Building and improvements            1,818,633            1,818,633
+  Machinery and equipment              3,106,412            3,094,390
+  Office equipment and fixtures        1,644,200            1,597,618
+                                       ---------            ---------
+                                       6,712,245            6,653,641
+  Less: Accumulated depreciation       6,158,143            5,994,743
+                                       ---------            ---------
+                                        $554,102             $658,898
+                                      ==========           ==========
+
+4. CREDIT FACILITIES
+
+  The Company has unused aggregate lines of credit totaling $750,000
+collateralized by inventory, equipment and accounts receivable.
+
+5. PROFIT SHARING AND 401-K PLANS
+
+  The Company maintains both a non-contributory profit sharing plan and a
+contributory 401-K plan for all employees over the age of 21 with one year of
+service.  Annual contributions to the profit sharing plan are determined by
+the Board of Directors and are made from current or accumulated earnings,
+while contributions to the 401-K plan were matched at a rate of 100% of an
+employee's first 6% of contributions during fiscal 2006. The maximum corporate
+match was 6% of an employee's compensation during fiscal 2006.
+
+  The Company's matching contributions to the 401-K plan for the years ended
+September 30, 2006, 2005 and 2004 were $97,748, $72,126 and $67,675,
+respectively. Additionally, the Company may make discretionary contributions
+to the non-contributory profit sharing plan. These contributions were $0,
+$62,000 and $0 in 2006, 2005 and 2004, respectively.
+
+50
+
+6. OBLIGATIONS UNDER OPERATING LEASES
+
+  The Company leases equipment under operating lease agreements expiring at
+various dates through September 30, 2009. Rental expense under these leases
+for the years ended September 30, 2006, 2005 and 2004 amounted to $11,159,
+$11,180 and $11,074, respectively.
+
+ Minimum rental commitments at September 30, 2006 for these leases are:
+
+        Year Ended      Lease
+       September 30    Payments
+       ------------    --------
+           2007          11,159
+           2008           9,587
+           2009           2,436
+           2010               0
+           2011               0
+                        -------
+                        $23,182
+                        =======
+
+7. INCOME TAXES
+
+ The provision for income taxes consisted of the following:
+
+                             Year Ended September 30
+                           2006        2005        2004
+Currently payable:
+  Federal               ($128,967)    $71,500   ($100,913)
+  State                       650         650         425
+Deferred (credit)          90,785     (32,395)    246,377
+                          -------     -------     -------
+                         ($37,532)    $39,755    $145,889
+                          =======     =======    ========
+
+A reconciliation of the statutory federal income tax rate and the Company's
+effective income tax rate is as follows:
+
+                                         Year ended September 30
+                          ______2006______   ______2005______   ______2004______
+                           Amount     %       Amount     %       Amount     %
+Statutory tax rate       ($152,620)(34.0%)   $119,668  34.0%   ($10,346) (34.0%)
+Surtax exemption
+State income tax net of:
+ Federal benefit               429   0.1%         429   0.1%          0    0.0%
+Research and experimentation
+ tax credits                     0   0.0%     (26,431) (7.5%)         0    0.0%
+Valuation allowance         90,785  20.2%           0   0.0%    246,377  809.7%
+Revision of estimated
+ taxes payable                   0   0.0%           0   0.0%    (92,907)(305.3%)
+Federal AMT rate
+ differential                    0   0.0%     (54,255)(15.4%)         0    0.0%
+Other                       23,874   5.3%         344   0.1%      2,765    9.1%
+                           -------  ----      -------  ----    --------  -----
+                          ($37,532) (8.4%)    $39,755  11.3%   $145,889  479.5%
+                           =======  ====      =======  ====    ========  =====
+51
+
+The temporary differences which give rise to deferred tax assets and
+(liabilities) at September 30 are as follows:
+
+                                            2006          2005
+                                            ----          ----
+  Inventory                              $138,789       $129,527
+  Accrued warranty                          4,250          4,250
+  Accrued vacation                         61,242         64,300
+  Accounts receivable                       3,923          5,573
+  Valuation allowance                    (208,204)      (220,502)
+                                          -------        -------
+  Net deferred tax assets
+   (liabilities) - current                     $0       ($16,852)
+                                         --------        -------
+
+  Accelerated depreciation               ($11,983)      ($38,482)
+  Research and experimentation
+   tax credit carry forward               143,458        116,121
+  AMT credit carry forward                 39,399         39,399
+  Valuation allowance                    (170,874)       (67,791)
+                                          -------        -------
+  Net deferred tax assets
+   (liabilities) - noncurrent                  $0        $49,247
+                                          -------        -------
+  Net deferred tax assets                      $0        $32,395
+                                         ========        =======
+
+  As required by Statement of Financial Accounting Standards No. 109, the
+Company has evaluated the positive and negative evidence bearing upon the
+realization of its deferred tax assets. The Company has determined that, at
+this time, it is more likely than not that the Company will not realize all of
+the benefits of federal and state deferred tax assets, and, as a result, a
+valuation allowance was established. The research and experimentation tax
+credit carry forwards expire in 2025. At September 30, 2006, the Company's
+federal AMT credit can be carried forward indefinitely.
+
+52
+
+8. INDUSTRY SEGMENT DATA
+
+  The Company's primary business segments involve (1) operations of Microwave
+Filter Company, Inc. (MFC) which manufactures electronic filters used for
+preventing interference or signal processing in cable television, satellite,
+broadcast, aerospace and government markets; and (2) operations of Niagara
+Scientific, Inc. (NSI) which manufactures industrial automation equipment.
+
+ Information by industry segment is as follows: (thousands of dollars)
+                                     2006        2005       2004
+Net Sales (Unaffiliated):
+  MFC                               $4,516      $5,345     $4,645
+  NSI                                   21         188        231
+  Total                             $4,537      $5,533     $4,876
+
+Operating Profit (Loss): (a)
+  MFC                                ($476)       $297        $32
+  NSI                                  (53)        (13)       (96)
+  Total                              ($529)       $284       ($64)
+
+Identifiable Assets: (b)
+  MFC                               $2,386      $2,680     $2,671
+  NSI                                   35          52        139
+  Subtotal                           2,421       2,732      2,810
+  Corporate Assets-Cash and
+  Cash Equivalents                     706       1,252        817
+  Total                             $3,127      $3,984     $3,627
+
+Depreciation Expense:
+  MFC                                 $163        $196       $219
+  NSI                                    0           2          4
+  Total                               $163        $198       $223
+
+Capital Expenditures:
+  MFC                                 $ 59        $ 59       $ 47
+  NSI                                    0           0          0
+  Total                               $ 59        $ 59       $ 47
+
+Significant Export Sales:
+  MFC                                 $279        $355       $309
+
+Customers:
+
+  In 2005, sales to one MFC customer totaled approximately $624,000 and
+exceeded 10% of consolidated net sales.
+
+(a) Operating profit (loss) is total revenue less operating expenses. In
+computing operating profit, none of the following items have been added or
+deducted: interest income, interest expense, income taxes and
+miscellaneous income. Expenses incurred on behalf of both Companies are
+allocated based upon estimates of their relationship to each entity.
+
+(b) Identifiable assets by industry are those assets that are used in the
+Company's operations in each industry.
+
+53
+ 
+9. STOCK OPTIONS
+
+  On April 9, 1998, the Board of Directors and Shareholders of Microwave
+Filter Company, Inc. approved the 1998 Microwave Filter Company, Inc.
+Incentive Stock Plan (the "1998 Plan"). Under the 1998 Plan, the Company may
+grant incentive stock options ("ISOs"), non-qualified stock options ("NQSOs")
+and stock appreciation rights to directors, officers and employees of the
+Company and its affiliates. The 1998 Plan reserves 150,000 shares for
+issuance. The exercise price of the ISOs and NQSOs will be 100% of the fair
+market value of the Common Stock on the date the ISOs and NQSOs are granted.
+The 1998 Plan will terminate on April 10, 2008. On June 21, 2004, the Board of
+Directors granted ISOs totaling 115,000 shares and NQSOs totaling 35,000
+shares at an exercise price of $1.47. All options granted were 100% vested.
+
+A summary of all stock option activity and information related to all options
+outstanding follows:
+
+55
+
+10. LEGAL MATTERS
+
+  There are currently no material pending legal proceedings against the
+Company or its subsidiaries.
+
+11. SELECTED QUARTERLY FINANCIAL DATA (Unaudited)
+
+  The following table sets forth certain unaudited quarterly financial
+information For the years ended September 30, 2006 and 2005:
+
+56
+
+EXHIBIT INDEX
+                                                                           Page
+
+Exhibit No.   Description                                                 Number
+
+3.1      MFC Certificate of Corporation, as amended.                           *
+
+3.2      MFC Amended and Restated Bylaws.                                      *
+
+10.1     Bond Purchase Agreement dated as of February 22,1984                  *
+         among MFC, Onondaga County Industrial Development Agency
+         ("OCIDA") and Key Bank of Central New York ("Bondholder").
+
+10.2     Lease Agreement dated as of February 22, 1984 between MFC and OCIDA.  *
+
+10.3     Mortgage and Security Agreement dated as of February 22, 1984 from    *
+         MFC and OCIDA to the Bondholder.
+
+10.4     Guaranty Agreement dated as of February 22, 1984 from MFC to OCIDA    *
+         and the Bondholder.
+
+31.1 Section 13a-14(a)/15d-14(a) Certification of Carl F. Fahrenkrug
+
+31.2     Section 13a-14(a)/15d-14(a) Certification of Richard L. Jones
+
+32.1     Section 1350 Certification of Carl F. Fahrenkrug
+
+32.2     Section 1350 Certification of Richard L. Jones
+
+*  Previously filed
+
+57
+
+Microwave Filter Company and Subsidiaries
+
+Schedule II - VALUATION AND QUALIFYING ACCOUNTS
+
+SEPTEMBER 30, 2006, 2005 and 2004
+
+58
+
+<EX-31>
+ 3
+ ex-31.txt
+ EXHIBIT 31
+ 
+Exhibit 31.1
+
+CERTIFICATION
+
+I, Carl F. Fahrenkrug, Chief Executive Officer of Microwave Filter Company,
+Inc. certify that:
+
+1. I have reviewed this Annual Report on Form 10-K of Microwave Filter
+   Company, Inc.;
+
+2. Based on my knowledge, this annual report does not contain any untrue
+   statement of a material fact or omit to state a material fact necessary to
+   make the statements made, in light of the circumstances under which such
+   statements were made, not misleading with respect to the period covered by
+   this annual report;
+
+3. Based on my knowledge, the financial statements, and other financial
+   information included in this annual report, fairly present in all material
+   respects the financial condition, results of operations and cash flows of
+   the registrant as of, and for, the periods presented in this annual report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+   establishing and maintaining disclosure controls and procedures (as defined
+   in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and we
+   have:
+
+   a) designed such disclosure controls and procedures, or caused such
+      disclosure controls and procedures to be designed under our
+      supervision, to ensure that material information relating to the
+      registrant, including its consolidated subsidiaries, is made known to
+      us by others within those entities, particularly during the period in
+      which this annual report is being prepared;
+
+   b) evaluated the effectiveness of the registrant's disclosure controls and
+      procedures and presented in this report our conclusions about the
+      effectiveness of the disclosure controls and procedures, as of the end
+      of the period covered by this report based on such evaluation; and
+
+   c) disclosed in this annual report any change in the registrant's internal
+      control over financial reporting that occurred during the registrant's
+      most recent fiscal quarter (the registrant's fourth fiscal quarter in the
+      case of an annual report) that has materially affected, or is reasonably
+      likely to materially affect, the registrant's internal control over
+      financial reporting; and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on
+   our most recent evaluation of internal control over financial reporting, to
+   the registrant's auditors and the audit committee of the registrant's board
+   of directors (or persons performing the equivalent functions):
+
+   a) All significant deficiencies and material weaknesses in the design or
+      operation of internal control over financial reporting which are
+      reasonably likely to adversely affect the registrant's ability to
+      record, process, summarize and report financial information; and
+
+   b) Any fraud, whether or not material, that involves management or other
+      employees who have a significant role in the Company's internal control
+      over financial reporting.
+
+Date:  December 21, 2006                          /s/ Carl F. Fahrenkrug
+
+                                                      Carl F. Fahrenkrug
+
+Exhibit 31.2
+
+CERTIFICATION
+
+  I, Richard L. Jones, Chief Financial Officer of Microwave Filter Company,
+Inc. certify that:
+
+1. I have reviewed this Form 10-K of Microwave Filter Company, Inc.;
+
+2. Based on my knowledge, this annual report does not contain any untrue
+   statement of a material fact or omit to state a material fact necessary to
+   make the statements made, in light of the circumstances under which such
+   statements were made, not misleading with respect to the period covered by
+   this annual report;
+
+3. Based on my knowledge, the financial statements, and other financial
+   information included in this annual report, fairly present in all material
+   respects the financial condition, results of operations and cash flows of
+   the registrant as of, and for, the periods presented in this annual report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+   establishing and maintaining disclosure controls and procedures (as defined
+   in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and we
+   have:
+
+   a) designed such disclosure controls and procedures, or caused such
+      disclosure controls and procedures to be designed under our supervision,
+      to ensure that material information relating to the registrant,
+      including its consolidated subsidiaries, is made known to us by others
+      within those entities, particularly during the period in which this
+      annual report is being prepared;
+
+   b) evaluated the effectiveness of the registrant's disclosure controls and
+      procedures and presented in this report our conclusions about the
+      effectiveness of the disclosure controls and procedures, as of the end
+      of the period covered by this report based on such evaluation; and
+
+   c) disclosed in this annual report any change in the registrant's internal
+      control over financial reporting that occurred during the registrant's
+      most recent fiscal quarter (the registrant's fourth fiscal quarter in the
+      case of an annual report) that has materially affected, or is reasonably
+      likely to materially affect, the registrant's internal control over
+      financial reporting; and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on
+   our most recent evaluation of internal control over financial reporting, to
+   the registrant's auditors and the audit committee of the registrant's board
+   of directors (or persons performing the equivalent functions):
+
+   a) All significant deficiencies and material weaknesses in the design or
+      operation of internal control over financial reporting which are
+      reasonably likely to adversely affect the registrant's ability to
+      record, process, summarize and report financial information; and
+
+   b) Any fraud, whether or not material, that involves management or other
+      employees who have a significant role in the Company's internal control
+      over financial reporting.
+
+Date:  December 21, 2006                          /s/ Richard L. Jones
+
+                                                      Richard L. Jones
+
+</EX-31>
+
+<EX-32>
+ 4
+ ex-32.txt
+ EXHIBIT 32
+ 
+Exhibit 32.1
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Carl F. Fahrenkrug, Chief Executive Officer of Microwave Filter Company,
+Inc. (the Company), certify, pursuant to Section 906 of the Sarbanes-Oxley Act
+of 2002, 18 U.S.C. Section 1350, that:
+
+(1) the annual Report on Form 10-K of the Company for the fiscal year ended
+    September 30, 2006 (the Report) fully complies with the requirements of
+    Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C.
+    78m or 78o(d); and
+
+(2) the information contained in the report fairly presents, in all material
+    respects, the financial condition and results of operations of the
+    Company.
+
+Dated: December 21, 2006                        /s/ Carl F. Fahrenkrug
+                                                Carl F. Fahrenkrug
+                                                Chief Executive Officer
+
+Exhibit 32.2
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Richard L. Jones, Chief Financial Officer of Microwave Filter Company, Inc.
+(the Company), certify, pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002, 18 U.S.C. Section 1350, that:
+
+(1) the annual Report on Form 10-K of the Company for the fiscal year ended
+    September 30, 2006 (the Report) fully complies with the requirements of
+    Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C.
+    78m or 78o(d); and
+
+(2) the information contained in the report fairly presents, in all material
+    respects, the financial condition and results of operations of the
+    Company.
+
+Dated: December 21, 2006                        /s/ Richard L. Jones
+                                                Richard L. Jones
+                                                Chief Financial Officer
+
+</EX-32>
+

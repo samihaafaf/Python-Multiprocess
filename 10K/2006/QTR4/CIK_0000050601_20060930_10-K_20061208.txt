@@ -1,0 +1,1961 @@
+<Header>
+<FileStats>
+    <FileName>20061208_10-K_edgar_data_50601_0001206774-06-002547_1.txt</FileName>
+    <GrossFileSize>866581</GrossFileSize>
+    <NetFileSize>194364</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>429890</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>34</N_Tables>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001206774-06-002547.hdr.sgml : 20061208
+<ACCEPTANCE-DATETIME>20061208164246
+ACCESSION NUMBER:		0001206774-06-002547
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20060930
+FILED AS OF DATE:		20061208
+DATE AS OF CHANGE:		20061208
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INNOVEX INC
+		CENTRAL INDEX KEY:			0000050601
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPONENTS, NEC [3679]
+		IRS NUMBER:				411223933
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-13143
+		FILM NUMBER:		061266162
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5540 PIONEER CREEK DRIVE
+		CITY:			MAPLE PLAIN
+		STATE:			MN
+		ZIP:			55359-9003
+		BUSINESS PHONE:		7634795300
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AF+rrArmFZZSULFDnAD7gaXTS2LE0iJxhBnnboSe1ZMisAYOhhoL8HpFB9RpB8nC
+ QdZqK7vjhu9OymFEgssvqg==
+
+ 0001206774-06-002547.txt : 20061208
+
+10-K
+ 1
+ iv108136.htm
+ FORM 10-K
+
+UNITED STATES  SECURITIES AND EXCHANGE COMMISSION    
+  Washington, DC  20549   
+ 
+  FORM 10-K   
+
+Commission File Number 0-13143   
+
+Innovex,   Inc.      
+
+(Exact   name of registrant as specified in its charter)      
+
+Minnesota      
+
+41-1223933      
+
+(State or   other jurisdiction of incorporation or organization)      
+
+(IRS   Employer Identification No.)      
+
+Securities registered pursuant to Section 12(b) of the Act:  None  
+
+Securities registered pursuant to Section 12(g) of   the Act:     
+
+Common Stock ($.04 par value)     
+
+(Title   of Class)     
+
+Indicate by check mark whether the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act:  
+
+Yes   
+ o     
+
+No   
+ x     
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act:  
+
+Yes   
+ o     
+
+No   
+ x     
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    
+
+Yes   
+ x     
+
+No   
+ o     
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Rule 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.   
+ o  
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer or a non-accelerated filer.  See definition of  accelerated filer  and  large accelerated filer  in Rule 12b-2 of the Exchange Act:  
+
+Large Accelerated   Filer   
+ o     
+
+Accelerated   Filer   
+ x     
+
+Non-Accelerated   Filer   
+ o     
+
+Indicate by check mark whether the registrant is a shell company (as defined in Exchange Act Rule 12b-2): Yes [  ]  No [X]   
+ 
+ The aggregate market value of shares held by non-affiliates is $95,626,928 computed by reference to the last sale price of the Company s Common Stock, as reported in the Nasdaq National Market system, of $5.19 per share on March 31, 2006, the last business day of the Company s most recently completed second fiscal quarter. As of November 15, 2006, the Company had outstanding 19,381,638 shares of Common Stock.     
+ 
+  DOCUMENTS INCORPORATED BY REFERENCE:   
+ 
+ Portions of the definitive Proxy Statement to be delivered to shareholders in connection with the Annual Meeting of Shareholders to be held January 16, 2007, are incorporated by reference into Part III.  
+
+Index   
+
+PART I       
+
+Item 1.     
+
+Business      
+
+3     
+
+Item 1A.     
+
+Risk Factors      
+
+10     
+
+Item 1B.     
+
+Unresolved Staff Comments      
+
+16     
+
+Item 2.     
+
+Properties      
+
+17     
+
+Item 3.     
+
+Legal Proceedings      
+
+17     
+
+Item 4.     
+
+Submission of Matters to a Vote of   Security Holders      
+
+17     
+
+Item 4A.     
+
+Executive Officers of Registrant      
+
+17     
+
+PART II       
+
+Item 5.     
+
+Market for Registrant s Common   Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities      
+
+19     
+
+Item 6.     
+
+Selected Consolidated Financial   Data      
+
+20     
+
+Item 7.     
+
+Management s Discussion and   Analysis of Financial Condition and Results of Operations      
+
+21     
+
+Item 7A.     
+
+Quantitative and Qualitative   Disclosures about Market Risk      
+
+31     
+
+Item 8.     
+
+Financial Statements and   Supplementary Data      
+
+32     
+
+Item 9.     
+
+Changes in and Disagreements with   Accountants on Accounting and Financial Disclosure      
+
+51     
+
+Item 9A.     
+
+Controls and Procedures      
+
+51     
+
+Item 9B.     
+
+Other Information      
+
+52     
+
+PART III       
+
+Item 10.     
+
+Directors   and Executive Officers of the Registrant      
+
+53     
+
+Item 11.     
+
+Executive   Compensation      
+
+53     
+
+Item 12.     
+
+Security   Ownership of Certain Beneficial Owners and Management and Related Stockholder   Matters      
+
+53     
+
+Item 13.     
+
+Certain   Relationships and Related Transactions      
+
+53     
+
+Item 14.     
+
+Principal Accountant Fees and   Services      
+
+53     
+
+PART IV       
+
+Item 15.     
+
+Exhibits and Financial Statement   Schedules      
+
+54     
+
+SIGNATURES       
+
+56     
+
+2  
+
+PART I   
+   
+  Item 1.  BUSINESS    
+ 
+             We maintain a website at www.innovexinc.com .  Our annual reports on Form 10-K, our quarterly reports on Form 10-Q and our current reports on Form 8-K (and any amendments to these reports) are available free of charge on our website as soon as reasonably practical after we file these reports with the SEC.   
+ 
+  Our Company    
+ 
+           We are a leading worldwide provider of flexible circuit interconnect solutions to original equipment manufacturers ( OEMs ), in the electronics industry. We offer a full range of customized flexible circuit applications and services from initial design, development and prototype to fabrication, assembly and test on a global basis. We target high volume markets where miniaturization, form and weight are driving factors and flexible circuits are an enabling technology. Applications for flexible circuits currently addressed by us include data storage devices such as hard disk drives ( HDDs ), flat panel displays ( FPD ) including liquid crystal displays ( LCDs ) for mobile communication devices and large format plasma screens, tape drives and printers. Our customers include 3M, Hitachi, HP, Maxtor, Medtronic, Philips/TPO, Quantum, Rosemount, SAE Magnetics (a subsidiary
+of TDK), Samsung, Seagate, Staktek, StorageTek, Xerox and other leading electronic OEMs.   
+
+   Our Industry and Market Trends    
+ 
+           Flexible circuit interconnects provide electrical connection between components in electronic systems and are increasingly used as a platform to support the attachment of electronic components. Flexible circuits consist of copper conductive patterns on flexible substrate materials, such as polyimide. Flexible circuit interconnects frequently incorporate components, such as integrated circuits ( ICs ), connectors, stiffeners, resistors and capacitors mounted directly on a flexible circuit. Generally, flexible circuits offer several advantages over other technologies such as rigid printed circuit boards ( PCBs ) and ceramic hybrid circuits, particularly for small, complex electronic systems. Flexible circuits, due to their mechanical flexure and three-dimensional shape, accommodate packaging contours and motion in a manner that traditional two-dimensional, rigid PCBs cannot, particularly
+in applications involving smaller, more portable and complex electronic devices where space available to designers is at a premium.   
+ 
+           We believe that the overall market for high density flexible circuits will continue to grow over the next several years as a result of favorable technological and market trends that are expected to drive increased adoption. These trends include the following:   
+
+Miniaturization, Portability and Complexity of   Electronic Products.     Electronics   OEMs continue to design and introduce more compact and portable   high-performance products with greater functionality. The complexity of these   new products requires smaller size, lighter weight, greater circuit and   component density, better thermal dissipation properties, higher frequencies   and increased reliability as compared to conventional rigid board assemblies.   These requirements often necessitate the use of high density flexible circuit   interconnects.     
+
+Outsourcing.     OEMs are   increasingly focusing on their core competencies and outsourcing their   captive component and subsystem manufacturing. To meet their rapidly changing   electronic interconnect requirements, many OEMs have moved to limit   their vendor base to a smaller number of technically qualified, strategically   located suppliers capable of providing both quick-turn prototype and   pre-production quantities as well as cost-competitive volume production   quantities. This allows OEMs to reduce time to market, avoid delays in   new product introductions, reduce manufacturing costs and avoid logistical   complexities.     
+
+Increased Usage of HDD in Consumer and Non-traditional   Applications.     The emerging consumer   electronics segment that includes devices such as the Xbox  gaming console,   TV set top recorders and digital music and video players such as the iPod ,   is emerging as a significant driver of growth for HDDs.     
+
+High density flexible circuits are increasingly being used in high unit volume consumer electronic products such as mobile communications devices, flat panel displays, digital televisions and inkjet printers. This trend is driven by the end market, which demands consumer products with additional functionality, availability in lighter   
+
+  3  
+
+weight smaller packages, better performance and lower cost than previous generations of systems. To meet this demand, OEMs will need to continually evaluate more complex interconnect solutions that allow them to continue to enhance their product offerings in a cost-effective manner.   
+ 
+  Competitive Strengths    
+ 
+           We believe our industry leadership is the direct result of our technological innovation and our ability to provide comprehensive solutions that address our customers  specific interconnect needs. Our key competitive strengths include:   
+
+Cost Leadership .   Upon   the completion of our plan to relocate all of our U.S based manufacturing   operations into our expanded Thailand facilities by the end of our fisal   2007, we believe we will be one of the lowest cost providers of high density   flexible circuits in the world.  Our   low cost structure will be driven by low cost Thailand labor and our   automated roll-to-roll manufacturing processes.     
+
+Technology Leadership.     Although   there are a large number of flexible circuit manufacturers, only a few   compete with us in high-end, sub-100 micron applications. We believe that   technology, design capability, quality and price are key competitive factors   in this segment. Our manufacturing technology includes proprietary processes   and chemical recipes which, when combined with our design expertise and   experience, enable us to deliver high unit volumes of complex high density   flexible circuits at cost-effective prices.     
+
+Comprehensive Product Portfolio.     Our   products address a range of applications that include the following:   (i) actuator flex ( AFC ), which provides the back-end electrical   interconnect for hard disk drives; (ii) flat panel display ( FPD ) which   provides the electrical interconnect to LCDs for mobile communication   devices; (iii) flex suspension assemblies ( FSA ), which provides the   electrical interconnect from the disk drive head to the back-end electronics   of the disk drive;  and (iv) a variety   of high-end, high density flexible circuits for markets such as printers,   semiconductor packaging and medical applications.     
+
+Product Innovation.     We   are recognized as a technology innovator with a history of developing   products that provide better performance at a lower cost than our   competitors. The technical expertise we have developed in serving the highly   demanding HDD industry has enabled us to introduce advanced products in other   rapidly growing markets.     
+
+Leading Customer Relationships.     We   have developed strong relationships with Seagate, Maxtor, Philips/TPO,   Samsung, Hitachi and other industry leaders. Our customer relationships   represent significant entry barriers as we believe that once a customer has   selected us to design and manufacture a flexible circuit interconnect, the   customer generally relies on our design for the life of that specific   application and, frequently, subsequent generations of similar applications.     
+
+Global Manufacturing and Supply Chain Efficiency.     In   the past, we have maintained manufacturing facilities in both the U.S. and   Asia. Our U.S. facilities had provided a high level of automation while our   Asian facilities allowed us to consolidate the labor intensive aspects of   production in a low-cost environment. Over the past two years we have   expanded our Asian facilities to also perform the automated front end portion   of our manufacturing process and plan on disposing of our US manufacturing   locations once the products currently in production at those locations reach   their end of life. On January 16, 2006, we announced a plan to retain   a portion of our Litchfield operation as a product development center while   transferring high volume manufacturing operations to Thailand and divesting   the remaining portions of the Litchfield, Minnesota
+operation.  On September 25, 2006, we announced a plan   to accelerate the end of life production for our FSA flexible circuits in   Litchfield and discontinue the use of that facility by the end of March   2007.  Concurrently, we also plan to   accelerate the end of life production of flexible circuit laminate material   at our Eastlake, Ohio facility and reduce indirect labor and general and   administrative expenses at our other U.S. and Thailand locations.  In the third quarter of fiscal 2004, we   announced the planned closure of our Maple Plain, Minnesota facility and the   plan to discontinue the support of the FSA attachment process once all   current program qualifications have reached their end of life. Our expanded Asian based manufacturing   structure has allowed us to shorten our supply chain, improve yields as a   result of more immediate processing feedback and utilize a lower cost labor   base.  These benefits result in a   reduction of the overall costs of our
+products.     
+
+4  
+
+Quick Turn Prototypes.   Our expanded Asian based manufacturing   structure has also allowed us to provide our customers quick turn prototypes   which are critical to winning new customers and product qualifications.     
+
+Implementation of Six Sigma.     Through   the introduction of the Six Sigma quality management program, we are reducing   the process variation in our manufacturing facilities, resulting in improved   quality, reliability and performance of our flexible circuit products. Six   Sigma is a highly disciplined quality management and process optimization   methodology that relies on the rigorous use of statistical techniques to   assess process variability and defects. Six Sigma has been adopted by many   large industrial companies to significantly improve their business processes.     
+
+Our Strategy    
+ 
+           To enhance our position as a leading, low cost provider of flexible interconnect solutions we intend to pursue the following business strategies:   
+
+Cost
+Leadership.     Our overriding strategic goal is to be
+the lowest cost provider of high density flexible circuits in the world. 
+Every decision we make is reviewed for its impact on our cost structure. 
+We believe that to be successful in the hyper-competitive flexible circuit
+industry and insure long-term profitability we must have the lowest cost
+structure.    
+
+Increase Manufacturing and Supply Chain
+Efficiencies and Flexibility.     We intend to continue
+our manufacturing improvement and cost reduction efforts. Through continued
+deployment of our Six Sigma quality management program, we intend to
+significantly improve our efficiency, reduce our manufacturing and operating
+expenses and enhance the quality of the products we manufacture by decreasing
+manufacturing defects and improving product reliability. We expect to realize
+cost efficiencies by applying more automation at all of our manufacturing
+facilities.  We are also relocating our U.S. manufacturing operations to
+Thailand to improve our cycle time performance, facilitate problem solving
+communications and reduce our fixed cost structure.  In addition, by
+further integrating our operations with our suppliers and customers, we believe
+that we can continue to reduce our working capital needs and improve our
+responsiveness to customer requirements.    
+
+Continue to Expand Our Market Share in
+Our Core Markets.     We believe that we will be able to
+continue to capture additional market share from leading OEMs in the HDD
+market with our AFC solution. Certain HDD industry leaders have qualified our
+products for a number of next generation applications and are currently
+evaluating our product offerings for additional future applications.  
+
+Continue to Penetrate New
+Markets.     We have proven our ability to leverage our
+expertise in high volume, high density applications to address emerging growth
+opportunities. We believe the technology, research and development and
+manufacturing capabilities we have developed to serve our core markets have put
+us in a position to target additional high volume applications, such as FPD and
+inkjet printer cartridges.  Our expanded Asian based manufacturing
+structure has also allowed us to provide our customers quick turn prototypes
+which are critical to winning new customers and product
+qualifications.    
+
+Current Product Applications    
+ 
+           We offer our products to a broad range of markets including the hard disk drive, display, semiconductor packaging and consumer electronics markets. We believe our products are differentiated by their advanced process technology, innovative design, low cost and the functional benefits they provide to our customers.   
+ 
+           Current markets addressed by our products include:   
+
+Data Storage.     The   disk drive market uses our FSA and AFC products.  Our FSA product provides the electrical interconnect from the   disk drive head to the back-end electronics (actuator flex) of the disk drive.     
+
+5  
+
+The FSA is a flexible circuit   that is bonded to a suspension.  Our   AFC flex product provides the back-end electronic interconnect for hard disk   drives. We are a leading provider of flip chip interconnect solutions for   these applications. Flip chip technology, in which an unpackaged die is   mounted directly onto the flexible circuit substrate, is becoming the   predominant interconnect technology for these applications.     
+
+Our   other products for the data storage market include interconnects used for   tape drives, disk arrays and other interconnects used in hard disk   drives.  We will continue to provide   flexible circuit interconnect solutions to the tape storage industry to   address customers  continuing data backup and archiving needs.     
+
+Flat Panel Display .    We   supply flexible circuits to the telecommunications market that provide   interfaces between liquid crystal displays and mobile communication   devices.  We are also pursuing other   flat panel display applications which provide efficient, cost-effective means   of connecting flat panel displays to the electronic devises they support.     
+
+Other Markets.     We   continue to apply our technology and products to new markets. We produce   advanced flexible circuits for high-end consumer electronics markets and   other markets that could benefit from the technological advantages of our   flexible interconnect solutions. Based on our assessment of industry trends   and market indicators, we believe these markets will grow rapidly in the   future. We are currently offering or developing new product offerings for the   following applications: non-display mobile communication device   interconnects, high-end memory module interconnects, inkjet printer   cartridges, and medical applications.     
+
+Technology    
+ 
+           We are recognized as a technology leader in fine-line, single and double-sided flexible circuit technology and flexible circuit assembly technology, including advanced chip-on-flex, flip chip-on-flex and precision placement assembly technologies. Our process technology includes proprietary processes and chemical recipes, which coupled with our design expertise and experience, enables us to deliver high unit volumes of complex high density flexible circuits at cost-effective yields.   
+
+Design Technology.     The   flexible circuit interconnects we manufacture are designed specifically for   each application, requiring significant joint design activities with the   customer at the start of a project. We have developed design methodologies   that solve difficult interconnection problems and save our customers time and   money. We also design and produce, in volume, flexible circuits that range   from high density, single-sided circuits to more complex double-sided and   multi-layer circuits. We are continually investing in and improving our   computer-based design tools to more quickly design new flexible circuit   interconnects, to enhance cooperative design and communication with our   customers and to more closely link designs to our manufacturing process.     
+
+Circuit Fabrication Technology.     We   have extensive experience producing fine-line polyimide flexible circuits and   have pioneered manufacturing processes that deliver high unit volumes at   cost-effective yields. At the core of the process is roll-to-roll fine-line   circuit processing. The starting materials are flexible laminates composed of   a thin dielectric film that is either adhesive-bonded to treated copper foil   or metalized without the use of adhesives. Very accurate images (down to   0.001 inches) are produced in volume in photoresist. Circuit conductors are   then formed by chemically etching the underlying copper. Coverfilm and   covercoat materials are adhered to the circuitry to provide an insulative   coating and to expose contact pads for surface metalization. The exposed   copper surfaces are then coated with solder, gold or another surface
+finish   for assembly or bonding applications. Laser processing is used to create   various openings such as vias and to cut contoured peripheries in substrate   materials.     
+
+Our key flexible circuit fabrication technologies include:   
+
+Fine Feature Wide-Width Roll-to-Roll Processing   .     Our process   allows us to fabricate circuits with very fine line widths and spaces at   higher density of parts per square foot which increases material and   equipment utilization. Processing 12-inch to 24-inch wide web (as opposed to   the narrower industry standard) in a continuous roll-to-roll format (as   opposed to discrete panels) allows us to fabricate higher volumes at lower   cost.     
+
+6  
+
+Process Technologies   .     We utilize the   following process technologies in our circuit fabrication process:     
+
+Semi-additive   Metallization.     Allows   the fabrication of flexible circuits with finer lines and spaces through the   selective metalization of the conductors in the circuit fabrication process.     
+
+Laser   Processing.     Produces   low cost, very fine openings, small vias and contoured shapes that solve   density problems while avoiding more expensive traditional alternatives.   Also, using a laser to cut the periphery of parts allows prototypes and low   volume production parts to be built faster and without the cost of a blanking   die.     
+
+Bondable   Gold Plating.     Prepares   flexible circuit conductors and pads for various bonding processes including   chip-on-flex, which saves space and improves electrical performance by wire   bonding a semiconductor die directly to the flexible circuit.     
+
+Coverfilm   and Covercoat Application.     Adheres coverfilm and covercoat materials to   the circuitry to provide an insulative coating and to expose contact pads for   surface metalization. This process allows accurate positioning of solder   plated pads to support fine pitch surface mount assembly to the finished   circuits.     
+
+Assembly and Test Technology.      We   differentiate ourselves from our competitors by offering both assembly and   test technology to provide complete flexible circuit interconnect assemblies   to our customers. We assemble passive electrical and various mechanical   components, including connectors, stiffeners, diodes, formed metal parts and   other devices to flexible circuits in our plants in Thailand. We also perform   advanced direct die attach and assembly of integrated circuit devices as well   as the functional testing of these flexible circuit assemblies. Assembling   these components directly onto the flexible circuit increases performance and   reduces space, weight and cost.     
+
+Research and Development    
+ 
+           We continually engage in research, development and engineering activities. Our goal is to utilize these activities to improve and enhance existing products and processes and to develop new products and processes in order to expand our market share. Our research and development effort is concentrated on improving and increasing long run flexible circuit manufacturing capabilities for both adhesiveless and adhesive based flexible circuits, developing processes for manufacturing new products including flexible circuits for disk drive, display, integrated circuit substrate and printer applications.   
+ 
+  Manufacturing    
+ 
+           We have developed a manufacturing system that combines the use of technology with the deployment of human resources in a geographic and organizational manner that we believe allows us to provide low-cost, high technology flexible circuits. Quality systems in place are certified to standards set by demanding customers in the electronics industry. All operations have received ISO 9002 certification.   
+ 
+           We believe our manufacturing processes, in particular our 12-inch and 24-inch wide web roll processing lines, are designed to optimize the utilization of automation, labor and capital, and deliver better yield, material utilization and throughput relative to our competitors.   
+ 
+             We expanded our Thailand manufacturing operations in fiscal 2005 to include flexible circuit fabrication capabilities in addition to the inspection, assembly and other secondary operations already located there.  We are now able to manufacture flexible circuits from start to finish in our Thailand facilities.  
+ 
+  Suppliers    
+ 
+           We purchase raw circuit materials, process chemicals and various components from multiple outside sources. For components, we typically make short-term purchasing commitments to key suppliers for specific customer programs. These commitments are usually made for three to twelve month periods. These suppliers commit to providing cooperative engineering, as required, and in some cases maintain a local inventory to provide shorter lead times and reduced inventory levels for us. In most cases, suppliers are approved, and are often dictated by our   
+
+  7  
+
+customers. For process chemicals, we rely on a limited number of key suppliers. We currently can obtain certain types of photoresist, a liquid compound used in the photoetching process, certain polyimide materials, certain specialty chemicals used in our manufacturing process and  high end suspensions from only one supplier of each such material. Alternate chemical products are available from other sources, but process chemical changes would often require requalification of the processes, which could take weeks or months to complete. We mitigate these risks by identifying stable companies with leading technology and delivery positions and by attempting to qualify two suppliers for all critical raw materials and components.   
+ 
+  Sales, Marketing and Customer Support    
+ 
+           We sell and market our products directly to a number of industries requiring electronic interconnects through the use of an internal sales staff. In addition, we utilize sales representatives on a limited basis in several Asian countries where it is advantageous to be represented locally. Historically, we have sold a substantial portion of our flexible circuit interconnects to a limited number of customers. We have benefited from early entry as a supplier to the disk drive industry and have been able to leverage our relationships to supply other integrated flexible circuit interconnects. Our relationships combined with our reputation for high standards of quality and innovative manufacturing processes have established us as a predominant supplier of interconnects for the HDD industry.   
+ 
+           We provide our customers  product design support from our locations in Minnesota and Thailand and from our sales and customer support offices in California, China, Singapore and the United Kingdom. In addition, we provide on-site customer design support for our customers as required.   
+ 
+           Even though our customer mix will change from period to period, we expect that sales to relatively few customers will continue to account for a high percentage of our net sales in the foreseeable future. Sales to our three largest customers, Seagate, Philips/TPO and Maxtor, constituted 67%, 14% and 6% of net sales, respectively, for fiscal 2006, 66%, 15% and 7% of net sales, respectively, for fiscal 2005 and 61%, 7% and 14% of net sales, respectively, for fiscal 2004.  Seagate acquired Maxtor in May 2006 and will combine their operations in future periods.  The merger of Philip s Mobile Display Systems business unit with Toppoly Optoelectronics Corporation of Taiwan to create a new company called TPO was announced in November 2005 and completed in June 2006.  
+
+              Sales to our five largest customers constituted 94%, 93% and 90% of net sales for fiscal 2006, 2005 and 2004, respectively.  The loss of a significant customer or a substantial reduction in orders by any significant customer, including reductions due to market, economic or competitive conditions in the computer, computer peripheral, mobile communication devices and consumer markets has had and may continue to have a material adverse effect on our business, financial condition and results of operations.   
+ 
+  Environmental Controls    
+ 
+           Flexible circuit interconnect manufacturing requires the use of chemicals. As a result, we are subject to a variety of environmental laws relating to the storage, discharge, handling, emission, generation, manufacture, use and disposal of chemicals, solid and hazardous waste and other toxic and hazardous materials used to manufacture our products.  We believe we have been operating our facilities in substantial compliance in all material respects with existing environmental laws and regulations. However, we cannot predict the nature, scope or effect of legislation or regulatory requirements that could be imposed or how existing or future laws or regulations will be administered or interpreted with respect to products or activities to which they have not previously been applied. For this reason, we implemented procedures geared toward minimizing the negative impacts and reducing potential financial
+risks arising from environmental issues. Compliance with more stringent laws or regulations, or more vigorous enforcement policies of regulatory agencies could require substantial expenditures by us and could adversely affect our business, results of operations and financial condition. We do not anticipate any material amount of environmental-related capital expenditures in fiscal 2007.   
+ 
+  Intellectual Property    
+ 
+           We believe that, due to our customers  demands for rapid technological advances and the resulting limited product life cycles, the success of our business generally depends more on the technical and engineering expertise, creativity and marketing and service abilities of our employees than on patents, trademarks and copyrights. Nevertheless, we own patents and have a policy of seeking patents when appropriate on inventions concerning new products and improvements as part of our ongoing research, development and manufacturing activities. There can be no assurance that any patents issued to us or licensed by us will provide a competitive advantage or will not be  
+
+  8  
+
+challenged by third parties, or that the patents of others will not have an adverse effect on our ability to do business. Furthermore, there can be no assurance that others will not independently develop similar products, duplicate our products or design around the patents issued to us or licensed by us. In addition, there can be no assurance that foreign intellectual property laws or our agreements will protect our intellectual property rights in any foreign country. Any failure to protect our intellectual property rights could have a material adverse effect on our business, results of operations and financial condition.   
+ 
+           We had a 35% investment in AKI, the company that developed the unique manufacturing process technology utilized by our FSA products. Although we have sold our equity position in AKI we continue to have a license to use this technology in our products for disk drive applications until 2012. The rights granted to us by AKI are royalty-bearing and may not be sublicensed without the consent of AKI.   
+ 
+  Employees    
+ 
+           As of September 30, 2006, we had a total of 3,582 employees. Of these, 158 employees were based in the U.S., primarily in Maple Plain and Litchfield, Minnesota, 3,413 were based in Thailand and 11were based in other Asian and European locations. Our future operating results depend in part upon our ability to attract and retain other qualified management, technical, manufacturing, sales and support personnel for our operations. Competition for such personnel is intense and there can be no assurance that we will be successful in attracting or retaining such personnel. The failure to attract or retain such persons could materially adversely affect our business, results of operations and financial condition.   
+ 
+  Competition    
+ 
+           The flexible circuit interconnect market is differentiated by customers, markets and geography with each niche having its own combination of complex packaging and interconnection requirements. We believe the market competes principally on the basis of design capability, price, quality, flexibility and technological advancements in underlying applications. During periods of economic slowdown in the electronics industry and other periods when excess capacity exists, electronic OEMs become more price sensitive. We believe that once a customer has selected a particular vendor to design and manufacture a flexible circuit interconnect, the customer generally relies upon that vendor s design for the life of that specific application and, frequently, subsequent generations of similar applications. Accordingly, it is difficult to achieve significant sales to a particular customer with respect to any
+application once another vendor has been selected to design and manufacture the flexible circuit interconnect used in that application. While this market paradigm may provide a barrier to our competitors in the markets served by us, it also may present an obstacle to our entry into other markets.   
+
+            The flexible circuit interconnect market is highly competitive. We experience competition world-wide from a number of leading foreign and domestic providers including 3M Company for high-end technology applications, and NOK ( Nippon Mektron ), Fujikura Ltd., Multi-Fineline Electronix, Inc. ( M-Flex ) and Sumitomo for standard flex and assembly applications. 3M, Sumitomo, NOK and Fujikura are substantially larger than us and possess greater financial and other resources. There are a number of other flexible circuit manufacturers that target other flexible circuit markets and rarely compete directly with us. In addition, competitors for disk drive market integrated suspension assembly applications include Hutchinson Technology Incorporated, Magnecomp International Limited, Nihon Hatsujo Kabusikigaisha ( NHK ) and Optimal Technology Limited. Expansion of our
+existing products or services could expose us to new competition. Moreover, new developments in the consumer electronics industry could render existing technology obsolete or less competitive and could potentially introduce new competition into the market. There can be no assurance that our competitors will not develop enhancements to, or future generations of, competitive products or services that will offer superior price or performance features to those offered by us or that new competitors will not enter our markets. Finally, as many of our competitors are based in foreign countries, they have cost structures and prices based on foreign currencies. Accordingly, currency fluctuations could cause our U.S. dollar-priced products to be less competitive than our competitors  products priced in other currencies.   
+ 
+  Backlog    
+ 
+           The backlog for our continuing operations was $21.6 million, $39.0 million and $33.8 million at September 30, 2006, 2005 and 2004, respectively. Our backlog fluctuates based on the timing of the receipt of orders from customers. Backlog is defined by us as firm orders that are scheduled to be delivered within 12 months from the date of the order. While we believe substantially all of our current backlog will be delivered within 12 months, customers may determine not to release orders into production, may extend requested delivery dates or cancel orders. In such cases, we may not realize the revenue indicated by the backlog.   
+
+  9  
+
+Item 1A.  RISK FACTORS   
+ 
+            An investment in our common stock involves a high degree of risk. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties that we are unaware of, or that we may currently deem immaterial, may become important factors that harm our business, financial condition or results of operations. If any of the following risks actually occurs, our business, financial condition or results of operations could suffer. In that case, the trading price of our common stock could decline, and you may lose all or part of your investment.   
+ 
+             Our sales are concentrated in a small customer base and in the HDD industry.    
+ 
+           Sales to our largest customer constituted 67% of net sales for fiscal 2006, 66% for fiscal 2005 and 61% for fiscal 2004, respectively. Sales to our five largest customers constituted 94%, 93% and 90% of net sales for fiscal 2006, 2005 and 2004, respectively. The loss of one or more of our major customers or a substantial reduction in orders by any significant customer, for any reason, including reductions due to market, economic or competitive conditions in the computer, computer peripheral, mobile communication device and high-end consumer markets, the development by a customer of the capability to produce flexible circuits in high volume for its own products, a transfer of manufacturing operations by a customer to a lower-cost country, a change in the type of interconnect or suspension assembly used by our largest customers or the failure of a customer to pay its account balance with us, could have a
+material adverse effect on our business, financial condition and results of operations  
+ 
+           Sales of our FSA and AFC products to the hard disk drive industry accounted for 80%, 76% and 78% of our net sales in fiscal 2006, 2005 and 2004, respectively. The disk drive industry is intensely competitive and technology changes rapidly. The industry s demand for disk drive components also fluctuates. The disk drive industry experiences periods of increased demand and rapid growth followed by periods of oversupply and subsequent contraction. These cycles may affect suppliers to this industry because disk drive manufacturers tend to order more disk drive components than they may need during growth periods, and reduce orders for these components during periods of contraction.   
+
+                Our largest customer is increasing utilization of an alternative interconnect technology that competes with our FSA products and we expect our FSA product will reach the end of its life by fiscal 2008.    
+ 
+             Sales of our FSA product accounted for 58%, 65% and 58% of our net sales in fiscal 2006, 2005 and 2004, respectively.  Revenue generated from the sale of our FSA product was $100.4 million, $129.7 million and $90.5 million in fiscal 2006, 2005 and 2004 respectively.  The value added or revenue excluding pass-through components portion of the FSA product relates to the flexible circuit which we manufacture.  FSA revenue excluding pass- through components has ranged from 35% to 53% of the FSA selling price in the past three fiscal years.  The remaining non-value added portion of the FSA product selling price is related to the cost of the suspension attached to the flexible circuit.  To date, increases in revenue excluding pass-through components from other products have not been sufficient to replace the decreases in FSA revenue excluding pass-through.  As a result,
+we have taken a number of steps to reduce our cost structure including the closure of our Maple Plain, Minnesota manufacturing facility and the planned closure of our Litchfield, Minnesota and Eastlake, Ohio manufacturing facilities.  If we cannot increase our revenue excluding pass-through to replace the reductions in FSA revenue excluding pass-through or reduce our cost structure to correspond to decreases in revenue excluding pass-through, our business, financial condition and results of operations could be materially adversely affected.  
+ 
+             Our selling prices are subject to pricing pressure from our customers and market pressure from our competitors.    
+ 
+           We deal with a limited number of large customers who are able to exert significant pricing pressure on our products. Our selling prices are affected by changes in overall demand for our products, changes in the specific products our customers buy and our products  life cycles. A typical life cycle for our products begins with higher pricing when a product is introduced and decreasing prices as it matures. To offset price decreases during a product s life, we rely primarily on higher sales volume and improving our manufacturing yield and productivity to reduce a product s cost. If we cannot reduce our manufacturing costs as prices decline during our products  life cycles, our business, financial condition and results of operations could be materially adversely affected.   
+
+  10  
+
+The markets in which we operate are highly competitive.    
+ 
+             We operate in highly competitive markets and our competitors can be expected to continue to improve the design and performance of their products and to introduce new products with competitive price/performance characteristics. Competitive pressures often necessitate price reductions that adversely affect operating results. We will be required to make a continued high level of investment in product development and research, sales and marketing and ongoing customer service and support to remain competitive. There can be no assurance that existing or future competitors will not be able to duplicate our strategies or that competitive pressures faced by us will not have a material adverse effect on our business, financial condition and results of operations.   
+ 
+        Our operating results are subject to fluctuations.    
+ 
+             Our past operating results, and our gross margins, have fluctuated from fiscal period to fiscal period. Our future operating results and gross margins may continue to fluctuate from fiscal period to fiscal period due to a number of factors, many of which are outside our control and any of which could cause our stock price to fluctuate.   
+ 
+             The primary factors that affect us include the following:   
+
+changes in overall demand for   our products;     
+
+technological changes (such as   data density improvements) that reduce the number of suspension assemblies   per disk drive required by disk drive makers;     
+
+changes in expected customer   timing of new product introductions;     
+
+changes in OEM customer   manufacturing yields throughout their products  life cycles;     
+
+changes in the specific   products our customers buy;     
+
+changes in our selling prices;     
+
+changes in utilization of our   production capacity;     
+
+changes in our infrastructure   costs;     
+
+changes in our manufacturing   process, or problems related to our manufacturing process;     
+
+changes in our manufacturing   yields;     
+
+changes in our production   efficiency;     
+
+long disruptions in operations   at any of our plants for any reason; and     
+
+changes in the cost of, or   limits on, available materials and labor.     
+
+Difficulties in forecasting demand for our products make it challenging to utilize our capacity efficiently.    
+ 
+           If customer demand for our FSAs or actuator flex, display flex, stacked memory flex or tape storage flex products weakens, or if one or more customers reduce, delay or cancel orders, our business, financial condition and results of operations could be materially adversely affected. Decreases in our FSA revenue excluding pass-through have resulted in us taking a number of steps to reduce our cost structure related to underutilized capacity.  These steps have included the closure of our Maple Plain, Minnesota manufacturing facility and the planned closure of our Litchfield, Minnesota and Eastlake, Ohio manufacturing facilities.  If we cannot increase our revenue excluding pass-through to replace the reductions in FSA revenue excluding pass-through or reduce our cost structure to correspond to decreases in revenue excluding pass-through, our business, financial condition and results of operations
+could be materially adversely affected.  
+
+            We typically allow customers to change or cancel orders on short notice. We plan our production and inventory based primarily on forecasts of customer demand, including forecasts of customer pulls of product out of our just-in-time inventory hubs. Our customers typically prefer a dual source supply, and therefore allocate their demand among suppliers. Both customer demand and the resulting forecasts often fluctuate substantially. These factors, among others, create an environment where scheduled production and capacity utilization can vary significantly from week to week, leading to variability in gross margins.   
+ 
+           The following factors complicate accurate capacity planning for market demand:   
+
+changes in the specific   products our customers buy;     
+
+the pace of technological   change;     
+
+variability in our   manufacturing yields and productivity; and     
+
+long lead times for most of   our plant and equipment expenditures, requiring major financial commitments   well in advance of actual production requirements.     
+
+11  
+
+We have at times increased our production capacity and the overhead that supports production based on anticipated market demand which has not always developed as expected. Our inability to plan our capacity requirements accurately, or our failure to put in place the technologies and capacity necessary to meet market demand, could have a material adverse effect on our business, financial condition and results of operations.   
+ 
+             Competing technologies may reduce demand for our products.    
+ 
+           Flexible circuit interconnects provide electrical connections between components in electrical systems and are used as a platform to support the attachment of electronic devices. While flexible circuits offer several advantages over competing printed circuit board and ceramic hybrid circuit technologies, our customers may consider changing their designs to use these alternative technologies for future applications. In particular, our largest customer has increased utilization of an alternative interconnect technology that competes with our FSA products and our FSA revenue will be significantly lower in the future. If our customers switch significant portions of their business to alternative technologies, our business, financial condition and results of operations could be materially adversely affected.  
+ 
+           Future technological innovations may reduce demand for disk drives. Data storage alternatives that compete with disk drive-based data storage currently exist. These storage alternatives include semiconductor (flash) memory, tape memory and optical (DVD and CD) drives. The current core technology for disk drive data storage has been the dominant technology in the industry for many years. This technology could be replaced by an alternate technology in the future. Our business, financial condition and results of operations could be materially adversely affected if the computer industry adopts technology that replaces disk drives as a computer data storage medium.   
+
+              We have experienced annual losses from operations in the fiscal year ended September 30, 2006 and in prior years, and we may not achieve net income on a consistent basis.    
+ 
+           While we generated net profits for several quarters in fiscal 2004, we had net losses of $17.0 million for fiscal 2006, $25.0 million for fiscal 2005 and $17.5 million for fiscal 2004. Whether we achieve net income on a consistent basis will depend on a number of factors, including:   
+
+the level of revenue in any   given period;     
+
+our expense levels,   particularly for manufacturing costs;     
+
+our manufacturing efficiency,   particularly with respect to new product introductions and high volume   products;     
+
+cultivating new AFC and FPD   customers; and     
+
+the qualification of new   products, including new semiconductor packaging and printer flex products.     
+
+To meet industry requirements and remain competitive, we must continue to improve our process capabilities and develop and qualify new products.    
+ 
+           Our continued success depends on our ability to continue to develop manufacturing processes that are capable of tighter tolerances and to develop and rapidly bring to volume production new products that meet increasingly higher performance specifications. A number of risks are inherent in this process. Increasingly higher performance specifications, as well as transitions to new product platforms and materials, initially can lower our overall manufacturing yields and efficiencies. This in turn can cause us to delay or miss product shipments. We also may incur higher manufacturing costs and sales returns or we may need to change or develop new manufacturing processes. If processes change, we may need to replace, modify or design, build and install equipment. These changes may require additional capital.   
+ 
+           We may need to increase our research and development and engineering expenses to support technological advances and to develop and manufacture new products and product features. We expect future flexible circuits to require higher performance specifications and thinner or tighter lines and spaces and to incorporate new material sets.   
+ 
+           If we fail to successfully introduce new products or product features on a regular and timely basis, demand for our existing products could decline, and our business, financial condition and results of operations could be materially adversely affected. If higher performance specifications and tighter lines and spaces are required and we are not able to meet those requirements, our business, financial condition and results of operations could be materially adversely affected.   
+
+  12  
+
+We must qualify our products with our customers. The qualification process for these products can be time-consuming, complex and difficult. We cannot be sure that our products will continue to be selected for design into our customers  products. If we are unable to obtain additional customer qualifications, or if we cannot qualify our products for high volume production quantities, our business, financial condition and results of operations could be materially adversely affected.   
+ 
+             We may not be able to manufacture our products efficiently due to changes in demand or technology, or other unforeseen events.    
+ 
+           We manufacture a wide variety of products with different selling prices and manufacturing costs. Our product mix varies weekly as market demand changes. Any substantial variation in product mix can lead to changes in utilization of our equipment and tooling, inventory obsolescence and overstaffing in certain areas, all of which could adversely impact our business, financial condition and results of operations.   
+ 
+           Rapid technological change in the various electronics industries we serve has led to numerous design changes and tighter performance specifications. The resulting new product designs with tighter performance specifications initially are more difficult to manufacture, could require additional capital expenditures and may require increased development and support expenses. Manufacturing yields and efficiencies also vary from product to product. Newer products typically have lower initial manufacturing yields and efficiencies as we commence volume manufacturing and thereafter ramp to full production. We have experienced sales returns in the past and as we commence volume manufacturing, as new features for our products are introduced or as new manufacturing processes are implemented, we may experience increased sales returns in the future. We cannot be sure that we will attain our output goals and be
+profitable with regard to any of our new products.   
+
+            Our manufacturing plants are located in Eastlake, Ohio; Litchfield, Minnesota; and Korat and Lamphun, Thailand, all of which can experience severe weather. Severe weather has, at times, resulted in lower production and decreased our shipments.  
+ 
+             We may experience difficulties in closing our Eastlake and Litchfield facilities and transitioning operations to our Thailand locations.    
+ 
+             As we discontinue manufacturing laminate base material at our Eastlake facility and transfer production of certain products from our Litchfield manufacturing site to our Thailand locations, we increase the risk of obsolete inventory and may encounter other difficulties. In the past, such transfers have lowered initial yields and/or manufacturing efficiencies. This results in higher manufacturing costs.  If we are unable to efficiently close our Eastlake facility and transition our operations from our Litchfield facility to Thailand, our business, financial condition and results of operations could be materially adversely affected.  
+ 
+             We may not be able to adequately protect our intellectual property.    
+ 
+           We attempt to protect our intellectual property rights through patents, copyrights, trade secrets and other measures. We may not, however, be able to protect our technology adequately. In addition, competitors may be able to develop similar technology independently. Our success depends in large part on trade secrets relating to our proprietary manufacturing processes. We seek to protect these trade secrets and our other proprietary technology in part by requiring each of our employees to enter into non-disclosure and non-competition agreements. In these agreements, the employee agrees to maintain the confidentiality of all of our proprietary information and, subject to certain exceptions, to assign to us all rights in any proprietary information or technology made or contributed by the employee during his or her employment. In addition, we regularly enter into non-disclosure agreements with third parties,
+such as consultants, suppliers and customers. These agreements may, however, be breached, and we may not have an adequate remedy for any such breach. In addition, our competitors may otherwise learn or independently develop our trade secrets.   
+
+            We believe that the patents we hold, control and may obtain are valuable, but that they will not independently determine our success. Moreover, we may not receive patents for our pending patent applications, and our issued patents may not be broad enough to protect our technology adequately. We compete in industries with rapid development and technological innovation. We cannot be sure that we will be able to protect our future technology or that any patent issued to us will not be challenged, invalidated, circumvented or infringed. In addition, we have only limited patent rights outside the United States, and the laws of certain foreign countries may not protect our intellectual property rights to the same extent as do the laws of the United States.   
+ 
+ 13  
+
+Defending against intellectual property claims may have a material adverse effect on our business.    
+ 
+           We and certain users of our products, have received, and may receive, communications from third parties asserting patent claims against us or our customers that may relate to our manufacturing equipment or to our products or to products that include our products as a component. If any third party makes a valid infringement claim against us and we are unable to obtain a license on terms acceptable to us, our business, financial condition and results of operations could be materially adversely affected. We expect that, as the number of patents issued continues to increase, the volume of intellectual property claims made against us could increase.   
+ 
+             We may have difficulty obtaining an adequate supply of raw materials at reasonable prices.    
+ 
+           We currently can obtain certain types of photoresist, a liquid compound used in the photoetching process, certain polyimide materials, certain specialty chemicals used in our manufacturing process and high end suspensions from only one supplier of each such material. If we could not obtain the materials referred to above in the necessary quantities, with the necessary quality and at reasonable prices, our business, financial condition and results of operations could be materially adversely affected.   
+
+              The loss of key personnel could adversely affect our business.    
+ 
+           Our success depends upon the efforts, contributions and abilities of our senior management. We cannot be sure that the services of our key personnel will continue to be available to us. The loss of services of any of these employees could have a material adverse effect on our business, financial condition and results of operations.   
+ 
+             We may not be able to obtain the capital we need to maintain or grow our business.    
+ 
+           Our ability to execute our long-term strategy may depend on our ability to obtain additional long-term debt and equity capital. We have no commitments for additional borrowings, other than our existing credit facilities, or for sales of equity, other than under our existing employee benefit plans. We cannot determine the precise amount and timing of our funding needs at this time. We may be unable to obtain future additional financing on terms acceptable to us, or at all. If we fail to comply with certain covenants relating to our indebtedness, we may need to refinance our indebtedness to repay it. We also may need to refinance our indebtedness at maturity. We may not be able to obtain additional capital on favorable terms to refinance our indebtedness.   
+ 
+           The following factors could affect our ability to obtain additional financing on favorable terms, or at all:   
+
+our results of operations;     
+
+general economic conditions   and conditions in the disk drive industry;     
+
+the perception in the capital   markets of our business;     
+
+our ratio of debt to equity;     
+
+our financial condition;     
+
+our business prospects; and     
+
+changes in interest rates.     
+
+In addition, certain covenants relating to our existing indebtedness impose certain limitations on additional indebtedness. If we are unable to obtain sufficient capital in the future, we may have to curtail our capital expenditures and reduce research and development expenditures. Any such actions could have a material adverse effect on our business, financial condition and results of operations.   
+
+              Servicing our existing debt may constrain our future operations.    
+ 
+           Our ability to satisfy our obligations to pay interest and to repay debt is dependent on our future performance. Our performance depends, in part, on prevailing economic conditions and financial, business and other factors, including factors beyond our control. To the extent that we use a portion of our cash flow from operations to pay the principal of, and interest on, our indebtedness, that cash flow will not be available to fund future operations and capital expenditures.  We cannot be sure that our operating cash flow will be sufficient to fund our future capital expenditure and debt service requirements or to fund future operations.   
+ 
+ 14  
+
+Our financing agreements contain restrictive covenants with which we may not be able to comply.    
+ 
+           We have entered into financing agreements that contain restrictive financial covenants. These covenants require us, among other things, to maintain specified levels of net income, tangible net worth and interest and leverage ratios, and also impose certain limitations on additional indebtedness, leases, guarantees and the payment of dividends. Our ability to comply with restrictive financial covenants depends upon our future operating performance. Our future operating performance depends, in part, on general industry conditions and other factors beyond our control.  We cannot be sure that we will be able to comply with these covenants in the future, and we may not be successful in renegotiating our financing agreements or otherwise obtaining relief from the covenants. If we default under some or all of our financing agreements, our lenders may require that we immediately repay the full outstanding
+amount we owe to them. In such event, we may have to pursue alternative financing arrangements. If we are not in compliance with financial covenants in our financing agreements at the end of any fiscal quarter, our business, financial condition and results of operations could be materially adversely affected.   
+
+              We may not be able to successfully address problems encountered in connection with any future acquisitions.    
+ 
+           We expect to consider opportunities to acquire or make investments in other technologies, products and businesses that could enhance our technical capabilities, complement our current products and services, or expand the breadth of our markets. Acquisitions and strategic investments involve numerous risks, including:   
+
+problems maintaining uniform   standards, procedures, controls and policies;     
+
+unanticipated costs associated   with the acquisition, including accounting charges and transaction expenses;     
+
+problems assimilating the purchased   technologies, products or business operations;     
+
+diversion of management s   attention from our core business;     
+
+adverse effects on existing   business relationships with suppliers and customers;     
+
+risks associated with entering   markets in which we have no or limited prior experience; and     
+
+potential loss of key   employees of acquired organizations.     
+
+If we fail to properly evaluate and execute acquisitions and strategic investments, our management team may be distracted from our day-to-day operations, our business may be disrupted and our operating results may suffer. In addition, if we finance acquisitions by issuing equity or convertible debt securities our existing shareholders would be diluted.   
+ 
+             We face risks from doing business internationally.    
+ 
+           We have manufacturing facilities in Thailand and design, sales and customer support operations in the United Kingdom, Singapore, China and South Korea. Our business is subject to certain risks inherent in international business, many of which are beyond our control. These risks include:   
+
+changes in local regulatory   requirements, including restrictions on product content;     
+
+changes in the laws and   policies affecting trade, investment and taxes (including laws and policies   relating to the repatriation of funds and to withholding taxes);     
+
+differing degrees of   protection for intellectual property;     
+
+foreign labor issues;     
+
+difficulties in coordinating   and managing foreign operations;     
+
+potential cross border shipment   delays;     
+
+instability of foreign   economies and governments;     
+
+cultural barriers; and     
+
+wars and acts of terrorism.     
+
+On September 19, 2006, the Royal Thai military overthrew Thailand s prime minister and elected government.  Although the coup has not impacted our Thailand operations, we cannot predict the future impact of the coup or the consequences to our business of this instability in Thailand.  Any of the risks associated with international operations could have a material adverse effect on our business, financial condition and results of operations.  
+ 
+ 15  
+
+We face risks from fluctuations in the value of foreign currency versus the U.S. dollar and the cost of currency exchange.    
+ 
+           While we transact business predominantly in U.S. dollars, a large portion of our debt, sales and expenses are denominated in foreign currencies. Changes in the relation of foreign currencies to the U.S. dollar will affect our cost of sales and operating margins and could result in exchange losses. To reduce the impact of certain foreign currency fluctuations, we enter into short-term forward foreign currency exchange contracts in the regular course of business. The forward exchange contracts generally require us to exchange Thailand baht for U.S. dollars or U.S. dollars for Thailand baht at maturity, at rates agreed to at inception of the contracts. These contracts are not designed as hedges, therefore, the gains and losses on foreign currency transactions are included in income as incurred. No assurance can be given that our strategies will prevent future currency fluctuations from having a material
+adverse effect on our business, financial condition and results of operations.   
+
+              A prolonged economic downturn could materially harm our business.    
+ 
+           Negative trends in the general economy, including trends resulting from actual or threatened military action by the United States and threats of terrorist attacks on the United States and abroad, could cause a decrease in consumer and business spending in general.   
+ 
+             We may not be able to maintain good relations with our employees.    
+ 
+           Our ability to conduct business would be impaired if our workforce were to be unionized or if a significant number of our specialized employees were to leave and we could not replace them with comparable personnel. Our business may be adversely affected if we need to adjust the size of our workforce due to fluctuating demand. The locations of our plants and the broad span and technological complexity of our products and processes limit the number of satisfactory engineering and other candidates for key positions.   
+ 
+             We could incur substantial costs as a result of violations of or liabilities under environmental laws.    
+ 
+           Our operations are subject to laws and regulations relating to the protection of the environment, including those governing the discharge of pollutants into the air or water, the management and disposal of hazardous substances or wastes and the cleanup of contaminated sites. Some of our operations require environmental permits and controls to prevent and reduce air and water pollution, and these permits are subject to modification, renewal and revocation by issuing authorities. We could incur substantial costs, including cleanup costs, fines and civil or criminal sanctions and third-party claims for property damage and personal injury as a result of violations of or liabilities under environmental laws or non-compliance with environmental permits.   
+
+              Failure to achieve and maintain effective internal controls in accordance with Section 404 of the Sarbanes-Oxley Act could have a material adverse effect on our business and stock price.     
+ 
+           Section 404 of the Sarbanes-Oxley Act requires annual management assessments of the effectiveness of our internal controls over financial reporting and a report by our Independent Registered Public Accountants addressing these assessments.  If we fail to maintain the adequacy of our internal controls, as such standards are modified, supplemented or amended from time to time, we may not be able to ensure that we can conclude on an ongoing basis that we have effective internal controls over financial reporting in accordance with Section 404 of the Sarbanes-Oxley Act. Failure to achieve and maintain an effective internal control environment could have a material adverse effect on our stock price.   
+   
+  Item 1B.  UNRESOLVED STAFF COMMENTS   
+ 
+           None.  
+ 
+ 16  
+
+Item 2.  PROPERTIES   
+ 
+           At September 30, 2006, we owned an aggregate of approximately 424,500 square feet of manufacturing and other space. Our significant facilities are as follows:   
+
+We plan on disposing of our US manufacturing locations once the products currently in production at those locations reach their end of life.  On September 25, 2006, we announced a plan to accelerate the end of life production for our FSA flexible circuits in Litchfield and discontinue the use of that facility by the end of March 2007.  
+   
+  Item 3.  LEGAL PROCEEDINGS    
+ 
+           We are party to certain lawsuits in the ordinary course of business. We do not believe that these proceedings, individually or in the aggregate, will have a material adverse effect on our business, financial condition or results of operations.   
+   
+  Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS   
+ 
+           We did not submit any matter to a vote of our security holders during the fourth quarter of the fiscal year covered by this Report.  
+   
+  Item 4A.  EXECUTIVE OFFICERS OF REGISTRANT   
+ 
+           Below are the name, age, position and a brief account of the business experience of each of our executive officers and key employees as of September 30, 2006.   
+
+Name      
+
+Age      
+
+Position(s)      
+
+Thomas W. Haley     
+
+70     
+
+Chairman and Director     
+
+William P. Murnane     
+
+44     
+
+President, Chief Executive   Officer and Director     
+
+Terry M. Dauenhauer     
+
+53     
+
+Senior Vice President and   Chief Operating Officer     
+
+Keith Foerster     
+
+43     
+
+Senior Vice President,   Development and Sales     
+
+E. Thomas Atchison     
+
+57     
+
+Vice President and Managing   Director, Innovex Thailand     
+
+Brian R. Dahmes     
+
+46     
+
+Vice President, Technology     
+
+Dennis R. Huber     
+
+42     
+
+Vice President, Quality   Systems and Six Sigma     
+
+Douglas W. Keller     
+
+48     
+
+Vice President, Finance     
+
+Nicholas J. Tomashot     
+
+43     
+
+Vice President, Finance,   Innovex Thailand     
+
+Thomas Haley  founded our company and served as President from 1972 to 1988 and Chief Executive Officer from 1988 through 1999. He has been a director and Chairman since our inception in 1972.   
+ 
+ 17  
+
+William Murnane  was promoted to President and Chief Operating Officer in July 1998 and to Chief Executive Officer in January 2000. He has been a director since 1999. Mr. Murnane joined us in July 1995 as Vice President. From June 1993 to June 1995, Mr. Murnane was Chief Operating Officer of Boutwell, Owens   Co., a private manufacturer of packaging, in Fitchburg, Massachusetts. From June 1992 to June 1993, Mr. Murnane was Director of Operations for Uniform Printing   Supply, Inc. in Acton, Massachusetts. Prior to that, he held various operating and corporate planning positions during a ten-year career at United Parcel Service.  
+ 
+            Terry Dauenhauer  joined Innovex in January 2004 as Senior Vice President and Chief Operating Officer.  Prior to joining Innovex, he spent five years with Seagate Technology as Vice President of Thailand Operations and World Wide Product Performance.  Prior to that, he was President and Director, AlphaSource Electronics, Alphatel, Alphatec Electronics and NS Electronics from 1993 to 1997.  Mr. Dauenhauer held various positions with National Semiconductor from 1987 to 1993, Fairchild Semiconductor from 1983 to 1987 and Texas Instruments from 1976 to 1983.  
+
+             Keith Foerster  joined us in May 1992 as a Sales and Marketing Engineer. He has held the following positions with us: National Sales Manager May 1995 to July 1997; Director, Hard Disk Drive Sales July 1997 to August 1999; Senior Director, FSA Development August 1999 to May 2000; Senior Director, Minnesota Operations May 2000 to June 2002; Senior Director and General Manager of the Data Storage Division September 2001 to June 2003; Vice President and General Manager of the Data Storage Division from June 2003 to June 2004; Vice President, U.S. Operations June 2004 to July 2005, Vice President, Development and Sales July 2005 to November 2005 and Senior Vice President, Development and Sales from November 2005 to date.  Previously, Mr. Foerster held positions as a Sales Engineer at Quannon CAD Systems from
+September 1990 to May 1992 and as a Mechanical Design Engineer at Control Data Corporation from May 1986 to September 1990.   
+ 
+            Thomas Atchison  joined Innovex in September 2004 as Vice President/General Manager, Innovex (Thailand) Limited.  Prior to joining us, Mr. Atchison was the Vice President and Chief Financial Officer of Evans   Sutherland from 2003-2004 and Vice President and General Manager, Manufacturing, Service   Support for Evans   Sutherland from 1998 to 2003.  Prior to that Mr. Atchison was the Chief Operating Officer and Chief Financial Officer of Silicon Reality Inc. from 1997 to 1998.  Prior to that Mr. Atchison held various positions with Alphatec from 1993 to 1997; National/Fairchild Semiconductor from 1984 to 1993; DSC Communications from 1982 to 1984; and Texas Instruments from 1978 to 1982.  
+ 
+            Brian Dahmes  joined us in July 1997 as Plant Manager. Mr. Dahmes was promoted to Director of Manufacturing in July 1998 and to Vice President, Quality in March of 1999. In November 1999, he was promoted to Vice President, Managing Director Innovex (Thailand). In August 2001, Mr. Dahmes was named Vice President, Research and Development and in August 2005 he was named Vice President, Technology. From 1992 to 1995, Mr. Dahmes served as Process Engineering Manager for Sheldahl, Inc., and from 1995 to 1997 he was an Engineering Manager with Sheldahl, Inc.   
+
+             Dennis Huber  joined us in January 2001 as a Senior Director and became General Manager of the FSA Division in September 2001.  In June 2004, he was promoted to Vice President, Quality Systems and Six Sigma.  Prior to working with us, Mr. Huber held various engineering positions at Seagate Technology from 1993 to January 2001 and also held various engineering positions at Hutchinson Technology from 1987 to 1993.   
+ 
+            Douglas Keller  joined us in January 1990 as Corporate Controller. In May 1992, Mr. Keller was made an officer and in October 1996, he was promoted to Vice President, Finance. From July 1988 to January 1990, Mr. Keller was Manager of Financial Accounting and Tax for UFE, Inc., a manufacturer of injection molded plastic components. From 1983 to 1988, Mr. Keller was a Senior Auditor for The Pillsbury Company. From 1980 to 1983, he was a Senior Accountant with Deloitte Haskins   Sells, a CPA firm.   
+ 
+            Nick Tomashot  joined us in April 2001 as Director of Planning and Analysis. In June 2003, he was promoted to Vice President of Planning and Analysis and he was named Vice President, Finance Thailand in July 2004. Prior to joining us, Mr. Tomashot was Director of Finance of Rooster.com from 2000 to March, 2001, and was Senior Finance Manager of Diageo PLC, Pillsbury North America in the Non-Dough Foods Division from 1999 to 2000. Prior to that, Mr. Tomashot held various finance positions at Procter   Gamble from 1993 to 1999 and at The NCR Corporation from 1986 to 1991.   
+ 
+ 18  
+
+PART II   
+   
+  Item 5.  MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES   
+
+   Common Stock Information   
+ 
+           Our common stock is traded on the National Market System of the Nasdaq Stock Market under the symbol  INVX.  As of September 30, 2006, there were 19,380,558 shares of common stock outstanding, held by approximately 433 shareholders of record.  
+ 
+  Price Range of Common Stock   
+ 
+           The table below sets forth the high and low sale prices of our Common Stock as reported on the Nasdaq National Market for the periods indicated.   
+
+Dividend Policy   
+ 
+ We currently intend to retain all available funds, after repayment of the debt, to support our operations and to finance growth and development of our business.  We do not anticipate paying any cash dividends in the foreseeable future.  Any future determination relating to the dividend policy will be made at the discretion of our board of directors and will depend on a number of factors, including our future earnings, credit facility restrictions, capital requirements, financial condition, future prospects and other factors as the board of directors may deem relevant.  
+ 
+  Securities Authorized for Issuance Under Equity Compensation Plans   
+ 
+ The following table sets forth information regarding our equity compensation plans in effect as of September 30, 2006.  Each of our equity compensation plans is an  employee benefit plan  as defined by Rule 405 of Regulation C of the Securities Act of 1933.  
+
+Plan   category      
+
+Number of   shares of common    stock to be issued upon    exercise of outstanding    options, warrants and rights      
+
+Weighted-average   exercise price    of outstanding options,     warrants and rights      
+
+Number of shares of common  stock
+remaining available for  future issuance under equity  compensation
+plans (1)      
+
+Equity compensation plans approved by stockholders:     
+
+2,135,977     
+
+$     
+
+6.43     
+
+720,421     
+
+Equity compensation plans not approved by   stockholders:     
+
+Total     
+
+2,135,977     
+
+$     
+
+6.43     
+
+720,421     
+
+(1) Excludes shares of   stock listed in first column.     
+
+The equity compensation plans approved by our shareholders are the 1987 Employee Stock Option Plan, 1994 Stock Option Plan, and the 2000 Restricted Stock Plan.    
+ 
+           The Company also maintains an Employee Stock Purchase Plan, participation in which is available to substantially all of the Company s employees.  Participating employees may purchase the Company s common stock at the end of each participation period at a purchase price equal to 85% of the lower of the fair market value of   
+ 
+ 19  
+
+the stock at the beginning or end of the period.  The six-month participation period runs from April 1 to September 30 and from October 1 to March 31 each year.  Employees may contribute up to 10% of their base compensation to the plan subject to certain IRS limits on stock purchases through the plan.  This plan has been approved by the Company s shareholders.  
+   
+  Item 6.  SELECTED CONSOLIDATED FINANCIAL DATA    
+ 
+           The following selected consolidated financial data as of the end of each fiscal year has been derived from our consolidated financial statements for each of the years in the five-year period ended September 30, 2006. The following information should be read in conjunction with  Management s Discussion and Analysis of Financial Condition and Results of Operations  and the consolidated financial statements and related notes appearing elsewhere in this report.   
+
+20  
+
+Item 7.  MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS    
+ 
+            You should read the following discussion of our financial condition and results of operations in conjunction with the consolidated financial statements and notes to those statements included elsewhere in this report.  This discussion may contain forward-looking statements that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of certain factors, such as those set forth under Part I, Item 1A  Risk Factors  of this Annual Report on Form 10-K and elsewhere in this report..   
+ 
+            We utilize a fiscal year that ends on the Saturday nearest to September 30. For clarity of presentation, we have described all periods as if they end at the end of the calendar quarter.   
+ 
+  Overview    
+ 
+           We are a leading worldwide provider of flexible circuit interconnect solutions to original equipment manufacturers ( OEMs ), in the electronics industry. We offer a full range of customized flexible circuit applications and services from initial design, development and prototype to fabrication, assembly and test on a global basis. We target high volume markets where miniaturization, form and weight are driving factors and flexible circuits are an enabling technology. Applications for flexible circuits currently addressed by us include data storage devices such as hard disk drives ( HDDs ), flat panel displays ( FPD ) including liquid crystal displays ( LCDs ) for mobile communication devices, tape drives and printers. Our customers include 3M, Hitachi, HP, Maxtor, Medtronic, Philips/TPO, Quantum, Rosemount, SAE Magnetics (a subsidiary of TDK), Samsung, Seagate,
+Staktek, StorageTek, Xerox and other leading electronic OEMs.   
+ 
+   Net Sales and Revenue Recognition     
+
+            We manufacture flexible circuits and perform certain additional assembly and test functions on these flexible circuits based on customer specifications. We sell our products direct throughout the world, primarily in North America, Europe and the Pacific Rim countries. We use non-exclusive sales representatives to augment our direct sales efforts, with sales through distributors representing less than 6% of our total net sales for fiscal years 2006, 2005 and 2004. We recognize revenue from the sale of our products upon shipment or delivery of our product to our customers, depending on the customer agreement or shipping terms. We store some inventory in third party owned warehouses that are located close to customers  manufacturing facilities. Sales from third party warehouses are recognized upon the transfer of title and risk of loss, following the customer s acknowledgment of the receipt of
+the goods.   
+ 
+   Costs and Expenses     
+ 
+           Cost of sales consists primarily of:   
+
+material costs for raw   materials and semi-finished components used for assembly of our products;     
+
+labor costs directly related   to manufacture, assembly and inspection of our products;     
+
+costs of general utilities,   production supplies and chemicals consumed in the manufacturing processes;     
+
+costs related to the maintenance   of our manufacturing equipment and facilities;     
+
+costs related to material and   product handling and shipment;     
+
+depreciation costs related to   facilities, machinery and equipment used to manufacture, assemble and inspect   our products; and     
+
+salaries and overhead   attributed to our supply chain, process engineering and manufacturing   personnel.     
+
+21  
+
+Selling, general, administrative and royalty expenses primarily consist of:   
+
+salaries and related selling   (commissions, travel, business development and program management),   administrative, finance, human resources, regulatory, information services   and executive personnel expenses;     
+
+other significant expenses   related to external accounting, software maintenance and legal and regulatory   fees;     
+
+overhead attributed to our   selling, general and administrative personnel; and     
+
+royalties related to FSA net   sales     
+
+Engineering expenses include costs associated with the design, development and testing of our products and processes. These costs consist primarily of:   
+
+salaries and related   development personnel expenses;     
+
+overhead attributed to our   development and test engineering personnel; and     
+
+prototyping costs related to   the development of new products.     
+
+Restructuring charges are those costs primarily related to manufacturing facility closures, severance and product discontinuations. On January 16, 2006, we announced a plan to retain a portion of our Litchfield operation as a product development center while transferring high volume manufacturing operations to Thailand and divesting the remaining portions of the Litchfield, Minnesota operation.  On September 25, 2006, we announced a plan to accelerate the end of life production for our FSA flexible circuits in Litchfield and discontinue the use of that facility by the end of March 2007.  Concurrently, we also plan to accelerate the end of life production of flexible circuit laminate material at our Eastlake, Ohio facility and reduce indirect labor and general and administrative expenses at our other U.S. and Thailand locations.  In the third quarter of fiscal 2004, we announced the planned
+closure of our Maple Plain, Minnesota facility and the plan to discontinue the support of the FSA attachment process once all current program qualifications have reached their end of life.  
+
+   Results of Operations    
+ 
+           The following table sets forth certain operating data as a percentage of net sales for the periods indicated:   
+
+22  
+
+Comparison of the Fiscal Years Ended September 30, 2006 and 2005    
+ 
+   Net Sales     
+ 
+           Our net sales were $173.1 million for the year ended September 30, 2006, compared to $200.2 million for the year ended September 30, 2005, a decrease of 14%.  This decrease primarily reflects lower flat panel display (FPD) and flex suspension assembly (FSA) revenue, partially offset by an increase in actuator flex circuit (AFC) revenue.  AFC revenue increased to $38 million in fiscal 2006, driven by next generation disk drive programs ramping to volume production.  The decline in FSA revenue from $130 million to $100 million in fiscal 2006 reflects our FSA customer s transition to their next generation of desktop disk drive products which uses an alternative technology.  Fiscal 2006 FPD revenue of $24 million was down from $31 million in fiscal 2005 related to our largest FPD customer experiencing lower demand from their customers, a merger related inventory
+rationalization and new program transitions.    
+ 
+           FSA sales to the disk drive industry generated 58% of our net sales for fiscal 2006, compared to 65% for fiscal 2005.  Sales of AFC s to the disk drive industry were 22%, compared to 12%, FPD application net sales were 14% compared to 15%, sales from stacked memory applications were 3% compared to 4%, and sales from other industry applications were 3% compared to 4% for the fiscal years ended September 30, 2006 and 2005, respectively.  
+ 
+           We expect our FPD revenue to increase in fiscal 2007 as our largest FPD customer begins ramping up a number of new programs.  Also, while we expect FSA revenue to decrease in fiscal 2007 as our remaining FSA program reaches its end of life, the decrease should be partially offset by an  increase in our AFC revenue reflecting our significantly higher level of next generation, AFC program qualifications.  
+
+    Gross Profit     
+ 
+           Our gross profit was $18.8 million for the fiscal year ended September 30, 2006 compared to $15.0 million for the fiscal year ended September 30, 2005, an increase of 26%. Our gross margin for the fiscal year ended September 30, 2006 increased to 11%, compared to 8% for the fiscal year ended September 30, 2005. The higher gross margin reflects improved operating efficiency, a lower cost structure related to the transfer of production operations from Minnesota to Lamphun, Thailand and lower pass-through component material costs as a percent of revenue. The fiscal 2005 gross margin reflects numerous start-up issues and inefficiencies caused by the sharp increase in new products entering production during the fiscal 2005 second quarter and higher pass-through material content for those new programs.    
+ 
+           We anticipate that gross margins in fiscal 2007 will improve related to cost structure reductions from discontinuing production operations in the U.S., improved operating efficiencies and reductions in pass-through material costs as a result of the product mix including lower levels of FSA revenue.   
+ 
+   Selling, General, Administrative and Royalty    
+ 
+           Selling, general, administrative and royalty expenses for the fiscal year ended September 30, 2006 were $16.0 million, down slightly as compared to $16.2 million for the fiscal year ended September 30, 2005. As a percentage of net sales, selling, general, administrative and royalty expenses were 9% in fiscal 2006 and 8% for fiscal 2005.  The change in selling, general, administrative and royalty expenses from the prior year primarily reflects fiscal 2006 increased incentive compensation expense of $600,000 and the adoption of SFAS 123R requiring us to record $700,000 of compensation expense for stock options issued to employees.  This increase was offset by a $500,000 reduction in royalty expense over the same period related to lower FSA revenue and lower payroll expenses driven by restructuring related headcount reductions.  
+
+            Selling, general, administrative and royalty expenses for fiscal 2007 are expected to decrease as a result of restructuring related cost reductions and lower royalty expense on FSA revenue.  
+ 
+   Engineering     
+ 
+           Engineering expenses for the fiscal year ended September 30, 2006 were $5.1 million, compared to $7.0 million for the fiscal year ended September 30, 2005, a decrease of 26%. The decrease in engineering expenses in fiscal 2006 was primarily the result of transferring engineering positions to our lower salary base Thailand facility related to our U.S. facility closures or dispositions. As a percentage of net sales, engineering expenses were 3% of sales in fiscal 2006 and fiscal 2005.  Engineering expenses for fiscal 2007 are expected to decrease as a result of restructuring related cost reductions.  
+ 
+ 23  
+
+Restructuring     
+ 
+  Litchfield and Eastlake restructuring:   
+ 
+           On January 16, 2006, we announced a plan to move all of our prototyping and high volume manufacturing from our Litchfield, Minnesota facilities to our Lamphun, Thailand facilities over the next twelve months.  On September 25, 2006, we expanded the previously announced Litchfield restructuring.  We had previously planned to retain our Litchfield facility to support development efforts once the FSA products being produced in Litchfield reached their end of life.  The current plan is to accelerate the end of life production for FSA flexible circuits in Litchfield and discontinue use of that facility by the end of April 2007. Concurrent with FSA flexible circuit end of life production, we will also accelerate end of life production at our Eastlake, Ohio facility where we manufacture flexible circuit laminate materials.  As part of the plan, we divested our low-volume etched metal product
+line also located at our Litchfield facilities in June 2006.  In addition to closing our Litchfield and Eastlake facilities, we will also selectively reduce our indirect labor and general and administrative expenses at both our U.S. and Thailand locations.  The impairment and restructuring was triggered by our need to reduce our cost structure in order to compete effectively and as a result of our lower than expected level of revenue.  Prior to inception of the Maple Plain restructuring plan in fiscal 2004, the level of annual revenue excluding pass-through material costs required for us to generate positive operating earnings was $115 million.  Subsequent to the completion of the Litchfield and Eastlake restructuring plan by the end of fiscal 2007, we expect $72 million to be the level of annual revenue excluding pass-through material costs required to generate positive operating earnings.      
+
+            We expect actions related to the expanded restructuring plan to be taken prior to the end fiscal 2007.  These actions should result in an annual operating expense reduction of approximately $18 million which will be realized in subsequent years.  The estimated savings of $18 million is based on a comparison of the fixed cost structure in place on December 31, 2005 to our estimated fixed cost structure for the fourth quarter of fiscal 2007 after the completion of the planned restructuring Approximately $16.5 million of the projected savings are expected to have a positive impact on cash flow upon realization.  These cash related savings are comprised of $11.5 million related to compensation reductions and $5 million related to other spending.  The $1.5 million remaining savings are expected to be depreciation related and have no impact on cash flow.    
+ 
+           Through September 30, 2006, annualized operating cost savings of approximately $10 million have been realized primarily comprised of compensation savings of $7 million, other operating cost savings of $1.5 million and depreciation savings of $1.5 million.  The remaining expected benefit of $8 million  should be realized by the end of fiscal 2007.  The impact of these reductions in our fixed cost basis has not been evident in our operating results as a result of concurrent reductions in revenue.    
+ 
+           Asset impairment charges of $8.1 million and $2.0 million were recorded in the first and fourth quarters, respectively, of fiscal 2006. The assets that were impaired include the Litchfield and Eastlake facilities and related equipment.  The fair value of these assets was determined using appraised values.  Litchfield facilities and Litchfield and Eastlake assets that will not be retained for use will be listed for sale or disposed.  Capital expenditures of less than $1 million are expected related to the restructuring plan.  These expenditures would primarily increase selected capacity and capabilities at the Lamphun, Thailand facilities.  The Litchfield and Eastlake facilities remained in use as of September 30, 2006 but efforts will be made to sell the Litchfield facility and sublease the Eastlake facility in fiscal 2007 once the manufacturing in those facilities has been
+completed.  
+
+            Total cash related restructuring charges excluding asset impairments of approximately $7.5 million are expected related to the expanded plan.  The $7.5 million total is comprised of $3.5 million for one-time termination benefits and $4.0 million related to moving and closing costs associated with transferring portions of the Litchfield operation to Thailand and the disposition of the Litchfield and Eastlake facilities. Through September 30, 2006, restructuring related charges excluding asset impairments related to the Litchfield and Eastlake restructuring were $2.0 million comprised of $0.9 for one-time termination benefits and $1.1 million for other moving and closing costs associated with closing the Litchfield facility.  
+ 
+           The restructuring plan calls for the elimination of 314 positions in the U.S. and Thailand consisting of 96 direct labor positions, 171 indirect labor production support positions and 47 administrative positions.  As of September 30, 2006, 138 positions have been eliminated and the overall plan remains substantially unchanged.  
+ 
+ 24  
+
+Maple Plain restructuring:   
+ 
+           During fiscal 2004, we recorded asset impairment and restructuring charges of $13.1 million and $1.7 million related to the planned closure of the Maple Plain facility and the plan to discontinue support of the FSA attachment process. In fiscal 2005 additional restructuring charges of $2.8 million were recorded related to the plan.  During fiscal 2006, additional asset impairment charges of approximately $1.0 million related to the disposition of the Maple Plain assets and restructuring charges of approximately $1.6 million were recorded under the restructuring plan.  The assets that were impaired included the Maple Plain facility and related equipment and equipment used in the FSA attachment process.  The manufacturing operation has been transferred from the Maple Plain facility to the Lamphun, Thailand facility.  The Maple Plain facility has been listed for sale since June
+2004.  
+
+            In order to reduce our cost structure, we closed our Maple Plain facility and consolidated its operations with our Lamphun, Thailand facility. In addition, we planned to discontinue supporting the FSA attachment process in order to utilize our resources in other growth areas where we believe we have an advantage. Excluding asset impairment charges, restructuring charges were approximately $6.1 million. The $6.1 million was comprised of $1.9 million for one-time termination benefits, $0.4 million for contract termination costs and $3.8 million for other moving and closing costs associated with closing the Maple Plain location.    
+ 
+           Through September 30, 2006, annualized operating cost savings of approximately $7 million have been realized primarily comprised of cash related compensation and other savings of $5 million on an annual basis and depreciation savings of $2 million on an annual basis.  The remaining expected benefit of $1 million should be realized upon the sale of the Maple Plain facility and as the FSA product line reaches its end of life.  
+ 
+           The original restructuring plan called for the elimination of 168 positions comprised of 87 direct labor positions, 57 indirect labor production support positions and 24 administrative positions.  As of September 30, 2006, 170 positions had been eliminated.  
+ 
+   Net (Gain) Loss on the Sale of Assets    
+ 
+           Net gain or loss on sale of assets for fiscal 2006 was a gain of $2.9 million compared to a loss of $745,000 for fiscal 2005.  The gain in fiscal 2006 relates to the sale of the business, facility and assets of our etched metal component business.  The loss in fiscal 2005 relates to the loss on building sale from the July 8, 2005 sale of a building in Eastlake, Ohio which we purchased from Gould Electronics.  
+ 
+   Net Interest and Other Expense     
+ 
+           Net interest expense was $2.1 million in the fiscal year ended September 30, 2006, compared to $1.5 million for the fiscal year ended September 30, 2005, an increase of 39%.  The increase is the result of higher interest rates and higher average levels of debt outstanding during fiscal 2006 even though interest bearing debt was reduced by $18.9 million during fiscal 2006.  Net other expense was $589,000 in the fiscal year ended September 30, 2006 as compared to other income of $1.1 million in the fiscal year ended September 30, 2005.  The change was a result of the losses on foreign currency transactions occurring in fiscal 2006 while we experienced a small foreign currency gain in fiscal 2005.  Additionally we also recorded income of $800,000 on our 35% equity holding in Applied Kinetics, Inc during fiscal 2005. We sold that equity holding on March 6, 2006 as part
+of a settlement agreement for a $6,000 loss.  
+
+    Income Taxes     
+ 
+           Income tax expense for the fiscal year ended September 30, 2006 was $9,000, compared to $12.9 million for the fiscal year ended September 30, 2005.  The tax expense for fiscal 2006 related to state tax payments.  No tax benefit was recorded for fiscal 2006 as the deferred tax valuation allowance was increased to offset the tax benefit generated during that period.  The tax expense for fiscal 2005 related to a charge to increase the deferred tax asset valuation allowance to reduce the carrying value of the deferred tax asset to zero as a result of our net operating loss position.    
+ 
+ 25  
+
+Comparison of the Fiscal Years Ended September 30, 2005 and 2004    
+ 
+   Net Sales     
+ 
+           Our net sales were $200.2 million for the year ended September 30, 2005, compared to $156.0 million for the year ended September 30, 2004, an increase of 28%.  This increase primarily reflects higher flex suspension assembly (FSA) and flat panel display (FPD) revenue more than offsetting lower revenue generated by actuator flex circuit (AFC) and stacked memory sales.  The FSA revenue increase was driven by the production ramp up of a new high end enterprise disk drive application in the fiscal 2005 second quarter.  The FPD revenue increase was related to a number of new program qualifications entering production over the last nine months of fiscal 2005.  Revenue growth was also accelerated by the high pass-through material content associated with the assembly of components required for many of the new FPD and FSA products.   
+ 
+           Sales from the disk drive industry generated 76% of our net sales for the year ended September 30, 2005, compared to 78% for the year ended September 30, 2004, FPD application net sales were 15% versus 7%, semiconductor packaging application net sales were 4% compared to 9%, network system application net sales were 3% compared to 4% and net sales from other industry applications were 2% for the years ended September 30, 2005 and 2004.   
+
+    Gross Profit     
+ 
+           Our gross profit was $15.0 million for the fiscal year ended September 30, 2005 compared to $18.0 million for the fiscal year ended September 30, 2004, a decrease of 17%. Our gross margin for the fiscal year ended September 30, 2005 decreased to 8%, compared to 12% for the fiscal year ended September 30, 2004. The decrease in gross profit and margin reflects numerous start-up issues and inefficiencies caused by the sharp increase in new products entering production during the fiscal 2005 second quarter and the higher pass-through material content of the new FSA and FPD programs which entered production during the year.  Fiscal 2005 gross profit and margins were also impacted by the duplicate cost structures in place as the Maple Plain facility continued to operate while the new Thailand facility was being brought on line.   
+ 
+   Selling, General, Administrative and Royalty    
+ 
+           Selling, general, administrative and royalty expenses for the fiscal year ended September 30, 2005 were $16.2 million, down significantly as compared to $17.8 million for the fiscal year ended September 30, 2004. As a percentage of net sales, selling, general, administrative and royalty expenses were 8% in fiscal 2005 and 11% for fiscal 2004.  As compared to fiscal 2004, increased fiscal 2005 royalty expense related to higher FSA revenue was more than offset by lower payroll and contract services costs and lower depreciation related to the full year impact of organization structure changes made in the fourth quarter of fiscal 2004.  
+ 
+   Engineering     
+ 
+           Engineering expenses for the fiscal year ended September 30, 2005 were $7.0 million, compared to $6.6 million for the fiscal year ended September 30, 2004, an increase of 5%. The increase in fiscal 2005 engineering expenses was primarily due to higher payroll expenses related to an increased focus on qualifying products and processes for new applications including flat panel displays and inkjet printers and other high-end flexible circuit technology development related to new products. As a percentage of net sales, engineering expenses were 3% of sales in fiscal 2005 and 4% of sales in fiscal 2004.    
+
+    Restructuring     
+ 
+           During fiscal 2004, we recorded asset impairment and restructuring charges of $13.1 million and $1.7 million related to the planned closure of the Maple Plain facility and the plan to discontinue support of the FSA attachment process. In fiscal 2005 additional restructuring charges of $2.8 million were recorded related to the plan.  The assets that were impaired included the Maple Plain facility and related equipment and equipment used in the FSA attachment process.  The manufacturing operation has been transferred from the Maple Plain facility to the Lamphun, Thailand facility.  The Maple Plain facility has been listed for sale since June 2004.  
+ 
+ 26  
+
+Net (Gain) Loss on the Sale of Assets    
+ 
+           Net gain or loss on sale of assets for fiscal 2005 was a loss of $745,000 compared to a gain of $32,000 for fiscal 2004.  The loss in fiscal 2005 relates to the loss on building sale from the July 8, 2005 sale of the building in Eastlake, Ohio which we purchased from Gould Electronics.  
+ 
+   Net Interest and Other Expense     
+ 
+           Net interest expense was $1.5 million in the fiscal year ended September 30, 2005, compared to $0.7 million for the fiscal year ended September 30, 2004, an increase of 133%.  Interest expense increased in 2005 primarily due to an increase in interest-bearing debt during fiscal 2005 primarily caused by capital expenditures related to the Thailand facility expansion.  Net other income was $1.1 million in the fiscal year ended September 30, 2005 as compared to $297,000 in the fiscal year ended September 30, 2004.  The change was a result of income of $800,000 being recorded on our 35% equity holding in Applied Kinetics, Inc during fiscal 2005 as compared to income of $6,000 in fiscal 2004.  
+
+    Income Taxes     
+ 
+           Income tax expense for the fiscal year ended September 30, 2005 was $12.9 million, compared to a benefit of $4.1 million for the fiscal year ended September 30, 2004.  The tax expense for fiscal 2005 related to a charge to increase the deferred tax asset valuation allowance to reduce the carrying value of the deferred tax asset to zero as a result of our net operating loss position.  The tax benefit for fiscal 2004 was calculated at a rate lower than the statutory federal rate primarily due to the exclusion of income generated from our foreign operating corporation and the exclusion of restructuring charges.    
+ 
+  Critical Accounting Policies    
+ 
+           Management s Discussion and Analysis of Financial Condition and Results of Operations is based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires management to make estimates and judgments that affect the reported amounts of assets, liabilities, sales and expenses and related disclosure of contingent assets and liabilities. On an on-going basis, estimates are evaluated based on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates.   
+ 
+           We apply the following critical accounting policies in the preparation of our consolidated financial statements:   
+
+Allowance for Excess and Obsolete Inventory.   Inventories,   which are composed of raw materials, work in process and finished goods, are   valued at the lower of cost or market with cost being determined by the   first-in, first-out method.  On a   periodic basis, we analyze the level of inventory on hand, our cost in   relation to market value and estimated customer requirements to determine   whether write-downs for excess or obsolete inventory are required.  Actual customer requirements in any future   periods are inherently uncertain and thus may differ from estimates.  If actual or expected requirements were   significantly different than the established write-down, a revision to the   obsolescence write-down would be recorded in the period in which such a   determination was made.     
+
+Goodwill.  We have determined   goodwill relates to one reporting unit for purposes of impairment   testing.  Goodwill and other   intangible assets with indefinite lives are tested for impairment annually or   whenever an impairment indicator arises.    If events or circumstances change, including reductions in anticipated   cash flows generated by operations, goodwill could become impaired and result   in a charge to earnings.     
+
+Deferred Income Taxes.   We   account for income taxes using the liability method.  Deferred income taxes are provided for   temporary differences between the financial reporting and tax bases of assets   and liabilities.  A valuation   allowance is established where the realization of any deferred taxes becomes   less likely than not to occur.  We   analyze the valuation allowance periodically which may result in income tax   expense being different than statutory rates.     
+
+Revenue Recognition.  We make electronic   components (flexible circuits) based on customer specifications.  Our revenue recognition policy is   consistently applied regardless of sales channels utilized and product   destination.  We have an implied   warranty that the products meet our customers  specification.  Credits only are issued for customer   returns.  In recognizing revenue in   any period, we apply the provisions     
+
+27  
+
+of SEC Staff Accounting   Bulletin 104,  Revenue Recognition.  Revenue from product sales is recognized   when persuasive evidence of an arrangement exists, the product has been   delivered, the fee is fixed and determinable and collection of the resulting   receivable is reasonably assured.  For   all sales, a binding purchase order is used as evidence of an   arrangement.  We recognize revenue   from the sale of our products upon shipment or delivery of our products to   our customers, depending upon the customer agreement or shipping terms.  We also store inventory in warehouses (JIT   hubs   third party owned warehouses) that are located close to our customers    manufacturing facilities.  Revenue is   recognized on sales from JIT hubs upon the transfer of title and risk of loss   which follows our customers  acknowledgement of the receipt of the goods.     
+
+Stock based Compensation.  For purposes   of determining estimated fair value of stock-based payment awards on the date   of grant under SFAS 123(R), the Company used the Black-Scholes Model. The   Black-Scholes Model requires the input of certain assumptions that require   subjective judgment. Because employee stock options have characteristics   significantly different from those of traded options, and because changes in   the input assumptions can materially affect the fair value estimate, the   existing models may not provide a reliable single measure of the fair value   of the employee stock options. Management will continue to assess the   assumptions and methodologies used to calculate estimated fair value of   stock-based compensation. Circumstances may change and additional data may   become available over time, which could result in changes to these   assumptions and methodologies and thereby materially impact our fair value   determination.
+
+If factors change and the Company employs different   assumptions in the application of SFAS 123(R) may differ significantly from   what was recorded in the current period.     
+
+Liquidity and Capital Resources    
+ 
+           We have historically financed our operations primarily through cash from operating activities, sales of equity securities, bank credit facilities and employee stock option exercises. Cash and equivalents were $9.8 million at September 30, 2006 and $12.9 million at September 30, 2005.   
+ 
+           Net cash provided by operating activities was $18.1 million in the fiscal year ended September 30, 2006.  For fiscal 2006, net cash provided by operating activities was the result of the non-cash charges and decreases in accounts receivable and inventory more than offsetting the net loss for the period and the decrease in accounts payable.  Accounts receivable decreased related to improved payment terms from a significant customer and the lower level of fiscal 2006 fourth quarter revenue.  
+ 
+           Net cash used by operating activities was $6.3 million in the fiscal year ended September 30, 2005.  For fiscal 2005, net cash used by operating activities was the result of increases in accounts receivable and inventory more than offsetting increased accounts payable and the net of the pretax loss and non-cash charges for deferred tax allowance charges and depreciation.  Accounts receivable, inventory and accounts payable all increased as a result of the increased level of pass-through material content in the new FSA and FPD programs which entered production during the year.  
+ 
+           Net cash used by operating activities was $4,000 in the fiscal year ended September 30, 2004.  For fiscal 2004, net cash used by operating activities was the result of increases in accounts receivable, inventory and other assets more than offsetting increased accounts payable and the net of the pretax loss and non-cash charges for restructuring and depreciation.  Accounts receivable, inventory and accounts payable all increased as a result of the FPD program ramp ups beginning near the end of fiscal 2004.  
+
+            Net cash used in investing activities was $2.8 million in the fiscal year ended September 30, 2006, compared to $25.9 million in fiscal 2005 and $11.0 million in fiscal 2004.  In fiscal 2006, net cash used in investing activities was attributed to capital spending of $8.1 million related to the expansion of our Thailand facility and increases in our Thailand panel processing capability offset partially by the $5 million proceeds from the sale of our etched metal business, facility and related equipment. In fiscal 2005, net cash used in investing activities was attributed to the purchase of equipment to manufacture copper clad polyimide, spending related to the expansion of our Thailand facility and the purchase of equipment required to meet our expected increase in production of flexible circuits for FPD applications net of proceeds from the sale of the acquired Eastlake, Ohio
+facility.  Fiscal 2004 net cash used in investing activity was the result of capital expenditures including capacity increases for selected processes related to the expected increase in FPD and AFC sales, new equipment to support the next FSA generation product, Thailand capacity expansion and upgrades of current capabilities.  
+ 
+ 28  
+
+Net cash used in financing activities was $18.4 million in the fiscal year ended September 30, 2006, compared to net cash provided by financing activities of $30.7 million in fiscal 2005 and $3.8 million in fiscal 2004.  Fiscal 2006 net cash used in financing activities was primarily related to the $13.9 million pay down of the balance outstanding on our short-term Thailand revolving packing credit facility made possible by the cash provided by operations, normally scheduled debt payments and  a principal payment of $1.5 million made on June 27, 2006 related to sale of the business, facility and assets of our etched metal components business.  During fiscal 2005, net cash provided by financing activities was the result of the $13.9 million borrowed under our short-term Thailand credit facilities, $7.1 borrowed under our new US Federal Credit Union credit facility and a $15.7
+million draw down under our long-term Thailand credit facilities partially offset by scheduled debt payments on our existing Thailand debt facilities and US based capital leases.  Fiscal 2004 net cash provided by financing activities was primarily due to proceeds from our new Thailand long and short-term credit facilities more than offsetting scheduled payments made under our existing credit facilities.  
+
+            In June 2004, we entered into a new credit facility with Bank of Ayudhya Public Company Limited (BAY) and The Industrial Finance Corporation of Thailand (IFCT) which expanded the existing credit facility with these banks.  IFCT merged with Thai Military Bank during 2005 with the surviving bank being named Thai Military Bank (TMB). The long-term facilities were increased by 1,060 million baht, the packing credit facility was increased by 270 million baht and the short-term working capital facility was increased by 20 million baht.  The facility is now comprised of a 660 million baht long-term facility, a 400 million baht long-term facility, packing credit facilities totaling 1,100 million baht, short-term working capital facilities totaling 90 million baht and a 10 million baht overdraft facility.  The Thailand credit facilities are secured by certain receivables, inventory and assets
+held by us in Thailand.  As of September 30, 2006, approximately $23.4 million was outstanding under the long-term Thailand credit facilities and nothing outstanding under the short-term credit facilities.  Total unused availability under the Thailand credit facilities as of September 30, 2006 was approximately $32 million related to the packing credit and working capital facilities.    
+ 
+           In April 2005, the Company entered into a new financing arrangement with US Federal Credit Union ( US Federal ) pursuant to which the Company borrowed $3.1 million in addition to the $4.0 million the Company had previously borrowed from US Federal in January 2005. The total borrowing of $7.1 million is under a note and secured by the Company s Maple Plain and Litchfield facilities.  In addition to normally scheduled payments, a principal payment of $1.5 million was made on June 27, 2006 related to the sale of the business, facility and assets of the Company s etched metal components business.  Monthly principal and interest payments are due under the Note which bears interest at a rate of 7% per annum.  Monthly principal payments are determined using a 25 year amortization schedule with any remaining unpaid balance due on February 1, 2010.  
+ 
+           We believe that with the existing Thailand credit facilities and cash generated from operations, we will have adequate funds to support projected working capital and capital expenditures for the next eighteen months. We are considering alternatives for generating additional working capital and long-term financing and will continue to pursue financing opportunities to better leverage our assets. We also filed an S-3 Registration Statement with the Securities and Exchange Commission on January 12, 2005 under which we may offer up to an aggregate of 3,500,000 shares of our common stock in one or more offerings from time to time. Our financing needs and the financing alternatives available to us are subject to change depending on, among other things, general economic and market conditions, changes in industry buying patterns, customer acceptance of our AFC, stacked memory flex, FPD flex and other new
+products, our ability to meet our loan covenant requirements and cash flow from operations.  
+
+  29  
+
+Contractual Obligations   
+ 
+           The table below discloses a summary of the Company s specified contractual obligations at September 30, 2006 (in thousands):  
+
+(1)     
+
+Includes interest at fixed   rate of 7% on a portion of the debt and excludes interest on all debt with   variable interest rates.     
+
+Recent Accounting Pronouncements    
+ 
+            Considering the Effects of Prior Year Misstatements when Quantifying Misstatements in Current Year Financial Statements  : In September 2006, the U.S. Securities and Exchange Commission staff issued Staff Accounting Bulletin No. 108 (SAB 108),  Considering the Effects of Prior Year Misstatements when Quantifying Misstatements in Current Year Financial Statements . SAB 108 eliminates the diversity of practice regarding how public companies quantify financial statement misstatements. It establishes an approach that requires quantification of financial statement misstatements based on the effects of the misstatements on each of the company s financial statements and the related financial statement disclosures. SAB 108 must be applied to annual financial statements for fiscal years ending after November 15, 2006. We do not expect SAB 108 to have a material impact on our
+financial condition or results of operations.   
+ 
+            Fair Value Measurements : In September 2006, the Financial Accounting Standards Board (FASB) issued Statement of Financial Accounting Standards No. 157,  Fair Value Measurement  (SFAS 157). This standard clarifies the principle that fair value should be based on the assumptions that market participants would use when pricing an asset or liability. Additionally, it establishes a fair value hierarchy that prioritizes the information used to develop those assumptions. SFAS 157 is effective for financial statements issued for fiscal years beginning after November 15, 2007. We have not yet determined the impact that the implementation of SFAS 157 will have on our results of operations or financial condition.   
+
+             Accounting for Uncertainty in Income Taxes:  In July 2006, the Financial Accounting Standards Board (FASB) issued FASB Interpretation No. 48, Accounting for Uncertainty in Income Taxes, an interpretation of FASB Statement No 109, (FIN 48). FIN 48 clarifies the accounting for uncertainty in income taxes recognized in an enterprise s financial statements and prescribes a recognition threshold and measurement attribute for financial statement recognition and measurement of a tax position taken or expected to be taken in a tax return. This Interpretation also provides related guidance on derecognition, classification, interest and penalties, accounting in interim periods and disclosure. FIN 48 is effective for fiscal years beginning after December 15, 2006. We are currently evaluating the impact of this standard.  
+ 
+  Forward Looking Statements   
+ 
+           Statements included in this Management s Discussion and Analysis of Financial Condition and Results of Operations, elsewhere in this report and in future filings by the Company with the SEC, except for the historical information contained herein and therein, are  forward-looking statements  that involve risks and uncertainties. These risks and uncertainties include: the increased utilization by our largest customer of alternative interconnect technologies that compete with our FSA product, AFC revenue may not increase enough to offset decreases in our FSA revenue, any interruption in the operations of the Company s single source suppliers or any failure of any of the Company s single source suppliers to timely deliver an adequate supply of components, the risk related to the transfer of manufacturing operations from our Litchfield facilities to our Thailand facilities, the
+discontinuation of   
+ 
+ 30  
+
+laminate material manufacturing at our Eastlake facility, the timely availability and acceptance of new products, the impact of competitive products and pricing, changes in our customers  market share, changes in manufacturing efficiencies and other risks detailed from time to time in our reports filed with the Securities and Exchange Commission, including those risks described under Part I, Item 1A.  Risk Factors  in our Annual Report on Form 10-K for the year ended September 30, 2006. In addition, a significant portion of the our revenue is generated from the disk drive, flat panel display, stacked memory substrate, consumer electronics and data storage industries and the global economic softness has had and may have in the future, an adverse impact on our operations. We disclaim any obligation subsequently to revise any forward-looking statements to reflect subsequent events or circumstances or the occurrence of unanticipated events.  
+
+ITEM 7A:        
+
+QUANTITATIVE   AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK      
+
+The following discusses our exposure to market risk related to changes in interest rates and foreign currency exchange rates. These exposures may change over time as business practices evolve and could have a material adverse impact on our business, financial condition and results of operations.   
+ 
+           Our earnings and cash flows are subject to fluctuations due to changes in foreign currency exchange rates. While we transact business predominately in U.S. dollars a portion of our sales and expenses are denominated in foreign currencies. Changes in the relation of foreign currencies to the U.S. dollar will affect our cost of sales and operating margins and could result in exchange gains or losses. To reduce the impact of certain foreign currency fluctuations, we enter into short-term forward foreign currency exchange contracts in the regular course of business to manage our risk exposure, not as speculative instruments. Typically, these contracts have maturities of 6 months or less. The forward exchange contracts generally require us to exchange Thailand baht for U.S. dollars or U.S. dollars for Thailand baht at maturity, at rates agreed to at inception of the contracts. These contracts are not
+designated as hedges, therefore, the gains and losses on foreign currency transactions are included in income.   
+ 
+           We periodically review the outlook for expected currency exchange rate movements as well as the policy on desired future foreign currency cash flow positions (long, short or balanced) for those currencies in which we have significant activity. Expected future cash flow positions and strategies are continuously monitored.  At September 30, 2006,we had open forward exchange contracts to buy Thailand baht maturing November 3, 2006; November 8, 2006; November 15, 2006; December 15, 2006; December 20, 2006 and January 5, 2007  with notional amounts of 190 million baht, 310 million baht, 130 million baht, 70 million baht, 230 million baht and 29 million baht, respectively.  The total open contracts for 959 million baht equates to approximately $25.5 million.  No assurance can be given that our strategies will prevent future currency fluctuations from adversely affecting our business,
+financial condition and results of operations.   
+
+          We are exposed to interest rate risk as a large portion of our interest-bearing debt is subject to interest rates which fluctuate with changes in market interest rates or are periodically reset based on market interest rates. A large change in market interest rates could have an adverse impact on our business, financial condition and results of operations.   
+ 
+ 31  
+
+ITEM 8.        
+
+FINANCIAL   STATEMENTS AND SUPPLEMENTARY DATA      
+
+32  
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM   
+ 
+ Board of Directors  Innovex, Inc.   
+ 
+           We have audited the accompanying consolidated balance sheets of Innovex, Inc. and subsidiaries (the Company) as of September 30, 2006 and 2005, and the related consolidated statements of operations, stockholders  equity, and cash flows for each of the three years in the period ended September 30, 2006. These consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on these consolidated financial statements based on our audits.   
+
+            We conducted our audits in accordance with standards of the Public Company Accounting Oversight Board (United States.) Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe our audits provide a reasonable basis for our opinion.   
+ 
+           In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the consolidated financial position of Innovex, Inc. and Subsidiaries as of September 30, 2006 and 2005, and the consolidated results of their operations and their cash flows for each of the three years in the period ended September 30, 2006, in conformity with accounting principles generally accepted in the United States of America.   
+ 
+           As discussed in Note A to the consolidated financial statements, the Company adopted Financial Accounting Standards Board Statement No. 123(R),  Share-Based Payments  (SFAS 123R) effective October 1, 2005.  
+ 
+           We have also audited, in accordance with standards of the Public Company Accounting Oversight Board (United States), the effectiveness of the Company s internal control over financial reporting as of September 30, 2005, based on criteria established in  Internal Control   Integrated Framework  issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) and our report dated November 30, 2006 expressed an unqualified opinion on management s assessment of the effectiveness of the Company s internal control over financial reporting and an unqualified opinion on the effectiveness of the Company s internal control over financial reporting.  
+
+  /s/  GRANT THORNTON LLP  
+ 
+ Minneapolis, Minnesota  November 30, 2006  
+ 
+ 33  
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM   
+ 
+ Board of Directors  Innovex, Inc.  
+ 
+           We have audited management s assessment, included in the accompanying Management s Report on Internal Control Over Financial Reporting, that Innovex, Inc. and subsidiaries (the Company) maintained effective internal control over financial reporting as of September 30, 2006, based on criteria established in  Internal Control Integrated Framework  issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).  The Company s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting.  Our responsibility is to express an opinion on management s assessment and an opinion on the effectiveness of the company s internal control over financial reporting based on our audit.  
+ 
+           We conducted our audit in accordance with the standards of the Public Company Accounting Oversight Board (United States).  Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.  Our audit included obtaining an understanding of internal control over financial reporting, evaluating management s assessment, testing and evaluating the design and operating effectiveness of internal control, and performing such other procedures as we considered necessary in the circumstances.  We believe that our audit provides a reasonable basis for our opinion.  
+ 
+           A company s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.  A company s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide
+reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company s assets that could have a material effect on the financial statements.  
+
+            Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements.  Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.  
+ 
+           In our opinion, management s assessment that Innovex, Inc. and subsidiaries maintained effective internal control over financial reporting as of September 30, 2006, is fairly stated, in all material respects, based on criteria established in  Internal Control Integrated Framework  issued by COSO.  Also in our opinion, Innovex, Inc. and Subsidiaries maintained in all material respects, effective internal control over financial reporting as of September 30, 2006, based on criteria established in  Internal Control Integrated Framework  issued by COSO.  
+ 
+           We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States), the consolidated balance sheets of Innovex, Inc. and subsidiaries as of September 30, 2006 and 2005, and the related consolidated statements of operations, shareholder s equity, and cash flows for each of the three years in the period ended September 30, 2006, and our report dated November 30, 2006 expressed an unqualified opinion on those consolidated financial statements.  
+ 
+ /s/  GRANT THORNTON LLP  
+ 
+ Minneapolis, Minnesota  November 30, 2006  
+ 
+ 34  
+
+INNOVEX, INC. AND SUBSIDIARIES   CONSOLIDATED BALANCE SHEETS   
+
+See accompanying notes to consolidated financial statements.  
+ 
+ 35  
+
+INNOVEX, INC. AND SUBSIDIARIES   CONSOLIDATED STATEMENTS OF OPERATIONS   
+
+See accompanying notes to consolidated financial statements.  
+ 
+ 36  
+
+INNOVEX, INC. AND SUBSIDIARIES   CONSOLIDATED STATEMENTS OF STOCKHOLDERS  EQUITY   
+
+See accompanying notes to consolidated financial statements.  
+ 
+ 37  
+
+INNOVEX, INC. AND SUBSIDIARIES   CONSOLIDATED STATEMENTS OF CASH FLOWS   
+
+Supplemental Disclosures:    
+ 
+ Cash paid for interest was approximately $2,306,000; $1,594,000; and $879,000 in 2006, 2005 and 2004.  
+ 
+ Income tax payments were approximately $20,000; zero; and $5,000 in 2006, 2005 and 2004.  
+ 
+ Thailand statutory tax withholding payments of $945,000 were made in 2004.  
+ 
+ Tax benefits derived from exercise of stock options totaling approximately $180,000 in 2004 were recorded as a reduction of current income taxes payable and an increase in capital in excess of par value.   
+ 
+ See accompanying notes to consolidated financial statements.  
+ 
+ 38  
+
+INNOVEX, INC. AND SUBSIDIARIES   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS    
+ 
+  September 30, 2006, 2005 and 2004   
+ 
+  Note A. Summary of Significant Accounting Policies    
+ 
+           Innovex, Inc. and Subsidiaries (the  Company ) is a diversified manufacturer of electrical components for the computer, data storage, consumer, medical, telecommunications and other electronic industries. Substantially all of the Company s revenues, operating profits and assets relate to one operating segment involved in the manufacture of flexible circuit interconnects. Company customers are located throughout the United States, Europe and the Pacific Rim. The Company has manufacturing facilities in Litchfield, Minnesota; Eastlake Ohio and Lamphun and Korat, Thailand.  The Company operates in one business segment.  
+ 
+           A summary of the significant accounting policies consistently applied in the preparation of the accompanying consolidated financial statements follows:   
+
+             Principles of Consolidation and Fiscal Year  The consolidated financial statements include the accounts of the Company and its wholly owned subsidiaries. All intercompany transactions have been eliminated in consolidation.   
+ 
+           The Company utilizes a fiscal year that ends on the Saturday nearest to September 30. For clarity of presentation, the Company has described all periods as if the year ended September 30. The fiscal year ended September 30, 2004 included 53 weeks and the fiscal years ended September 30, 2006 and 2005 included 52 weeks of operations.   
+ 
+            Foreign Currency Translation  The Company uses the United States dollar as its functional currency for its subsidiary in Thailand. Re-measurement gains and losses, resulting from the process of re-measuring the foreign currency denominated assets and liabilities of these foreign subsidiaries into U.S. dollars, are included in operations.   
+ 
+            Foreign Exchange Instruments  The Company enters into short-term forward foreign currency exchange contracts in the regular course of business to manage its exposure against foreign currency fluctuations, primarily relating to nonfunctional currency monetary assets and liabilities. The forward exchange contracts generally require the Company to exchange Thailand baht for U.S. dollars or U.S. dollars for Thailand baht at maturity, at rates agreed to at the inception of the contracts. The contracts are not designated as hedges, therefore, the gains and losses on foreign currency exchange contracts are included in other income (expense). The Company does not enter into forward exchange contracts for trading purposes.   
+ 
+            Cash and Cash Equivalents  The Company considers all highly liquid temporary investments with an original maturity of three months or less to be cash equivalents. The Company had no cash equivalents at September 30, 2006 and 2005.  Cash of approximately $7.6 million and $12.8 million was on deposit in foreign financial institutions at September 30, 2006 and 2005. The Company maintains cash balances at several financial institutions, and at times, such balances exceed insured limits.  The Company has not experienced any losses in such accounts and believes it is not exposed to any significant credit risk on cash.   
+
+             Accounts Receivable  The Company grants credit to customers in the normal course of business and generally does not require collateral or any other security to support amounts due. Management performs ongoing credit evaluations of customers. The Company maintains allowances for potential credit losses.   
+ 
+            Inventories  Inventories which are composed of raw materials, work-in-progress and finished goods are stated at the lower of cost or market, with cost determined by the first-in, first-out method.   
+ 
+            Property, Plant and Equipment  Depreciation is provided using the straight-line method over the estimated useful lives of the assets for financial reporting and accelerated methods for tax purposes. Estimated service lives range from 5 to 30 years for buildings and leasehold improvements, from 2 to 7 years for machinery and equipment and from 3 to 7 years for office furniture and fixtures.   
+ 
+ 39  
+
+Goodwill  Goodwill represents the excess of the purchase price over the fair value of the net assets acquired. Goodwill and any other intangible assets determined to have indefinite useful lives are not amortized. The Company has determined goodwill relates to one reporting unit for purposes of impairment testing. Goodwill and other intangible assets with indefinite lives are tested for impairment annually or whenever an impairment indicator arises.   
+ 
+            Fair Values of Financial Instruments  Due to their short-term nature, the carrying value of current financial assets and liabilities approximates their fair values. The fair value of borrowings, if recalculated based on current interest rates, would not significantly differ from the recorded amounts.   
+ 
+            Net Income (Loss) Per Share  The Company s basic net income (loss) per share is computed by dividing net income (loss) by the weighted average number of outstanding common shares. The Company s diluted net income (loss) per share is computed by dividing net income (loss) by the weighted average number of outstanding common shares and common share equivalents related to stock options, when dilutive. Options to purchase 1,416,536, 1,268,456 and 1,071,423 shares of common stock were outstanding during 2006, 2005 and 2004, but were excluded from the computation of common share equivalents because they were antidilutive.   
+
+             Revenue Recognition   The Company makes electronic components (flexible circuits) based on customer specifications.  The Company s revenue recognition policy is consistently applied regardless of sales channels utilized and product destination. In recognizing revenue in any period, the company applies the provisions of SEC Staff Accounting Bulletin 104,  Revenue Recognition.  Revenue from product sales is recognized when persuasive evidence of an arrangement exists, the product has been delivered, the fee is fixed and determinable and collection of the resulting receivable is reasonably assured.   
+ 
+           For all sales, a binding purchase order is used as evidence of an arrangement.  The Company also stores inventory in warehouses (JIT hubs   third party owned warehouses) that are located close to the customer s manufacturing facilities.  Revenue is recognized on sales from JIT hubs upon the transfer of title and risk of loss, following the customer s acknowledgement of the receipt of the goods. The Company has an implied warranty that the products meet the customer s specification.  Credits are issued for customer returns.    
+ 
+            Use of Estimates  Preparation of the Company s consolidated financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect reported amounts of assets and liabilities and related revenues and expenses and disclosure about contingent assets and liabilities at the date of the financial statements. Actual results could differ from these estimates.   
+ 
+            Income Taxes  The Company records income taxes in accordance with the liability method of accounting. Deferred taxes are recognized for the estimated taxes ultimately payable or recoverable based on enacted tax law. The Company establishes a valuation allowance to reduce the deferred tax asset to an amount that is more likely than not to be realizable. Changes in enacted tax rates are reflected in the tax provision as they occur.   
+
+             Stock Based Compensation  Commencing on October 1, 2005, the Company adopted Statement of Financial Accounting Standard  No. 123R,  Share Based Payment  ( SFAS 123R ), which requires all share-based payments, including grants of stock options, to be recognized in the income statement as an operating expense, based on their fair values over the requisite service period.  The Company recorded $653,000 of related compensation expense in fiscal 2006.  This expense is included in selling, general and administrative expense.  There was no tax benefit from recording this non-cash expense.  The compensation expense increased both basic and diluted net loss per share by $0.03 for fiscal 2006.    
+ 
+ 40  
+
+Prior to adopting SFAS 123R, the Company accounted for stock-based compensation under Accounting Principles Board Opinion No. 25,  Accounting for Stock Issued to Employees.  The Company has applied the modified prospective method in adopting SFAS 123R. Accordingly, periods prior to adoption have not been restated. The following table illustrates the effect on net income (loss) and income (loss) per share if the fair value based method had been applied to the years ending September 30:  
+
+The Company uses the Black-Scholes option pricing model to determine the weighted average fair value of options. The weighted average fair value of options granted in 2006, 2005 and 2004 were $1.17, $1.62 and $3.38, respectively. The total intrinsic value of options exercised during the years ended September 30, 2006, 2005, and 2004, was $366,000 $211,000, and $844,000, respectively. The assumptions utilized to determine the fair value of options at the date of grant are indicated in the following table. No adjustment was made to the Black Scholes calculation to reflect that the options are not freely traded. Expected volatilities are based on implied volatilities from traded options on the Company s stock, historical volatility of the Company s stock, and other factors.  The Company uses historical data to estimate option exercise and employee termination within the valuation model; separate groups of employees that have similar historical
+exercise behavior are considered separately for valuation purposes.  The expected term of options granted is derived from the output of the option valuation model and represents the period of time that options granted are expected to be outstanding; the range given below results from certain groups of employees exhibiting different behavior.  The risk-free rate for periods within the contractual life of the option is based on the U.S. Treasury yield curve in effect at the time of grant.  The Company uses its actual forfeiture rate.  
+
+New Pronouncements     
+ 
+            Considering the Effects of Prior Year Misstatements when Quantifying Misstatements in Current Year Financial Statements  : In September 2006, the U.S. Securities and Exchange Commission staff issued Staff Accounting Bulletin No. 108 (SAB 108),  Considering the Effects of Prior Year Misstatements when Quantifying Misstatements in Current Year Financial Statements . SAB 108 eliminates the diversity of practice regarding how public companies quantify financial statement misstatements. It establishes an approach that requires quantification of financial statement misstatements based on the effects of the misstatements on each of the company s financial statements and the related financial statement disclosures. SAB 108 must be applied to annual financial statements for fiscal years ending after November 15, 2006. The Company does not expect SAB 108 to have a material impact on
+its financial condition or results of operations.   
+ 
+            Fair Value Measurements : In September 2006, the Financial Accounting Standards Board (FASB) issued Statement of Financial Accounting Standards No. 157,  Fair Value Measurement  (SFAS 157). This standard clarifies the principle that fair value should be based on the assumptions that market participants would use when pricing an asset or liability. Additionally, it establishes a fair value hierarchy that prioritizes the information used to develop those assumptions. SFAS 157 is effective for financial statements issued for fiscal years beginning after November 15, 2007. The Company has not yet determined the impact that the implementation of SFAS 157 will have on its results of operations or financial condition.   
+ 
+ 41  
+
+Accounting for Uncertainty in Income Taxes:  In July 2006, the Financial Accounting Standards Board (FASB) issued FASB Interpretation No. 48, Accounting for Uncertainty in Income Taxes, an interpretation of FASB Statement No 109, (FIN 48). FIN 48 clarifies the accounting for uncertainty in income taxes recognized in an enterprise s financial statements and prescribes a recognition threshold and measurement attribute for financial statement recognition and measurement of a tax position taken or expected to be taken in a tax return. This Interpretation also provides related guidance on derecognition, classification, interest and penalties, accounting in interim periods and disclosure. FIN 48 is effective for fiscal years beginning after December 15, 2006. The Company is currently evaluating the impact of this standard.  
+
+   Note B. Inventories  -   
+ 
+           Inventories are comprised of the following at September 30 in thousands:   
+
+Note C. Line of Credit and Long-Term Debt  -    
+ 
+           In June 2004, the Company entered into a new facility with Bank of Ayudhya Public Company Limited (BAY) and The Industrial Finance Corporation of Thailand (IFCT) which expanded the existing credit facility with these banks.  IFCT merged with Thai Military Bank (TMB) during 2005 with the merged bank being named Thai Military Bank (TMB). The long-term facilities were increased by 1,060 million baht, the packing credit facility was increased by 270 million baht and the short-term working capital facility was increased by 20 million baht.  The facility is now comprised of a 660 million baht long-term facility, a 400 million baht long-term facility, packing credit facilities totaling 1,100 million baht, short-term working capital facilities totaling 90 million baht and a 10 million baht overdraft facility.  The Thailand credit facilities are secured by certain receivables, inventory and assets
+held by the Company in Thailand with a book value of $77.2 million at September 30, 2006.  As of September 30, 2006, approximately $23.4 million was outstanding under the long-term Thailand credit facilities and nothing outstanding under the short-term credit facilities.  Total unused availability under the Thailand credit facilities as of September 30, 2006 was approximately $32 million related to the packing credit and working capital facilities.    
+
+            Under the terms of the Thailand based credit facility, any outstanding balance on the 400 and 660 million baht term loans had interest rates of 7.1875% and 7.25%, respectively, at September 30, 2006.  The 400 and 600 million baht facilities bear interest at the one year fixed deposit rate plus 3% until June 2007 when they will bear interest at the one year fixed deposit rate plus 3.5%.  The packing credit bears interest at the BAY minimum loan rate (MLR) less 1.75%, 6.25% at September 30, 2006.  The working capital and overdraft facilities bear interest at the TMB and BAY minimum overdraft rate ( MOR ), 8.5% at September 30, 2006.  The Company is required to maintain certain financial ratios and meet certain net worth levels.  The Company was in compliance with all covenants as of September 30, 2006.  
+ 
+           In April 2005, the Company entered into a new financing arrangement with US Federal Credit Union ( US Federal ) pursuant to which the Company borrowed $3.1 million in addition to the $4.0 million the Company had previously borrowed from US Federal in January 2005. The total borrowing of $7.1 million is under a note and secured by the Company s Maple Plain and Litchfield facilities.  In addition to normally scheduled payments, a principal payment of $1.5 million was made on June 27, 2006 related to the sale of the business, facility and assets of the Company s etched metal components business.  Monthly principal and interest payments are due under the Note which bears interest at a rate of 7% per annum.  Monthly principal payments are determined using a 25 year amortization schedule with any remaining unpaid balance due on February 1, 2010.  
+ 
+ 42  
+
+As of September 30, long-term obligations consist of:  
+
+At September 30, 2006 there were no outstanding balances under the packing credit, working capital and overdraft facilities.  At September 30, 2005, the outstanding balance under the Thailand packing credit facility was $13.9 million and there were no outstanding balances under the working capital and overdraft facilities.  As of September 30, 2005, the interest rate was 6.5% on the 590 and 220 million baht term loans and 5.0% on the 400 million baht term loan and 5.25% on the 660 million baht term loan. As of September 30, 2005, the packing credit facility interest rate was 4.375% and the working capital and overdraft facility interest rates were 6.75%.  
+ 
+           Assets under capital lease as of September 30, 2006 had an acquisition cost of $534,000 and a net book value of $72,000. The interest rate on this lease is 7.7%. Aggregate maturities of long-term debt including capitalized leases for the next five years are as follows (in thousands): 2007 $9,045; 2008 $9,827; 2009 $4,656; 2009 $5,317; and none thereafter.  The recorded value of long-term debt approximates fair market value.   
+ 
+  Note D. Stockholders  Equity    
+ 
+  Stock Option Plans     
+
+            The Company has stock option plans that provide for incentive and non-qualified stock options to be granted to directors, officers and other key employees or consultants. The stock options granted generally have a ten-year life, vest over a period of six months to five years, and have an exercise price equal to the fair market value of the stock on the date of grant. New shares are issued under existing registration statements upon exercise.  At September 30, 2006, the Company had 613,121 shares of common stock available for issuance under the plans.   
+   Restricted Stock Plan     
+            The Company also has a restricted stock plan that provides for grants of common stock to key employees of the Company other than the Chief Executive Officer and the four highest paid executives of the Company other than the Chief Executive Officer. The common stock grants generally vest over five years. At September 30, 2006, the Company had 107,300 shares of common stock available for issue under the plan.   
+  43  
+
+Transactions under the stock option and restricted stock plans during each of the three years in the period ending September 30, 2006 are summarized as follows:   
+
+Options exercisable at September 30:   
+
+The following table summarizes information concerning currently outstanding and exercisable stock options:   
+
+44  
+
+A summary of the status of the Entity s nonvested shares as of September 30, 2006, and changes during the year ended September 30, 2006, is presented below:  
+
+As of September 30, 2006, there was $1,358,000 of total unrecognized compensation cost related to nonvested share-based compensation arrangements granted under the Plan.  That cost is expected to be recognized over a weighted-average period of 1.4 years.  The total fair value of shares vested during the years ended September 30, 2006, 2005, and 2004, was $653,000, $645,000, and $582,000, respectively.  
+ 
+  Employee Stock Purchase Plan     
+ 
+           The Company has an Employee Stock Purchase Plan (ESPP) which is available to eligible employees. Under terms of the plan, eligible employees may designate from 1% to 10% of their compensation to be withheld through payroll deductions for the purchase of common stock at 85% of the lower of the market price on the first or last day of the offering period. Under the plan, 500,000 shares of common stock have been reserved for issuance. As of September 30, 2006, 312,939 shares have been issued under the plan. Fair value disclosures under SFAS No. 123 have not been disclosed for shares under the ESPP as such values are immaterial.   
+ 
+  Note E. Income Taxes    
+ 
+           The effective income tax rates differed from the federal statutory income tax rate as follows for the years ended September 30:   
+
+45  
+
+Components of the (benefit) provision for income taxes are as follows for the years ended September 30 (thousands of dollars):   
+
+Deferred taxes recognize the impact of temporary differences between the amounts of assets and liabilities recorded for financial statement purposes and such amounts measured in accordance with tax laws. Realization of net operating loss carryforwards and other deferred tax temporary differences are contingent on future taxable earnings. The Company s deferred tax asset was reviewed for expected utilization using a  more likely than not  approach by assessing the available positive and negative evidence surrounding its recoverability. As a result of the Company s net operating loss position, the Company recorded a valuation allowance of $51,796,000 and $44,335,000 at September 30, 2006 and 2005.  A portion of the fiscal 2005 increase, $992,715, in the valuation allowance was recognized as a reduction in paid in capital to the extent that a tax benefit from employee stock
+option exercises was previously recognized as paid in capital.  The Company continues to assess and evaluate strategies that will enable the deferred tax asset, or portion thereof, to be utilized, and will reduce the valuation allowance appropriately at such time when it is determined that the  more likely than not  approach is satisfied. The net operating loss and tax credit carry-forwards of $125,970,000 expire at various dates from September 2018 through September 2026.   
+ 
+           The cumulative temporary differences between the tax bases of assets and liabilities and their carrying amounts for financial statement purposes are as follows at September 30 (thousands of dollars):   
+
+46  
+
+Note F. Derivative Instruments   Foreign Currency Transactions   
+ 
+           The Company enters into forward exchange contracts that are recorded at fair value, with related fair value gains or losses recorded in income within the caption net other (income) expense.  Generally, these contracts have maturities of six months or less.  These contracts are entered into to offset the gains or losses on foreign currency denominated assets and liabilities.  The Company does not enter into forward exchange contracts for trading purposes and the contracts are not designated as hedges.  At September 30, 2006, the Company had open forward exchange contracts to buy Thailand baht maturing November 3, 2006; November 8, 2006; November 15, 2006; December 15, 2006; December 20, 2006 and January 5, 2007  with notional amounts of 190 million baht, 310 million baht, 130 million baht, 70 million baht, 230 million baht and 29 million baht, respectively.  The total open
+contracts for 959 million baht equates to approximately $25.5 million.   
+ 
+           Foreign currency transaction gains or (losses) included in net other (income) expense (in thousands):  
+
+Note G. Retirement and Profit-Sharing Plans   
+ 
+           The Company sponsors a 401(k) retirement plan for all of its employees meeting minimum eligibility requirements. The plan provides Company matching contributions of 50% of each dollar of employee elective deferral contributions, up to 3% of the employee s compensation.  Company contributions for this plan were approximately $299,000, $372,000 and $387,000 for the years ended September 30, 2006, 2005 and 2004.   
+ 
+  Note H. Research and Development Costs    
+ 
+           The Company incurred research and development costs of approximately $4,538,000, $5,839,000 and $5,966,000 for the years ended September 30, 2006, 2005 and 2004.   
+ 
+  Note I. Foreign Operations and Significant Customers     
+
+            The Company continues to increase the functions performed in its Asian operation located in Lamphun, Thailand in order to take advantage of the proximity to customers and favorable labor and operating costs.  The Company had aggregate export sales of $164,089,000, $185,964,000, and $132,496,000 for the years ending September 30, 2006, 2005 and 2004, principally to Pacific Rim customers. With respect to foreign operations for the years ended September 30, 2006 and 2005, long-lived assets of $43,351,000 and $40,353,000 were located in Thailand.   
+ 
+           International net sales concentrations in excess of 10% were:   
+
+47  
+
+Revenues from three customers made up a significant portion of the Company s total net sales during the years ending September 30:   
+
+Seagate acquired Maxtor in May 2006 and will combine their operations in future periods.  Philip s Mobile Display Systems business unit was merged with Toppoly Optoelectronics Corporation of Taiwan to create a new company called TPO in November 2005.  
+ 
+  Accounts receivable from the above three customers are 79% and 92% of the Company s accounts receivable at September 30, 2006 and 2005.   
+ 
+  Note J. Commitments and Contingencies    
+ 
+           The Company paid rent of $1,452,000, $1,212,000 and $1,271,000 in fiscal 2006, 2005 and 2004 under facility and equipment operating leases that expire at various dates through July 2011.  As of September 30, 2006, the future minimum lease commitments under the operating leases are payable as follows (in thousands): 2007 $594; 2008 $275; 2009 $258; 2010 $257; and 2011 $193.  
+ 
+           The nature of the Company s business exposes the Company to potential environmental remediation liabilities arising from the manufacture, use and disposal of hazardous materials used to manufacture flex interconnect products. Management believes that any cost associated with maintaining the Company s compliance with current environmental remediation laws will not have a material adverse effect on the Company s financial statements.   
+ 
+           The Company is party to certain other lawsuits in the ordinary course of business.  Management does not believe that these proceedings, individually or in the aggregate, will have a material adverse effect on the Company s business, financial condition, results of operations or cash flows.  
+ 
+ Hutchinson Technology Inc. comprised of 38% and 35% of total purchases for the years ended September 30, 2006 and 2005, respectively.  Hutchinson Technology Inc. is the sole provider of suspension components for our FSA product which we expect to reach its end of life by fiscal 2008.  
+
+   Note K. Related Party Transactions   
+ 
+           Prior to March 7, 2006, the Company held 35% of the outstanding shares of Applied Kinetics Inc. (AKI).  AKI is a technology development company that focuses on manufacturing processes related to disk drive components.  AKI developed the manufacturing process technology utilized by the Company s FSA products.  AKI granted the Company a license to use this technology in return for a royalty to be paid on the revenue generated from the sale of these products. On March 7, 2006, the Company entered into a Settlement Agreement with AKI pursuant to which, the parties dismissed with prejudice their lawsuits against one another in exchange for redemption by AKI of the 3,500 shares of AKI common stock owned by the Company and settlement of all royalty and rebate amounts under the License Agreement for prior and future periods.   The License Agreement remains in place and the Company
+will continue to make royalty payments related to the agreement.  
+ 
+           The Company had accounted for its investment in AKI on the equity method.  Included in other income are gains recorded related to the Company s equity holding in AKI of $806,000 and $6,000 in fiscal 2005 and 2004, respectively.  In addition, the Company received consulting fees from AKI of $170,000 and $214,000 in fiscal 2005 and 2004.  The Company did not record any gains or losses on its AKI equity investment from the filing of its lawsuit against AKI and the AKI Inside Shareholders in July 2005 through the settlement of the lawsuit on March 7, 2006.  The Company recorded a $6,000 loss related to the sale of its equity holding in AKI as part of the March 7, 2006 settlement.    
+ 
+ 48  
+
+Note L. Restructuring Charges    
+ 
+  Litchfield and Eastlake restructuring:   
+ 
+           On January 16, 2006, the Company announced a plan to move all of its prototyping and high volume manufacturing from its Litchfield, Minnesota facilities to its Lamphun, Thailand facilities over the next twelve months.  On September 25, 2006, the Company announced an expansion of the previously announced Litchfield restructuring.  The Company had previously planned to retain its Litchfield facility to support development efforts once the FSA products being produced in Litchfield reached their end of life.  The current plan is to accelerate the end of life production for FSA flexible circuits in Litchfield and discontinue use of that facility by the end of April 2007. Concurrent with FSA flexible circuit end of life production, the Company will also accelerate end of life production at its Eastlake, Ohio facility where it manufactures flexible circuit laminate materials.  As part of the
+plan, the Company divested its low-volume etched metal product line also located at its Litchfield facilities in June 2006.  In addition to closing the Litchfield and Eastlake facilities, the Company will also selectively reduce its indirect labor and general and administrative expenses at both its U.S. and Thailand locations.  The impairment and restructuring was triggered by the Company s need to reduce its cost structure in order to compete effectively and the lower than expected level of revenue.     
+
+            Asset impairment charges of $8.1 million and $2.0 million were recorded in the first and fourth quarters, respectively, of fiscal 2006. The assets that were impaired include the Litchfield and Eastlake facilities and related equipment.  The fair value of these assets was determined using appraised values.  Litchfield facilities and Litchfield and Eastlake assets that will not be retained for use will be listed for sale or disposed.    
+ 
+           Total cash related restructuring charges excluding asset impairments of approximately $7.5 million are expected related to the expanded plan.  The $7.5 is comprised of $3.5 million for one-time termination benefits and $4.0 million related to moving and closing costs associated with transferring portions of the Litchfield operation to Thailand and the disposition of the Litchfield and Eastlake facilities. Through September 30, 2006, restructuring related charges excluding asset impairments related to the Litchfield and Eastlake restructuring were $2.0 million comprised of $0.9 for one-time termination benefits and $1.1 million for other moving and closing costs associated with closing the Litchfield facility.  
+ 
+  Maple Plain restructuring:   
+ 
+           During fiscal 2004, the Company recorded asset impairment and restructuring charges of $13.1 million and $1.7 million related to the planned closure of the Maple Plain facility and the plan to discontinue support of the FSA attachment process. In fiscal 2005 additional restructuring charges of $2.8 million were recorded related to the plan.  During fiscal 2006, additional asset impairment charges of approximately $1.0 million related to the disposition of the Maple Plain assets and restructuring charges of approximately $1.6 million were recorded under the restructuring plan.  The assets that were impaired included the Maple Plain facility and related equipment and equipment used in the FSA attachment process.  The manufacturing operation has been transferred from the Maple Plain facility to the Lamphun, Thailand facility with final clean-up activities at the Maple Plain facility
+completed.  The Maple Plain facility has been listed for sale since June 2004.  
+
+            In order to reduce its cost structure, the Company closed its Maple Plain facility and consolidated its operations with the Company s Lamphun, Thailand facility. In addition, the Company planned to discontinue supporting the FSA attachment process in order to utilize its resources in other growth areas where we believe we have an advantage. Excluding asset impairment charges, restructuring charges were approximately $6.1 million. The $6.1 million was comprised of $1.9 million for one-time termination benefits, $0.4 million for contract termination costs and $3.8 million for other moving and closing costs associated with closing the Maple Plain location.    
+ 
+ 49  
+
+Selected information regarding the restructuring follows (in thousands):   
+
+50  
+
+QUARTERLY FINANCIAL DATA   
+ 
+  (Unaudited)   
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE.    
+ 
+ Not applicable.  
+   
+   ITEM 9A.  CONTROLS AND PROCEDURES    
+ 
+  Evaluation of Disclosure Controls and Procedures    
+ 
+           The Company s Chief Executive Officer, William P. Murnane, and Principal Financial Officer, Douglas W. Keller, have evaluated the Company s disclosure controls and procedures as of the end of the period covered by this report.  Based upon that evaluation, they have concluded that as of that date, the Company s disclosure controls and procedures are effective.  
+ 
+  Changes in Internal Control Over Financial Reporting    
+ 
+           There have been no changes in internal control over financial reporting that occurred during the period covered by this report that have materially affected, or are reasonably likely to materially affect, the Company s internal control over financial reporting.   
+ 
+ 51  
+
+Management s Responsibility for Financial Information   
+ 
+           Company management is responsible for the preparation and integrity of the consolidated financial statements appearing in the Annual Report. The consolidated financial statements were prepared in conformity with United States generally accepted accounting principles and include amounts based on management s estimates and judgments. All other financial information in this report has been presented on a basis consistent with the information included in the financial statements.   
+ 
+           The Company s control environment is the foundation for its system of internal controls over financial reporting and is embodied in its Code of Business Conduct and Ethics. It sets the tone of the organization and includes factors such as integrity and ethical values. Internal controls over financial reporting are supported by formal policies and procedures that are reviewed, modified and improved as changes occur in business conditions and operations.   
+
+            The Audit Committee of the Board of Directors, which is composed solely of outside directors, meets periodically with members of management and the independent registered public accounting firm to review and discuss internal controls over financial reporting and accounting and financial reporting matters. The independent registered public accounting firm, Grant Thornton LLP, reports to the Audit Committee and has full and free access to the Audit Committee at any time.   
+ 
+  Management s Report on Internal Control over Financial Reporting   
+ 
+           Management is also responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rule 13a-15(f). A system of internal controls that is designed to provide reasonable assurance as to the fair and reliable preparation and presentation of the consolidated financial statements, as well as to safeguard our assets from unauthorized use or disposition is maintained.   
+ 
+           Management has conducted an evaluation of the effectiveness of our internal controls over financial reporting based on the framework in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission. This evaluation included review of the documentation of controls, evaluation of the design effectiveness of controls, testing of the operating effectiveness of the controls and a conclusion on this evaluation. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of the effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. Based on its evaluation, management has concluded that internal control over
+financial reporting was effective as of September 30, 2006.   
+ 
+           Grant Thornton LLP, an independent registered public accounting firm, has audited management s assessment of the effectiveness of internal control over financial reporting as of September 30, 2006 as stated in their report, which is included herein.   
+
+      ITEM 9B.  OTHER INFORMATION    
+ 
+ None.  
+ 
+ 52  
+
+PART III   
+   
+   ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT    
+ 
+ Reference is made to the sections entitled  Election of Directors,    Governance Matters,   Description of Committees of the Board of Directors,    Section 16(a) Beneficial Ownership Reporting Compliance  and  Code of Ethics  in our definitive proxy statement to be mailed to shareholders on or about December 15, 2006, and to be filed with the Securities and Exchange Commission within 120 days after September 30, 2006 (the  2006 Proxy Statement ).  Except as set forth at Item 4A of this Annual Report, the information required by Item 10 is incorporated herein by reference from the sections noted above of the 2006 Proxy Statement.  
+   
+   ITEM 11.  EXECUTIVE COMPENSATION    
+ 
+ Reference is made to the section entitled  Executive Compensation and Other Information  and  Executive Compensation and Other Information   Director Compensation  in the 2006 Proxy Statement.  The information required by Item 11 is incorporated herein by reference from the sections noted above of the 2006 Proxy Statement.  
+   
+   ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS    
+ 
+ Reference is made to the section entitled  Security Ownership of Certain Beneficial Owners and Management  in the 2006 Proxy Statement.  The information required by Item 12 is incorporated herein by reference from the sections noted above of the 2006 Proxy Statement.  
+   
+   ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS    
+
+  Reference is made to the section entitled  Certain Relationships and Related Transactions  in the 2006 Proxy Statement.  The information required by Item 13 is incorporated herein by reference from the sections noted above of the 2006 Proxy Statement.  
+   
+   ITEM 14.  PRINCIPAL ACCOUNTANT FEES AND SERVICES    
+ 
+ Reference is made to the section entitled  Fees of Independent Public Accountants  and  Audit Committee Pre-Approval Procedures  in the 2006 Proxy Statement.  The information required by Item 14 is incorporated herein by reference from the sections noted above of the 2006 Proxy Statement.  
+ 
+ 53  
+
+PART IV   
+   
+   ITEM 15.  EXHIBITS AND FINANCIAL STATEMENT SCHEDULES    
+ 
+  (a)  LIST OF DOCUMENTS FILED AS PART OF THIS REPORT   
+
+Page      
+
+(1)      
+
+Financial   Statements      
+
+The following Consolidated   Financial Statements of the Registrant, Innovex, Inc. and subsidiaries, are   included in Item 8:     
+
+Consolidated Balance   Sheets at September 30, 2006 and 2005     
+
+35     
+
+Consolidated Statements of   Operations for each of the three years in the period ended September 30,   2006     
+
+36     
+
+Consolidated Statements of   Stockholders  Equity for each of the three years in the period ended   September 30, 2006     
+
+37     
+
+Consolidated Statements of   Cash Flows for each of the three years in the period ended September 30,   2006     
+
+38     
+
+Notes to Consolidated   Financial Statements     
+
+39     
+
+(2)      
+
+Financial   Statement Schedules      
+
+All schedules for which   provision is made in the applicable accounting regulation of the Securities   and Exchange Commission have been omitted because they are not required, are   inapplicable or the information is included in the Consolidated Financial   Statements or Notes thereto.     
+
+(3)      
+
+Exhibits      
+
+3(a)     
+
+Articles of Incorporation,   as amended, are incorporated by reference to Exhibit 3 of the Company s   Form 10-Q for the Quarter Ended December 31, 1996.     
+
+3(b)     
+
+Amended and Restated   Bylaws are incorporated by reference to Exhibit 3(b) of the Company s   Form 10-Q for the Quarter Ended December 31, 2003.     
+
+10(a)     
+
+*1987 Employee Stock   Option Plan, as amended, is incorporated by reference to Exhibit 4(a) of the   Company s Form S-8 dated March 17, 1989 (File No. 33-27530).     
+
+10(b)     
+
+*Innovex, Inc. and   Subsidiaries Employees  Retirement Plan is incorporated by reference to   Exhibit 10(i) of the Company s Form 10-K for the Year Ended   September 30, 1992.     
+
+10(c)     
+
+*1994 Stock Option Plan,   as amended, is incorporated by reference to Exhibit 4.1 of the Company s Form   S-8 dated February 27, 2002 (File No. 333-83452).     
+
+10(d)     
+
+*Innovex, Inc. Employee   Stock Purchase Plan is incorporated by reference to Exhibit 4.1 of the   Company s Form S-8 dated May 19, 2000 (File No. 333-37380).     
+
+10(e)     
+
+*Innovex, Inc. Restricted   Stock Plan is incorporated by reference to Exhibit 4.1 of the Company s   Registration Statement on Form S-8 dated August 23, 2001 (File No.   333-68228).     
+
+10(f)     
+
+*Form of Employment   Agreement dated February 16, 2006 between Terry Dauenhauer and Keith Foerster   and the Company is incorporated by reference to Exhibit 10.1 of the Company s   Current Report on Form 8-K dated February 15, 2006.     
+
+10(g)     
+
+*Employment Agreement   dated October 19, 2005 between William P. Murnane and the Company is   incorporated by reference to Exhibit 10.1 of the Company s Current Report on   Form 8-K dated October 19, 2005.     
+
+54  
+
+10(h)     
+
+Second Credit Facilities   Agreement effective June 11, 2004 between Innovex (Thailand) Limited as the   Borrower and The Industrial Finance Corporation of Thailand and Bank of   Ayudhya Public Company Limited as the Creditor is incorporated by reference   to Exhibit 10.1 of the Company s Form 10-Q for the Quarter Ended June 30,   2004.     
+
+10(i)     
+
+**License and Development   Agreement dated October 12, 1999 between Innovex Precision Components, Inc.   and Applied Kinetics, Inc. is incorporated by reference to Exhibit 10.1 of   the Company s Registration Statement on Form S-3 (File No. 333-1065734).     
+
+10(j)     
+
+**First Amendment to the   License and Development Agreement dated July 1, 2001 between Innovex   Precision Components, Inc. and Applied Kinetics, Inc. is incorporated by   reference to Exhibit 10.2 of the Company s Registration Statement on Form S-3   (File No. 333-1065734).     
+
+10(k)     
+
+**Second Amendment to the   License and Development Agreement dated October 4, 2002 between Innovex   Precision Components, Inc. and Applied Kinetics, Inc. is incorporated by   reference to Exhibit 10.3 of the Company s Registration Statement on Form S-3   (File No. 333-1065734).     
+
+10(l)     
+
+**Third Amendment to the   License and Development Agreement dated March 7, 2006 between Innovex   Precision Components, Inc. and Applied Kinetics, Inc. is incorporated by   reference to Exhibit 10.1 of the Company s Current Report on Form 8-K dated   March 2, 2006.     
+
+10(m)     
+
+Business Note dated April   13, 2005 in the principal amount of $7,104,000 due February 1, 2010 with   Innovex, Inc. as maker and US Federal Credit Union as lender is incorporated   by reference to Exhibit 10.1 of the Company s Form 8-K dated April 18, 2005.     
+
+10(n)     
+
+Modification Agreement for   Mortgage, Assignment of Rents, Security Agreement and Fixture Financing   Statement dated as of April 13, 2005 made by Innovex, Inc. for the benefit of   US Federal Credit Union is incorporated by reference to Exhibit 10.2 of the   Company s Form 8-K dated April 18, 2005.     
+
+10(o)     
+
+Lease Agreement dated as   of July 8, 2005 between Innovex, Inc. and Curtis Investors Ltd. is   incorporated by reference to Exhibit 10.1 of the Company s Form 8-K dated   July 8, 2005.     
+
+21     
+
+Subsidiaries of Innovex,   Inc.     
+
+23     
+
+Consent of Independent   Registered Public Accounting Firm     
+
+31.1     
+
+Certification of Chief   Executive Officer pursuant to 13a-14 and 15d-14 of the Exchange Act     
+
+31.2     
+
+Certification of Vice   President, Finance pursuant to 13a-14 and 15d-14 of the Exchange Act     
+
+32     
+
+Certificate pursuant to 18   U.S.C.   1350     
+
+*Indicates a management   contract or compensatory plan or arrangement.     
+
+** Certain portions of the   Exhibit have been deleted and filed separately with the Commission pursuant   to a request for confidential treatment under Rule 406.     
+
+(c)     EXHIBITS                      Reference is made to Item 15(a)3.  
+
+  (d)     SCHEDULES                      Reference is made to Item 15(a)2.  
+ 
+ 55  
+
+SIGNATURES   
+ 
+           Pursuant to the requirements of Section 13 or 15 (d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.  
+
+INNOVEX, INC.     
+
+By     
+
+\s\ William P. Murnane     
+
+William P. Murnane     
+
+President and Chief   Executive Officer     
+
+Date December 8, 2006     
+
+By     
+
+\s\ Douglas W. Keller     
+
+Douglas W. Keller     
+
+Principal Financial   Officer     
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the following persons on behalf of the Registrant and in the capacities and on the dates indicated have signed this report below.  
+ 
+           Each of the undersigned hereby constitutes and appoints William P. Murnane and Douglas W. Keller as the undersigned s true and lawful attorneys-in-fact and agents, each acting alone, with full power of substitution and resubstitution, for the undersigned and in the undersigned s name, place and stead, in any and all capacities, to sign any of all amendments to this Annual Report on Form 10-K and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents, each acting alone, full power and authority to do and perform each and every act and thing requisite and necessary to be done in and about the premises, as fully to all intents and purposes as the undersigned might or could do in person, hereby ratifying and confirming all said attorneys-in-fact and agents, each acting
+alone, or may lawfully do or cause to be done by virtue thereof.  
+
+\s\ William P Murnane     
+
+President, Chief Executive   Officer and Director     
+
+(principal executive   officer)     
+
+William P. Murnane     
+
+\s\ Douglas W. Keller     
+
+Vice President, Finance     
+
+(principal financial   officer)     
+
+Douglas W. Keller     
+
+\s\ Thomas W. Haley     
+
+Chairman and Director     
+
+Thomas   W. Haley     
+
+\s\   D. Allen Andersen     
+
+Director     
+
+D.   Allen Andersen     
+
+\s\ Philip D. Ankeny     
+
+Director     
+
+Philip D. Ankeny     
+
+\s\ Robert C. Buhrmaster     
+
+Director     
+
+Robert C. Buhrmaster     
+
+\s\ Kenneth J. Roering     
+
+Director     
+
+Kenneth J. Roering     
+
+56  
+
+SCHEDULE II   VALUATION AND QUALIFYING ACCOUNTS   
+
+(1) Represents writeoffs of   bad debt and adjustments for disputed invoices.     
+
+REPORT OF INDEPENDENT REGISTERED  PUBLIC ACCOUNTING FIRM    
+ 
+ Board of Directors  Innovex, Inc.   
+ 
+           We have audited in accordance with the standards of the Public Company Accounting Oversight Board (United States) the consolidated financial statements of Innovex, Inc. and Subsidiaries referred to in our report dated November 30, 2006, which is included in Part II of this form. Our audit was conducted for the purpose of forming an opinion on the basic financial statements taken as a whole. The Schedule II is presented for purposes of additional analysis and is not a required part of the basic financial statements. This schedule has been subjected to the auditing procedures applied in the audit of the basic financial statements and, in our opinion, is fairly stated in all material respects in relation to the basic financial statements taken as a whole.   
+
+57  
+
+<EX-21>
+ 2
+ iv108136ex21.htm
+ EXHIBIT 21
+
+Exhibit 21   
+ 
+   SUBSIDIARIES OF INNOVEX, INC.    
+
+Name      
+
+State or other jurisdiction of Incorporation or Organization      
+
+Innovex Precision   Components, Inc.     
+
+Minnesota     
+
+Innovex Southwest, Inc.     
+
+Delaware     
+
+ADFlex Cayman Ltd.     
+
+Cayman Island     
+
+Innovex (Thailand) Ltd.     
+
+Thailand     
+
+ADFlex Solutions Ltd.     
+
+Delaware     
+
+ADFlex Mexico S.A. de C.V.     
+
+Mexico     
+
+Iconovex Corporation     
+
+Minnesota     
+
+Innovex Limited     
+
+Minnesota     
+
+Mar Engineering, Inc.     
+
+Minnesota     
+
+</EX-21>
+
+<EX-23>
+ 3
+ iv108136ex23.htm
+ EXHIBIT 23
+
+Exhibit 23   
+ 
+  CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM   
+ 
+ We have issued our reports dated November 30, 2006 accompanying the consolidated financial statements and management s assessment of the effectiveness of internal control over financing reporting included in the Annual Report of Innovex, Inc. on Form 10-K for the year ended September 30, 2006.  We hereby consent to the incorporation by reference of said reports in the Registration Statements of Innovex, Inc. on Forms S-8 (File No. 33-14776, effective June 3, 1987, File No. 33-27530, effective March 17, 1989, File No. 33-59035, effective May 2, 1995, File No. 333-10045, effective August 13, 1996, File No. 333-10047, effective August 13, 1996, File No. 333-79427, effective May 27, 1999, File No. 333-37380, effective May 19, 2000, File No. 333-68228, effective August 23, 2001, File No. 333-83452, effective February 27, 2002 and File No. 333-112648, effective February 10, 2004) and Forms S-3 (No. 333-106734,
+effective July 29, 2003 and File No. 333-121981, effective January 31, 2005).  
+
+\s\ GRANT THORNTON LLP     
+
+Minneapolis, Minnesota     
+
+December 7, 2006     
+
+</EX-23>
+
+<EX-31.1>
+ 4
+ iv108136ex311.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1   
+ 
+   CERTIFICATION    
+
+I, William P. Murnane,   certify that:     
+
+1.     
+
+I have reviewed this Form   10-K of Innovex, Inc.;     
+
+2.     
+
+Based on my knowledge,   this report does not contain any untrue statement of a material fact or omit   to state a material fact necessary to make the statements made, in light of   the circumstances under which such statements were made, not misleading with   respect to the period covered by this report;     
+
+3.     
+
+Based on my knowledge, the   financial statements, and other financial information included in this   report, fairly present in all material respects the financial condition,   results of operations and cash flows of the registrant as of, and for, the   periods presented in this report;     
+
+4.     
+
+The registrant s other   certifying officer(s) and I are responsible for establishing and maintaining   disclosure controls and procedures (as defined in Exchange Act Rules   13a-15(e) and 15d-15(e)) and internal control over financial reporting (as   defined in Exchange Act Rules 13a-15(f) and 15d-15(f) for the registrant and   have:     
+
+(a) Designed such   disclosure controls and procedures, or caused such disclosure controls and   procedures to be designed under our supervision, to ensure that material   information relating to the registrant, including its consolidated   subsidiaries, is made known to us by others within those entities,   particularly during the period in which this report is being prepared;     
+
+(b) Designed such internal   control over financial reporting, or caused such internal control over   financial reporting to be designed under our supervision, to provide   reasonable assurance regarding the reliability of financial reporting and the   preparation of financial statements for external purposes in accordance with   generally accepted accounting principles;     
+
+(c) Evaluated the   effectiveness of the registrant s disclosure controls and procedures and   presented in this report our conclusions about the effectiveness of the   disclosure controls and procedures, as of the end of the period covered by   this report based on such evaluation;     
+
+(d) Disclosed in this   report any change in the registrant s internal control over financial   reporting that occurred during the registrant s most recent fiscal quarter   (the registrant s fourth fiscal quarter in the case of an annual report) that   has materially affected, or is reasonably likely to materially affect, the   registrant s internal control over financial reporting; and     
+
+5.     
+
+The registrant s other   certifying officer(s) and I have disclosed, based on our most recent   evaluation of internal control over financial reporting, to the registrant s   auditors and the audit committee of the registrant s board of directors (or   persons performing the equivalent functions):     
+
+(a) All significant deficiencies   and material weaknesses in the design or operation of internal control over   financial reporting which are reasonably likely to adversely affect the   registrant s ability to record, process, summarize and report financial   information; and     
+
+(b) Any fraud, whether or   not material, that involves management or other employees who have a   significant role in the registrant s internal control over financial   reporting.     
+
+Date:  December 8, 2006     
+
+\s\ William P. Murnane      
+
+William P. Murnane      
+
+President and Chief   Executive Officer     
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ iv108136ex312.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2   
+ 
+   CERTIFICATION    
+
+I, Douglas W. Keller,   certify that:     
+
+1.     
+
+I have reviewed this Form   10-K of Innovex, Inc.;     
+
+2.     
+
+Based on my knowledge,   this report does not contain any untrue statement of a material fact or omit   to state a material fact necessary to make the statements made, in light of   the circumstances under which such statements were made, not misleading with   respect to the period covered by this report;     
+
+3.     
+
+Based on my knowledge, the   financial statements, and other financial information included in this   report, fairly present in all material respects the financial condition,   results of operations and cash flows of the registrant as of, and for, the   periods presented in this report;     
+
+4.     
+
+The registrant s other   certifying officer(s) and I are responsible for establishing and maintaining   disclosure controls and procedures (as defined in Exchange Act Rules   13a-15(e) and 15d-15(e)) and internal control over financial reporting (as   defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and   have:     
+
+(a) Designed such   disclosure controls and procedures, or caused such disclosure controls and   procedures to be designed under our supervision, to ensure that material   information relating to the registrant, including its consolidated   subsidiaries, is made known to us by others within those entities,   particularly during the period in which this report is being prepared;     
+
+(b) Designed such internal   control over financial reporting, or caused such internal control over   financial reporting to be designed under our supervision, to provide   reasonable assurance regarding the reliability of financial reporting and the   preparation of financial statements for external purposes in accordance with   generally accepted accounting principles;     
+
+(c) Evaluated the   effectiveness of the registrant s disclosure controls and procedures and   presented in this report our conclusions about the effectiveness of the   disclosure controls and procedures, as of the end of the period covered by   this report based on such evaluation;     
+
+(d) Disclosed in this   report any change in the registrant s internal control over financial   reporting that occurred during the registrant s most recent fiscal quarter   (the registrant s fourth fiscal quarter in the case of an annual report) that   has materially affected, or is reasonably likely to materially affect, the   registrant s internal control over financial reporting; and     
+
+5.     
+
+The registrant s other   certifying officer(s) and I have disclosed, based on our most recent   evaluation of internal control over financial reporting, to the registrant s   auditors and the audit committee of the registrant s board of directors (or   persons performing the equivalent functions):     
+
+(a) All significant deficiencies   and material weaknesses in the design or operation of internal control over   financial reporting which are reasonably likely to adversely affect the   registrant s ability to record, process, summarize and report financial   information; and     
+
+(b) Any fraud, whether or   not material, that involves management or other employees who have a   significant role in the registrant s internal control over financial   reporting.     
+
+Date:  December 8, 2006     
+
+\s\ Douglas W. Keller     
+
+Douglas W. Keller     
+
+Vice President, Finance      
+
+(Principle Accounting   Officer)     
+
+</EX-31.2>
+
+<EX-32>
+ 6
+ iv108136ex32.htm
+ EXHIBIT 32
+
+Exhibit 32   
+ 
+  CERTIFICATION   
+ 
+           The undersigned certify pursuant to 18 U.S.C.   1350, that:  
+ 
+ (1) The accompanying Annual Report on Form 10-K for the period ended September 30, 2006, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and  
+ 
+ (2) The information contained in the accompanying Report fairly presents, in all material respects, the financial condition and results of operations of the Company.  
+
+Date:  December 8, 2006     
+
+/s/ William P. Murnane     
+
+President and Chief Executive Officer     
+
+Date:  December 8, 2006     
+
+/s/ Douglas W. Keller     
+
+Principal   Financial Officer     
+
+</EX-32>
+

@@ -1,0 +1,960 @@
+<Header>
+<FileStats>
+    <FileName>20061229_10-K_edgar_data_24751_0000024751-06-000019_1.txt</FileName>
+    <GrossFileSize>523090</GrossFileSize>
+    <NetFileSize>85908</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>338856</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>29</N_Tables>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000024751-06-000019.hdr.sgml : 20061229
+<ACCEPTANCE-DATETIME>20061229123141
+ACCESSION NUMBER:		0000024751-06-000019
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20060930
+FILED AS OF DATE:		20061229
+DATE AS OF CHANGE:		20061229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CORNING NATURAL GAS CORP
+		CENTRAL INDEX KEY:			0000024751
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS TRANSMISSION & DISTRIBUTION [4923]
+		IRS NUMBER:				160397420
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-00643
+		FILM NUMBER:		061304894
+
+	BUSINESS ADDRESS:	
+		STREET 1:		330 W WILLIAM ST
+		STREET 2:		P O BOX 58
+		CITY:			CORNING
+		STATE:			NY
+		ZIP:			14830
+		BUSINESS PHONE:		6079363755
+
+	MAIL ADDRESS:	
+		STREET 1:		330 W WILLIAM STREET
+		STREET 2:		P O BOX 58
+		CITY:			CORNING
+		STATE:			NY
+		ZIP:			14830
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ O2BZ1xGVUOG0UWY2ya1mrGKeib4fybHSI/xABkWCnCMSdl4EV/91655NrOzsNKB/
+ Fjd9GcHCfT09ER3EqoajxQ==
+
+ 0000024751-06-000019.txt : 20061229
+
+10-K
+ 1
+ cng10k.htm
+ CORNING NATURAL GAS 10K
+
+UNITED STATES  
+ SECURITIES AND EXCHANGE COMMISSION  
+  Washington, D.C. 20549  
+
+FORM 10-K  
+       
+   [X]    ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF  
+ THE SECURITIES EXCHANGE ACT OF 1934  
+      
+    For the fiscal year ended September 30, 2006  
+       
+    OR  
+       
+   [  ]    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF  
+ THE SECURITIES EXCHANGE ACT OF 1934  
+      
+    Commission file number: 0-643  
+
+Corning Natural Gas Corporation  
+   (Exact name of registrant as specified in its charter)  
+
+New York   
+
+16-0397420   
+
+(State or other jurisdiction of  
+ incorporation or organization)    
+
+(I.R.S. employer  
+ Identification no.)    
+
+330 W. William St.  
+ Corning, New York 14830  
+   (Address of principal executive offices, including zip code)  
+     
+    (607) 936-3755  
+ (Registrant's telephone number, including area code)  
+     
+  Securities registered pursuant to Section 12(b) of the Act:  
+ None  
+     
+  Securities registered pursuant to Section 12(g) of the Act:  
+ Common Stock, par value $5.00 per share  
+ (Title of class)  
+  Indicate by check mark if the registrant is a well-known seasoned issuer as defined in Rule 405 of the Securities Act YES [X] NO [ ] 
+   
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. YES [X] NO [ ] 
+     
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein and will not be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.   [X]    
+      
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer or a non-accelerated filer. 
+ Large accelerated filer [ ]     Accelerated Filer [ ]     Non-Acccelerated Filer   [X] 
+ Indicate by check mark whether registrant is a shell company YES [ ] NO [X] 
+
+Revenues for 12 month period ended September 30, 2006 $29,063,000 
+ The aggregate market value of the 431,852 shares of the Common Stock held by non-affiliates of the Registrant at the $16.30 average of bid and asked prices as of December 1, 2006 was $6,477,780. 
+ Number of shares of Common Stock outstanding as of the close of business on December 1, 2006   506,918. 
+ DOCUMENTS INCORPORATED BY REFERENCE 
+ Portions of Registrant's Annual Report to Shareholders for the twelve month period ended September 30, 2006, and definitive proxy statement and notice of annual meeting of shareholders, dated March 2007 are incorporated by reference into Part I, Part II and Part III hereof. 
+ Information contained in this Form 10-K and the Annual Report to shareholders for fiscal 2006 period which is incorporated by reference contains certain forward looking comments which may be impacted by factors beyond the control of the Company, including but not limited to natural gas supplies, regulatory actions and customer demand. As a result, actual conditions and results may differ from present expectations. 
+    PAGE 1  
+
+Table of Contents    
+
+For the Fiscal Year Ended September 30, 2006  
+
+Contents   
+
+Part I    
+
+Page   
+
+Item 1  
+ 
+  Description of Business  
+
+2  
+
+Business Development  
+
+2  
+
+Business of Issuer  
+
+3  
+
+Item 2  
+ 
+  Description of Property  
+
+4  
+
+Item 3  
+ 
+  Legal Proceedings  
+
+4  
+
+Item 4  
+ 
+  Submission of Matters to a Vote of Security Holders  
+ 
+  4  
+
+Part II    
+
+Item 5  
+ 
+  Market for the Registrant's Common Equity and Related   
+
+Stockholder Matters  
+
+6  
+
+Item 6  
+ 
+  Selected Financial Data  
+
+7  
+
+Item 7  
+ 
+  Management's Discussion and Analysis of Financial Condition  
+
+and Results of Operations  
+
+8  
+
+Item 7A  
+ 
+  Quantitative and Qualitative Disclosures about Market Risk  
+ 
+  15  
+
+Item 8  
+ 
+  Financial Statements  
+
+15  
+
+Item 9  
+ 
+  Changes In and Disagreements with Accountants on  
+
+Accounting and Financial Disclosure  
+ 
+  15  
+
+Item 9A  
+ 
+  Controls and Procedures  
+
+16  
+
+Item 9B  
+ 
+  Other Information  
+
+19  
+
+Part III    
+
+Item 10  
+ 
+  Directors, Executive Officers of the Registrant  
+ 
+  12  
+
+Item 11  
+ 
+  Executive Compensation  
+
+20  
+
+Item 12  
+ 
+  Security Ownership of Certain Beneficial Owners and Management  
+ 
+  20  
+
+Item 13  
+ 
+  Certain Relationships and Related Transactions  
+ 
+  20  
+
+Item 14  
+ 
+  Principal Accountant Fees and Services  
+ 
+  20  
+
+Part IV    
+
+Item 15  
+ 
+  Exhibits   
+
+21  
+
+Signatures  
+
+23  
+
+PAGE 2  
+    
+  CORNING NATURAL GAS CORPORATION 
+ FORM 10-K 
+ For the 12 Month Period Ended September 30, 2006 
+ Part I 
+ ITEM 1 - DESCRIPTION OF BUSINESS 
+ (a) Business Development 
+ Corning Natural Gas Corporation (the "Company" or "Registrant"), incorporated in 1904, is a natural gas utility. The Company distributes through its own distribution and transmission network to residential, commercial, industrial and municipal customers in the Corning, New York area and to two other gas utilities which service the Elmira and Bath, New York areas. The Gas Company is under the jurisdiction of the Public Service Commission of New York State which oversees and sets rates for New York gas distribution companies.  
+ Discontinued Operations 
+ Corning Natural Gas Appliance Corporation, "The Company," in August 2006, executed an Asset Purchase Agreement to transfer ownership of the Prudential Ambrose   Shoemaker Real Estate Company to Better Living, Inc. The company will continue to be operated by the new owner as Prudential Ambrose   Shoemaker Real Estate and as a Prudential franchise.  
+ The sale of the company was the result of long negotiations between the Company and two other potential buyers. The final agreement with Better Living, Inc. was determined to be in the best interest of the Company when considering the restrictions placed on the Company.  
+ The sale of the real estate company resulted in all of the assets, furniture, fixtures, receivables and pending contracts being transferred to the new owner. The sale price for the real estate company was $825,000 cash. Other potential purchasers had tied the sale price to potential future earnings of the company as well as a requirement that "The Company" carry a note for a portion of the purchase price. 
+ During the negotiations for the sale of the real estate company, the successful buyer expressed no interest in ownership of the Corning Mortgage Company, which was a mortgage banking company owned by Corning Natural Gas Appliance Corporation as a subsidiary. Since the mortgage company was not currently conducting any business and existed as a name only, it was determined to have no value in the sale and was excluded from the transaction. It was subsequently dissolved as a company. 
+    PAGE 3  
+    
+  (b) Business of Issuer 
+      The Company is a local distribution company and has contracted for a gas supply portfolio from various sources to provide the commodity to the city gates. The Company maintains storage capacity of approximately 586,000 Dth. The Company has a contract with Virginia Power Energy Marketing (VPEM) to manage our capacity and storage assets. The contract is in place from April 2006 through March 2007 with some fixed price contracts for gas with Virginia Power Energy Marketing, Inc. that extend into the fall of 2007.  
+ The Company has secured the required fixed price and storage gas supply for the winter season and is managing our forecasting process to assure that we follow our gas supply and acquisition plan. Assuming no extraordinary conditions for the winter season, gas supply, flowing and storage will be adequate to serve our approximately 14,500 customers.  
+
+(2) The Gas Company is franchised to supply gas service in all of the political subdivisions in which it operates. 
+  (3) Since the Gas Company's business is seasonal by quarters, sales for each quarter of the year vary and are not comparable. Sales vary depending on variations in temperature, but the Company's Weather Normalization Clause (WNC) serves to stabilize net revenue from the effects of temperature variations. The WNC allows the Company to adjust customer billings to compensate for changes in net revenue caused by weather.  
+  (4) The Gas Company has three major customers, Corning Incorporated, New York State Electric   Gas (NYSEG), and Bath Electric, Gas   Water Systems (BEGWS). The loss of any of these customers could have a significant impact on the Gas Company's financial results. 
+  (5) Historically, the Gas Company's competition in the residential market has been primarily from electricity in cooking, water heating and clothes drying, and to a very small degree, in heating. The price of gas remains low in comparison to that of electricity in the Gas Company's service territory and the Gas Company's competitive position in the residential market continues to be very strong. Approximately 99% of the Gas Company's general service customers heat with gas. 
+  Limited competition from oil still exists in the industrial market. The Gas Company has been able to counteract this competition through several mechanisms, including providing customers the option of transporting their own gas. The Gas Company's transportation rate is equal to the lowest unit rate of the appropriate rate classification, exclusive of gas costs; hence the profit margin is maintained.  
+    PAGE 4  
+    
+   (6) The Gas Company believes compliance with present federal, state and local provisions relating to the protection of the environment will not have any material adverse effect on capital expenditures, earnings and financial position of the Company and its subsidiary. 
+  (7) Forty-eight persons were employed by the Company in 2006 and sixty in 2005. 
+  (8) The Gas Company expects no shortage of raw materials to impact our business over the next 5 - 10 years. The Energy Information Administration indicates an increase in the efficiency of gas exploration, and development is expected to result in increased gas productive capacity. As for the availability of the necessary pipes and valves for safe distribution of natural gas, the Gas Company likewise anticipates no shortages and continues to receive both gas supply and material inventory from various reliable sources. 
+   
+ ITEM 2 - DESCRIPTION OF PROPERTY 
+  The Company's headquarters are located at 330 West William Street, Corning, NY. This structure is physically connected to the operations center. 
+  The Gas Company's pipeline system is thoroughly surveyed each year in compliance with federal and state regulations. Any deficits found are corrected as mandated. Approximately 325 miles of distribution main, 15000 services, and 86 regulating station, along with various other properties are owned by the Gas Company, except for one short section of 10" gas main that is under long term lease and is used primarily to serve Corning Incorporated. All of the above described property, which is owned by the Gas Company, is adequately insured and is subject to the lien of the Company's first mortgage indenture.   
+ ITEM 3 - LEGAL PROCEEDINGS 
+  The Company is not a party to any material pending legal proceedings, nor is the Company aware of any problems of any consequence which it anticipates may result in legal proceedings. 
+ ITEM 4 - SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS 
+  No matters were submitted to a vote of security holders during the fourth quarter of fiscal 2006. 
+    PAGE 5  
+    
+  Additional Item 
+ Executive Officers of the Registrant  
+ (Including Certain Significant Employees) 
+
+Name  
+
+Age  
+
+Business Experience   
+
+Michael German  
+
+56  
+
+President   C.E.O.  
+
+Joel Moore  
+
+49  
+
+Vice President of Operation  
+
+Fi Sarhangi   
+
+48  
+
+Chief Financial Officer   Treasurer  
+
+Stanley G. Sleve   
+
+56  
+
+Vice President-Administrations   
+
+Corporate Secretary   
+
+Term of office is one year. (Normally from February to February)  
+
+PAGE 6     
+    
+  Part II 
+ ITEM 5 - MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS 
+  The principal market, on which the Registrant's common stock is traded, is the NASDQ. The range of high and low bid quotations for each quarterly period during the past two years, the amount and frequency of dividends, and a description of restrictions upon the Registrant's ability to pay dividends, appear in the table below. The number of stockholders of record of the Registrant's Common  
+ Stock was 271 at September 30, 2006. The high and low bid quotations reflect inter-dealer prices, without retail markup, markdown or commission and may not represent actual transactions.  
+
+PAGE 7  
+    
+  Under the terms of a $4,700,000 senior note issued September 5, 1997, the Company may not declare or pay any dividend, or cause any other payment from retained earnings except to the extent that consolidated tangible net worth of the Company exceeds $2,000,000. 
+ ITEM 6   SELECTED FINANCIAL DATA  
+
+PAGE 8  
+    
+  ITEM 7 - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+  Overview 
+  The company's primary business is natural gas distribution. We serve approximately 14,500 customers through 400 miles of pipeline. Our service territory is saturated with very little residential growth. Growth opportunities exist in the industrial market, as well as connecting to local gas production. Increased focus will be given to efficient operations and improving infrastructure. Key performance indicators are net income, cash flow and rate of return. Other indicators that are tracked include leak repair, main and service replacements and customer service metrics. 
+  Earnings 
+  2006 compared with 2005. Consolidated earnings amounted to a loss of $3,615,952 or $(7.13) per share in 2006 compared to earnings of $626,530 or $1.24 per share in 2005. The decrease in earnings is primarily due to one time items associated with the Company's restructuring ($1,885,341) including the failed C T merger and severance and related costs for former senior officers. Secondarily, earnings were negatively impacted by a loss of revenue from local producers ($618,727). In addition, there was $1,400,000 penalty imposed by Public Service Commission on the Company for its gas purchasing practices. Finally, there was a significant loss on the sale and final disposition of non- utility enterprises.  
+ 2005 compared with 2004. Consolidated earnings amounted to $626,500 or $1.24 per share in 2005 compared to earning of $612,900 or $1.21 per share in 2004. The increase is the result of a significant utility increase in local production revenue partially offset by a decrease in non-utility earnings due to the discontinued operations of Tax Center and Foodmart and a $33,000 reduction in Mortgage earnings due to changing real estate market and competitive products.  
+
+PAGE 9  
+
+Revenue   
+
+2006 compared with 2005. Utility operating revenue increased $4,043,306 or 15 percent due primarily to an increase in cost of gas partially offset by a decrease in revenue from local producers. 
+ 2005 compared with 2004. Utility operating revenue increased $882,300 or 4 percent due primarily to an increase in local production revenue. Additionally, revenue increased because of higher gas costs. Gas costs are charged to customers through the Company's Gas Adjustment Clause discussed in note 1(d) to the financial statements. 
+    PAGE 10     
+    
+   Non-Utility Revenue 
+  2006 compared with 2005. The non utility operations were sold in fiscal year 2006 and the results were included in "Discontinued Operation" segment. 
+ 2005 compared to 2004. Non-utility revenue by operating segment can be found in note 2 to the financial statements. Non-utility revenue in 2005 decreased by $1,295,300 or 26 percent due to discontinued operations of Tax Center and Foodmart Plaza. There was a decrease in revenue from the Corning Realty segment of $424,800 or 11 percent due to competition from other providers. 
+
+Operating Expenses 
+ Utility 
+  2006 compared with 2005. Purchase gas expense increased $4,938,935 or 25 percent in 2006. The Company's average cost of gas, including reconciliation amounts increased to $12.57 per mcf from $8.15 per mcf the previous year due to new regulatory requirements and increased company focus on infrastructure. Other operating and maintenance expense increased 15 percent. Depreciation expense increased to $517,123 due to increased investment in plant.  
+ 2005 compared with 2004. Purchase gas expense increased $378,000 or 2.7 percent in 2005. The Company's average cost of gas, including reconciliation amounts increased to $8.15 per mcf in 2005 from $7.20 per mcf the previous year. Other operating and maintenance expense decreased 4 percent due to cost containment measures implemented. Depreciation expense increased 11 percent to $513,925 due to increased investment in plant.  
+   
+  Non-Utility 
+  2006 compared with 2005. The non-utility operations were sold in fiscal year ending September 2006 and the results are included in Discontinued Operation section. Therefore the periods are not comparable. 
+   
+ 2005 compared with 2004. Corning Realty commission expense decreased $126,000 or 32 percent as a result of reduced revenue. Realty occupancy and advertising expenses decreased $57,000 due to cost containment measures. 
+    PAGE 11  
+    
+   Investment Income 
+  Investment income increased by $117,007 to $205,090 in 2006 versus $88,083 in 2005. 2005 was $36,900 less than 2004. The increase in 2006 was due to changes in interest bearing gas cost reconciliation amounts due from customers as well as realized gains and losses on a trust fund established to fund post-retirement compensations to certain officers.  
+  Operating Segments 
+  A description of the Company's operating segments can be found in note 2 to the financial statements, which also contains the results by segment for fiscal years 2005, 2004 and 2003. 
+  Liquidity and Capital Resources 
+  Internally generated cash from operating activities consists of net income, adjusted for non-cash expenses and changes in operating assets and liabilities. Non-cash items include depreciation and amortization, gain on sale of securities, deferred income taxes and losses on sale of discontinued operations. In the utility segment, over or under recovered gas costs significantly impacts cash flow. In addition, there are significant year-to-year changes in regulatory assets that impact cash flow. Cash flows from investing activities consist primarily of capital expenditures. Capital expenditures have historically exceeded $1 million annually and the same is expected in the coming year. Cash flows from financing activities consist of repayment of long-term debt and borrowings and repayments under our lines-of-credit. For consolidated operations, the Company had $6,600,000 during 2006 available through lines of credit at local banks, the terms of which are disclosed in note 6 to the financial statements. Th
+e amount outstanding under these lines at September 30, 2006 is $6,600,000. As security for the Company's line of credit, collateral assignments have been executed which assign to the lender various rights in the investment trust account, membership interest in Corning Realty Associates, LLC and proceeds from the note agreement. In addition, the lender has a purchase money interest in and to all natural gas purchases by debtor utilizing funds advanced by the bank under the line-of-credit agreement and all proceeds of sale thereof and accounts receivable pertaining to such sale. The Company relies heavily on its credit lines and a large portion is utilized throughout the entire year.  
+ The Company has outstanding $10,571,879 in long term debt. It repaid $1,149,601 in 2006 consistent with requirements in the debt instruments.  
+ In order to purchase gas supplies for the winter 2006-2007 season, the Company entered in to a gas asset management contract with Virginia Power Energy Marketing Inc. where VPEM purchased gas on behalf of the Company and injected that gas in to storage. At the request of VPEM on November 30th, 2006 Richard Osborne, Chairman of the Company, posted a letter of credit with VPEM to facilitate the payment for gas. This letter of credit allows the Company to resume normal payment for its gas purchases. This will allow the Company to begin collecting from customers before paying for its gas (25 days following the end of the month the gas is purchased).  
+ The Company has no off balance sheet requirements. 
+    
+     PAGE 12  
+    
+   Contractual Obligation 
+ Long-term Debt  
+  The fair market value of the Company's long-term debt is estimated based on quoted market prices of similar issues having the same remaining maturities, redemption terms and credit ratings. Notes payable to banks are stated at cost, which approximates their value due to the short-term maturities of those financial instruments. Based on these criteria, the fair market value of long-term debt, including current portion, was as follows at September 30, 2006, 2005 and 2004:   
+
+The aggregate maturities of long-term debt for each of the five years subsequent to September 30, 2005 are as follows:   
+
+PAGE 13  
+    
+   Lines of Credit 
+  The Company has consolidated lines of credit with local banks to borrow up to $6,600,000 on a short-term basis. Borrowings outstanding under these lines were $6,550,000, $6,600,000 and $6,325,000 at September 30, 2006, 2005 and 2004, respectively. The maximum amount outstanding during the year ended September 30, 2006, 2005 and 2004 was $6,600,000, $6,600,000 and $7,200,000 respectively. The lines of credit are unsecured and payable on demand with interest at rates which range from the prime rate (8.25%) on September 30, 2006) to the prime rate less 3/4%. As security for the Company's line of credit, collateral assignments have been executed which assign to the lender various rights in the investment trust account, membership interest in Corning Realty Associates, LLC and proceeds from the note agreement. In addition, the lender has a purchase money interest in and to all natural gas purchases by debtor utilizing funds advanced by the bank under the line-of-credit agreement and all proceeds of sale th
+ereof and accounts receivable pertaining to such sale. The weighted average interest rates on outstanding borrowings during fiscal 2006, 2005 and 2004 were 6.49%, 4.92% and 3.35% respectively.  
+ The Company has no off balance sheet arrangements. 
+  Interest Rate Risk   
+ The Company's exposure to interest rate risk arises from borrowing under short-term debt instruments. At September 30, 2006, these instruments consisted of a term loan and bank credit line borrowings outstanding of $6,600,000. The interest rate (prime) on this loan and these lines was 6 percent at September 30, 2005 and 8.25 percent in 2006. A 1 percent change upward in the prime rate would change interest costs by $66,000. 
+  Regulatory Matters 
+  On May 22, 2006, the New York Public Service Commission (the "Commission") issued a decision in three proceedings involving the Company: Case 05-G-1359, to examine the Company's October 31, 2005 filing for increased rates; Case 05-G-1268, to review the Company's practices particularly relating to natural gas supply and Case 04-G-1032 to consider the Company's request for deferral and recovery of costs formerly allocated to the appliance business that has been sold in 2003. The decision, entitled "Order Setting Gas Delivery Service Rates, Adopting Performance Targets and Incentives, Allowing Deferral and Rate Recovery of Certain Costs, and Crediting Customers with $1.4 Million of Prior Gas Commodity Costs" (the "May Order"), resolved the issues presented in the three proceedings. 
+ In its May Order, the Commission authorized the Company to increase its base rates for natural gas service by approximately $2.7 million. The May Order allowed rates to become effective as of June 1, 2006. For financial purposes rates went in to effect October 1, 2006 and revenues collected as a result of early implementation (June1st through September 30th) are subject to refund in 2007. The Commission granted recovery of approximately $2.63 million of deferred costs associated with appliance business, offsetting that against a $1.4 million one time gas supply disallowance expense. This expense was recognized in the quarter and fiscal year ended September 30 th , 2006. 
+  Critical Accounting Policies  
+  The Company's significant accounting policies are described in the notes to the Consolidated Financial Statements. It is increasingly important to understand that the application of generally accepted accounting principles involve certain assumptions, judgments and estimates that affect reported amounts of assets, liabilities, revenues and expenses. Thus, the application of these principles can result in varying results from company to company. The most significant principles that impact the Company are discussed below.  
+    
+     PAGE 14  
+    
+   Accounting for Utility Revenue and Cost of Gas Recognition    
+    The Company records revenues from residential and commercial customers based on meters read on a cycle basis throughout each month, while certain large industrial and utility customers' meters are read at the end of each month. The Company does not accrue revenue for gas delivered but not yet billed, as the New York PSC requires that such accounting must be adopted during a rate proceeding, which the Company has not done. The Company does not currently anticipate adopting unbilled revenue recognition and does not believe it would have a material impact in financial results. The Company's tariffs contain mechanisms that provide for the recovery of the cost of gas applicable to firm customers, which includes estimates. Under these mechanisms, the Company periodically adjusts its rates to reflect increases and decreases in the cost of gas. Annually, the Company reconciles the difference between the total gas costs collected from customers and the cost of gas. The Company d
+efers any excess or deficiency and subsequently either recovers it from, or refunds it to, customers over the following twelve-month period. To the extent estimates are inaccurate, a regulatory asset on the balance sheet is increased or decreased. 
+  Accounting for Regulated Operations - Regulatory Assets and Liabilities    
+    All of the Company's business is subject to regulation. The Company's regulated utility records the results of its regulated activities in accordance with Statement of Financial Accounting Standards (SFAS) No. 71, Accounting for the Effects of Certain Types of Regulation, which results in differences in the application of generally accepted accounting principles between regulated and non-regulated businesses. SFAS No. 71 requires the recording of regulatory assets and liabilities for certain transactions that would have been treated as revenue and expense in non-regulated businesses. In certain circumstances, SFAS No. 71 allows entities whose rates are determined by third-party regulators to defer costs as "regulatory" assets in the balance sheet to the extent that the entity expects to recover these costs in future rates. Management believes that currently available facts support the continued application of SFAS No. 71 and that all regulatory assets and liabilities ar
+e recoverable or refundable through the regulatory environment.  
+  Pension and Post-Retirement Benefits   
+ The amounts reported in the Company's financial statements related to its pension and other post-retirement benefits are determined on an actuarial basis, which uses many assumptions in the calculation of such amounts. These assumptions include the discount rate, the expected return on plan assets, the rate of compensation increase and, for other post-retirement benefits, the expected annual rate of increase in per capita cost of covered medical and prescription benefits. Changes in actuarial assumptions and actuarial experience could have a material impact on the amount of pension and post-retirement benefit costs and funding requirements experienced by the Company. However, the Company expects to recover substantially its entire net periodic pension and other post-retirement benefit costs attributed to employees in its Utility segment in accordance with the applicable regulatory commission authorization. For financial reporting purposes, the difference between the amounts of such costs as determined und
+er applicable accounting principles is recorded as either a regulatory asset or liability. 
+  CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS 
+  This report contains statements which, to the extent they are not recitations of historical facts, constitute "forward-looking statements" within the meaning of the Securities Litigation Reform Act of 1995 (Reform Act). In this respect, the words "estimate", "project", "anticipate", "expect", "intend", "believe" and similar expressions are intended to identify forward-looking statements. All such forward-looking statements are intended to be subject to the safe harbor protection provided by the Reform Act. A number of important factors affecting the Company's business and financial results could cause actual results to differ materially from those stated in the forward-looking statements. 
+    PAGE 15     
+    
+  ITEM 7A   QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ Interest Rate Risk 
+ The Company's exposure to interest rate risk arises from borrowing under short-term debt instruments. At September 30, 2006, these instruments consisted of a term loan and bank credit line borrowings outstanding of $6,550,000. The interest rate (prime less 1/2 point) on this loan and these lines was 8.25 percent during September 2006. 
+ ITEM 8 - FINANCIAL STATEMENTS  
+
+The following financial statements are filed with this Form 10-K: 
+ Reports of Rotenberg   Co. LLP, Independent Registered Public Accounting Firm 
+ Consolidated Financial Statements: 
+ Balance Sheets as September 30, 2006 and 2005 
+ Statements of Income for the years ended September 30, 2006, 2005 and 2004 
+ Statements of Stockholder's Equity for the years ended September 30, 2006, 2005 and 2004 
+ Statements of Cash Flows for the years ended September 30, 2006, 2005 and 2004 
+ Notes to Consolidated Financial Statements  
+
+ITEM 9 - CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+ As reported on Form 8-K/A, dated March 10, 2004, the Board of Directors voted on January 7, 2004 to terminate Deloitte   Touche LLP's appointment as independent accountants and Rotenberg   Company LLP was engaged on March 3, 2004 as independent accountants. No disagreements with accountants and financial disclosure exist. 
+    PAGE 16  
+    
+  ITEM 9A   CONTROLS AND PROCEDURES 
+ Evaluation of Disclosure Controls and Procedures  
+    
+ As of the end of the period covered by this Annual Report on Form 10-K, we carried out an evaluation under the supervision and with the participation of our Disclosure Committee and our management, including the Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures pursuant to Exchange Act Rules 13a-15(e) and 15d-15(e). Disclosure controls are procedures that are designed to ensure that information required to be disclosed in our reports filed under the Securities Exchange Act of 1934, or the Exchange Act, such as this Annual Report on Form 10-K, is recorded, processed, summarized and reported within the time periods specified by the SEC. Disclosure controls are also designed to ensure that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. Our quarterly evaluatio
+n of disclosure controls includes an evaluation of some components of our internal control over financial reporting. We also perform a separate annual evaluation of internal control over financial reporting for the purpose of providing the management report below.  
+    
+ The evaluation of our disclosure controls included a review of their objectives and design, the Company's implementation of the controls and the effect of the controls on the information generated for use in this Annual Report on Form 10-K. In the course of the controls evaluation, we reviewed data errors or control problems identified and sought to confirm that appropriate corrective actions, including process improvements, were being undertaken. This type of evaluation is performed on a quarterly basis so that the conclusions of management, including our Chief Executive Officer and Chief Financial Officer, concerning the effectiveness of the disclosure controls can be reported in our periodic reports on Form 10-Q and Form 10-K. Many of the components of our disclosure controls are also evaluated on an ongoing basis by both our internal audit and finance organizations. The overall goals of these various evaluation activities are to monitor our disclosure controls and to modify them as necessary. We inten
+d to maintain the disclosure controls as dynamic systems that we adjust as circumstances merit.  
+    PAGE 17     
+    
+  Based upon that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of the end of the period covered by this report.  
+ 
+ Management's Report on Internal Control over Financial Reporting  
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rules 13a-15(f) and 15d-15(f). Our internal control over financial reporting includes policies and procedures that provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external reporting purposes in accordance with U.S. generally accepted accounting principles.  
+    
+ Based on the results of our evaluation, our management concluded that our internal control over financial reporting was effective as of September 30, 2006. We reviewed the results of management's assessment with our Finance and Audit Committee.  
+    
+ Management's assessment of the effectiveness of our internal control over financial reporting as of September 30, 2006 has been audited by Rotenberg   Co. LLP, an independent registered public accounting firm, as stated in their report which is included in Part IV, Item 15 of this Annual Report on Form 10-K.  
+    PAGE 18  
+
+Changes in Internal Control over Financial Reporting  
+
+There were no changes in our internal control over financial reporting identified in connection with the evaluation required by paragraph (d) of Exchange Act Rules 13a-15 or 15d-15 that was conducted during the last fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.  
+
+Inherent Limitations on Effectiveness of Controls  
+
+The Company's management, including our Chief Executive Officer and Chief Financial Officer, do not expect that our disclosure controls or our internal control over financial reporting will prevent all errors and all fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of a simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons
+, by collusion of two or more people or by management override of the controls. The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions; over time, controls may become inadequate because of changes in conditions, or the degree of compliance with policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.  
+    PAGE 19  
+    
+  ITEM 9B   OTHER INFORMATION   
+ None  
+ Part III 
+ ITEM 10 - DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS 
+  The information required regarding the executive officers of the Registrant is included in Part 1 under "Additional Item". 
+ Code Of Ethics 
+ The Company has adopted a Code of Ethics applicable to all employees. The Code of Ethics will be posted shortly on the Company's website at http://www.corninggas.com. Any person may obtain, without charge, a copy of the Company's Code of Ethics.  The Code of Ethics will be furnished upon request made in writing to: 
+
+Richard Osborne               Chairman of the Board of Directors 
+                               Corning Natural Gas Corporation 
+                               330 W. William Street 
+                               P.O. Box 58 
+                               Corning, New York 14830 
+   
+    PAGE 20  
+    
+  ITEM 11 - EXECUTIVE COMPENSATION 
+  The information required regarding the compensation of the executive officers will be incorporated in the proxy to be filed in 2007. 
+ ITEM 12 - SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT 
+  The information required regarding the security ownership of certain beneficial owners and management appears in the Definitive Proxy Statement attached hereto. 
+ ITEM 13 - CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS 
+  The information required regarding certain relationships and related transactions appears in the Definitive Proxy Statement attached hereto. 
+ ITEM 14 - PRINCIPAL ACCOUNTANT FEES AND SERVICES   
+ The information required by this Item is incorporated herein by reference from the information provided under the heading "Ratification of Selection of Independent Registered Public Accounting Firm" of our Proxy Statement.  
+    PAGE 21  
+    
+  Exhibit Name of Exhibit   
+
+3  
+ 
+  A copy of the Corporations Articles of Incorporation,  
+
+As currently in effect, including all amendments, was  
+
+Filed with the Company's Form 10-KSB for December 31, 1987.  
+
+3  
+ 
+  A copy of the Corporations complete by-laws, as  
+
+Currently in effect, was filed with the Corporations  
+
+Report on Form 10-QSB for the quarter ended March 31, 1984.  
+
+10  
+ 
+  A copy of the "Agreement Between Corning Natural Gas  
+
+Corporation and Local 139", dated September 1, 1998  
+
+Was filed with Form 10-KSB for December 31, 1998.  
+
+10 *  
+ 
+  Consulting Agreement and Employment Contracts with  
+
+Three executive officers were filed with the Company's  
+
+Form 10-KSB for December 31, 1987.  
+
+10  
+ 
+  A copy of the Service Agreement with CNG  
+
+Transmission Corporation was filed with the Company's  
+
+Form 10-KSB for December 31, 1993.  
+
+10  
+ 
+  A copy of the Sales Agreement with Bath Electric, Gas  
+
+and Water was filed with the Company's Form 10-KSB for  
+
+December 31, 1989.  
+
+PAGE 22     
+
+10  
+ 
+  A copy of the Transportation Agreement between the  
+
+Company and New York State Electric and Gas Corporation  
+
+Was filed with the Company's Form 10-KSB for December 31, 1992.  
+
+10  
+ 
+  A copy of the Transportation Agreement between the  
+
+Company and Corning Incorporated was filed with the  
+
+Company's Form 10-KSB for December 31, 1992.  
+
+10  
+ 
+  A copy of the Service Agreement with Columbia Gas  
+
+Transmission Co. was filed with the Company's  
+
+10-KSB for December 31, 1993.  
+
+13  
+ 
+  A copy of the Corporations Annual Report to Shareholders for 2005, is filed herewith.  
+
+Shareholders for 2005, is filed herewith.  
+
+22  
+ 
+  Information regarding the Company's sole subsidiary was  
+
+Filed as Exhibit 22 with the Company's Form 10-KSB for  
+
+The period ended December 31, 1981.  
+
+28  
+ 
+  Corning Natural Gas Corporation Proxy Statement is filed herewith.  
+
+31.01  
+ 
+  Certification Pursuant to Section 302 of the Sarbanes-Oxley Act - Michael German  
+
+31.02  
+ 
+  Certification Pursuant to Section 302 of the Sarbanes-Oxley Act   Firouzeh Sarhangi  
+
+32.01  
+ 
+  Certification Pursuant to Section 906 of the Sarbanes-Oxley Act  
+
+99  
+ 
+  Order from the U.S. Bankruptcy Court, Northern District of New York  
+
+Re: Approval of Acquisition of Finger Lakes Gas Company was filed  
+
+With the Company's 10-KSB for the period ended December 31, 1995.  
+
+99  
+ 
+  Order from the Public Service Commission of New York State re:  
+
+Approval of Acquisition of Finger Lakes Gas Company was filed with  
+
+The Company's 10-KSB for the period ended December 31, 1995.  
+
+* Indicates management contract or compensatory plan or arrangement 
+    PAGE 23  
+    
+  SIGNATURES 
+  In accordance with the requirements of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+   
+  CORNING NATURAL GAS CORPORATION     (Registrant)  
+   
+ Date December 29, 2006  /s/ Michael German   
+
+Michael German, President, C.E.O. 
+
+In accordance with the Exchange Act, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+   
+ Date  December 29, 2006   /s/ Fi Sarhangi   
+
+Fi Sarhangi, Chief Financial Officer   Treasurer 
+
+Date December 29, 2006  /s/ Michael German   
+
+Michael German, President and C.E.O.    
+
+Date December 29, 2006  /s/ Thomas Smith   
+
+Thomas Smith, Chairman of the Audit Committee 
+
+PAGE 24   
+ 
+  Corning Natural Gas Corporation Certification under Section 906 of the Sarbanes/Oxley Act-filed as part of the 10-K for Year Ended September 30, 2006. 
+ Presented on signature page of 10-K 
+
+CERTIFICATION 
+   
+    Each of the undersigned hereby certifies in his capacity as an officer of Corning Natural Gas Corporation (the "Company") that the Annual Report of the Company on Form 10-K for the period ended September 30, 2006 fully complies with the requirements of Section 13(a) of the Securities Exchange Act of 1934 and that the information contained in such report fairly presents, in all material respects, the financial condition of the Company at the end of such period and the results of operations of the Company for such period. 
+ Dated: December 29, 2006  
+
+/s/ Michael German   
+
+Michael German, President   Chief Executive Officer 
+   
+    PAGE 25  
+
+I, Michael German, certify that:   
+
+1. I have reviewed this annual report on Form 10-K of Corning Natural Gas Corporation;  
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report;  
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the small business issuer as of, and for, the periods presented in this report;  
+ 4. The small business issuer's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f) for the small business issuer and have:  
+
+a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the small business issuer, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ c) Evaluated the effectiveness of the small business issuer's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ d) Disclosed in this report any change in the small business issuer's internal control over financial reporting that occurred during the small business issuer's most recent fiscal quarter (the small business issuer's fourth fiscal quarter in the case of an annual report) that has materially affected, or reasonably likely to materially affect, the small business issuer's internal control over financial reporting; and  
+
+5. The small business issuer's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the small business issuer's auditors and the audit committee of the small business issuer's board of directors (or persons performing the equivalent function):  
+
+a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the small business issuer's ability to record, process, summarize and report financial information; and  
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the small business issuer's internal control over financial reporting.  
+
+Date: December 29, 2006 
+ /s/ Michael German   
+
+Michael German, President and Chief Executive Officer    
+
+PAGE 26  
+
+I, Fi Sarhangi, certify that: 
+ 1. I have reviewed this annual report on Form 10-K of Corning Natural Gas Corporation;  
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report;  
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the small business issuer as of, and for, the periods presented in this report;  
+ 4. The small business issuer's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f) for the small business issuer and have:  
+
+a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the small business issuer, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ c) Evaluated the effectiveness of the small business issuer's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ d) Disclosed in this report any change in the small business issuer's internal control over financial reporting that occurred during the small business issuer's most recent fiscal quarter (the small business issuer's fourth fiscal quarter in the case of an annual report) that has materially affected, or reasonably likely to materially affect, the small business issuer's internal control over financial reporting; and  
+
+5. The small business issuer's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the small business issuer's auditors and the audit committee of the small business issuer's board of directors (or persons performing the equivalent function):  
+
+a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the small business issuer's ability to record, process, summarize and report financial information; and  
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the small business issuer's internal control over financial reporting.  
+
+Date: December 29, 2006  
+ /s/ Fi Sarhangi   
+
+Fi Sarhangi, Chief Financial Officer   Treasurer    
+
+PAGE 27  
+
+CORNING NATURAL GAS CORPORATION AND SUBSIDIARY Notes to Consolidated Financial Statements For the Years Ended September 30, 2006, 2005 and 2004  
+   (1) Summary of Significant Accounting Policies   
+
+Corning Natural Gas Corporation (the Company) is a gas distribution company providing gas on a commodity and transportation basis to its customers in the Southern Tier of New York State. The Company follows the Uniform System of Accounts prescribed by the Public Service Commission of the State of New York (PSC) which has jurisdiction over and sets rates for New York State gas distribution companies. The Company's regulated operations meet the criteria and accordingly, follow the accounting and reporting of Statement of Financial Accounting Standards No. 71 (SFAS No. 71)  Accounting for the Effects of Certain Types of Regulation.  The Company's consolidated financial statements contain the use of estimates and assumptions for reporting certain assets, liabilities, revenue and expenses and actual results could differ from the estimates. The more significant accounting policies of the Company are summarized below.  
+  a) Principles of Consolidation and Presentation  
+  The consolidated financial statements include the Company and its wholly owned subsidiary, the Corning Natural Gas Appliance Corporation. The Corning Natural Gas Appliance Corporation owns two businesses, which were sold in August 2006, which have been established as New York State limited liability subsidiary corporations, as follows: Corning Realty Associates, LLC and Corning Mortgage, LLC. Hereinafter the Appliance Corporation and its limited liability subsidiary corporations are collectively referred to as "Appliance Corporation". All significant inter-company accounts and transactions have been eliminated in consolidation. The results of the Appliance Corporation are reported separately as unregulated operations in the consolidated statements of income. Shared expenses are allocated to the Appliance Corporation. 
+ It is the Company's policy to reclassify amounts in the prior year financial statements to conform with the current year presentation.  
+  (b) Cash and Cash Equivalents  
+  Cash and cash equivalents include time deposits, certificates of deposit, and all highly liquid debt instruments with original maturities of three months or less. Cash and cash equivalents at financial institutions which periodically may exceed federally insured limits.  
+  (c) Accounts Receivable  
+  Accounts receivable are stated net of an allowance for doubtful accounts. The Company estimates the allowance based on its analysis of specific balances, taking into consideration the age of past due accounts.  
+  (d) Debt issuance Costs  
+  Costs associated with the issuance of debt by the Company are deferred and amortized over the lives of the related debt.  
+  (e) Property, Plant and Equipment  
+  Utility plant is stated at the historical cost of construction. Those costs include payroll, fringe benefits, materials and supplies and transportation costs. The Company charges normal repairs to maintenance expense.  
+  (f) Depreciation  
+  The Company provides for depreciation for accounting purposes using a straight-line method based on the estimated economic lives of property, which ranges from 3 to 55 years for all assets except utility plant. The depreciation rate used for utility plant, expressed as an annual percentage of depreciable property was 2.3% in 2006, 2.3% in 2005 and 2.5% in 2004. At the time utility properties are retired, the original cost plus costs of removal less salvage, are charged to accumulated depreciation.  
+
+(g) Revenue and Natural Gas Purchased 
+  The Company records revenues from residential and commercial customers based on meters read on a cycle basis throughout each month, while certain large industrial and utility customers' meters are read at the end of each month. The Company does not accrue revenue for gas delivered but not yet billed, as the New York PSC requires that such accounting must be adopted during a rate proceeding, which the Company has not done. Pursuant to the most recent rate order, capacity assignment revenue is recorded at a rate of 15% of the amount received from released capacity and is recognized upon notification of capacity release from the pipeline company while the remaining 85% is returned to customers through reduced gas cost. The Company operates a weather normalization clause as protection against severe weather fluctuations. This affects space heating customers and is activated when degree days are 2.2% greater or less than a 30 year average. As a result, the effect on revenue fluctuations in weather related 
+gas sales is somewhat moderated. 
+ Gas purchases are recorded on readings of suppliers' meters as of the end of the month. The Company's rate tariffs include a Gas Adjustment Clause (GAC) which adjusts rates to reflect changes in gas costs from levels established in the rate setting process. In order to match such costs and revenue, the PSC has provided for an annual reconciliation of recoverable GAC costs with applicable revenue billed. Any excess or deficiency in GAC revenue billed is deferred and the balance at the reconciliation date is either refunded to or recovered from customers over a subsequent 12-month period. 
+ Real estate commissions are recognized at closing while professional services revenues are recognized as services are performed.  
+  (h) Marketable Securities  
+  Marketable securities, which are intended to fund the Company's deferred compensation plan, are classified as available for sale. Such securities are reported at fair value based on quoted market prices, with unrealized gains and losses, net of the related income tax effect, excluded from income, and reported as a component of accumulated other comprehensive income in stockholders' equity until realized. The cost of securities sold was determined using the specific identification method. For all investments in the unrealized loss portion, none have been in an unrealized loss position for more than 12 months. None are other than temporary impairments based on management's analysis of available market research. In 2006, 2005 and 2004 we sold equity securities for gains of $246,200, $89,900 and $121,600 respectively. 
+ A summary of the marketable securities at September 30, 2006, 2005 and 2004 is as follows:   
+
+(i ) Investment in Joint Venture   
+
+The non utility operations were sold in fiscal year ending September 2006 and the results are included in Discontinued Operation section.  
+
+(j) Inventories   
+
+Inventories are stated at the lower of cost or market, cost being determined on a first-in, first-out basis.   
+
+(k) Federal Income Tax   
+
+The Company uses the asset and liability method to establish deferred tax assets and liabilities for the temporary differences between the financial reporting basis and the tax basis of the Company's assets and liabilities at enacted tax rates expected to be in effect when such amounts are realized or settled. In addition, such deferred tax assets and liabilities will be adjusted for the effects of enacted changes in tax laws and rates.   
+
+(l) Dividends  
+  Dividends are accrued when declared by the Board of Directors. A stock dividend of 5% was paid in fiscal 2004.  
+
+Under the most restrictive long-term debt covenants, the Company may not declare or pay annual dividends except to the extent that consolidated net worth exceeds $2,000,000.   
+
+(m) Goodwill   
+
+Goodwill represents the excess of purchase price over the fair value of the identified net assets of acquired businesses and primarily applies to Corning Realty. Goodwill in excess of associated expected operating cash flows is considered to be impaired and is written down to fair value, which is determined based on undiscounted future cash flows.  
+  (n) Accounting for Impairment  
+  Statement of Financial Accounting Standards No. 144 ("SFAS No. 144"),  Accounting for the Impairment or Disposal of Long-Lived Assets  establishes accounting standards to account for the impairment of long-lived assets, and certain identifiable intangibles. Under SFAS No. 144 the Company reviews assets for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. SFAS No. 144 also requires that a rate regulated enterprise recognize an impairment when regulatory assets are no longer probable of recovery. No impairment losses were incurred for the years ended September 30, 2006, 2005, and 2004.   
+
+(o) Comprehensive Income   
+
+Statement of Financial Accounting Standards No. 130 ("SFAS No. 130"),  Reporting Comprehensive Income  establishes standards for reporting and presentation of comprehensive income and its components in a full set of financial statements. Under SFAS No. 130, the Company's comprehensive income consists of net income, net unrealized gains (losses) on securities and minimum pension liability and is presented in the consolidated statements of stockholders' equity.   
+
+(p) New Accounting Pronouncements  
+
+In March 2005, The FASB issued FIN 47, an interpretation of SFAS 143. FIN 47 provides clarification of the term "conditional asset retirement obligation" as used in SFAS 143, defined as a legal obligation to perform an asset retirement activity in which the timing and/or method of settlement are conditional on a future event that may or may not be within the control of the Company. Under this standard, a company must record a liability for a conditional asset retirement obligation if the fair value of the obligation can be reasonably estimated. FIN 47 becomes effective no later than the end of 2006. FIN 47, will not have an effect on the Company's consolidated financial statements. 
+ In May 2005, the FASB issued SFAS 154. SFAS 154 replaces APB 20 and SFAS 3 and changes the requirements for the accounting for and reporting of a chance in accounting principle. The Company is required to adopt SFAS 154 for accounting changes and corrections of errors that occur in 2007. The Company's financial condition and results of operations will only be impacted by FSAS 154 if there are any accounting changes or corrections or errors in the future. 
+  (q) Revenue Taxes 
+  The Company collects state revenue taxes on a gross basis. The amount included in Utility Operating Revenue and Taxes other than Federal Income Taxes was $128,463, $286,801 and $378,993 in 2006, 2005, and 2004 respectively.  
+
+(2) Information About Operating Segments   
+
+The Company's reportable segments have been determined based upon the nature of the products and services offered, customer base, availability of discrete internal financial information, homogeneity of products, delivery channel and other factors.  
+ The Corning Natural Gas Corporation (the Gas Company) is a gas distribution company providing gas on a commodity and transportation basis to its customers in the Southern Tier of New York State. The Appliance Corporation, Foodmart Plaza, Tax Center, Corning Realty and Corning Mortgage have discontinued operations as discussed in Note 10. Corning Realty was a residential and commercial real estate business with approximately 70 agents operating in three neighboring counties. Corning Mortgage was a mortgage service company working closely with the realty relationship.  
+ The following table reflects the results of the segments consistent with the Company's internal financial reporting process. The following results are used in part, by management, both in evaluating the performance of, and in allocating resources to, each of the segments.   
+
+(1) Before elimination of intercompany interest .  
+  (2) The Appliance Co. discontinued operations in September 2003. 
+ (3) Tax Center International discontinued operations in October 2004. 
+ (4) Foodmart discontinued operations in July 2004. 
+ (5) Corning Realty and Corning Mortgage discontinued operations in August 2006.  
+
+Interest income and expense have been displayed in the segment in which it has been earned or incurred. Segment interest expense other than the Gas Company is included within unregulated expenses in the consolidated statements of income.   
+
+(3) Major Customers   
+
+The Company has three major customers, Corning Incorporated, New York State Electric   Gas (NYSEG) and Bath Electric Gas   Water Systems (BEGWS). The loss of any of these customers could have a significant impact on the Company's financial results. Total revenue and deliveries to these customers were as follows:   
+
+(4) Regulatory Matters  
+  Certain costs are deferred and recognized as expenses when they are reflected in rates and recovered from customers as permitted by SFAS No. 71. These costs are shown as deferred debits and other assets. Such costs arise from the traditional cost-of-service rate setting approach whereby all prudently incurred costs are generally recoverable through rates. Deferral of these costs is appropriate while the Company's rates are regulated under a cost-of-service approach.  
+ In a purely competitive environment, such costs might not have been incurred or deferred. Accordingly, if the Company's rate setting were changed from a cost-of-service approach and it was no longer allowed to defer these costs under SFAS No. 71, certain of these assets may not be fully recoverable. However, the Company cannot predict the impact, if any, of competition and continues to operate in a cost-of-service based regulatory environment. Accordingly, the Company believes that accounting under SFAS No. 71 is still appropriate.  
+ Below is a summarization of the Company's regulatory assets as of September 30, 2006, 2005 and 2004:   
+
+Unrecovered gas costs  : These costs are recoverable over future years and arise from an annual reconciliation of certain gas revenue and costs (as described in Note 1).  
+ The Company expects that regulatory assets other than deferred unrecovered gas costs will be fully recoverable from customers by the end of its next rate case. 
+ Although the Company recovers the cost of its regulatory assets, it does not earn a return on them.  
+  (5) Long-term Debt  
+   The fair market value of the Company's long-term debt is estimated based on quoted market prices of similar issues having the same remaining maturities, redemption terms and credit ratings. Notes payable to banks are stated at cost, which approximates their value due to the short-term maturities of those financial instruments. Based on these criteria, the fair market value of long-term debt, including current portion, was as follows at September 30, 2006, 2005 and 2004:   
+
+The aggregate maturities of long-term debt for each of the five years subsequent to September 30, 2005 are as follows:   
+
+(6) Lines of Credit 
+  The Company has consolidated lines of credit with local banks to borrow up to $6,600,000 on a short-term basis. Borrowings outstanding under these lines were $6,550,000, $6,600,000 and $6,325,000 at September 30, 2006, 2005 and 2004, respectively. The maximum amount outstanding during the year ended September 30, 2006, 2005 and 2004 was $6,600,000, $6,600,000 and $7,200,000 respectively. The lines of credit are unsecured and payable on demand with interest at rates which range from the prime rate (8.25% on September 30, 2006) to the prime rate less 3/4%. As security for the Company's line of credit, collateral assignments have been executed which assign to the lender various rights in the investment trust account, membership interest in Corning Realty Associates, LLC and proceeds from the note agreement. In addition, the lender has a purchase money interest in and to all natural gas purchases by debtor utilizing funds advanced by the bank under the line-of-credit agreement and all proceeds of sale the
+reof and accounts receivable pertaining to such sale. The weighted average interest rates on outstanding borrowings during fiscal 2006, 2005 and 2004 were 6.49%, 4.92% and 3.35% respectively.  
+    
+ (7) Income Taxes  
+  Income tax expense (benefit) for the years ended September 30 is as follows:   
+
+Actual income tax expense differs from the expected tax expense (computed by applying the federal corporate tax rate of 34% to income before income tax expense) as follows:   
+
+The tax effects of temporary differences that result in deferred income tax assets and liabilities at September 30 are as follows:   
+
+(8) Pension and Other Post-retirement Benefit Plans   
+
+In 1997, the Company established a trust to fund a deferred compensation plan for certain officers. The fair market value of assets in the trust was $2,662,009, $2,440,237 and $2,058,709 at September 30, 2006, 2005 and 2004, respectively, and the plan liability, which is labeled as deferred compensation on the balance sheet, was $2,126,218, $1,910,686 and $1,678,486 at September 30, 2006, 2005 and 2004, respectively. The assets of the trust are available to general creditors in the event of insolvency.  
+ The Company has defined benefit pension plans covering substantially all of its employees. The benefits are based on years of service and the employee's highest average compensation during a specified period. The Company makes annual contributions to the plans equal to amounts determined in accordance with the funding requirements of the Employee Retirement Security Act of 1974. Contributions are intended to provide for benefits attributed for service to date, and those expected to be earned in the future.  
+ In addition to the Company's defined benefit pension plans, the Company offers post-retirement benefits comprised of medical and life coverages to its employees who meet certain age and service criteria. Currently, the retirees under age 65 pay 60% of their health care premium until Medicare benefits commence at age 65. After age 65, Medicare supplemental coverage is offered with Company payment of the premium. For union participants who retire on or after September 2, 1992, the Company cost, as stated above, shall not exceed $150 per month. The monthly benefit for all non-union employees, regardless of retirement date, shall not exceed $150. In addition, the Company offers limited life insurance coverage to active employees and retirees. The post-retirement benefit plan is not funded. The Company accrues the cost of providing post-retirement benefits during the active service period of the employee.   
+
+For measurement purposes, a 12% annual rate of increase in the per capita cost of covered benefits (health care cost trend rate) was assumed for 2005. The rate is assumed to decrease gradually to 5% by the year 2011 and remain at that level thereafter. A 1% increase in the actual health care cost trend would result in approximately a 4.1% increase in the service and interest cost components of the annual net periodic post-retirement benefit cost and a 4.1% increase in the accumulated post-retirement benefit obligation. A 1% decrease in the actual health care cost trend would result in approximately a 3.6% decrease in the service and interest cost components of the annual net periodic post-retirement benefit cost and a 3.6% decrease in the accumulated post-retirement benefit obligation.  
+
+The expected returns on plan assets of the Retirement Plan and Post-Retirement Plan are applied to the market-related value of plan assets of the respective plans. For the Retirement Plan, the market-related value of assets recognizes the performance of its portfolio over five years and reduces the effects of short-term market fluctuations. The market-related value of Post-Retirement Plan assets is set equal to market value. 
+ For ratemaking and financial statement purposes, pension expense represents the amount approved by the PSC in the Company's most recently approved rate case. Pension expense (benefit) for ratemaking and financial statement purposes was approximately $368,542, $365,742 and $359,218 for the years ended September 30, 2006, 2005 and 2004 respectively. The difference between the pension expense (benefit) for ratemaking and financial statement purposes, and the amount computed above has been deferred and is not included in the prepaid pension cost noted above. Such balances equal $2,143,324, $1,573,641 and $1,305,575 as of September 30, 2006, 2005 and 2004 respectively.  
+ The PSC has allowed the Company to recover incremental cost associated with post-retirement benefits through rates on a current basis. Due to the timing differences between the Company's rate case filings and financial reporting period, a regulatory receivable (liability) of ($45,977), ($44,955) and ($38,102) has been recognized at September 30, 2006, 2005 and 2004 respectively.  
+ The Company also maintains the Corning Natural Gas Corporation Employee Savings Plan (the "Savings Plan"). All non-union employees of the Company who work for more than 1,000 hours per year and who have completed one year of service may enroll in the Savings Plan at the beginning of each calendar quarter. Under the Savings Plan, participants may contribute up to 50% of their wages. For non-union employees, the Company will match one-half of the participant's contribution up to a total of 3% of the participant's wages. The Company contribution to the plan was $42,850 in 2006, $35,337 in 2005 and $37,184 in 2004.  
+
+(9) Commitments   
+
+The Company is a local distribution company and has contracted for gas supply portfolio from various sources to provide the commodity to the city gates. The Company maintains storage capacity of approximately 586,000 Dth. The Company has a contract with Virginia Power Energy Marketing (VPEM) to manage our capacity and storage assets. The contract is in place from April 2006 through March 2007 with some fixed price contracts for gas with Virginia Power Energy Marketing, Inc. that extend into the fall of 2007.  
+ The Company has secured the required fixed price and storage gas supply for the winter season and is managing our forecasting process to assure that we follow our gas supply and acquisition plan. Assuming no extraordinary conditions for the winter season, gas supply, flowing and storage will be adequate to serve our, approximately 14,500 customers. 
+
+(10) Discontinued Operations   
+
+Corning Natural Gas Appliance Corporation in August 2006, executed an Asset Purchase Agreement to transfer ownership of the Prudential Ambrose   Shoemaker Real Estate Company to Better Living, Inc. The real estate company will continue to be operated by the new owner as Prudential Ambrose   Shoemaker Real Estate and as a Prudential franchise.  
+ The sale of the real estate company resulted in all of the assets, furniture, fixtures, receivables and pending contracts being transferred to the new owner. The sale price for the real estate company was $825,000 cash. Other potential purchasers had tied the sale price to potential future earnings of the company as well as a requirement that the Appliance Corporation carry a note for a portion of the purchase price. 
+ During the negotiations for the sale of the real estate company, the successful buyer expressed no interest in ownership of the Corning Mortgage Company, which was a mortgage banking company owned by the Appliance Corporation as a subsidiary. Since the mortgage company was not currently conducting any business and existed as a name only, it was determined to have no value in the sale and was excluded from the transaction, to be dissolved as a company. 
+ In October 2004, the Company discontinued operations of Tax Center International. The Company was unsuccessful in locating a buyer in the limited marketplace, and remaining assets will be transferred to the parent company.  
+ On July 8, 2004 the Company sold the assets of Foodmart Plaza LLC. Proceeds from the sale of $1.3 million were used to pay expenses and pay off the mortgage. A pre-tax gain of $133,020 was recognized on the sale of the assets.  
+ The assets of the Appliance Corporation were sold in mid-September 2003 to a small group of primarily local investors. The assets, which consisted primarily of rented appliances in service, inventory, displays, equipment and vehicles, were sold for $1,992,400 including the $240,000 discussed below. The Company received $1,152,400 in cash and loaned the new company $600,000 with interest at the rate of 6.25% which will be amortized and paid within five years. The remaining $240,000 will be paid in $80,000 increments at the conclusion of each of three years if the newly formed company attains specific revenue levels during each of those three periods. The Company experienced a pre-tax profit of $364,740 on the sale of this business of which $124,740 was earned during fiscal 2003 and $80,000 was earned in 2004. An additional $80,000 will be earned in each of the years 2005 and 2006 if revenue levels meet expectations.  
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+    Board of Directors Corning Natural Gas Corporation and Subsidiary Corning, New York  
+ We have audited the accompanying consolidated balance sheets of Corning Natural Gas Corporation and Subsidiary as of September 30, 2006 and 2005, and the related consolidated statements of income, stockholders' equity, and cash flows for each of the three years in the period ended September 30, 2006. These consolidated financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on these consolidated financial statements based on our audits.  
+ We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the consolidated financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for our opinion.  
+ In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the consolidated financial position of Corning Natural Gas Corporation and Subsidiary as of September 30, 2006 and 2005, and the results of their consolidated operations and their consolidated cash flows for each of the three years in the period ended September 30, 2006, in conformity with accounting principles generally accepted in the United States of America.   
+
+Rotenberg   Co., LLP Rochester, New York December 22, 2006 
+
+Common Stock Data-Market Price (OTC)   
+
+NOTE: A stock dividend in the amount of 5% was paid during the 1 st  quarter of fiscal 2004.   
+
+<EX-31>
+ 2
+ cngex3102.htm
+ CERTIFICATION PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+CERTIFICATION PURSUANT TO 
+
+I, Fi Sarhangi, certify that: 
+  
+1. I have reviewed this annual report on Form 10-K of Corning Natural Gas Corporation;  
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report;  
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the small business issuer as of, and for, the periods presented in this report;  
+ 4. The small business issuer s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f) for the small business issuer and have: 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the small business issuer, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ c) Evaluated the effectiveness of the small business issuer s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ d) Disclosed in this report any change in the small business issuer s internal control over financial reporting that occurred during the small business issuer s most recent fiscal quarter (the small business issuer s fourth fiscal quarter in the case of an annual report) that has materially affected, or reasonably likely to materially affect, the small business issuer s internal control over financial reporting; and  
+
+5. The small business issuer s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the small business issuer s auditors and the audit committee of the small business issuer s board of directors (or persons performing the equivalent function):  
+
+a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the small business issuer s ability to record, process, summarize and report financial information; and  
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the small business issuer s internal control over financial reporting.  
+
+Date: December 29, 2006  
+ /s/ Fi Sarhangi   
+
+Fi Sarhangi, Chief Financial Officer   Treasurer    
+
+</EX-31>
+
+<EX-31>
+ 3
+ cngex3101.htm
+ CERTIFICATION PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+CERTIFICATION PURSUANT TO 
+
+I, Michael German, certify that:   
+
+1. I have reviewed this annual report on Form 10-K of Corning Natural Gas Corporation;  
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report;  
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the small business issuer as of, and for, the periods presented in this report;  
+ 4. The small business issuer s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f) for the small business issuer and have:  
+
+a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the small business issuer, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ c) Evaluated the effectiveness of the small business issuer s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ d) Disclosed in this report any change in the small business issuer s internal control over financial reporting that occurred during the small business issuer s most recent fiscal quarter (the small business issuer s fourth fiscal quarter in the case of an annual report) that has materially affected, or reasonably likely to materially affect, the small business issuer s internal control over financial reporting; and  
+
+5. The small business issuer s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the small business issuer s auditors and the audit committee of the small business issuer s board of directors (or persons performing the equivalent function):  
+
+a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the small business issuer s ability to record, process, summarize and report financial information; and  
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the small business issuer s internal control over financial reporting.  
+
+Date: December 29, 2006 
+ /s/ Michael German   
+
+Michael German, President and Chief Executive Officer    
+
+</EX-31>
+
+<EX-32>
+ 4
+ cngex3201.htm
+ CERTIFICATION UNDER SECTION 906 OF THE SARBANES/OXLEY ACT
+
+Corning Natural Gas Corporation Certification under Section 906 of the Sarbanes/Oxley Act-filed as part of the 10-K for Year Ended September 30, 2006. 
+ Presented on signature page of 10-K 
+
+CERTIFICATION 
+   
+    Each of the undersigned hereby certifies in his capacity as an officer of Corning Natural Gas Corporation (the "Company") that the Annual Report of the Company on Form 10-K for the period ended September 30, 2006 fully complies with the requirements of Section 13(a) of the Securities Exchange Act of 1934 and that the information contained in such report fairly presents, in all material respects, the financial condition of the Company at the end of such period and the results of operations of the Company for such period. 
+
+ Dated:  December 29, 2006 
+
+/s/ Michael German                                         
+
+Michael German, President   Chief Executive Officer 
+
+/s/ FI SARHANGI                                                                                   
+
+Fi Sarhangi, Chief Financial Officer   Treasurer 
+
+</EX-32>
+
